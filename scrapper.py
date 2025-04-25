@@ -633,7 +633,7 @@ def extract_talents_with_selenium(driver, operator_name):
             file_path = os.path.join(output_dir, f"{operator_name}.json")
             
             if os.path.exists(file_path):
-                with open(file_path, "r", encoding="utf-8") as json_file:
+                with open(file_file, "r", encoding="utf-8") as json_file:
                     operator_data = json.load(json_file)
             else:
                 operator_data = {}
@@ -705,25 +705,41 @@ if __name__ == "__main__":
             
         print(f"\nTotal 6-star operators found: {len(operator_names)}")
         
-        # Process operators with the central driver
-        if operator_names:
-            # For testing, only process the first operator
+        # Give the user choices for processing
+        print("\nChoose an option:")
+        print("1. Process a specific operator (by name)")
+        print("2. Process all operators")
+        print("3. Process only the first operator (for testing)")
+        
+        choice = input("Enter your choice (1-3): ").strip()
+        
+        if choice == '1':
+            # Process specific operator
+            specific_name = input("Enter the operator name: ").strip()
+            if specific_name in operator_names:
+                process_operator(driver, specific_name)
+            else:
+                print(f"Operator '{specific_name}' not found in the list of 6-star operators.")
+                similar_names = [name for name in operator_names if specific_name.lower() in name.lower()]
+                if similar_names:
+                    print("Did you mean one of these?")
+                    for name in similar_names:
+                        print(f"- {name}")
+                    confirmation = input(f"Process {similar_names[0]}? (y/n): ").strip().lower()
+                    if confirmation == 'y':
+                        process_operator(driver, similar_names[0])
+        elif choice == '2':
+            # Process all operators
+            for operator_name in operator_names:
+                try:
+                    process_operator(driver, operator_name)
+                except Exception as e:
+                    print(f"Error processing {operator_name}: {e}")
+                    continue
+        else:
+            # Default: process first operator (for testing)
             test_operator = operator_names[0]
-            print(f"\nProcessing operator: {test_operator}")
-            
-            try:
-                # Extract data using the central driver
-                operator_info(driver, test_operator)
-                extract_and_write_stats_with_selenium(driver, test_operator)
-                extract_potential_with_selenium(driver, test_operator)
-                extract_promotion_with_selenium(driver, test_operator)
-                extract_skills_with_selenium(driver, test_operator)
-                extract_skill_upgrade_costs(driver, test_operator)
-                extract_talents_with_selenium(driver, test_operator)
-                
-                print(f"Completed processing {test_operator}")
-            except Exception as e:
-                print(f"Error processing {test_operator}: {e}")
+            process_operator(driver, test_operator)
     
     except Exception as e:
         print(f"Error initializing WebDriver: {e}")
@@ -731,4 +747,25 @@ if __name__ == "__main__":
     finally:
         if driver:
             driver.quit()
+
+
+def process_operator(driver, operator_name):
+    """Process a single operator with all extraction functions"""
+    print(f"\nProcessing operator: {operator_name}")
+    
+    try:
+        # Extract data using the central driver
+        operator_info(driver, operator_name)
+        extract_and_write_stats_with_selenium(driver, operator_name)
+        extract_potential_with_selenium(driver, operator_name)
+        extract_promotion_with_selenium(driver, operator_name)
+        extract_skills_with_selenium(driver, operator_name)
+        extract_skill_upgrade_costs(driver, operator_name)
+        extract_talents_with_selenium(driver, operator_name)
+        
+        print(f"Completed processing {operator_name}")
+        return True
+    except Exception as e:
+        print(f"Error processing {operator_name}: {e}")
+        return False
 
