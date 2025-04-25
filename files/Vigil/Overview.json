@@ -1,0 +1,37 @@
+{
+  "name": "Vigil",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Classified as a ranged Operator with similar ATK, range, and attack interval to Marksman Snipers",
+    "Can deploy a Wolfpack as a reinforcement on the Tactical Point (a melee tile within attack range), which does not consume DP and are not counted towards the Unit Limit",
+    "The Wolfpack has up to three Wolf Shadows which increases its block count and attacks' hits, which is expended when the Wolfpack's HP is depleted to fully restore its HP",
+    "Vigil gains increased attack when attacking enemies being blocked by the Wolfpack",
+    "the Wolfpack's damage output and multi-life passive can allow it to lanehold against weaker enemies for long periods of time without needing a healer",
+    "Wolfpack can take singular powerful hits, or stall enemies that use said attacks",
+    "Packleader's Call is his best skill for survivablity and DP generation",
+    "Packleader's Call does not require manual activation, allowing for an easy hands off laneholder and DP generator",
+    "Packleader's Gift can constantly generate DP and keep the Wolfpack alive as long as there are constant targets for them to hit",
+    "Packleader's Dignity significantly improves DPS(provided that the wolf is blocking the target",
+    "Packleader's Dignity's multi-hit nature makes it very good with supports",
+    "Wolven Nature causes Vigil and the Wolfpack to ignore some DEF when attacking enemies blocked by the Wolfpack",
+    "Welfare Operator; accessible and Potential can be easily maxed out"
+  ],
+  "cons": [
+    "Can only be obtained during Il Siracusano, but players who missed the event will have the opportunity to obtain Vigil at the rerun and through Record Restoration",
+    "His Potential can be only improved through the Folder mechanic, which is available only within the duration of the Il Siracusano event, rerun and Record Restoration; as such, Class Tokens cannot be used on him",
+    "The Wolfpack can neither attack nor block enemies when reviving itself should its Wolf Shadow is fully depleted (though it is invulnerable in this state) and will disappear if Vigil is KO'd or retreated",
+    "The Wolfpack has low stats on its own and its strength is dependent on the number of Wolf Shadows it has",
+    "Wolfpacks only have a single tile of range(unlike other Tactician summons), decreasing damage output and survivability",
+    "The Wolfpack needs a significantly longer time to reach full form than other Tactician Summons",
+    "Gaining extra block with stats will decrease The Wolfpack's survivability if enemies are not quickly dealt with",
+    "Packleader's Call does not provide damage output(outside of increasing Wolfpack Stats)",
+    "Packleader's Gift will not generate DP if there are no enemies to hit",
+    "Packleader's Dignity requires the Wolfpack to block for maximum damage",
+    "Packleader's Dignity also generates less DP than other Vanguard skills of similar nature",
+    "Packleader's Call and Packleader's Dignity both have low Initial DP, making it harder for him to generate DP quickly",
+    "Vigil will not prioritize enemies being blocked by the Wolfpack, decreasing both damage output and the Wolfpack's Survivability",
+    "Costs more than an average Vanguard with inferior DP generation than other Tacticians"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Vigil/Overview"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Stainless' overview",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Higher stats than other Supporters, around the same level as Pioneer Vanguards",
+    "Can deploy Stainless' Multifunctional Platforms or Prototype of Feist's Metal Crabs depending on the skill used",
+    "All three skills improve Stainless' DPS and gives additional Devices to use",
+    "Extreme Firepower allows the use of Stainless' Multifunctional Platforms that buffs ATK especially while active",
+    "Efficient Resupply allows the use of Stainless' Multifunctional Platforms that periodically gives SP especially while active",
+    "Prototype of Feist's Metal Crab allows the use of the namesake that can fire a powerful AoE shot once \"charged up\" by having friendly units attack it",
+    "Operators with Offensive SP recovery can attack the Prototype of Feist's Metal Crab to help charge their SP",
+    "Cost Cutting gives a chance to recover destroyed Devices around Stainless"
+  ],
+  "cons": [
+    "Classified as a melee Operator and attacks deal Physical damage",
+    "Only one/two Device(s) can be deployed at a time and they will disappear if Stainless is KO'd or retreated",
+    "All Stainless' Multifunctional Platforms will be destroyed when Extreme Firepower expires",
+    "Stainless' Multifunctional Platforms with Efficient Resupply loses HP over time especially when the skill is active",
+    "Prototypes of Feist's Metal Crab loses HP whenever it uses its AoE attack, but can be \"repaired\" by having Artificer Supporters (including Stainless himself) attack it"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Stainless/Overview"
+}

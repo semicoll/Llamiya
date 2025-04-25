@@ -1,0 +1,503 @@
+{
+    "info": {
+        "title": "Horn",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/3/37/Horn_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20220414044020",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/b/be/Horn_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20230406054630"
+        }
+    },
+    "skills": [
+        {
+            "name": "Flare Grenade",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "The next attack deals 160% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 5 seconds, disabling enemy Invisibility\nCan store 1 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "The next attack deals 170% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 5 seconds, disabling enemy Invisibility\nCan store 1 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "The next attack deals 180% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 5 seconds, disabling enemy Invisibility\nCan store 1 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "The next attack deals 190% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 6 seconds, disabling enemy Invisibility\nCan store 1 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "The next attack deals 200% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 6 seconds, disabling enemy Invisibility\nCan store 1 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "The next attack deals 210% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 6 seconds, disabling enemy Invisibility\nCan store 1 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "The next attack deals 220% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 7 seconds, disabling enemy Invisibility\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "The next attack deals 240% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 7 seconds, disabling enemy Invisibility\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "The next attack deals 260% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 7 seconds, disabling enemy Invisibility\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "The next attack deals 280% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 8 seconds, disabling enemy Invisibility\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Tempest Command",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "Toggleable"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Each attack deals 130% ATK as Physical splash damage\nOverload: Each attack deals 30% ATK as extra splash Arts damage. If cancelled manually, fire all remaning bullets, and lose 60% of Max HP\nSkill has 10 ammo and can be manually deactivated",
+                    "initial_sp": "10",
+                    "sp_cost": "35",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Each attack deals 140% ATK as Physical splash damage\nOverload: Each attack deals 30% ATK as extra splash Arts damage. If cancelled manually, fire all remaning bullets, and lose 60% of Max HP\nSkill has 10 ammo and can be manually deactivated",
+                    "initial_sp": "10",
+                    "sp_cost": "35",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Each attack deals 150% ATK as Physical splash damage\nOverload: Each attack deals 30% ATK as extra splash Arts damage. If cancelled manually, fire all remaning bullets, and lose 60% of Max HP\nSkill has 10 ammo and can be manually deactivated",
+                    "initial_sp": "10",
+                    "sp_cost": "35",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Each attack deals 160% ATK as Physical splash damage\nOverload: Each attack deals 35% ATK as extra splash Arts damage. If cancelled manually, fire all remaning bullets, and lose 60% of Max HP\nSkill has 10 ammo and can be manually deactivated",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Each attack deals 170% ATK as Physical splash damage\nOverload: Each attack deals 35% ATK as extra splash Arts damage. If cancelled manually, fire all remaning bullets, and lose 60% of Max HP\nSkill has 10 ammo and can be manually deactivated",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Each attack deals 180% ATK as Physical splash damage\nOverload: Each attack deals 35% ATK as extra splash Arts damage. If cancelled manually, fire all remaning bullets, and lose 60% of Max HP\nSkill has 10 ammo and can be manually deactivated",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Each attack deals 190% ATK as Physical splash damage\nOverload: Each attack deals 40% ATK as extra splash Arts damage. If cancelled manually, fire all remaning bullets, and lose 60% of Max HP\nSkill has 10 ammo and can be manually deactivated",
+                    "initial_sp": "15",
+                    "sp_cost": "28",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Each attack deals 200% ATK as Physical splash damage\nOverload: Each attack deals 50% ATK as extra splash Arts damage. If cancelled manually, fire all remaning bullets, and lose 60% of Max HP\nSkill has 10 ammo and can be manually deactivated",
+                    "initial_sp": "18",
+                    "sp_cost": "27",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Each attack deals 220% ATK as Physical splash damage\nOverload: Each attack deals 50% ATK as extra splash Arts damage. If cancelled manually, fire all remaning bullets, and lose 60% of Max HP\nSkill has 10 ammo and can be manually deactivated",
+                    "initial_sp": "18",
+                    "sp_cost": "26",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Each attack deals 240% ATK as Physical splash damage\nOverload: Each attack deals 60% ATK as extra splash Arts damage. If cancelled manually, fire all remaning bullets, and lose 60% of Max HP\nSkill has 10 ammo and can be manually deactivated",
+                    "initial_sp": "18",
+                    "sp_cost": "25",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Ultimate Line of Defense",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "24 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +10%, Attack Interval slightly reduced\nOverload: ATK instead +20%, gradually lose HP (12% Max HP/sec after 12 seconds); Skill can be manually deactivated",
+                    "initial_sp": "15",
+                    "sp_cost": "50",
+                    "duration": "24s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +15%, Attack Interval slightly reduced\nOverload: ATK instead +30%, gradually lose HP (12% Max HP/sec after 12 seconds); Skill can be manually deactivated",
+                    "initial_sp": "15",
+                    "sp_cost": "50",
+                    "duration": "24s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +20%, Attack Interval slightly reduced\nOverload: ATK instead +40%, gradually lose HP (12% Max HP/sec after 12 seconds); Skill can be manually deactivated",
+                    "initial_sp": "15",
+                    "sp_cost": "50",
+                    "duration": "24s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +25%, Attack Interval reduced\nOverload: ATK instead +50%, gradually lose HP (12% Max HP/sec after 12 seconds); Skill can be manually deactivated",
+                    "initial_sp": "15",
+                    "sp_cost": "50",
+                    "duration": "24s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +30%, Attack Interval reduced\nOverload: ATK instead +60%, gradually lose HP (12% Max HP/sec after 12 seconds); Skill can be manually deactivated",
+                    "initial_sp": "20",
+                    "sp_cost": "45",
+                    "duration": "24s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +35%, Attack Interval reduced\nOverload: ATK instead +70%, gradually lose HP (12% Max HP/sec after 12 seconds); Skill can be manually deactivated",
+                    "initial_sp": "20",
+                    "sp_cost": "45",
+                    "duration": "24s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +40%, Attack Interval greatly reduced\nOverload: ATK instead +80%, gradually lose HP (12% Max HP/sec after 12 seconds); Skill can be manually deactivated",
+                    "initial_sp": "25",
+                    "sp_cost": "40",
+                    "duration": "24s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +50%, Attack Interval greatly reduced\nOverload: ATK instead +100%, gradually lose HP (12% Max HP/sec after 12 seconds); Skill can be manually deactivated",
+                    "initial_sp": "25",
+                    "sp_cost": "38",
+                    "duration": "24s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +60%, Attack Interval greatly reduced\nOverload: ATK instead +120%, gradually lose HP (12% Max HP/sec after 12 seconds); Skill can be manually deactivated",
+                    "initial_sp": "25",
+                    "sp_cost": "36",
+                    "duration": "24s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +70%, Attack Interval greatly reduced\nOverload: ATK instead +140%, gradually lose HP (12% Max HP/sec after 12 seconds); Skill can be manually deactivated",
+                    "initial_sp": "25",
+                    "sp_cost": "35",
+                    "duration": "24s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Incandescent Alloy",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron Cluster",
+                "quantity": "3"
+            },
+            {
+                "name": "Compound Cutting Fluid",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Integrated Device",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "9"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Military Fortress",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When this unit is on the field, Defender Operators gain +10% ATK"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When this unit is on the field, Defender Operators gain +20% ATK"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 3",
+                    "description": "When this unit is on the field, Defender Operators gain +13% (+3%) ATK"
+                },
+                {
+                    "level": "Potential 3",
+                    "description": "When this unit is on the field, Defender Operators gain +23% (+3%) ATK"
+                }
+            ]
+        },
+        {
+            "name": "Bloodbath",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Instead of retreating when defeated, recover HP to the max and gain -50% Max HP, +18 ASPD, and +18% DEF (triggers once per deployment)"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Instead of retreating when defeated, recover HP to the max and gain -50% Max HP, +21 (+3) ASPD, and +21% (+3%) DEF (triggers once per deployment)"
+                }
+            ]
+        }
+    ]
+}

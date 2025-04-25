@@ -1,0 +1,608 @@
+{
+    "info": {
+        "title": "Carnelian",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/4/4f/Carnelian_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20210601063754",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/a/a4/Carnelian_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20211221102710",
+            "Hohenlohe Chillysand": "https://static.wikia.nocookie.net/mrfz/images/5/5d/Carnelian_Skin_2.png/revision/latest/scale-to-width-down/268?cb=20220706002736"
+        }
+    },
+    "stats": {
+        "HP": {
+            "Base": "1104",
+            "Max": "1380",
+            "Elite 1": "1726",
+            "Elite 2": "2106",
+            "Trust": ""
+        },
+        "ATK": {
+            "Base": "435",
+            "Max": "581",
+            "Elite 1": "727",
+            "Elite 2": "846",
+            "Trust": "+80"
+        },
+        "DEF": {
+            "Base": "146",
+            "Max": "170",
+            "Elite 1": "198",
+            "Elite 2": "228",
+            "Trust": "+30"
+        },
+        "RES": {
+            "Base": "15",
+            "Max": "15",
+            "Elite 1": "15",
+            "Elite 2": "15",
+            "Trust": ""
+        },
+        "Rdpl. time": {
+            "Base": "70s",
+            "Max": "70s",
+            "Elite 1": "70s",
+            "Elite 2": "70s",
+            "Trust": ""
+        },
+        "DP cost": {
+            "Base": "22",
+            "Max": "22",
+            "Elite 1": "24",
+            "Elite 2": "24",
+            "Trust": ""
+        },
+        "Blk. cnt.": {
+            "Base": "1",
+            "Max": "1",
+            "Elite 1": "1",
+            "Elite 2": "1",
+            "Trust": ""
+        },
+        "Atk. itvl.": {
+            "Base": "2s",
+            "Max": "2s",
+            "Elite 1": "2s",
+            "Elite 2": "2s",
+            "Trust": ""
+        }
+    },
+    "potential": {
+        "Pot 1": "DP cost -1",
+        "Pot 2": "Redeployment time -4 seconds",
+        "Pot 3": "ATK +34",
+        "Pot 4": "Improves Meal of Life",
+        "Pot 5": "DP cost -1"
+    },
+    "promotion": {
+        "Elite 1": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Sand Fetters.\nNew talent: Meal of Life.\nRange extended.\nLevel 50\n30K\n5\n5\n5",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "30K"
+                },
+                {
+                    "name": "Caster Chip",
+                    "quantity": "50"
+                },
+                {
+                    "name": "Device",
+                    "quantity": "5"
+                },
+                {
+                    "name": "Polyester",
+                    "quantity": "5"
+                }
+            ]
+        },
+        "Elite 2": {
+            "details": "Maximum attributes increased.\nNew skill: Mark of Gluttony.\nNew talent: Poised for Action.\nMeal of Life improved.\nOperator Modules available.\nElite 1 Level 80\n180K\n4\n4\n7",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "180K"
+                },
+                {
+                    "name": "Caster Dualchip",
+                    "quantity": "1"
+                },
+                {
+                    "name": "D32 Steel",
+                    "quantity": "80"
+                },
+                {
+                    "name": "RMA70-24",
+                    "quantity": "4"
+                }
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "Sandstorm Guardian",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15-20 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +10%, DEF +10%\nCharged effect: Trait effect remains active during the skill",
+                    "initial_sp": "0",
+                    "sp_cost": "18",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +15%, DEF +20%\nCharged effect: Trait effect remains active during the skill",
+                    "initial_sp": "0",
+                    "sp_cost": "18",
+                    "duration": "15s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +20%, DEF +30%\nCharged effect: Trait effect remains active during the skill",
+                    "initial_sp": "0",
+                    "sp_cost": "18",
+                    "duration": "15s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +25%, DEF +40%\nCharged effect: Trait effect remains active during the skill",
+                    "initial_sp": "0",
+                    "sp_cost": "18",
+                    "duration": "16s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +30%, DEF +50%\nCharged effect: Trait effect remains active during the skill",
+                    "initial_sp": "0",
+                    "sp_cost": "18",
+                    "duration": "16s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +35%, DEF +60%\nCharged effect: Trait effect remains active during the skill",
+                    "initial_sp": "0",
+                    "sp_cost": "18",
+                    "duration": "16s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +40%, DEF +70%\nCharged effect: Trait effect remains active during the skill",
+                    "initial_sp": "1",
+                    "sp_cost": "18",
+                    "duration": "17s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +45%, DEF +80%\nCharged effect: Trait effect remains active during the skill",
+                    "initial_sp": "2",
+                    "sp_cost": "18",
+                    "duration": "18s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +50%, DEF +90%\nCharged effect: Trait effect remains active during the skill",
+                    "initial_sp": "3",
+                    "sp_cost": "18",
+                    "duration": "19s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +60%, DEF +100%\nCharged effect: Trait effect remains active during the skill",
+                    "initial_sp": "5",
+                    "sp_cost": "18",
+                    "duration": "20s"
+                }
+            ]
+        },
+        {
+            "name": "Sand Fetters",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "25 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Interval reduces slightly and every attack inflicts Slow for 0.3 seconds\nCharged effect: ATK +5% and instead of slowing, Binds targets for 0.3 seconds",
+                    "initial_sp": "1",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Interval reduces slightly and every attack inflicts Slow for 0.3 seconds\nCharged effect: ATK +5% and instead of slowing, Binds targets for 0.3 seconds",
+                    "initial_sp": "2",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Interval reduces slightly and every attack inflicts Slow for 0.3 seconds\nCharged effect: ATK +10% and instead of slowing, Binds targets for 0.3 seconds",
+                    "initial_sp": "3",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Interval reduces and every attack inflicts Slow for 0.3 seconds\nCharged effect: ATK +10% and instead of slowing, Binds targets for 0.3 seconds",
+                    "initial_sp": "4",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Interval reduces and every attack inflicts Slow for 0.3 seconds\nCharged effect: ATK +10% and instead of slowing, Binds targets for 0.4 seconds",
+                    "initial_sp": "5",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Interval reduces and every attack inflicts Slow for 0.3 seconds\nCharged effect: ATK +15% and instead of slowing, Binds targets for 0.4 seconds",
+                    "initial_sp": "6",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Interval reduces greatly and every attack inflicts Slow for 0.3 seconds\nCharged effect: ATK +15% and instead of slowing, Binds targets for 0.4 seconds",
+                    "initial_sp": "7",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Interval reduces greatly and every attack inflicts Slow for 0.3 seconds\nCharged effect: ATK +15% and instead of slowing, Binds targets for 0.5 seconds",
+                    "initial_sp": "8",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Interval reduces greatly and every attack inflicts Slow for 0.3 seconds\nCharged effect: ATK +20% and instead of slowing, Binds targets for 0.5 seconds",
+                    "initial_sp": "9",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Interval reduces significantly and every attack inflicts Slow for 0.3 seconds\nCharged effect: ATK +20% and instead of slowing, Binds targets for 0.6 seconds",
+                    "initial_sp": "10",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                }
+            ]
+        },
+        {
+            "name": "Mark of Gluttony",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "21 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Range expands and ATK gradually increases up to +80%\nCharged effect: Every attack increases the damage taken by the target from Carnelian by 20% (stacks up to 5 times), lasting until the end of the skill",
+                    "initial_sp": "0",
+                    "sp_cost": "28",
+                    "duration": "21s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Range expands and ATK gradually increases up to +100%\nCharged effect: Every attack increases the damage taken by the target from Carnelian by 20% (stacks up to 5 times), lasting until the end of the skill",
+                    "initial_sp": "0",
+                    "sp_cost": "28",
+                    "duration": "21s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Range expands and ATK gradually increases up to +120%\nCharged effect: Every attack increases the damage taken by the target from Carnelian by 20% (stacks up to 5 times), lasting until the end of the skill",
+                    "initial_sp": "0",
+                    "sp_cost": "28",
+                    "duration": "21s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Range expands and ATK gradually increases up to +140%\nCharged effect: Every attack increases the damage taken by the target from Carnelian by 20% (stacks up to 5 times), lasting until the end of the skill",
+                    "initial_sp": "0",
+                    "sp_cost": "28",
+                    "duration": "21s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Range expands and ATK gradually increases up to +160%\nCharged effect: Every attack increases the damage taken by the target from Carnelian by 20% (stacks up to 5 times), lasting until the end of the skill",
+                    "initial_sp": "0",
+                    "sp_cost": "28",
+                    "duration": "21s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Range expands and ATK gradually increases up to +180%\nCharged effect: Every attack increases the damage taken by the target from Carnelian by 20% (stacks up to 5 times), lasting until the end of the skill",
+                    "initial_sp": "0",
+                    "sp_cost": "28",
+                    "duration": "21s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Range expands and ATK gradually increases up to +200%\nCharged effect: Every attack increases the damage taken by the target from Carnelian by 20% (stacks up to 5 times), lasting until the end of the skill",
+                    "initial_sp": "1",
+                    "sp_cost": "28",
+                    "duration": "21s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Range expands and ATK gradually increases up to +220%\nCharged effect: Every attack increases the damage taken by the target from Carnelian by 20% (stacks up to 5 times), lasting until the end of the skill",
+                    "initial_sp": "2",
+                    "sp_cost": "28",
+                    "duration": "21s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Range expands and ATK gradually increases up to +240%\nCharged effect: Every attack increases the damage taken by the target from Carnelian by 20% (stacks up to 5 times), lasting until the end of the skill",
+                    "initial_sp": "3",
+                    "sp_cost": "28",
+                    "duration": "21s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Range expands and ATK gradually increases up to +280%\nCharged effect: Every attack increases the damage taken by the target from Carnelian by 20% (stacks up to 5 times), lasting until the end of the skill",
+                    "initial_sp": "5",
+                    "sp_cost": "28",
+                    "duration": "21s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Orirock",
+                "quantity": "6"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "4"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Integrated Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Coagulating Gel",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Integrated Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "3"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Ore",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Meal of Life",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "Restores 30% Max HP when skill is activated;\nEffect is doubled when Charged"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Restores 40% Max HP when skill is activated;\nEffect is doubled when Charged"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Restores 35% (+5%) Max HP when skill is activated;\nEffect is doubled when Charged"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "Restores 45% (+5%) Max HP when skill is activated;\nEffect is doubled when Charged"
+                }
+            ]
+        },
+        {
+            "name": "Poised for Action",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Improves own SP recovery rate by +0.6/second when SP is above the limit"
+                }
+            ]
+        }
+    ]
+}

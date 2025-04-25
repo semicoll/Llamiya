@@ -1,0 +1,20 @@
+{
+  "name": "Saria",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Higher ATK than other Defenders",
+    "Can heal Operators with all three skills",
+    "Medicine Dispensing can be used as a subsitute for Multi-target Medics",
+    "Rhine Charged Suit periodically buffs Saria's ATK and DEF as long as she remains deployed, which stacks up to five times",
+    "Calcification slows enemies and amplifies the Arts damage they took in addition to healing friendlies, making it one of the best supportive skills",
+    "Refreshment gives additional SP to friendlies healed by Saria's skills"
+  ],
+  "cons": [
+    "Has no DEF buffs aside of Rhine Charged Suit, making Saria susceptible to enemies with high ATK",
+    "Calcification stops Saria from attacking enemies",
+    "Rhine Charged Suit's stacks will reset when Saria is redeployed",
+    "Refreshment have no effect on friendlies with full HP"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Saria/Overview"
+}

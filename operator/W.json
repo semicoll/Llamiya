@@ -1,0 +1,600 @@
+{
+    "info": {
+        "title": "W",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/6/64/W_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20200501132518",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/6/60/W_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20201214010748"
+        }
+    },
+    "stats": {
+        "HP": {
+            "Base": "821",
+            "Max": "1027",
+            "Elite 1": "1284",
+            "Elite 2": "1605",
+            "Trust": ""
+        },
+        "ATK": {
+            "Base": "397",
+            "Max": "568",
+            "Elite 1": "711",
+            "Elite 2": "912",
+            "Trust": "+100"
+        },
+        "DEF": {
+            "Base": "68",
+            "Max": "89",
+            "Elite 1": "112",
+            "Elite 2": "133",
+            "Trust": ""
+        },
+        "RES": {
+            "Base": "0",
+            "Max": "0",
+            "Elite 1": "0",
+            "Elite 2": "0",
+            "Trust": ""
+        },
+        "Rdpl. time": {
+            "Base": "70s",
+            "Max": "70s",
+            "Elite 1": "70s",
+            "Elite 2": "70s",
+            "Trust": ""
+        },
+        "DP cost": {
+            "Base": "25",
+            "Max": "25",
+            "Elite 1": "27",
+            "Elite 2": "29",
+            "Trust": ""
+        },
+        "Blk. cnt.": {
+            "Base": "1",
+            "Max": "1",
+            "Elite 1": "1",
+            "Elite 2": "1",
+            "Trust": ""
+        },
+        "Atk. itvl.": {
+            "Base": "2.8s",
+            "Max": "2.8s",
+            "Elite 1": "2.8s",
+            "Elite 2": "2.8s",
+            "Trust": ""
+        }
+    },
+    "potential": {
+        "Pot 1": "DP cost -1",
+        "Pot 2": "Redeployment time -4 seconds",
+        "Pot 3": "ATK +35",
+        "Pot 4": "Improves Insult to Injury",
+        "Pot 5": "DP cost -1"
+    },
+    "promotion": {
+        "Elite 1": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Jack in the Box.\nNew talent: Ambush.\nRange extended.\nLevel 50\n20K\n5\n12\n5",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "20K"
+                },
+                {
+                    "name": "Sniper Chip",
+                    "quantity": "50"
+                },
+                {
+                    "name": "Orirock Cube",
+                    "quantity": "5"
+                },
+                {
+                    "name": "Polyester",
+                    "quantity": "12"
+                }
+            ]
+        },
+        "Elite 2": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: D12.\nNew talent: Insult to Injury.\nAmbush improved.\nOperator Modules available.\nRange extended.\nElite 1 Level 80\n180K\n4\n4\n7",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "180K"
+                },
+                {
+                    "name": "Sniper Dualchip",
+                    "quantity": "1"
+                },
+                {
+                    "name": "Bipolar Nanoflake",
+                    "quantity": "80"
+                },
+                {
+                    "name": "Keton Colloid",
+                    "quantity": "4"
+                }
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "King of Hearts",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Immediately launches a grenade, dealing 230% ATK as Physical Damage to all enemies hit and Stunning them for 1.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Immediately launches a grenade, dealing 240% ATK as Physical Damage to all enemies hit and Stunning them for 1.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "24",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Immediately launches a grenade, dealing 250% ATK as Physical Damage to all enemies hit and Stunning them for 1.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "23",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Immediately launches a grenade, dealing 270% ATK as Physical Damage to all enemies hit and Stunning them for 1.8 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "22",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Immediately launches a grenade, dealing 280% ATK as Physical Damage to all enemies hit and Stunning them for 1.8 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "21",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Immediately launches a grenade, dealing 290% ATK as Physical Damage to all enemies hit and Stunning them for 1.8 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "20",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Immediately launches a grenade, dealing 310% ATK as Physical Damage to all enemies hit and Stunning them for 2.1 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "19",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Immediately launches a grenade, dealing 320% ATK as Physical Damage to all enemies hit and Stunning them for 2.4 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "18",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Immediately launches a grenade, dealing 330% ATK as Physical Damage to all enemies hit and Stunning them for 2.7 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "17",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Immediately launches a grenade, dealing 350% ATK as Physical Damage to all enemies hit and Stunning them for 3 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "16",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Jack in the Box",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "The next attack buries a mine (lasts for 120 seconds) in a deployable tile within this unit's Attack Range; The mine will detonate when an enemy passes by it, dealing 190% Physical Damage to all nearby enemies and Stunning them for 1.4 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "The next attack buries a mine (lasts for 120 seconds) in a deployable tile within this unit's Attack Range; The mine will detonate when an enemy passes by it, dealing 200% Physical Damage to all nearby enemies and Stunning them for 1.4 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "The next attack buries a mine (lasts for 120 seconds) in a deployable tile within this unit's Attack Range; The mine will detonate when an enemy passes by it, dealing 210% Physical Damage to all nearby enemies and Stunning them for 1.4 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "The next attack buries a mine (lasts for 120 seconds) in a deployable tile within this unit's Attack Range; The mine will detonate when an enemy passes by it, dealing 220% Physical Damage to all nearby enemies and Stunning them for 1.6 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "The next attack buries a mine (lasts for 120 seconds) in a deployable tile within this unit's Attack Range; The mine will detonate when an enemy passes by it, dealing 230% Physical Damage to all nearby enemies and Stunning them for 1.6 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "The next attack buries a mine (lasts for 120 seconds) in a deployable tile within this unit's Attack Range; The mine will detonate when an enemy passes by it, dealing 240% Physical Damage to all nearby enemies and Stunning them for 1.6 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "The next attack buries a mine (lasts for 120 seconds) in a deployable tile within this unit's Attack Range; The mine will detonate when an enemy passes by it, dealing 250% Physical Damage to all nearby enemies and Stunning them for 1.8 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "The next attack buries a mine (lasts for 120 seconds) in a deployable tile within this unit's Attack Range; The mine will detonate when an enemy passes by it, dealing 260% Physical Damage to all nearby enemies and Stunning them for 1.8 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "The next attack buries a mine (lasts for 120 seconds) in a deployable tile within this unit's Attack Range; The mine will detonate when an enemy passes by it, dealing 270% Physical Damage to all nearby enemies and Stunning them for 2.0 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "The next attack buries a mine (lasts for 120 seconds) in a deployable tile within this unit's Attack Range; The mine will detonate when an enemy passes by it, dealing 280% Physical Damage to all nearby enemies and Stunning them for 2.2 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "D12",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Places bombs on up to 3 enemies within Attack Range, prioritizing enemies with the highest HP; after a delay, the bombs will detonate, each dealing 220% ATK as Physical Damage to nearby enemies and Stunning them for 3 seconds",
+                    "initial_sp": "11",
+                    "sp_cost": "45",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Places bombs on up to 3 enemies within Attack Range, prioritizing enemies with the highest HP; after a delay, the bombs will detonate, each dealing 230% ATK as Physical Damage to nearby enemies and Stunning them for 3 seconds",
+                    "initial_sp": "12",
+                    "sp_cost": "44",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Places bombs on up to 3 enemies within Attack Range, prioritizing enemies with the highest HP; after a delay, the bombs will detonate, each dealing 240% ATK as Physical Damage to nearby enemies and Stunning them for 3 seconds",
+                    "initial_sp": "13",
+                    "sp_cost": "43",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Places bombs on up to 3 enemies within Attack Range, prioritizing enemies with the highest HP; after a delay, the bombs will detonate, each dealing 250% ATK as Physical Damage to nearby enemies and Stunning them for 3.5 seconds",
+                    "initial_sp": "14",
+                    "sp_cost": "42",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Places bombs on up to 3 enemies within Attack Range, prioritizing enemies with the highest HP; after a delay, the bombs will detonate, each dealing 260% ATK as Physical Damage to nearby enemies and Stunning them for 3.5 seconds",
+                    "initial_sp": "15",
+                    "sp_cost": "41",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Places bombs on up to 3 enemies within Attack Range, prioritizing enemies with the highest HP; after a delay, the bombs will detonate, each dealing 270% ATK as Physical Damage to nearby enemies and Stunning them for 3.5 seconds",
+                    "initial_sp": "16",
+                    "sp_cost": "40",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Places bombs on up to 3 enemies within Attack Range, prioritizing enemies with the highest HP; after a delay, the bombs will detonate, each dealing 280% ATK as Physical Damage to nearby enemies and Stunning them for 4 seconds",
+                    "initial_sp": "17",
+                    "sp_cost": "39",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Places bombs on up to 4 enemies within Attack Range, prioritizing enemies with the highest HP; after a delay, the bombs will detonate, each dealing 290% ATK as Physical Damage to nearby enemies and Stunning them for 4 seconds",
+                    "initial_sp": "18",
+                    "sp_cost": "37",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Places bombs on up to 4 enemies within Attack Range, prioritizing enemies with the highest HP; after a delay, the bombs will detonate, each dealing 300% ATK as Physical Damage to nearby enemies and Stunning them for 4.5 seconds",
+                    "initial_sp": "19",
+                    "sp_cost": "35",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Places bombs on up to 4 enemies within Attack Range, prioritizing enemies with the highest HP; after a delay, the bombs will detonate, each dealing 310% ATK as Physical Damage to nearby enemies and Stunning them for 5 seconds",
+                    "initial_sp": "20",
+                    "sp_cost": "33",
+                    "duration": "–"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "6"
+            },
+            {
+                "name": "Orirock",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Integrated Device",
+                "quantity": "4"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Manganese Ore",
+                "quantity": "3"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-12",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Cluster",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Ambush",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "After remaining deployed for 10 seconds, obtains 40% Physical and Arts Dodge, and is less likely to be targeted by enemies"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "After remaining deployed for 10 seconds, obtains 60% Physical and Arts Dodge, and is less likely to be targeted by enemies"
+                }
+            ]
+        },
+        {
+            "name": "Insult to Injury",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Enemies in range take +18% Physical damage when Stunned"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Enemies in range take +21% (+3%) Physical damage when Stunned"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Mountain",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Very low attack interval",
+    "Low DP cost relative to other Guards",
+    "Left Hook hits two enemies within range",
+    "Sweeping Stance is useful on the defensive due to HP regeneration, increased block count, and multi-targeting attack",
+    "Forceful Fist temporarily reduces enemies' ATK",
+    "Earth-Shattering Smash allows Mountain to attack adjacent enemies with stronger double-hitting attacks and push them back in each strike",
+    "Sturdy Constitution buffs DEF and gives Physical dodge"
+  ],
+  "cons": [
+    "Average-low HP and DEF, and can only block a single enemy (unless with Sweeping Stance)",
+    "Does little to no damage against enemies with high DEF due to the relatively low ATK",
+    "Sweeping Stance reduces attack range and DEF, making Mountain vulnerable to ranged enemies with high ATK",
+    "Earth-Shattering Smash increases attack interval and the shift effect can be detrimental if used carelessly"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Mountain/Overview"
+}

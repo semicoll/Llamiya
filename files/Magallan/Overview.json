@@ -1,0 +1,22 @@
+{
+  "name": "Magallan",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Can deploy Soaring Dragons with good overall stats as force multiplier",
+    "High-Efficiency Freezing Module is effective for stalling",
+    "Laser Mining Module gives the Soaring Dragons an Arts damage attack, useful against enemies with high DEF",
+    "Armed Combat Module gives the Soaring Dragons a ranged AoE attack, useful in most situations especially against groups of enemies",
+    "All three skills recover the Soaring Dragons when they expires after activation, replenishing the Soaring Dragon's count",
+    "Optical Refraction Accessories makes the Soaring Dragons invisible for a short time after deployed"
+  ],
+  "cons": [
+    "Rather low stats, even at maximum level",
+    "The Soaring Dragons are counted towards the Unit Limit and only three of them can be deployed at a time (unlike other summons)",
+    "The Soaring Dragons cannot block enemies, even when deployed on melee tiles (though this also makes melee enemies never attack them)",
+    "Destroyed or retreated Soaring Dragons do not replenish their count, as with other summons",
+    "Micromanagement-intensive, not recommended for casual or new players",
+    "Must be leveled and promoted to Elite 2 for maximum effectiveness"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Magallan/Overview"
+}

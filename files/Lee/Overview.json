@@ -1,0 +1,24 @@
+{
+  "name": "Lee",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Has a redeployment cooldown of 25 seconds instead of other Operators' 70 seconds",
+    "Very low DP cost",
+    "Good stats",
+    "Exorcise Evil marks an enemy to make friendlies attack them over the others, and unleash an explosion which deals heavy Arts damage to the surroundings; the explosion damage can be further increased (up to a limit) when Lee hits the victim while they are marked",
+    "Kindness Begets Prosperity debuffs the ASPD of the enemy Lee is blocking while buffing his ASPD, with the buff doubled if there is only a single enemy in the surrounding tiles",
+    "Honored Guest is a solid stalling and DPS-boosting skill, which also provides a good degree of survivability",
+    "Preparedness Averts Peril negates the next Stun or Freeze instance received and temporarily Stuns the source"
+  ],
+  "cons": [
+    "Drains 3 DP every 3 seconds (2 DP every 3 seconds with the MER-X Module) when deployed; Lee will be automatically retreated if the player have less than 3 DP",
+    "Does not return DP when retreated, unlike other Operators",
+    "Exorcise Evil's detonation will occur prematurely if the damage build-up limit is reached or the victim is defeated, which can be detrimental",
+    "Honored Guest's shift effect can be detrimental when used carelessly and Taunts enemies which can be detrimental if there are too many ranged enemies around Lee",
+    "Preparedness Averts Peril drains 5 additional DP through Lee's trait to work, which can be detrimental on the early game",
+    "Preparedness Averts Peril does not work against enemies with consecutive stunning attacks",
+    "Very detrimental to use when the automatic DP generation is slowed or disabled"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Lee/Overview"
+}

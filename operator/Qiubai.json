@@ -1,0 +1,503 @@
+{
+    "info": {
+        "title": "Qiubai",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/c/c7/Qiubai_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20230214102743",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/1/14/Qiubai_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20230906022704"
+        }
+    },
+    "skills": [
+        {
+            "name": "Halting Feather",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Next attack binds the target for 1.5 seconds. When Bind expires, deals 180% of ATK as Arts damage to target and all nearby enemies",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Next attack binds the target for 1.5 seconds. When Bind expires, deals 190% of ATK as Arts damage to target and all nearby enemies",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Next attack binds the target for 1.5 seconds. When Bind expires, deals 200% of ATK as Arts damage to target and all nearby enemies",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Next attack binds the target for 2 seconds. When Bind expires, deals 210% of ATK as Arts damage to target and all nearby enemies",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Next attack binds the target for 2 seconds. When Bind expires, deals 220% of ATK as Arts damage to target and all nearby enemies",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Next attack binds the target for 2 seconds. When Bind expires, deals 230% of ATK as Arts damage to target and all nearby enemies",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Next attack binds the target for 2.5 seconds. When Bind expires, deals 240% of ATK as Arts damage to target and all nearby enemies",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Next attack binds the target for 2.5 seconds. When Bind expires, deals 260% of ATK as Arts damage to target and all nearby enemies",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Next attack binds the target for 2.5 seconds. When Bind expires, deals 280% of ATK as Arts damage to target and all nearby enemies",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Next attack binds the target for 3 seconds. When Bind expires, deals 300% of ATK as Arts damage to target and all nearby enemies",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Holding Shadow",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Manual Trigger",
+                "5 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Deals 150% of ATK as Arts damage to ground enemies ahead, attack range changes, ATK +60%, ground enemies within attack range are slowed; when skill expires, deals 150% ATK as Physical damage to ground enemies in range",
+                    "initial_sp": "0",
+                    "sp_cost": "14",
+                    "duration": "5s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Deals 165% of ATK as Arts damage to ground enemies ahead, attack range changes, ATK +65%, ground enemies within attack range are slowed; when skill expires, deals 165% ATK as Physical damage to ground enemies in range",
+                    "initial_sp": "1",
+                    "sp_cost": "14",
+                    "duration": "5s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Deals 180% of ATK as Arts damage to ground enemies ahead, attack range changes, ATK +70%, ground enemies within attack range are slowed; when skill expires, deals 180% ATK as Physical damage to ground enemies in range",
+                    "initial_sp": "2",
+                    "sp_cost": "14",
+                    "duration": "5s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Deals 195% of ATK as Arts damage to ground enemies ahead, attack range changes, ATK +75%, ground enemies within attack range are slowed; when skill expires, deals 195% ATK as Physical damage to ground enemies in range",
+                    "initial_sp": "2",
+                    "sp_cost": "13",
+                    "duration": "5s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Deals 210% of ATK as Arts damage to ground enemies ahead, attack range changes, ATK +80%, ground enemies within attack range are slowed; when skill expires, deals 210% ATK as Physical damage to ground enemies in range",
+                    "initial_sp": "3",
+                    "sp_cost": "13",
+                    "duration": "5s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Deals 225% of ATK as Arts damage to ground enemies ahead, attack range changes, ATK +85%, ground enemies within attack range are slowed; when skill expires, deals 225% ATK as Physical damage to ground enemies in range",
+                    "initial_sp": "4",
+                    "sp_cost": "13",
+                    "duration": "5s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Deals 240% of ATK as Arts damage to ground enemies ahead, attack range changes, ATK +90%, ground enemies within attack range are slowed; when skill expires, deals 240% ATK as Physical damage to ground enemies in range",
+                    "initial_sp": "4",
+                    "sp_cost": "12",
+                    "duration": "5s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Deals 260% of ATK as Arts damage to ground enemies ahead, attack range changes, ATK +100%, ground enemies within attack range are slowed; when skill expires, deals 260% ATK as Physical damage to ground enemies in range",
+                    "initial_sp": "4",
+                    "sp_cost": "11",
+                    "duration": "5s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Deals 280% of ATK as Arts damage to ground enemies ahead, attack range changes, ATK +120%, ground enemies within attack range are slowed; when skill expires, deals 280% ATK as Physical damage to ground enemies in range",
+                    "initial_sp": "5",
+                    "sp_cost": "11",
+                    "duration": "5s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Deals 300% of ATK as Arts damage to ground enemies ahead, attack range changes, ATK +140%, ground enemies within attack range are slowed; when skill expires, deals 300% ATK as Physical damage to ground enemies in range",
+                    "initial_sp": "5",
+                    "sp_cost": "10",
+                    "duration": "5s"
+                }
+            ]
+        },
+        {
+            "name": "Questioning Snow",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack range expands, ATK +20%, damage type changed to Arts, attacks 2 extra targets, ranged attacks no longer have reduced damage, each attack grants +8 ASPD (stacking up to 4 times)",
+                    "initial_sp": "32",
+                    "sp_cost": "64",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack range expands, ATK +23%, damage type changed to Arts, attacks 2 extra targets, ranged attacks no longer have reduced damage, each attack grants +9 ASPD (stacking up to 4 times)",
+                    "initial_sp": "32",
+                    "sp_cost": "63",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack range expands, ATK +27%, damage type changed to Arts, attacks 2 extra targets, ranged attacks no longer have reduced damage, each attack grants +10 ASPD (stacking up to 4 times)",
+                    "initial_sp": "34",
+                    "sp_cost": "62",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack range expands, ATK +30%, damage type changed to Arts, attacks 2 extra targets, ranged attacks no longer have reduced damage, each attack grants +10 ASPD (stacking up to 5 times)",
+                    "initial_sp": "34",
+                    "sp_cost": "61",
+                    "duration": "30s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack range expands, ATK +33%, damage type changed to Arts, attacks 2 extra targets, ranged attacks no longer have reduced damage, each attack grants +11 ASPD (stacking up to 5 times)",
+                    "initial_sp": "36",
+                    "sp_cost": "60",
+                    "duration": "30s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack range expands, ATK +37%, damage type changed to Arts, attacks 2 extra targets, ranged attacks no longer have reduced damage, each attack grants +12 ASPD (stacking up to 5 times)",
+                    "initial_sp": "36",
+                    "sp_cost": "59",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack range expands, ATK +40%, damage type changed to Arts, attacks 2 extra targets, ranged attacks no longer have reduced damage, each attack grants +13 ASPD (stacking up to 6 times)",
+                    "initial_sp": "38",
+                    "sp_cost": "58",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack range expands, ATK +45%, damage type changed to Arts, attacks 2 extra targets, Talent 1 damage increased to 1.5x, ranged attacks no longer have reduced damage, each attack grants +13 ASPD (stacking up to 6 times)",
+                    "initial_sp": "40",
+                    "sp_cost": "57",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack range expands, ATK +50%, damage type changed to Arts, attacks 2 extra targets, Talent 1 damage increased to 1.75x, ranged attacks no longer have reduced damage, each attack grants +13 ASPD (stacking up to 7 times)",
+                    "initial_sp": "43",
+                    "sp_cost": "56",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack range expands, ATK +55%, damage type changed to Arts, attacks 2 extra targets, Talent 1 damage increased to 2x, ranged attacks no longer have reduced damage, each attack grants +13 ASPD (stacking up to 8 times)",
+                    "initial_sp": "45",
+                    "sp_cost": "55",
+                    "duration": "30s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            },
+            {
+                "name": "Ester",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "7"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "4"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Compound Cutting Fluid",
+                "quantity": "5"
+            },
+            {
+                "name": "Coagulating Gel",
+                "quantity": "3"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-12",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Nucleic Crystal Sinter",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Find an Opening",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "Deal an additional 25% of ATK as Arts damage when attacking enemies affected by Slow or Bind"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Deal an additional 40% of ATK as Arts damage when attacking enemies affected by Slow or Bind"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Deal an additional 28% (+3%) of ATK as Arts damage when attacking enemies affected by Slow or Bind"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "Deal an additional 43% (+3%) of ATK as Arts damage when attacking enemies affected by Slow or Bind"
+                }
+            ]
+        },
+        {
+            "name": "Falling Petals",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Attacks have a 20% chance to Bind the target for 1.5s"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 3",
+                    "description": "Attacks have a 23% (+3%) chance to Bind the target for 1.5s"
+                }
+            ]
+        }
+    ]
+}

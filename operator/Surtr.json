@@ -1,0 +1,512 @@
+{
+    "info": {
+        "title": "Surtr",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/2/26/Surtr_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20200924031758",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/0/0c/Surtr_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20210601155908",
+            "Liberté//Échec": "https://static.wikia.nocookie.net/mrfz/images/9/94/Surtr_Skin_2.png/revision/latest/scale-to-width-down/268?cb=20220812025256"
+        }
+    },
+    "skills": [
+        {
+            "name": "Laevatain",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Increases the ATK of the next attack to 200%. If the target is defeated, immediately recover all Skill Points",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Increases the ATK of the next attack to 205%. If the target is defeated, immediately recover all Skill Points",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Increases the ATK of the next attack to 210%. If the target is defeated, immediately recover all Skill Points",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Increases the ATK of the next attack to 220%. If the target is defeated, immediately recover all Skill Points",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Increases the ATK of the next attack to 225%. If the target is defeated, immediately recover all Skill Points",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Increases the ATK of the next attack to 230%. If the target is defeated, immediately recover all Skill Points",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Increases the ATK of the next attack to 240%. If the target is defeated, immediately recover all Skill Points",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Increases the ATK of the next attack to 260%. If the target is defeated, immediately recover all Skill Points",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Increases the ATK of the next attack to 280%. If the target is defeated, immediately recover all Skill Points",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Increases the ATK of the next attack to 310%. If the target is defeated, immediately recover all Skill Points",
+                    "initial_sp": "0",
+                    "sp_cost": "2",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Molten Giant",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15-18 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +50%, attack range +1 and attack target count +1. When attacking only one enemy, deals 140% ATK as damage to the target",
+                    "initial_sp": "7",
+                    "sp_cost": "28",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +55%, attack range +1 and attack target count +1. When attacking only one enemy, deals 140% ATK as damage to the target",
+                    "initial_sp": "7",
+                    "sp_cost": "27",
+                    "duration": "15s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +60%, attack range +1 and attack target count +1. When attacking only one enemy, deals 140% ATK as damage to the target",
+                    "initial_sp": "7",
+                    "sp_cost": "26",
+                    "duration": "15s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +65%, attack range +1 and attack target count +1. When attacking only one enemy, deals 140% ATK as damage to the target",
+                    "initial_sp": "8",
+                    "sp_cost": "25",
+                    "duration": "16s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +70%, attack range +1 and attack target count +1. When attacking only one enemy, deals 140% ATK as damage to the target",
+                    "initial_sp": "8",
+                    "sp_cost": "24",
+                    "duration": "16s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +75%, attack range +1 and attack target count +1. When attacking only one enemy, deals 140% ATK as damage to the target",
+                    "initial_sp": "8",
+                    "sp_cost": "23",
+                    "duration": "16s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +80%, attack range +1 and attack target count +1. When attacking only one enemy, deals 150% ATK as damage to the target",
+                    "initial_sp": "9",
+                    "sp_cost": "22",
+                    "duration": "17s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +90%, attack range +1 and attack target count +1. When attacking only one enemy, deals 150% ATK as damage to the target",
+                    "initial_sp": "10",
+                    "sp_cost": "21",
+                    "duration": "17s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +100%, attack range +1 and attack target count +1. When attacking only one enemy, deals 150% ATK as damage to the target",
+                    "initial_sp": "11",
+                    "sp_cost": "20",
+                    "duration": "17s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +120%, attack range +1 and attack target count +1. When attacking only one enemy, deals 160% ATK as damage to the target",
+                    "initial_sp": "12",
+                    "sp_cost": "18",
+                    "duration": "18s"
+                }
+            ]
+        },
+        {
+            "name": "Twilight",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "Unlimited"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Immediately recover all HP; ATK +180%, attack range +2, attack target count +2 and Max HP +5000.\nGradually lose HP (HP loss caps at 20%/second after 60 seconds); Unlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "∞"
+                },
+                {
+                    "level": "2",
+                    "effect": "Immediately recover all HP; ATK +190%, attack range +2, attack target count +2 and Max HP +5000.\nGradually lose HP (HP loss caps at 20%/second after 60 seconds); Unlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "∞"
+                },
+                {
+                    "level": "3",
+                    "effect": "Immediately recover all HP; ATK +200%, attack range +2, attack target count +2 and Max HP +5000.\nGradually lose HP (HP loss caps at 20%/second after 60 seconds); Unlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "∞"
+                },
+                {
+                    "level": "4",
+                    "effect": "Immediately recover all HP; ATK +210%, attack range +2, attack target count +2 and Max HP +5000.\nGradually lose HP (HP loss caps at 20%/second after 60 seconds); Unlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "∞"
+                },
+                {
+                    "level": "5",
+                    "effect": "Immediately recover all HP; ATK +220%, attack range +2, attack target count +2 and Max HP +5000.\nGradually lose HP (HP loss caps at 20%/second after 60 seconds); Unlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "∞"
+                },
+                {
+                    "level": "6",
+                    "effect": "Immediately recover all HP; ATK +230%, attack range +2, attack target count +2 and Max HP +5000.\nGradually lose HP (HP loss caps at 20%/second after 60 seconds); Unlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "∞"
+                },
+                {
+                    "level": "7",
+                    "effect": "Immediately recover all HP; ATK +240%, attack range +2, attack target count +2 and Max HP +5000.\nGradually lose HP (HP loss caps at 20%/second after 60 seconds); Unlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Immediately recover all HP; ATK +270%, attack range +2, attack target count +2 and Max HP +5000.\nGradually lose HP (HP loss caps at 20%/second after 60 seconds); Unlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Immediately recover all HP; ATK +300%, attack range +2, attack target count +2 and Max HP +5000.\nGradually lose HP (HP loss caps at 20%/second after 60 seconds); Unlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Immediately recover all HP; ATK +330%, attack range +2, attack target count +3 and Max HP +5000.\nGradually lose HP (HP loss caps at 20%/second after 60 seconds); Unlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "∞"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            },
+            {
+                "name": "Ester",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "7"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "4"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron Cluster",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "5"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Integrated Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "9"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Molten Flame",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "Attacks ignore 12 RES"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Attacks ignore 20 RES"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Attacks ignore 14 (+2) RES"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "Attacks ignore 22 (+2) RES"
+                }
+            ]
+        },
+        {
+            "name": "Remnant Ash",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "After receiving fatal damage, continuously prevents HP from falling below 1. Retreat from the battlefield 4 seconds later"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "After receiving fatal damage, continuously prevents HP from falling below 1. Retreat from the battlefield 8 seconds later"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 3",
+                    "description": "After receiving fatal damage, continuously prevents HP from falling below 1. Retreat from the battlefield 5 (+1) seconds later"
+                },
+                {
+                    "level": "Potential 3",
+                    "description": "After receiving fatal damage, continuously prevents HP from falling below 1. Retreat from the battlefield 9 (+1) seconds later"
+                }
+            ]
+        }
+    ]
+}

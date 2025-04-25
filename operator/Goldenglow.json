@@ -1,0 +1,505 @@
+{
+    "info": {
+        "title": "Goldenglow",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/f/f7/Goldenglow_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20220215105332",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/7/7d/Goldenglow_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20221215050233",
+            "Maiden For The Bright Night": "https://static.wikia.nocookie.net/mrfz/images/e/e1/Goldenglow_Skin_2.png/revision/latest/scale-to-width-down/268?cb=20230801042445"
+        }
+    },
+    "skills": [
+        {
+            "name": "Scattering Sparks",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "25 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Drone +1, ATK +20% and ASPD +20. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "10",
+                    "sp_cost": "45",
+                    "duration": "25s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Drone +1, ATK +22% and ASPD +23. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "10",
+                    "sp_cost": "45",
+                    "duration": "25s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Drone +1, ATK +24% and ASPD +26. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "10",
+                    "sp_cost": "45",
+                    "duration": "25s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Drone +1, ATK +26% and ASPD +29. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "15",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Drone +1, ATK +28% and ASPD +32. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "15",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Drone +1, ATK +30% and ASPD +35. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "15",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Drone +1, ATK +32% and ASPD +38. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "15",
+                    "sp_cost": "35",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Drone +1, ATK +34% and ASPD +42. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "20",
+                    "sp_cost": "35",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Drone +1, ATK +36% and ASPD +46. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "20",
+                    "sp_cost": "35",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Drone +1, ATK +40% and ASPD +50. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "20",
+                    "sp_cost": "35",
+                    "duration": "25s"
+                }
+            ]
+        },
+        {
+            "name": "Surging Current",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger",
+                "Unlimited"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Drone +1, ATK +20% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "80",
+                    "duration": "∞"
+                },
+                {
+                    "level": "2",
+                    "effect": "Drone +1, ATK +24% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "80",
+                    "duration": "∞"
+                },
+                {
+                    "level": "3",
+                    "effect": "Drone +1, ATK +28% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "80",
+                    "duration": "∞"
+                },
+                {
+                    "level": "4",
+                    "effect": "Drone +1, ATK +32% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "75",
+                    "duration": "∞"
+                },
+                {
+                    "level": "5",
+                    "effect": "Drone +1, ATK +36% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "75",
+                    "duration": "∞"
+                },
+                {
+                    "level": "6",
+                    "effect": "Drone +1, ATK +40% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "75",
+                    "duration": "∞"
+                },
+                {
+                    "level": "7",
+                    "effect": "Drone +1, ATK +45% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "70",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Drone +1, ATK +50% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "70",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Drone +1, ATK +55% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "70",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Drone +1, ATK +60% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "70",
+                    "duration": "∞"
+                }
+            ]
+        },
+        {
+            "name": "Crystalline Shine",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Stops attacking; Drone +2, ATK +25% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "5",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Stops attacking; Drone +2, ATK +30% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "5",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Stops attacking; Drone +2, ATK +35% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "5",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Stops attacking; Drone +2, ATK +40% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "10",
+                    "sp_cost": "45",
+                    "duration": "30s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Stops attacking; Drone +2, ATK +45% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "10",
+                    "sp_cost": "45",
+                    "duration": "30s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Stops attacking; Drone +2, ATK +50% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "10",
+                    "sp_cost": "45",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Stops attacking; Drone +2, ATK +55% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "15",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Stops attacking; Drone +2, ATK +60% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "15",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Stops attacking; Drone +2, ATK +70% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "17",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Stops attacking; Drone +2, ATK +80% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+                    "initial_sp": "17",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            },
+            {
+                "name": "Ester",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "7"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "4"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cluster",
+                "quantity": "8"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Coagulating Gel",
+                "quantity": "4"
+            },
+            {
+                "name": "Oriron Cluster",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Cluster",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Compound Cutting Fluid",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Beacon's Wrath",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When this unit's skill is active, Drones have a 10% chance to self-destruct when attacking (and then return to the Operator), dealing 200% of Goldenglow's ATK as Arts damage to enemies in a small area"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When this unit's skill is active, Drones have a 10% chance to self-destruct when attacking (and then return to the Operator), dealing 300% of Goldenglow's ATK as Arts damage to enemies in a small area"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 3",
+                    "description": "When this unit's skill is active, Drones have a 10% chance to self-destruct when attacking (and then return to the Operator), dealing 215% (+15%) of Goldenglow's ATK as Arts damage to enemies in a small area"
+                },
+                {
+                    "level": "Potential 3",
+                    "description": "When this unit's skill is active, Drones have a 10% chance to self-destruct when attacking (and then return to the Operator), dealing 315% (+15%) of Goldenglow's ATK as Arts damage to enemies in a small area"
+                }
+            ]
+        },
+        {
+            "name": "Precise Redirection",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Goldenglow and her Drones' attacks ignore 15 RES"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 6",
+                    "description": "Goldenglow and her Drones' attacks ignore 18 (+3) RES"
+                }
+            ]
+        }
+    ]
+}

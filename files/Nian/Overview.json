@@ -1,0 +1,22 @@
+{
+  "name": "Nian",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Have the highest HP of all Protector Defenders",
+    "Good, balanced ATK and DEF",
+    "Tin Burning causes attacks to deal Arts damage, useful against enemies with high DEF and/or low RES",
+    "Copper Seal improves defensive capabilities and inflicts Arts damage to attackers as well as silencing them",
+    "Tectonic Armor increases the maximum HP of all Defenders in the squad, making it very useful on Defender-heavy squads",
+    "Iron Defense is among the best defensive support skills which also buffs Nian's ATK",
+    "Clairvoyance gives Nian three layers of Shields every time she is deployed"
+  ],
+  "cons": [
+    "Only available from Festival limited headhunting banners from Earthborn Metals; Nian will not be available from any other headhunting banners",
+    "High DP cost",
+    "Copper Seal stops Nian from attacking",
+    "Iron Defense's block and DEF buff, and Status Resistance does not affect Nian herself, and the block increase can be detrimental for Ambusher Specialists since it allows melee enemies to attack them",
+    "Clairvoyance's Shields can be easily wasted when facing multiple weak enemies or those with low attack interval, and against damage-over-time effects"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Nian/Overview"
+}

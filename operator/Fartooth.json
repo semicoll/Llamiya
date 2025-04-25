@@ -1,0 +1,498 @@
+{
+    "info": {
+        "title": "Fartooth",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/f/fb/Fartooth_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20211015093407",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/e/ea/Fartooth_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20230616003404"
+        }
+    },
+    "skills": [
+        {
+            "name": "Swift Strike γ",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "35 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +20%; ASPD +20",
+                    "initial_sp": "0",
+                    "sp_cost": "45",
+                    "duration": "35s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +22%; ASPD +20",
+                    "initial_sp": "0",
+                    "sp_cost": "44",
+                    "duration": "35s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +24%; ASPD +20",
+                    "initial_sp": "0",
+                    "sp_cost": "43",
+                    "duration": "35s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +27%; ASPD +25",
+                    "initial_sp": "5",
+                    "sp_cost": "42",
+                    "duration": "35s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +29%; ASPD +25",
+                    "initial_sp": "5",
+                    "sp_cost": "41",
+                    "duration": "35s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +31%; ASPD +25",
+                    "initial_sp": "5",
+                    "sp_cost": "40",
+                    "duration": "35s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +34%; ASPD +35",
+                    "initial_sp": "10",
+                    "sp_cost": "39",
+                    "duration": "35s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +37%; ASPD +35",
+                    "initial_sp": "10",
+                    "sp_cost": "38",
+                    "duration": "35s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +40%; ASPD +35",
+                    "initial_sp": "10",
+                    "sp_cost": "37",
+                    "duration": "35s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +45%; ASPD +45",
+                    "initial_sp": "15",
+                    "sp_cost": "35",
+                    "duration": "35s"
+                }
+            ]
+        },
+        {
+            "name": "Ally Support",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "25-35 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Can attack blocked enemies outside of Attack Range. ASPD +60",
+                    "initial_sp": "15",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Can attack blocked enemies outside of Attack Range. ASPD +65",
+                    "initial_sp": "15",
+                    "sp_cost": "40",
+                    "duration": "26s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Can attack blocked enemies outside of Attack Range. ASPD +70",
+                    "initial_sp": "15",
+                    "sp_cost": "40",
+                    "duration": "27s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Can attack blocked enemies outside of Attack Range. ASPD +75",
+                    "initial_sp": "18",
+                    "sp_cost": "40",
+                    "duration": "28s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Can attack blocked enemies outside of Attack Range. ASPD +80",
+                    "initial_sp": "18",
+                    "sp_cost": "40",
+                    "duration": "29s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Can attack blocked enemies outside of Attack Range. ASPD +85",
+                    "initial_sp": "18",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Can attack blocked enemies outside of Attack Range. ASPD +90",
+                    "initial_sp": "21",
+                    "sp_cost": "40",
+                    "duration": "31s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Can attack blocked enemies outside of Attack Range. ASPD +95",
+                    "initial_sp": "22",
+                    "sp_cost": "40",
+                    "duration": "32s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Can attack blocked enemies outside of Attack Range. ASPD +100",
+                    "initial_sp": "23",
+                    "sp_cost": "40",
+                    "duration": "33s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Can attack blocked enemies outside of Attack Range. ASPD +110",
+                    "initial_sp": "25",
+                    "sp_cost": "40",
+                    "duration": "35s"
+                }
+            ]
+        },
+        {
+            "name": "Feathershine Arrows",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "16-20 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Range changes to an infinitely long straight line ahead, ATK +60%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 120%",
+                    "initial_sp": "5",
+                    "sp_cost": "30",
+                    "duration": "16s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Range changes to an infinitely long straight line ahead, ATK +65%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 120%",
+                    "initial_sp": "5",
+                    "sp_cost": "29",
+                    "duration": "16s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Range changes to an infinitely long straight line ahead, ATK +70%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 120%",
+                    "initial_sp": "5",
+                    "sp_cost": "28",
+                    "duration": "16s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Range changes to an infinitely long straight line ahead, ATK +80%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 125%",
+                    "initial_sp": "6",
+                    "sp_cost": "27",
+                    "duration": "16s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Range changes to an infinitely long straight line ahead, ATK +85%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 125%",
+                    "initial_sp": "6",
+                    "sp_cost": "26",
+                    "duration": "16s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Range changes to an infinitely long straight line ahead, ATK +90%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 125%",
+                    "initial_sp": "6",
+                    "sp_cost": "25",
+                    "duration": "16s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Range changes to an infinitely long straight line ahead, ATK +100%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 130%",
+                    "initial_sp": "7",
+                    "sp_cost": "24",
+                    "duration": "17s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Range changes to an infinitely long straight line ahead, ATK +110%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 130%",
+                    "initial_sp": "8",
+                    "sp_cost": "23",
+                    "duration": "18s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Range changes to an infinitely long straight line ahead, ATK +120%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 130%",
+                    "initial_sp": "9",
+                    "sp_cost": "22",
+                    "duration": "19s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Range changes to an infinitely long straight line ahead, ATK +140%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 140%",
+                    "initial_sp": "10",
+                    "sp_cost": "20",
+                    "duration": "20s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            },
+            {
+                "name": "Ester",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "7"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "4"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Manganese Ore",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Grindstone",
+                "quantity": "4"
+            },
+            {
+                "name": "Orirock Cluster",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "3"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Integrated Device",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "9"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Concentration",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When no damage is taken in the past 10 seconds, ATK +10%"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When no damage is taken in the past 10 seconds, ATK +15%"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "When no damage is taken in the past 10 seconds, ATK +13% (+3%)"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "When no damage is taken in the past 10 seconds, ATK +18% (+3%)"
+                }
+            ]
+        },
+        {
+            "name": "Stilled Breath",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "When this unit's skill is active, becomes less likely to be targeted by attacks and attacks ignore the target's Physical Dodge"
+                }
+            ]
+        }
+    ]
+}

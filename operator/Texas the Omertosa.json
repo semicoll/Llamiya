@@ -1,0 +1,490 @@
+{
+    "info": {
+        "title": "Texas the Omertosa",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/1/12/Texas_the_Omertosa_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20221108005110"
+        }
+    },
+    "skills": [
+        {
+            "name": "Silent Drizzle",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Passive",
+                "10-12 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "After deployment, gains ATK +25%; Attacks Silence the target for 3 seconds and cause them to take 200 Arts damage per second during that duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "10s"
+                },
+                {
+                    "level": "2",
+                    "effect": "After deployment, gains ATK +30%; Attacks Silence the target for 3 seconds and cause them to take 220 Arts damage per second during that duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "10s"
+                },
+                {
+                    "level": "3",
+                    "effect": "After deployment, gains ATK +35%; Attacks Silence the target for 3 seconds and cause them to take 240 Arts damage per second during that duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "10s"
+                },
+                {
+                    "level": "4",
+                    "effect": "After deployment, gains ATK +40%; Attacks Silence the target for 5 seconds and cause them to take 260 Arts damage per second during that duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "11s"
+                },
+                {
+                    "level": "5",
+                    "effect": "After deployment, gains ATK +45%; Attacks Silence the target for 5 seconds and cause them to take 280 Arts damage per second during that duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "11s"
+                },
+                {
+                    "level": "6",
+                    "effect": "After deployment, gains ATK +50%; Attacks Silence the target for 5 seconds and cause them to take 300 Arts damage per second during that duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "11s"
+                },
+                {
+                    "level": "7",
+                    "effect": "After deployment, gains ATK +55%; Attacks Silence the target for 8 seconds and cause them to take 320 Arts damage per second during that duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "12s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "After deployment, gains ATK +60%; Attacks Silence the target for 8 seconds and cause them to take 350 Arts damage per second during that duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "12s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "After deployment, gains ATK +65%; Attacks Silence the target for 8 seconds and cause them to take 380 Arts damage per second during that duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "12s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "After deployment, gains ATK +70%; Attacks Silence the target for 10 seconds and cause them to take 400 Arts damage per second during that duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "12s"
+                }
+            ]
+        },
+        {
+            "name": "Unrelenting Downpour",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Passive",
+                "8-10 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "After deployment, immediately deals 120% ATK as Arts damage to all surrounding enemies and inflicts -10% RES for 8 seconds; ATK +20%, attacks hit 2 times and deal Arts damage",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "8s"
+                },
+                {
+                    "level": "2",
+                    "effect": "After deployment, immediately deals 130% ATK as Arts damage to all surrounding enemies and inflicts -10% RES for 8 seconds; ATK +23%, attacks hit 2 times and deal Arts damage",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "8s"
+                },
+                {
+                    "level": "3",
+                    "effect": "After deployment, immediately deals 140% ATK as Arts damage to all surrounding enemies and inflicts -10% RES for 8 seconds; ATK +26%, attacks hit 2 times and deal Arts damage",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "8s"
+                },
+                {
+                    "level": "4",
+                    "effect": "After deployment, immediately deals 150% ATK as Arts damage to all surrounding enemies and inflicts -15% RES for 8 seconds; ATK +30%, attacks hit 2 times and deal Arts damage",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "8s"
+                },
+                {
+                    "level": "5",
+                    "effect": "After deployment, immediately deals 160% ATK as Arts damage to all surrounding enemies and inflicts -15% RES for 8 seconds; ATK +33%, attacks hit 2 times and deal Arts damage",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "8s"
+                },
+                {
+                    "level": "6",
+                    "effect": "After deployment, immediately deals 170% ATK as Arts damage to all surrounding enemies and inflicts -15% RES for 8 seconds; ATK +36%, attacks hit 2 times and deal Arts damage",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "8s"
+                },
+                {
+                    "level": "7",
+                    "effect": "After deployment, immediately deals 180% ATK as Arts damage to all surrounding enemies and inflicts -20% RES for 10 seconds; ATK +40%, attacks hit 2 times and deal Arts damage",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "10s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "After deployment, immediately deals 200% ATK as Arts damage to all surrounding enemies and inflicts -25% RES for 10 seconds; ATK +45%, attacks hit 2 times and deal Arts damage",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "10s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "After deployment, immediately deals 220% ATK as Arts damage to all surrounding enemies and inflicts -30% RES for 10 seconds; ATK +50%, attacks hit 2 times and deal Arts damage",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "10s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "After deployment, immediately deals 240% ATK as Arts damage to all surrounding enemies and inflicts -30% RES for 10 seconds; ATK +55%, attacks hit 2 times and deal Arts damage",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "10s"
+                }
+            ]
+        },
+        {
+            "name": "Torrential Sword Rain",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Passive",
+                "6-8 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "After deployment, immediately deals 100% ATK as Arts damage twice to all surrounding enemies and Stuns them for 1 second, then releases a Sword Rain at up to 2 targets within range every second that deals 70% ATK as Arts damage and Stuns for 0.2 seconds",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "6s"
+                },
+                {
+                    "level": "2",
+                    "effect": "After deployment, immediately deals 105% ATK as Arts damage twice to all surrounding enemies and Stuns them for 1 second, then releases a Sword Rain at up to 2 targets within range every second that deals 75% ATK as Arts damage and Stuns for 0.2 seconds",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "6s"
+                },
+                {
+                    "level": "3",
+                    "effect": "After deployment, immediately deals 110% ATK as Arts damage twice to all surrounding enemies and Stuns them for 1 second, then releases a Sword Rain at up to 2 targets within range every second that deals 80% ATK as Arts damage and Stuns for 0.2 seconds",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "6s"
+                },
+                {
+                    "level": "4",
+                    "effect": "After deployment, immediately deals 115% ATK as Arts damage twice to all surrounding enemies and Stuns them for 1.5 seconds., then releases a Sword Rain at up to 2 targets within range every second that deals 85% ATK as Arts damage and Stuns for 0.2 seconds",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "6s"
+                },
+                {
+                    "level": "5",
+                    "effect": "After deployment, immediately deals 120% ATK as Arts damage twice to all surrounding enemies and Stuns them for 1.5 seconds, then releases a Sword Rain at up to 2 targets within range every second that deals 90% ATK as Arts damage and Stuns for 0.2 seconds",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "6s"
+                },
+                {
+                    "level": "6",
+                    "effect": "After deployment, immediately deals 125% ATK as Arts damage twice to all surrounding enemies and Stuns them for 1.5 seconds, then releases a Sword Rain at up to 2 targets within range every second that deals 95% ATK as Arts damage and Stuns for 0.2 seconds",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "6s"
+                },
+                {
+                    "level": "7",
+                    "effect": "After deployment, immediately deals 130% ATK as Arts damage twice to all surrounding enemies and Stuns them for 1.5 seconds, then releases a Sword Rain at up to 3 targets within range every second that deals 100% ATK as Arts damage and Stuns for 0.2 seconds",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "7s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "After deployment, immediately deals 135% ATK as Arts damage twice to all surrounding enemies and Stuns them for 2 seconds, then releases a Sword Rain at up to 3 targets within range every second that deals 110% ATK as Arts damage and Stuns for 0.2 seconds",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "7s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "After deployment, immediately deals 150% ATK as Arts damage twice to all surrounding enemies and Stuns them for 2 seconds, then releases a Sword Rain at up to 3 targets within range every second that deals 120% ATK as Arts damage and Stuns for 0.2 seconds",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "8s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "After deployment, immediately deals 165% ATK as Arts damage twice to all surrounding enemies and Stuns them for 2 seconds, then releases a Sword Rain at up to 4 targets within range every second that deals 130% ATK as Arts damage and Stuns for 0.2 seconds",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "8s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            },
+            {
+                "name": "Ester",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "7"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "4"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Crystalline Component",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Grindstone",
+                "quantity": "5"
+            },
+            {
+                "name": "Transmuted Salt",
+                "quantity": "3"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Transmuted Salt",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Ore",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Transmuted Salt Agglomerate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Integrated Device",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Nucleic Crystal Sinter",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Texas Tradition",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "Gains +10% ATK during the duration of the passive skill; When defeating an enemy for the first time, fully restores HP and reactivates the effects of the passive skill"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Gains +20% ATK during the duration of the passive skill; When defeating an enemy for the first time, fully restores HP and reactivates the effects of the passive skill"
+                }
+            ]
+        },
+        {
+            "name": "Texas Swordsmanship",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Before defeating an enemy for the first time after each deployment, gains +8 ASPD and reduces all damage taken by 25%"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Before defeating an enemy for the first time after each deployment, gains +10 (+2) ASPD and reduces all damage taken by 30% (+5%)"
+                }
+            ]
+        }
+    ]
+}

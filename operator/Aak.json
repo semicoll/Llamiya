@@ -1,9 +1,608 @@
 {
     "info": {
+        "title": "Aak",
         "images": {
             "Base": "https://static.wikia.nocookie.net/mrfz/images/7/74/Aak_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20200201060155",
             "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/2/23/Aak_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20210406101538",
             "Doctor of Faces": "https://static.wikia.nocookie.net/mrfz/images/f/fa/Aak_Skin_2.png/revision/latest/scale-to-width-down/268?cb=20211125003035"
         }
-    }
+    },
+    "stats": {
+        "HP": {
+            "Base": "865",
+            "Max": "1236",
+            "Elite 1": "1627",
+            "Elite 2": "2034",
+            "Trust": "+300"
+        },
+        "ATK": {
+            "Base": "247",
+            "Max": "413",
+            "Elite 1": "583",
+            "Elite 2": "703",
+            "Trust": "+50"
+        },
+        "DEF": {
+            "Base": "58",
+            "Max": "90",
+            "Elite 1": "121",
+            "Elite 2": "152",
+            "Trust": ""
+        },
+        "RES": {
+            "Base": "10",
+            "Max": "10",
+            "Elite 1": "10",
+            "Elite 2": "10",
+            "Trust": ""
+        },
+        "Rdpl. time": {
+            "Base": "70s",
+            "Max": "70s",
+            "Elite 1": "70s",
+            "Elite 2": "70s",
+            "Trust": ""
+        },
+        "DP cost": {
+            "Base": "11",
+            "Max": "11",
+            "Elite 1": "13",
+            "Elite 2": "13",
+            "Trust": ""
+        },
+        "Blk. cnt.": {
+            "Base": "1",
+            "Max": "1",
+            "Elite 1": "1",
+            "Elite 2": "1",
+            "Trust": ""
+        },
+        "Atk. itvl.": {
+            "Base": "1.3s",
+            "Max": "1.3s",
+            "Elite 1": "1.3s",
+            "Elite 2": "1.3s",
+            "Trust": ""
+        }
+    },
+    "potential": {
+        "Pot 1": "DP cost -1",
+        "Pot 2": "Redeployment time -4 seconds",
+        "Pot 3": "Max HP +150",
+        "Pot 4": "Improves Pharmaceutical Diffusion",
+        "Pot 5": "DP cost -1"
+    },
+    "promotion": {
+        "Elite 1": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Type-γ Stimpack.\nDrug Cocktail Administration improved.\nRange extended.\nLevel 50\n30K\n5\n8\n5",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "30K"
+                },
+                {
+                    "name": "Specialist Chip",
+                    "quantity": "50"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "5"
+                },
+                {
+                    "name": "Oriron",
+                    "quantity": "8"
+                }
+            ]
+        },
+        "Elite 2": {
+            "details": "Maximum attributes increased.\nNew skill: Durian-Flavored Stimpack.\nNew talent: Pharmaceutical Diffusion.\nDrug Cocktail Administration improved.\nElite 1 Level 80\n180K\n4\n4\n7",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "180K"
+                },
+                {
+                    "name": "Specialist Dualchip",
+                    "quantity": "1"
+                },
+                {
+                    "name": "D32 Steel",
+                    "quantity": "80"
+                },
+                {
+                    "name": "Polymerized Gel",
+                    "quantity": "4"
+                }
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "Rapid Fire",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "20-30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ASPD +30",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "20s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ASPD +35",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "21s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ASPD +40",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "22s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ASPD +50",
+                    "initial_sp": "16",
+                    "sp_cost": "30",
+                    "duration": "23s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ASPD +55",
+                    "initial_sp": "16",
+                    "sp_cost": "30",
+                    "duration": "24s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ASPD +60",
+                    "initial_sp": "16",
+                    "sp_cost": "30",
+                    "duration": "25s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ASPD +70",
+                    "initial_sp": "17",
+                    "sp_cost": "30",
+                    "duration": "26s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ASPD +80",
+                    "initial_sp": "18",
+                    "sp_cost": "30",
+                    "duration": "27s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ASPD +90",
+                    "initial_sp": "19",
+                    "sp_cost": "30",
+                    "duration": "28s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ASPD +100",
+                    "initial_sp": "20",
+                    "sp_cost": "30",
+                    "duration": "30s"
+                }
+            ]
+        },
+        {
+            "name": "Type-γ Stimpack",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases the Max HP and DEF of self and that unit by +30% for the remaining duration of this skill",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases the Max HP and DEF of self and that unit by +30% for the remaining duration of this skill",
+                    "initial_sp": "20",
+                    "sp_cost": "39",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases the Max HP and DEF of self and that unit by +30% for the remaining duration of this skill",
+                    "initial_sp": "20",
+                    "sp_cost": "38",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases the Max HP and DEF of self and that unit by +40% for the remaining duration of this skill",
+                    "initial_sp": "21",
+                    "sp_cost": "37",
+                    "duration": "30s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases the Max HP and DEF of self and that unit by +40% for the remaining duration of this skill",
+                    "initial_sp": "21",
+                    "sp_cost": "36",
+                    "duration": "30s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases the Max HP and DEF of self and that unit by +40% for the remaining duration of this skill",
+                    "initial_sp": "21",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases the Max HP and DEF of self and that unit by +50% for the remaining duration of this skill",
+                    "initial_sp": "22",
+                    "sp_cost": "34",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases the Max HP and DEF of self and that unit by +60% for the remaining duration of this skill",
+                    "initial_sp": "23",
+                    "sp_cost": "33",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases the Max HP and DEF of self and that unit by +70% for the remaining duration of this skill",
+                    "initial_sp": "24",
+                    "sp_cost": "32",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases the Max HP and DEF of self and that unit by +80% for the remaining duration of this skill",
+                    "initial_sp": "25",
+                    "sp_cost": "30",
+                    "duration": "30s"
+                }
+            ]
+        },
+        {
+            "name": "Durian-Flavored Stimpack",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "20 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases ATK by +25% and ASPD by +25 of self and that unit for the remaining duration of this skill",
+                    "initial_sp": "25",
+                    "sp_cost": "47",
+                    "duration": "20s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases ATK by +25% and ASPD by +25 of self and that unit for the remaining duration of this skill",
+                    "initial_sp": "25",
+                    "sp_cost": "46",
+                    "duration": "20s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases ATK by +25% and ASPD by +25 of self and that unit for the remaining duration of this skill",
+                    "initial_sp": "25",
+                    "sp_cost": "45",
+                    "duration": "20s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases ATK by +30% and ASPD by +30 of self and that unit for the remaining duration of this skill",
+                    "initial_sp": "26",
+                    "sp_cost": "44",
+                    "duration": "20s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases ATK by +30% and ASPD by +30 of self and that unit for the remaining duration of this skill",
+                    "initial_sp": "26",
+                    "sp_cost": "43",
+                    "duration": "20s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases ATK by +30% and ASPD by +30 of self and that unit for the remaining duration of this skill",
+                    "initial_sp": "26",
+                    "sp_cost": "42",
+                    "duration": "20s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases ATK by +35% and ASPD by +35 of self and that unit for the remaining duration of this skill",
+                    "initial_sp": "27",
+                    "sp_cost": "41",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases ATK by +40% and ASPD by +40 of self and that unit for the remaining duration of this skill",
+                    "initial_sp": "28",
+                    "sp_cost": "39",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases ATK by +45% and ASPD by +45 of self and that unit for the remaining duration of this skill",
+                    "initial_sp": "29",
+                    "sp_cost": "37",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attacks an ally within range (prioritizes allies directly in front of this unit) 15 times with 500 ATK, and then increases ATK by +50% and ASPD by +50 of self and that unit for the remaining duration of this skill",
+                    "initial_sp": "30",
+                    "sp_cost": "35",
+                    "duration": "20s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Incandescent Alloy",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "3"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "6"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Cluster",
+                        "quantity": "11"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Drug Cocktail Administration",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "Each attack will randomly trigger one of the following effects: Restores own HP by 13%, that attack deals 130% damage, Slows the enemy for 1 second, or Stuns the enemy for 0.6 seconds"
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "Each attack will randomly trigger one of the following effects: Restores own HP by 14%, that attack deals 140% damage, Slows the enemy for 1.2 second, or Stuns the enemy for 0.8 seconds"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Each attack will randomly trigger one of the following effects: Restores own HP by 15%, that attack deals 150% damage, Slows the enemy for 1.4 second, or Stuns the enemy for 1 second"
+                }
+            ]
+        },
+        {
+            "name": "Pharmaceutical Diffusion",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Increases healing effects on this unit by 20%"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Increases healing effects on this unit by 25%(+5%)"
+                }
+            ]
+        }
+    ]
 }

@@ -1,0 +1,22 @@
+{
+  "name": "Blaze",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Great HP and ATK",
+    "Attacks hit multiple enemies equal to block count",
+    "Can block up to three enemies at Elite 2, like that of most Defenders",
+    "Has excellent DPS with all three skills",
+    "Chainsaw Extension Module extends attack range and allows Blaze to attack from behind another Operator or even through walls/ranged tiles",
+    "Emergency Defibrillation heals Blaze by 50% of her maximum HP once at 25% or lower HP and keeps her HP from going below 50% for a short time, ensuring her survival",
+    "Boiling Burst deals heavy damage to nearby enemies when it expires",
+    "Harsh Training provides Status Resistance to Blaze once it is active"
+  ],
+  "cons": [
+    "High DP cost that increases with every promotion",
+    "Mediocre DEF when Chainsaw Extension Module and Boiling Burst are not factored in",
+    "Emergency Defibrillation only works once per operation",
+    "Boiling Burst causes Blaze to lose 25% of her maximum HP after it expires which can KO her (except when Emergency Defibrillation is active)"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Blaze/Overview"
+}

@@ -1,0 +1,505 @@
+{
+    "info": {
+        "title": "Angelina",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/0/05/Angelina_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20190620082324",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/3/3a/Angelina_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20200501183630",
+            "Distinguished Visitor": "https://static.wikia.nocookie.net/mrfz/images/2/23/Angelina_Skin_2.png/revision/latest/scale-to-width-down/268?cb=20210720125836"
+        }
+    },
+    "skills": [
+        {
+            "name": "Arcane Staff - Quick Charge Mode",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Auto Trigger",
+                "20-35 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +40%\nAutomatically activated",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "20s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +45%\nAutomatically activated",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "21s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +50%\nAutomatically activated",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "22s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +60%\nAutomatically activated",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "25s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +65%\nAutomatically activated",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "26s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +70%\nAutomatically activated",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "27s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +80%\nAutomatically activated",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +90%\nAutomatically activated",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "31s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +100%\nAutomatically activated",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "33s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +110%\nAutomatically activated",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "35s"
+                }
+            ]
+        },
+        {
+            "name": "Arcane Staff - Particle Mode",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "20-30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Interval reduces dramatically, but the Arts damage dealt by every attack is only 30% of ATK\nCannot use Normal Attack when the skill is not activated",
+                    "initial_sp": "0",
+                    "sp_cost": "20",
+                    "duration": "20s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Interval reduces dramatically, but the Arts damage dealt by every attack is only 30% of ATK\nCannot use Normal Attack when the skill is not activated",
+                    "initial_sp": "1",
+                    "sp_cost": "20",
+                    "duration": "21s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Interval reduces dramatically, but the Arts damage dealt by every attack is only 30% of ATK\nCannot use Normal Attack when the skill is not activated",
+                    "initial_sp": "2",
+                    "sp_cost": "20",
+                    "duration": "22s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Interval reduces dramatically, but the Arts damage dealt by every attack is only 35% of ATK\nCannot use Normal Attack when the skill is not activated",
+                    "initial_sp": "3",
+                    "sp_cost": "20",
+                    "duration": "23s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Interval reduces dramatically, but the Arts damage dealt by every attack is only 35% of ATK\nCannot use Normal Attack when the skill is not activated",
+                    "initial_sp": "4",
+                    "sp_cost": "20",
+                    "duration": "24s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Interval reduces dramatically, but the Arts damage dealt by every attack is only 35% of ATK\nCannot use Normal Attack when the skill is not activated",
+                    "initial_sp": "5",
+                    "sp_cost": "20",
+                    "duration": "25s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Interval reduces dramatically, but the Arts damage dealt by every attack is only 40% of ATK\nCannot use Normal Attack when the skill is not activated",
+                    "initial_sp": "6",
+                    "sp_cost": "20",
+                    "duration": "26s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Interval reduces dramatically, but the Arts damage dealt by every attack is only 40% of ATK\nCannot use Normal Attack when the skill is not activated",
+                    "initial_sp": "7",
+                    "sp_cost": "19",
+                    "duration": "27s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Interval reduces dramatically, but the Arts damage dealt by every attack is only 40% of ATK\nCannot use Normal Attack when the skill is not activated",
+                    "initial_sp": "8",
+                    "sp_cost": "18",
+                    "duration": "28s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Interval reduces dramatically, but the Arts damage dealt by every attack is only 45% of ATK\nCannot use Normal Attack when the skill is not activated",
+                    "initial_sp": "10",
+                    "sp_cost": "15",
+                    "duration": "30s"
+                }
+            ]
+        },
+        {
+            "name": "Arcane Staff - Anti-Gravity Mode",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "10-25 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Applies Weightless to all enemies on the battlefield, expands Attack Range, ATK +75%, and can attack 4 enemies\nCannot use normal attacks while skill is inactive",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "10s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Applies Weightless to all enemies on the battlefield, expands Attack Range, ATK +80%, and can attack 4 enemies\nCannot use normal attacks while skill is inactive",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "11s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Applies Weightless to all enemies on the battlefield, expands Attack Range, ATK +85%, and can attack 4 enemies\nCannot use normal attacks while skill is inactive",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "12s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Applies Weightless to all enemies on the battlefield, expands Attack Range, ATK +90%, and can attack 4 enemies\nCannot use normal attacks while skill is inactive",
+                    "initial_sp": "3",
+                    "sp_cost": "25",
+                    "duration": "14s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Applies Weightless to all enemies on the battlefield, expands Attack Range, ATK +95%, and can attack 4 enemies\nCannot use normal attacks while skill is inactive",
+                    "initial_sp": "3",
+                    "sp_cost": "25",
+                    "duration": "15s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Applies Weightless to all enemies on the battlefield, expands Attack Range, ATK +100%, and can attack 4 enemies\nCannot use normal attacks while skill is inactive",
+                    "initial_sp": "3",
+                    "sp_cost": "25",
+                    "duration": "16s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Applies Weightless to all enemies on the battlefield, expands Attack Range, ATK +105%, and can attack 5 enemies\nCannot use normal attacks while skill is inactive",
+                    "initial_sp": "6",
+                    "sp_cost": "25",
+                    "duration": "18s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Applies Weightless to all enemies on the battlefield, expands Attack Range, ATK +120%, and can attack 5 enemies\nCannot use normal attacks while skill is inactive",
+                    "initial_sp": "7",
+                    "sp_cost": "25",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Applies Weightless to all enemies on the battlefield, expands Attack Range, ATK +135%, and can attack 5 enemies\nCannot use normal attacks while skill is inactive",
+                    "initial_sp": "8",
+                    "sp_cost": "25",
+                    "duration": "22s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Applies Weightless to all enemies on the battlefield, expands Attack Range, ATK +150%, and can attack 5 enemies\nCannot use normal attacks while skill is inactive",
+                    "initial_sp": "10",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "6"
+            },
+            {
+                "name": "Orirock",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron Cluster",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "3"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "6"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Cluster",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Integrated Device",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "9"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Accelerator Field",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "All allies' ASPD +3[note 1]"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "All allies' ASPD +7[note 1]"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "All allies' ASPD +4(+1)[note 1]"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "All allies' ASPD +8(+1)[note 1]"
+                }
+            ]
+        },
+        {
+            "name": "Part-time Job",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Restores the HP of all allies by 20 per second when the skill is not activated"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 3",
+                    "description": "Restores the HP of all allies by 25(+5) per second when the skill is not activated"
+                }
+            ]
+        }
+    ]
+}

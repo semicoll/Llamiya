@@ -1,0 +1,493 @@
+{
+    "info": {
+        "title": "Ash",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/c/c8/Ash_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20210309103037",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/a/a7/Ash_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20210406102649"
+        }
+    },
+    "skills": [
+        {
+            "name": "Supporting Fire",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger",
+                "Unlimited"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +5%, attacks hit 2 times in a row\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "55",
+                    "duration": "∞"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +6%, attacks hit 2 times in a row\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "54",
+                    "duration": "∞"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +7%, attacks hit 2 times in a row\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "53",
+                    "duration": "∞"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +8%, attacks hit 2 times in a row\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "52",
+                    "duration": "∞"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +9%, attacks hit 2 times in a row\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "51",
+                    "duration": "∞"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +10%, attacks hit 2 times in a row\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "50",
+                    "duration": "∞"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +11%, attacks hit 2 times in a row\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "49",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +12%, attacks hit 2 times in a row\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "48",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +13%, attacks hit 2 times in a row\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "47",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +15%, attacks hit 2 times in a row\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "45",
+                    "duration": "∞"
+                }
+            ]
+        },
+        {
+            "name": "Assault Tactics",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "Toggleable"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 150% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "30",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 160% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "30",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 170% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "30",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 180% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "30",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 190% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "30",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 200% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "30",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 210% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "29",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 220% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "28",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 230% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "27",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 250% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Breaching Rounds",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Fires a Breaching Round forwards, dealing 200% ATK as Physical damage to enemies in the line of fire and pushing them backwards moderately; The Breaching Round will explode and deal 300% ATK as Physical damage to nearby enemies (if the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 600% ATK as Physical damage); Can only be used 2 times every deployment",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Fires a Breaching Round forwards, dealing 210% ATK as Physical damage to enemies in the line of fire and pushing them backwards moderately; The Breaching Round will explode and deal 310% ATK as Physical damage to nearby enemies (if the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 620% ATK as Physical damage); Can only be used 2 times every deployment",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Fires a Breaching Round forwards, dealing 220% ATK as Physical damage to enemies in the line of fire and pushing them backwards moderately; The Breaching Round will explode and deal 320% ATK as Physical damage to nearby enemies (if the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 640% ATK as Physical damage); Can only be used 2 times every deployment",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Fires a Breaching Round forwards, dealing 230% ATK as Physical damage to enemies in the line of fire and pushing them backwards moderately; The Breaching Round will explode and deal 330% ATK as Physical damage to nearby enemies (if the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 660% ATK as Physical damage); Can only be used 2 times every deployment",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Fires a Breaching Round forwards, dealing 240% ATK as Physical damage to enemies in the line of fire and pushing them backwards moderately; The Breaching Round will explode and deal 340% ATK as Physical damage to nearby enemies (if the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 680% ATK as Physical damage); Can only be used 2 times every deployment",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Fires a Breaching Round forwards, dealing 250% ATK as Physical damage to enemies in the line of fire and pushing them backwards moderately; The Breaching Round will explode and deal 350% ATK as Physical damage to nearby enemies (if the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 700% ATK as Physical damage); Can only be used 2 times every deployment",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Fires a Breaching Round forwards, dealing 260% ATK as Physical damage to enemies in the line of fire and pushing them backwards significantly; The Breaching Round will explode and deal 360% ATK as Physical damage to nearby enemies (if the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 720% ATK as Physical damage); Can only be used 2 times every deployment",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Fires a Breaching Round forwards, dealing 270% ATK as Physical damage to enemies in the line of fire and pushing them backwards significantly; The Breaching Round will explode and deal 370% ATK as Physical damage to nearby enemies (if the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 740% ATK as Physical damage); Can only be used 2 times every deployment",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Fires a Breaching Round forwards, dealing 280% ATK as Physical damage to enemies in the line of fire and pushing them backwards significantly; The Breaching Round will explode and deal 380% ATK as Physical damage to nearby enemies (if the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 760% ATK as Physical damage); Can only be used 2 times every deployment",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Fires a Breaching Round forwards, dealing 300% ATK as Physical damage to enemies in the line of fire and pushing them backwards significantly; The Breaching Round will explode and deal 400% ATK as Physical damage to nearby enemies (if the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 800% ATK as Physical damage); Can only be used 2 times every deployment",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "–"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Crystalline Component",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cluster",
+                "quantity": "5"
+            },
+            {
+                "name": "Integrated Device",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Cluster",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "9"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Auxiliary Equipment",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "After deployment, immediately throw a Stun Grenade at an enemy within range, Stunning them and nearby enemies for 3 seconds"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "After deployment, immediately throw a Stun Grenade at an enemy within range, Stunning them and nearby enemies for 4 seconds"
+                }
+            ]
+        },
+        {
+            "name": "Breaching Specialist",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "During the first deployment, DP Cost -3 and gain 17 SP after deployment"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "During the first deployment, DP Cost -3 and gain 20 (+3) SP after deployment"
+                }
+            ]
+        }
+    ]
+}

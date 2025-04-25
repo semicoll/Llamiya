@@ -1,0 +1,22 @@
+{
+  "name": "Qiubai",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Has a ranged attack used when not blocking an enemy that can hit aerial enemies",
+    "Good overall stats",
+    "Halting Feather is a solid source of both Arts damage and Bind",
+    "Holding Shadow is perfect for stalling enemies in a narrow lane as well as dealing burst Arts damage and Physical damage to them",
+    "Find an Opening cause Qiubai's attacks to deal an instance of Arts damage when attacking Slowed or Bound enemies",
+    "Questioning Snow is an excellent DPS and crowd-control skill with stacking ASPD boost",
+    "Falling Petals gives Qiubai's attacks chance to temporarily Bind enemies"
+  ],
+  "cons": [
+    "Ranged attacks do 80% of melee attacks' damage (unless when Questioning Snow is active)",
+    "Damage sharply falls off when skills aren't activated or when facing enemies with high RES status",
+    "Reliant on external sources of Slow and Bind to consistently trigger Find an Opening, especially as Questioning Snow cannot inflict it by itself",
+    "Halting Feather and Holding Shadow have offensive SP recovery, making it slow to charge outside combat",
+    "Questioning Snow has a below-average uptime"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Qiubai/Overview"
+}

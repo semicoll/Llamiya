@@ -1,0 +1,22 @@
+{
+  "name": "Gavial the Invincible",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Great HP and ATK",
+    "Attacks hit multiple enemies equal to block count",
+    "Can block up to three enemies at Elite 2, like that of most Defenders",
+    "Has solid DPS with all three skills",
+    "Precise Thrashing heals the Invincible for a portion of the damage dealt",
+    "Chainsaw Assault extends the Invincible's reach and provides some degree of crowd-control",
+    "Battleaxe buffs ATK and DEF especially when the Invincible is blocking enemies",
+    "Soul of the Jungle significantly improves DPS and halves all damage taken",
+    "Medical Background improves healing received by the Invincible, especially when her HP falls below 50%"
+  ],
+  "cons": [
+    "Only available from Carnival limited headhunting banners starting from Great Axe and Pen Nib; the Invincible will not be available from any other headhunting banners",
+    "High DP cost that increases with every promotion",
+    "Soul of the Jungle causes the Invincible to lose HP over time upon expiring equal to the damage absorbed, which can KO her"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Gavial the Invincible/Overview"
+}

@@ -1,0 +1,505 @@
+{
+    "info": {
+        "title": "Nightingale",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/8/82/Nightingale_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20220806070440",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/7/76/Nightingale_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20200201080804"
+        }
+    },
+    "skills": [
+        {
+            "name": "Healing Up γ",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +40%",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +45%",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +50%",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +55%",
+                    "initial_sp": "20",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +60%",
+                    "initial_sp": "20",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +65%",
+                    "initial_sp": "20",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +70%",
+                    "initial_sp": "20",
+                    "sp_cost": "32",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +75%",
+                    "initial_sp": "20",
+                    "sp_cost": "32",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +80%",
+                    "initial_sp": "20",
+                    "sp_cost": "32",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +90%",
+                    "initial_sp": "20",
+                    "sp_cost": "30",
+                    "duration": "30s"
+                }
+            ]
+        },
+        {
+            "name": "Arts Shield",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "The next heal grants all targets a Barrier that lasts for 3 seconds\nThe barrier can absorb Arts damage equal to 40% of Nightingale's ATK and increases the target's RES by +5; Can store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "The next heal grants all targets a Barrier that lasts for 3 seconds\nThe barrier can absorb Arts damage equal to 43% of Nightingale's ATK and increases the target's RES by +5; Can store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "The next heal grants all targets a Barrier that lasts for 3 seconds\nThe barrier can absorb Arts damage equal to 46% of Nightingale's ATK and increases the target's RES by +5; Can store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "The next heal grants all targets a Barrier that lasts for 3.5 seconds\nThe barrier can absorb Arts damage equal to 50% of Nightingale's ATK and increases the target's RES by +10; Can store 2 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "The next heal grants all targets a Barrier that lasts for 3.5 seconds\nThe barrier can absorb Arts damage equal to 53% of Nightingale's ATK and increases the target's RES by +10; Can store 2 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "The next heal grants all targets a Barrier that lasts for 3.5 seconds\nThe barrier can absorb Arts damage equal to 56% of Nightingale's ATK and increases the target's RES by +10; Can store 2 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "The next heal grants all targets a Barrier that lasts for 4 seconds\nThe barrier can absorb Arts damage equal to 60% of Nightingale's ATK and increases the target's RES by +15; Can store 2 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "The next heal grants all targets a Barrier that lasts for 4 seconds\nThe barrier can absorb Arts damage equal to 70% of Nightingale's ATK and increases the target's RES by +15; Can store 3 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "The next heal grants all targets a Barrier that lasts for 4 seconds\nThe barrier can absorb Arts damage equal to 80% of Nightingale's ATK and increases the target's RES by +15; Can store 3 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "The next heal grants all targets a Barrier that lasts for 5 seconds\nThe barrier can absorb Arts damage equal to 90% of Nightingale's ATK and increases the target's RES by +20; Can store 3 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Sanctuary",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "60 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Range expands; ATK +30%; RES of allies within range +75% and grants them 10% Arts Dodge",
+                    "initial_sp": "100",
+                    "sp_cost": "120",
+                    "duration": "60s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Range expands; ATK +30%; RES of allies within range +80% and grants them 10% Arts Dodge",
+                    "initial_sp": "100",
+                    "sp_cost": "120",
+                    "duration": "60s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Range expands; ATK +30%; RES of allies within range +85% and grants them 10% Arts Dodge",
+                    "initial_sp": "100",
+                    "sp_cost": "120",
+                    "duration": "60s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Range expands; ATK +40%; RES of allies within range +90% and grants them 15% Arts Dodge",
+                    "initial_sp": "105",
+                    "sp_cost": "120",
+                    "duration": "60s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Range expands; ATK +40%; RES of allies within range +95% and grants them 15% Arts Dodge",
+                    "initial_sp": "105",
+                    "sp_cost": "120",
+                    "duration": "60s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Range expands; ATK +40%; RES of allies within range +100% and grants them 15% Arts Dodge",
+                    "initial_sp": "105",
+                    "sp_cost": "120",
+                    "duration": "60s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Range expands; ATK +50%; RES of allies within range +105% and grants them 20% Arts Dodge",
+                    "initial_sp": "110",
+                    "sp_cost": "120",
+                    "duration": "60s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Range expands; ATK +60%; RES of allies within range +120% and grants them 20% Arts Dodge",
+                    "initial_sp": "110",
+                    "sp_cost": "120",
+                    "duration": "60s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Range expands; ATK +70%; RES of allies within range +135% and grants them 20% Arts Dodge",
+                    "initial_sp": "110",
+                    "sp_cost": "120",
+                    "duration": "60s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Range expands; ATK +80%; RES of allies within range +150% and grants them 25% Arts Dodge",
+                    "initial_sp": "115",
+                    "sp_cost": "120",
+                    "duration": "60s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "7"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "4"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Grindstone",
+                "quantity": "5"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "3"
+            },
+            {
+                "name": "Polyester Pack",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-12",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Cluster",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "White Fiend's Protection",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "RES of allies within range +5"
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "RES of allies within range +10"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "RES of allies within range +15"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "RES of allies within range +7 (+2)"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "RES of allies within range +12 (+2)"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "RES of allies within range +17 (+2)"
+                }
+            ]
+        },
+        {
+            "name": "Fleeting Phantom",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Can summon Phantoms. Phantoms cannot attack or block enemies, but have 75 RES and 30% Physical Dodge and are more likely to be targeted by enemies. Phantoms lose 3% Max HP per second"
+                }
+            ]
+        }
+    ]
+}

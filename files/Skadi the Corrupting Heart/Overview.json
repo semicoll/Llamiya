@@ -1,0 +1,26 @@
+{
+  "name": "Skadi the Corrupting Heart",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Low DP cost",
+    "Heal friendlies within range by 10% of ATK per second",
+    "Chant of Returning by Varied Paths fully restores HP, buffs maximum HP, and improves the trait's effectiveness, and redirects part of the damage taken by friendlies within range to the Corrupting Heart",
+    "Wish of Burial Beyond the Light permanently Inspires friendlies' ATK and DEF, and somewhat improving the trait's effectiveness",
+    "Ancient Kin allows the Corrupting Heart to summon Skadi's Seaborn which is considered as an extension to her range",
+    "\"The Tide Surges, The Tide Recedes\" Inspires friendlies' ATK more than Wish of Burial Beyond the Light and makes her trait inflict Pure damage to nearby enemies instead",
+    "Predatory Habits buffs ATK when a friendly unit is within the Corrupting Heart's range, which is more effective if the friendly is an Abyssal Hunters Operator",
+    "Can be obtained and used even if the player does not have Skadi in their roster"
+  ],
+  "cons": [
+    "Only available from Celebration limited headhunting banners since Abyssal Corrosion; the Corrupting Heart will not be available from any other headhunting banners",
+    "Very low HP and DEF",
+    "Has no base RES, unlike other Supporters",
+    "Unable to directly attack enemies",
+    "Has an unusual range which is difficult to utilize effectively",
+    "Unaffected by Inspiration buffs, including from the Corrupting Heart's own skills",
+    "Skadi's Seaborn self-destructs after a limited time, though it can be redeployed over and over again, and does not cause the Corrupting Heart's trait and skill to stack with the exception to the damage dealt by \"The Tide Surges, The Tide Recedes\"",
+    "The HP drain from \"The Tide Surges, The Tide Recedes\" can (and will) KO the Corrupting Heart if she is not supported by healers"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Skadi the Corrupting Heart/Overview"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Chongyue",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Very low attack interval",
+    "Low DP cost relative to other Guards",
+    "High ATK multipliers on skills let him break through high DEF",
+    "Abundant is effective for massive burst damage",
+    "Whisk can provide solid crowd-control due to its Levitate effect and area damage",
+    "An End to War gives a chance that enemies hit by Chongyue's normal attacks take more damage from him",
+    "Anatta is effective for locking down a lane or engaging multiple strong enemies from range if Chongyue is deployed correctly",
+    "All Are Guests give SP when Chongyue defeat enemies with his skills"
+  ],
+  "cons": [
+    "Only available from Festival limited headhunting banners; Chongyue will not be available from any other banners",
+    "Average-low HP and DEF, and can only block a single enemy",
+    "Basic attacks do little to no damage against enemies with high DEF due to his relatively low base ATK",
+    "Requires the use of skills to be in optimal effectiveness",
+    "Whisk's Levitate is less efficient against enemies with high weight and is reliant on An End to War triggering to deal full damage",
+    "Anatta can take some time to ramp up due to using Offensive Recovery and taking 5 activations to fully activate"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Chongyue/Overview"
+}

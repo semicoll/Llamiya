@@ -1,0 +1,493 @@
+{
+    "info": {
+        "title": "Nearl the Radiant Knight",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/e/e9/Nearl_the_Radiant_Knight_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20211101070120",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/2/22/Nearl_the_Radiant_Knight_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20221101140712"
+        }
+    },
+    "skills": [
+        {
+            "name": "Flaming Edge",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger",
+                "Unlimited"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Range expands, ATK +25% and ASPD +14\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "70",
+                    "duration": "∞"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Range expands, ATK +30% and ASPD +18\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "70",
+                    "duration": "∞"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Range expands, ATK +35% and ASPD +22\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "70",
+                    "duration": "∞"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Range expands, ATK +40% and ASPD +26\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "65",
+                    "duration": "∞"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Range expands, ATK +45% and ASPD +30\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "65",
+                    "duration": "∞"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Range expands, ATK +50% and ASPD +34\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "65",
+                    "duration": "∞"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Range expands, ATK +55% and ASPD +38\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "60",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Range expands, ATK +60% and ASPD +42\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "60",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Range expands, ATK +65% and ASPD +46\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "60",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Range expands, ATK +70% and ASPD +50\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "60",
+                    "duration": "∞"
+                }
+            ]
+        },
+        {
+            "name": "Night-scouring Gleam",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Passive",
+                "20-27 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Passive Effect: Deployment does not consume deployment slots.\nAfter deployment, ATK +60% and gain 2 Shields. After skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "20s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Passive Effect: Deployment does not consume deployment slots.\nAfter deployment, ATK +70% and gain 2 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "20s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Passive Effect: Deployment does not consume deployment slots.\nAfter deployment, ATK +80% and gain 2 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "20s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Passive Effect: Deployment does not consume deployment slots.\nAfter deployment, ATK +90% and gain 3 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "22s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Passive Effect: Deployment does not consume deployment slots.\nAfter deployment, ATK +100% and gain 3 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "22s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Passive Effect: Deployment does not consume deployment slots.\nAfter deployment, ATK +110% and gain 3 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "22s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Passive Effect: Deployment does not consume deployment slots.\nAfter deployment, ATK +120% and gain 3 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Passive Effect: Deployment does not consume deployment slots.\nAfter deployment, ATK +130% and gain 4 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Passive Effect: Deployment does not consume deployment slots.\nAfter deployment, ATK +145% and gain 4 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Passive Effect: Deployment does not consume deployment slots.\nAfter deployment, ATK +160% and gain 4 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "27s"
+                }
+            ]
+        },
+        {
+            "name": "Blazing Sun's Obeisance",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "25 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Summons a \"Blazing Sun\" on a deployable ground tile within the four adjacent tiles, dealing 80% of ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +40%, DEF +20% and damage type changes to True damage when attacking enemies blocked by self or the \"Blazing Sun\"",
+                    "initial_sp": "10",
+                    "sp_cost": "60",
+                    "duration": "25s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Summons a \"Blazing Sun\" on a deployable ground tile within the four adjacent tiles, dealing 80% of ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +50%, DEF +25% and damage type changes to True damage when attacking enemies blocked by self or the \"Blazing Sun\"",
+                    "initial_sp": "10",
+                    "sp_cost": "60",
+                    "duration": "25s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Summons a \"Blazing Sun\" on a deployable ground tile within the four adjacent tiles, dealing 80% of ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +60%, DEF +30% and damage type changes to True damage when attacking enemies blocked by self or the \"Blazing Sun\"",
+                    "initial_sp": "10",
+                    "sp_cost": "60",
+                    "duration": "25s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Summons a \"Blazing Sun\" on a deployable ground tile within the four adjacent tiles, dealing 90% of ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +70%, DEF +40% and damage type changes to True damage when attacking enemies blocked by self or the \"Blazing Sun\"",
+                    "initial_sp": "15",
+                    "sp_cost": "55",
+                    "duration": "25s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Summons a \"Blazing Sun\" on a deployable ground tile within the four adjacent tiles, dealing 90% of ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +80%, DEF +50% and damage type changes to True damage when attacking enemies blocked by self or the \"Blazing Sun\"",
+                    "initial_sp": "15",
+                    "sp_cost": "55",
+                    "duration": "25s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Summons a \"Blazing Sun\" on a deployable ground tile within the four adjacent tiles, dealing 90% of ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +90%, DEF +69% and damage type changes to True damage when attacking enemies blocked by self or the \"Blazing Sun\"",
+                    "initial_sp": "15",
+                    "sp_cost": "55",
+                    "duration": "25s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Summons a \"Blazing Sun\" on a deployable ground tile within the four adjacent tiles, dealing 100% of ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +100%, DEF +70% and damage type changes to True damage when attacking enemies blocked by self or the \"Blazing Sun\"",
+                    "initial_sp": "20",
+                    "sp_cost": "50",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Summons a \"Blazing Sun\" on a deployable ground tile within the four adjacent tiles, dealing 110% of ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +110%, DEF +80% and damage type changes to True damage when attacking enemies blocked by self or the \"Blazing Sun\"",
+                    "initial_sp": "25",
+                    "sp_cost": "47",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Summons a \"Blazing Sun\" on a deployable ground tile within the four adjacent tiles, dealing 110% of ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +125%, DEF +90% and damage type changes to True damage when attacking enemies blocked by self or the \"Blazing Sun\"",
+                    "initial_sp": "25",
+                    "sp_cost": "44",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Summons a \"Blazing Sun\" on a deployable ground tile within the four adjacent tiles, dealing 110% of ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +140%, DEF +100% and damage type changes to True damage when attacking enemies blocked by self or the \"Blazing Sun\"",
+                    "initial_sp": "25",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Orirock",
+                "quantity": "6"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "4"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Grindstone",
+                "quantity": "5"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "3"
+            },
+            {
+                "name": "Incandescent Alloy",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Semi-Synthetic Solvent",
+                        "quantity": "3"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Cluster",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "9"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Brave the Darkness",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When deploying, deals 50% of ATK as True Damage to enemies in the four adjacent tiles and Stuns them for 2 seconds. If the previously deployed Operator is from Kazimierz, deals an additional hit"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When deploying, deals 80% of ATK as True Damage to enemies in the four adjacent tiles and Stuns them for 3 seconds. If the previously deployed Operator is from Kazimierz, deals an additional hit"
+                }
+            ]
+        },
+        {
+            "name": "Daybreak",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Attacks ignore 20% DEF"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Attacks ignore 23% (+3%) DEF"
+                }
+            ]
+        }
+    ]
+}

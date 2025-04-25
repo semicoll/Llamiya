@@ -1,0 +1,21 @@
+{
+  "name": "W",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Attacks deal splash damage",
+    "High ATK – the highest of all Artilleryman Snipers",
+    "Decent HP and DEF",
+    "Jack in the Box automatically plants Front Toward Enemy landmines in open, deployable tiles within W's attack range, which deals heavy damage and stuns  enemies who trigger them",
+    "Ambush provides good Physical/Arts dodge, and makes W less likely to be attacked by ranged enemies",
+    "D12 is the ultimate crowd-control skill capable of causing massive damage to groups of enemies",
+    "Insult to Injury amplifies Physical damage taken by stunned enemies within W's attack range, including damage taken from W's skills as their stun effect is applied before damage is calculated"
+  ],
+  "cons": [
+    "Only available from Celebration limited headhunting banners from Cremation Last Wish, and can only be acquired with 300 Headhunting Data Contracts as of Il Siracusano. W will not be available from any other headhunting banners",
+    "High DP cost that increases with every promotion; one of the highest of all Snipers",
+    "Jack in the Box's Front Toward Enemy landmines only damage ground enemies, are less effective if planted on ranged tiles without melee tiles around them, their activation is counted as an attack which may be awkward at times, and has a limited duration",
+    "Jack in the Box spawns landmines randomly in W's attack range and can't be controlled with any precision"
+  ],
+  "url": "https://arknights.fandom.com/wiki/W/Overview"
+}

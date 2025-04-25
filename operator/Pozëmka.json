@@ -1,0 +1,497 @@
+{
+    "info": {
+        "title": "Pozëmka",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/2/24/Poz%C3%ABmka_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20220811075243",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/9/9c/Poz%C3%ABmka_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20230214095800"
+        }
+    },
+    "skills": [
+        {
+            "name": "Iamb",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Auto Trigger",
+                "Unlimited"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +20%; When attacking, has a 30% chance to deal 130% damage\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "32",
+                    "duration": "∞"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +25%; When attacking, has a 30% chance to deal 135% damage\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "31",
+                    "duration": "∞"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +30%; When attacking, has a 30% chance to deal 140% damage\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "30",
+                    "duration": "∞"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +35%; When attacking, has a 30% chance to deal 145% damage\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "29",
+                    "duration": "∞"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +40%; When attacking, has a 30% chance to deal 150% damage\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "28",
+                    "duration": "∞"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +45%; When attacking, has a 30% chance to deal 155% damage\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "27",
+                    "duration": "∞"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +50%; When attacking, has a 30% chance to deal 160% damage\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +53%; When attacking, has a 30% chance to deal 185% damage\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "23",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +56%; When attacking, has a 40% chance to deal 200% damage\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "21",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +60%; When attacking, has a 40% chance to deal 225% damage\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "20",
+                    "duration": "∞"
+                }
+            ]
+        },
+        {
+            "name": "Précis",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Passive Effect: When using this skill, the Redeployment Time of \"Typewriter\" is reduced to 70%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 160% ATK as Physical damage\nCan store 1 charge",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Passive Effect: When using this skill, the Redeployment Time of \"Typewriter\" is reduced to 70%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 165% ATK as Physical damage\nCan store 1 charge",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Passive Effect: When using this skill, the Redeployment Time of \"Typewriter\" is reduced to 70%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 170% ATK as Physical damage\nCan store 1 charge",
+                    "initial_sp": "3",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Passive Effect: When using this skill, the Redeployment Time of \"Typewriter\" is reduced to 65%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 180% ATK as Physical damage\nCan store 2 charges",
+                    "initial_sp": "3",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Passive Effect: When using this skill, the Redeployment Time of \"Typewriter\" is reduced to 65%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 185% ATK as Physical damage\nCan store 2 charges",
+                    "initial_sp": "3",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Passive Effect: When using this skill, the Redeployment Time of \"Typewriter\" is reduced to 65%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 190% ATK as Physical damage\nCan store 2 charges",
+                    "initial_sp": "6",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Passive Effect: When using this skill, the Redeployment Time of \"Typewriter\" is reduced to 60%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 200% ATK as Physical damage\nCan store 2 charges",
+                    "initial_sp": "6",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Passive Effect: When using this skill, the Redeployment Time of \"Typewriter\" is reduced to 60%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 210% ATK as Physical damage\nCan store 2 charges",
+                    "initial_sp": "6",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Passive Effect: When using this skill, the Redeployment Time of \"Typewriter\" is reduced to 60%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 220% ATK as Physical damage\nCan store 2 charges",
+                    "initial_sp": "9",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Passive Effect: When using this skill, the Redeployment Time of \"Typewriter\" is reduced to 50%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 230% ATK as Physical damage\nCan store 2 charges",
+                    "initial_sp": "9",
+                    "sp_cost": "9",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Opprobrium",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "25-30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Range expands, Attack Interval is reduced, and each attack deals 140% damage (Increased to 155% against enemies in the front 3 tiles)",
+                    "initial_sp": "15",
+                    "sp_cost": "45",
+                    "duration": "25s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Range expands, Attack Interval is reduced, and each attack deals 145% damage (Increased to 165% against enemies in the front 3 tiles)",
+                    "initial_sp": "15",
+                    "sp_cost": "44",
+                    "duration": "25s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Range expands, Attack Interval is reduced, and each attack deals 150% damage (Increased to 175% against enemies in the front 3 tiles)",
+                    "initial_sp": "15",
+                    "sp_cost": "43",
+                    "duration": "25s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Range expands, Attack Interval is reduced, and each attack deals 155% damage (Increased to 185% against enemies in the front 3 tiles)",
+                    "initial_sp": "17",
+                    "sp_cost": "42",
+                    "duration": "26s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Range expands, Attack Interval is reduced, and each attack deals 160% damage (Increased to 195% against enemies in the front 3 tiles)",
+                    "initial_sp": "17",
+                    "sp_cost": "41",
+                    "duration": "26s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Range expands, Attack Interval is reduced, and each attack deals 165% damage (Increased to 205% against enemies in the front 3 tiles)",
+                    "initial_sp": "17",
+                    "sp_cost": "40",
+                    "duration": "26s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Range expands, Attack Interval is reduced, and each attack deals 170% damage (Increased to 215% against enemies in the front 3 tiles)",
+                    "initial_sp": "19",
+                    "sp_cost": "39",
+                    "duration": "27s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Range expands, Attack Interval is reduced, and each attack deals 180% damage (Increased to 230% against enemies in the front 3 tiles)",
+                    "initial_sp": "20",
+                    "sp_cost": "38",
+                    "duration": "28s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Range expands, Attack Interval is reduced, and each attack deals 190% damage (Increased to 240% against enemies in the front 3 tiles)",
+                    "initial_sp": "22",
+                    "sp_cost": "37",
+                    "duration": "29s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Range expands, Attack Interval is reduced, and each attack deals 200% damage (Increased to 255% against enemies in the front 3 tiles)",
+                    "initial_sp": "23",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Ester",
+                "quantity": "6"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "4"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Crystalline Circuit",
+                "quantity": "4"
+            },
+            {
+                "name": "Coagulating Gel",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Compound Cutting Fluid",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Automatic Typewriter",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "Can summon a \"Typewriter\" for 15s; the \"Typewriter\" has the same skill as this unit, and has its own Redeployment Time"
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "Can summon a \"Typewriter\" for 20s; the \"Typewriter\" has the same skill as this unit, and has its own Redeployment Time"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Can summon a \"Typewriter\" for 25s; the \"Typewriter\" has the same skill as this unit, and has its own Redeployment Time"
+                }
+            ]
+        },
+        {
+            "name": "Stenographer of Weaknesses",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Attacks from the \"Typewriter\" reduce the target's DEF by 18% for 4 seconds; if the Typewriter is placed within the 4 tiles adjacent to Pozëmka, this effect increases to to 23%"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Attacks from the \"Typewriter\" reduce the target's DEF by 20% (+2%) for 5 (+1) seconds; if the Typewriter is placed within the 4 tiles adjacent to Pozëmka, this effect increases to to 25% (+2%)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Irene",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Each attack hits the target twice",
+    "Good HP and DEF, and can block two enemies",
+    "All three skills Levitate enemies, which can be useful to separate dangerous enemies from the others",
+    "Shattertides has a good range",
+    "Flames of Castigation gives a 50:50 chance to ignore DEF when damaging enemies, which is guaranteed against enemies being Levitated by Irene's skills as they deals damage after Levitating the targets",
+    "Judgment is a solid AoE skill",
+    "Sword of Cleansing buffs ASPD, which is doubled when a Sea Monster is present"
+  ],
+  "cons": [
+    "Relatively high DP cost that increases with every promotion",
+    "All three skills have offensive SP recovery, making them slow to charge outside combat",
+    "Despite landing two hits, each attack only adds 1 SP",
+    "Not as effective against enemies with high DEF as all three skills deal Physical damage, though this is alleviated by Flames of Castigation"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Irene/Overview"
+}

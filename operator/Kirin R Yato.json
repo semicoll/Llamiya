@@ -1,0 +1,492 @@
+{
+    "info": {
+        "title": "Kirin R Yato",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/e/ee/Kirin_R_Yato_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20230307071507"
+        }
+    },
+    "skills": [
+        {
+            "name": "Demon Mode",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Passive",
+                "20 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ASPD +30, attacks hit 2 times, and every third attack on the same target while the skill is active becomes a 6-hit combo",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "20s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ASPD +35, attacks hit 2 times, and every third attack on the same target while the skill is active becomes a 6-hit combo",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "20s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ASPD +40, attacks hit 2 times, and every third attack on the same target while the skill is active becomes a 6-hit combo",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "20s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ASPD +45, attacks hit 2 times, and every third attack on the same target while the skill is active becomes a 6-hit combo",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "20s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ASPD +50, attacks hit 2 times, and every third attack on the same target while the skill is active becomes a 6-hit combo",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "20s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ASPD +60, attacks hit 2 times, and every third attack on the same target while the skill is active becomes a 6-hit combo",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "20s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ASPD +70, attacks hit 2 times, and every third attack on the same target while the skill is active becomes a 6-hit combo",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ASPD +80, attacks hit 2 times, and every third attack on the same target while the skill is active becomes a 6-hit combo",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ASPD +90, attacks hit 2 times, and every third attack on the same target while the skill is active becomes a 6-hit combo",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ASPD +100, attacks hit 2 times, and every third attack on the same target while the skill is active becomes a 6-hit combo",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "20s"
+                }
+            ]
+        },
+        {
+            "name": "Blade Dance",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Passive"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Talent 1 effect increased to 1.5x, ATK increased to 105%, and slashes all enemies in the frontal tile 16 times. More likely to be targeted by attacks for the duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Talent 1 effect increased to 1.6x, ATK increased to 108%, and slashes all enemies in the frontal tile 16 times. More likely to be targeted by attacks for the duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Talent 1 effect increased to 1.7x, ATK increased to 112%, and slashes all enemies in the frontal tile 16 times. More likely to be targeted by attacks for the duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Talent 1 effect increased to 1.8x, ATK increased to 116%, and slashes all enemies in the frontal tile 16 times. More likely to be targeted by attacks for the duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Talent 1 effect increased to 1.9x, ATK increased to 120%, and slashes all enemies in the frontal tile 16 times. More likely to be targeted by attacks for the duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Talent 1 effect increased to 2x, ATK increased to 125%, and slashes all enemies in the frontal tile 16 times. More likely to be targeted by attacks for the duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Talent 1 effect increased to 2.1x, ATK increased to 130%, and slashes all enemies in the frontal tile 16 times. More likely to be targeted by attacks for the duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Talent 1 effect increased to 2.2x, ATK increased to 135%, and slashes all enemies in the frontal tile 16 times. More likely to be targeted by attacks for the duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Talent 1 effect increased to 2.35x, ATK increased to 140%, and slashes all enemies in the frontal tile 16 times. More likely to be targeted by attacks for the duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Talent 1 effect increased to 2.5x, ATK increased to 150%, and slashes all enemies in the frontal tile 16 times. More likely to be targeted by attacks for the duration",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Midair Spinning Blade Dance",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Passive"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Rushes 2 tiles forward, slashing all surrounding enemies for 200% ATK for every step moved; every enemy attacked in the process extends distance of the rush (max. 5 tiles, can hit aerial units)",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Rushes 2 tiles forward, slashing all surrounding enemies for 210% ATK for every step moved; every enemy attacked in the process extends distance of the rush (max. 5 tiles, can hit aerial units)",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Rushes 2 tiles forward, slashing all surrounding enemies for 220% ATK for every step moved; every enemy attacked in the process extends distance of the rush (max. 5 tiles, can hit aerial units)",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Rushes 2 tiles forward, slashing all surrounding enemies for 230% ATK for every step moved; every enemy attacked in the process extends distance of the rush (max. 5 tiles, can hit aerial units)",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Rushes 2 tiles forward, slashing all surrounding enemies for 240% ATK for every step moved; every enemy attacked in the process extends distance of the rush (max. 5 tiles, can hit aerial units)",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Rushes 2 tiles forward, slashing all surrounding enemies for 250% ATK for every step moved; every enemy attacked in the process extends distance of the rush (max. 5 tiles, can hit aerial units)",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Rushes 2 tiles forward, slashing all surrounding enemies for 260% ATK for every step moved; every enemy attacked in the process extends distance of the rush (max. 5 tiles, can hit aerial units)",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Rushes 2 tiles forward, slashing all surrounding enemies for 270% ATK for every step moved; every enemy attacked in the process extends distance of the rush (max. 5 tiles, can hit aerial units)",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Rushes 2 tiles forward, slashing all surrounding enemies for 280% ATK for every step moved; every enemy attacked in the process extends distance of the rush (max. 5 tiles, can hit aerial units)",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Rushes 2 tiles forward, slashing all surrounding enemies for 300% ATK for every step moved; every enemy attacked in the process extends distance of the rush (max. 5 tiles, can hit aerial units)",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Orirock",
+                "quantity": "6"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "4"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Compound Cutting Fluid",
+                "quantity": "5"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Incandescent Alloy",
+                "quantity": "5"
+            },
+            {
+                "name": "Grindstone",
+                "quantity": "3"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Compound Cutting Fluid",
+                        "quantity": "3"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Cluster",
+                        "quantity": "9"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "9"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Nucleic Crystal Sinter",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Kirin Bolts",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "Attacks deal an additional 6% ATK as Arts damage"
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "Attacks deal an additional 13% ATK as Arts damage"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Attacks deal an additional 20% ATK as Arts damage"
+                }
+            ]
+        },
+        {
+            "name": "Archdemon Mode",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "While skill is active and for 10 seconds after skill ends, ATK +13%"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "While skill is active and for 10 seconds after skill ends, ATK +16% (+3%)"
+                }
+            ]
+        }
+    ]
+}

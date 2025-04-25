@@ -1,0 +1,20 @@
+{
+  "name": "Hellagur",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Have one of the highest HP and ATK of all Guards",
+    "Restores HP in each attack, which synergizes well with skills",
+    "Waxing Moon provides ASPD Tenacity, allowing Hellagur to inflict more damage when at low HP",
+    "Half Moon improves both DPS and survivability",
+    "Full Moon extends attack range and allows Hellagur to attack multiple targets at once",
+    "Ingenious Strategist allows Hellagur to regenerate HP when not blocking enemies"
+  ],
+  "cons": [
+    "High DP cost – the highest of all Guards",
+    "Low DEF and can only block one enemy",
+    "Cannot be directly healed by friendly units (but can still be healed with indirect healing, e.g. Bard Supporters' trait)",
+    "Must be promoted to Elite 2 to be self-sufficient with trait"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Hellagur/Overview"
+}

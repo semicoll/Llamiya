@@ -1,0 +1,22 @@
+{
+  "name": "Kal'tsit",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Has a longer healing range than other Medical  Medics, especially at Elite 2",
+    "Can summon Mon3tr as a force multiplier, which can be redeployed over and over again when it is KO'd or retreated",
+    "Command: Structural Fortification is a straightforward defensive buff for Kal'tsit and Mon3tr",
+    "Command: Tactical Coordination buffs Kal'tsit's ASPD and Mon3tr's ATK, and makes the latter's attacks hit multiple enemies equal to block count",
+    "Command: Meltdown greatly improves Mon3tr's offensive and defensive capabilities, especially by making its attacks deal Pure damage",
+    "Non-Damaging Restructuring Stuns and deals Pure damage to surrounding enemies when Mon3tr is KO'd (and with PHY-X module, also at the first instance of Mon3tr's HP falling below 50%)"
+  ],
+  "cons": [
+    "Lower ATK than other Medical Medics (but higher than Multi-target Medics; this can be somewhat improved with her modules, particularly PHY-Y)",
+    "Mon3tr cannot be directly healed by friendly units other than Kal'tsit (but can still be healed with indirect healing, e.g. Angelina's Part-Time Job talent)",
+    "Kal'tsit heals herself and Mon3tr over friendly units, limiting her usefulness as Medic",
+    "Mon3tr's DEF is reduced to 0 if it is deployed outside Kal'tsit's healing range",
+    "Kal'tsit will only generate SP when Mon3tr is deployed and lose all SP when Mon3tr is KO'd or retreated while she uses Command: Tactical Coordination or Command: Meltdown",
+    "The ATK buff from Command: Meltdown gradually decays over its duration, and Mon3tr will lose half of its maximum HP if it does not defeat any enemies while the skill is active, which can KO it"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Kal'tsit/Overview"
+}

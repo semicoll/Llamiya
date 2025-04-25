@@ -1,0 +1,19 @@
+{
+  "name": "Mostima",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Attacks deal AoE Arts damage",
+    "Lock of Shattered Time is useful to hold off enemies for DPS dealers",
+    "Skill Aura - Caster increases the SP generation rate of Casters",
+    "Key of Chronology provides one of the best DPS and Crowd-Control in the game",
+    "Subjective Time Dilation slows enemies within Mostima's attack range (all enemies with the SPC-Y Operator Module)"
+  ],
+  "cons": [
+    "Very high DP cost (high with the SPC-Y Operator Module)",
+    "Lock of Shattered Time and Key of Chronology have high SP cost and are slow to charge even with Skill Aura - Caster",
+    "Skill Aura - Caster does not stack with Ptilopsis' Skill Aura and only affects Casters with automatic SP recovery",
+    "Outperformed by strong AoE Operators like Eyjafjalla and W outside Mostima's niche of stalling and crowd-control"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Mostima/Overview"
+}

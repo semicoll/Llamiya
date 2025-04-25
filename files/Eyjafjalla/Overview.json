@@ -1,0 +1,17 @@
+{
+  "name": "Eyjafjalla",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Attacks deal Arts damage",
+    "Ignition inflicts AoE Arts damage with consistent activation and reduces the main target's RES",
+    "Pyrobreath buffs the ATK of all deployed Casters",
+    "Volcano literally turns all enemies within range into cinders",
+    "Wild Fire gives additional, random SP upon deployment"
+  ],
+  "cons": [
+    "Volcano has a low uptime and are not as effective against enemies with high RES",
+    "Requires extensive resource investment for full effectiveness, especially with Volcano"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Eyjafjalla/Overview"
+}

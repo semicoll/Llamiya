@@ -1,0 +1,601 @@
+{
+    "info": {
+        "title": "Eyjafjalla the Hvít Aska",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/5/5a/Eyjafjalla_the_Hv%C3%ADt_Aska_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20230801042433"
+        }
+    },
+    "stats": {
+        "HP": {
+            "Base": "789",
+            "Max": "1039",
+            "Elite 1": "1237",
+            "Elite 2": "1439",
+            "Trust": "+200"
+        },
+        "ATK": {
+            "Base": "148",
+            "Max": "244",
+            "Elite 1": "339",
+            "Elite 2": "424",
+            "Trust": "+45"
+        },
+        "DEF": {
+            "Base": "47",
+            "Max": "69",
+            "Elite 1": "87",
+            "Elite 2": "109",
+            "Trust": ""
+        },
+        "RES": {
+            "Base": "10",
+            "Max": "10",
+            "Elite 1": "10",
+            "Elite 2": "10",
+            "Trust": ""
+        },
+        "Rdpl. time": {
+            "Base": "70s",
+            "Max": "70s",
+            "Elite 1": "70s",
+            "Elite 2": "70s",
+            "Trust": ""
+        },
+        "DP cost": {
+            "Base": "14",
+            "Max": "14",
+            "Elite 1": "16",
+            "Elite 2": "16",
+            "Trust": ""
+        },
+        "Blk. cnt.": {
+            "Base": "1",
+            "Max": "1",
+            "Elite 1": "1",
+            "Elite 2": "1",
+            "Trust": ""
+        },
+        "Atk. itvl.": {
+            "Base": "2.85s",
+            "Max": "2.85s",
+            "Elite 1": "2.85s",
+            "Elite 2": "2.85s",
+            "Trust": ""
+        }
+    },
+    "potential": {
+        "Pot 1": "DP cost -1",
+        "Pot 2": "Redeployment time -4 seconds",
+        "Pot 3": "ATK +23",
+        "Pot 4": "Improves Volcanic Ash Healing",
+        "Pot 5": "DP cost -1"
+    },
+    "promotion": {
+        "Elite 1": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Cloudy Barrier.\nNew talent: Dense Smoke.\nimproved.\nRange extended.\nLevel 50\n30K\n5\n12\n5",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "30K"
+                },
+                {
+                    "name": "Medic Chip",
+                    "quantity": "50"
+                },
+                {
+                    "name": "Orirock Cube",
+                    "quantity": "5"
+                },
+                {
+                    "name": "Polyester",
+                    "quantity": "12"
+                }
+            ]
+        },
+        "Elite 2": {
+            "details": "Maximum attributes increased.\nNew skill: Volcanic Reverberation.\nNew talent: Volcanic Ash Healing.\nDense Smoke improved.\nElite 1 Level 80\n180K\n4\n4\n5",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "180K"
+                },
+                {
+                    "name": "Medic Dualchip",
+                    "quantity": "1"
+                },
+                {
+                    "name": "Bipolar Nanoflake",
+                    "quantity": "80"
+                },
+                {
+                    "name": "Oriron Block",
+                    "quantity": "4"
+                }
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "Soundproof Moisturizer",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger",
+                "Unlimited"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +10%, heals an additional target, and allied units within attack range recover Elemental Damage equal to 2% of Eyjafjalla the Hvít Aska's ATK per second\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "80",
+                    "duration": "∞"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +10%, heals an additional target, and allied units within attack range recover Elemental Damage equal to 3% of Eyjafjalla the Hvít Aska's ATK per second\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "78",
+                    "duration": "∞"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +10%, heals an additional target, and allied units within attack range recover Elemental Damage equal to 4% of Eyjafjalla the Hvít Aska's ATK per second\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "76",
+                    "duration": "∞"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +20%, heals an additional target, and allied units within attack range recover Elemental Damage equal to 4% of Eyjafjalla the Hvít Aska's ATK per second\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "74",
+                    "duration": "∞"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +20%, heals an additional target, and allied units within attack range recover Elemental Damage equal to 5% of Eyjafjalla the Hvít Aska's ATK per second\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "72",
+                    "duration": "∞"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +20%, heals an additional target, and allied units within attack range recover Elemental Damage equal to 6% of Eyjafjalla the Hvít Aska's ATK per second\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "70",
+                    "duration": "∞"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +30%, heals an additional target, and allied units within attack range recover Elemental Damage equal to 6% of Eyjafjalla the Hvít Aska's ATK per second\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "68",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +30%, heals an additional target, and allied units within attack range recover Elemental Damage equal to 7% of Eyjafjalla the Hvít Aska's ATK per second\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "64",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +30%, heals an additional target, and allied units within attack range recover Elemental Damage equal to 8% of Eyjafjalla the Hvít Aska's ATK per second\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "62",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +40%, heals an additional target, and allied units within attack range recover Elemental Damage equal to 8% of Eyjafjalla the Hvít Aska's ATK per second\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "60",
+                    "duration": "∞"
+                }
+            ]
+        },
+        {
+            "name": "Cloudy Barrier",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Immediately heals all allied units within attack range and creates an Elemental Barrier over the radius for 10 seconds, which can absorb Elemental Damage taken by allied units within range equal to 350% of ATK",
+                    "initial_sp": "0",
+                    "sp_cost": "30",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Immediately heals all allied units within attack range and creates an Elemental Barrier over the radius for 10 seconds, which can absorb Elemental Damage taken by allied units within range equal to 400% of ATK",
+                    "initial_sp": "0",
+                    "sp_cost": "29",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Immediately heals all allied units within attack range and creates an Elemental Barrier over the radius for 10 seconds, which can absorb Elemental Damage taken by allied units within range equal to 450% of ATK",
+                    "initial_sp": "0",
+                    "sp_cost": "28",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Immediately heals all allied units within attack range and creates an Elemental Barrier over the radius for 12 seconds, which can absorb Elemental Damage taken by allied units within range equal to 500% of ATK",
+                    "initial_sp": "0",
+                    "sp_cost": "27",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Immediately heals all allied units within attack range and creates an Elemental Barrier over the radius for 12 seconds, which can absorb Elemental Damage taken by allied units within range equal to 550% of ATK",
+                    "initial_sp": "0",
+                    "sp_cost": "26",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Immediately heals all allied units within attack range and creates an Elemental Barrier over the radius for 12 seconds, which can absorb Elemental Damage taken by allied units within range equal to 600% of ATK",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Immediately heals all allied units within attack range and creates an Elemental Barrier over the radius for 14 seconds, which can absorb Elemental Damage taken by allied units within range equal to 650% of ATK",
+                    "initial_sp": "0",
+                    "sp_cost": "24",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Immediately heals all allied units within attack range and creates an Elemental Barrier over the radius for 16 seconds, which can absorb Elemental Damage taken by allied units within range equal to 750% of ATK",
+                    "initial_sp": "0",
+                    "sp_cost": "22",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Immediately heals all allied units within attack range and creates an Elemental Barrier over the radius for 18 seconds, which can absorb Elemental Damage taken by allied units within range equal to 800% of ATK",
+                    "initial_sp": "0",
+                    "sp_cost": "21",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Immediately heals all allied units within attack range and creates an Elemental Barrier over the radius for 20 seconds, which can absorb Elemental Damage taken by allied units within range equal to 900% of ATK",
+                    "initial_sp": "0",
+                    "sp_cost": "20",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Volcanic Reverberation",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "50 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack range becomes global and heals in bursts of 5 with 25% of ATK as HP and Elemental Damage recovery, prioritizing different targets, and the effect of Talent 2 increases to 2x",
+                    "initial_sp": "20",
+                    "sp_cost": "80",
+                    "duration": "50s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack range becomes global and heals in bursts of 5 with 25% of ATK as HP and Elemental Damage recovery, prioritizing different targets, and the effect of Talent 2 increases to 2.3x",
+                    "initial_sp": "20",
+                    "sp_cost": "79",
+                    "duration": "50s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack range becomes global and heals in bursts of 5 with 25% of ATK as HP and Elemental Damage recovery, prioritizing different targets, and the effect of Talent 2 increases to 2.6x",
+                    "initial_sp": "20",
+                    "sp_cost": "78",
+                    "duration": "50s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack range becomes global and heals in bursts of 5 with 35% of ATK as HP and Elemental Damage recovery, prioritizing different targets, and the effect of Talent 2 increases to 2.9x",
+                    "initial_sp": "30",
+                    "sp_cost": "75",
+                    "duration": "50s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack range becomes global and heals in bursts of 5 with 35% of ATK as HP and Elemental Damage recovery, prioritizing different targets, and the effect of Talent 2 increases to 3.2x",
+                    "initial_sp": "30",
+                    "sp_cost": "74",
+                    "duration": "50s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack range becomes global and heals in bursts of 5 with 35% of ATK as HP and Elemental Damage recovery, prioritizing different targets, and the effect of Talent 2 increases to 3.5x",
+                    "initial_sp": "30",
+                    "sp_cost": "73",
+                    "duration": "50s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack range becomes global and heals in bursts of 5 with 45% of ATK as HP and Elemental Damage recovery, prioritizing different targets, and the effect of Talent 2 increases to 3.8x",
+                    "initial_sp": "40",
+                    "sp_cost": "70",
+                    "duration": "50s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack range becomes global and heals in bursts of 5 with 50% of ATK as HP and Elemental Damage recovery, prioritizing different targets, and the effect of Talent 2 increases to 4.2x",
+                    "initial_sp": "40",
+                    "sp_cost": "66",
+                    "duration": "50s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack range becomes global and heals in bursts of 5 with 55% of ATK as HP and Elemental Damage recovery, prioritizing different targets, and the effect of Talent 2 increases to 4.6x",
+                    "initial_sp": "40",
+                    "sp_cost": "63",
+                    "duration": "50s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack range becomes global and heals in bursts of 5 with 60% of ATK as HP and Elemental Damage recovery, prioritizing different targets, and the effect of Talent 2 increases to 5x",
+                    "initial_sp": "40",
+                    "sp_cost": "60",
+                    "duration": "50s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cluster",
+                "quantity": "8"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Semi-Synthetic Solvent",
+                "quantity": "5"
+            },
+            {
+                "name": "Oriron Cluster",
+                "quantity": "3"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polyester Pack",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Cluster",
+                        "quantity": "9"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Nucleic Crystal Sinter",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Dense Smoke",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "Normal healing applies a buff effect on the target that recovers HP and Elemental Damage equal to 8% of the healing amount per second, lasting 4 seconds (stacks up to 3 times)"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Normal healing applies a buff effect on the target that recovers HP and Elemental Damage equal to 10% of the healing amount per second, lasting 6 seconds (stacks up to 3 times)"
+                }
+            ]
+        },
+        {
+            "name": "Volcanic Ash Therapy",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Allies within attack range obtains Max HP +6% and takes 12% less Elemental Damage"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Allies within attack range obtains Max HP +8% (+2%) and takes 12% less Elemental Damage"
+                }
+            ]
+        }
+    ]
+}

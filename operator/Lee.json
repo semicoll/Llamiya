@@ -1,0 +1,497 @@
+{
+    "info": {
+        "title": "Lee",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/b/bb/Lee_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20220125055456",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/0/04/Lee_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20221011155631"
+        }
+    },
+    "skills": [
+        {
+            "name": "Stern Admonishment",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger",
+                "Unlimited"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +10% and gain 15% Arts Dodge\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "∞"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +15% and gain 15% Arts Dodge\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "∞"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +20% and gain 15% Arts Dodge\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "∞"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +25% and gain 20% Arts Dodge\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "∞"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +30% and gain 20% Arts Dodge\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "∞"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +35% and gain 20% Arts Dodge\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "∞"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +40% and gain 25% Arts Dodge\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +45% and gain 30% Arts Dodge\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +50% and gain 35% Arts Dodge\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +60% and gain 40% Arts Dodge\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "∞"
+                }
+            ]
+        },
+        {
+            "name": "Exorcise Evil",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Passive Effect: ASPD +10; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 200% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 5% of Lee's ATK (increases up to 20 times, and prematurely explodes if the limit is reached or the target is defeated)",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Passive Effect: ASPD +10; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 210% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 5% of Lee's ATK (increases up to 20 times, and prematurely explodes if the limit is reached or the target is defeated)",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Passive Effect: ASPD +10; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 220% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 5% of Lee's ATK (increases up to 20 times, and prematurely explodes if the limit is reached or the target is defeated)",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Passive Effect: ASPD +15; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 230% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 10% of Lee's ATK (increases up to 20 times, and prematurely explodes if the limit is reached or the target is defeated)",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Passive Effect: ASPD +15; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 240% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 10% of Lee's ATK (increases up to 20 times, and prematurely explodes if the limit is reached or the target is defeated)",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Passive Effect: ASPD +15; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 250% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 10% of Lee's ATK (increases up to 20 times, and prematurely explodes if the limit is reached or the target is defeated)",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Passive Effect: ASPD +20; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 260% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 15% of Lee's ATK (increases up to 25 times, and prematurely explodes if the limit is reached or the target is defeated)",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Passive Effect: ASPD +20; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 270% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 15% of Lee's ATK (increases up to 25 times, and prematurely explodes if the limit is reached or the target is defeated)",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Passive Effect: ASPD +20; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 280% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 15% of Lee's ATK (increases up to 25 times, and prematurely explodes if the limit is reached or the target is defeated)",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Passive Effect: ASPD +30; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 300% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 20% of Lee's ATK (increases up to 30 times, and prematurely explodes if the limit is reached or the target is defeated)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Honored Guest",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger",
+                "Unlimited"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Expands Attack Range, ATK and DEF +25%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 50% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "∞"
+                },
+                {
+                    "level": "2",
+                    "effect": "Expands Attack Range, ATK and DEF +27%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 50% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "∞"
+                },
+                {
+                    "level": "3",
+                    "effect": "Expands Attack Range, ATK and DEF +29%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 50% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "∞"
+                },
+                {
+                    "level": "4",
+                    "effect": "Expands Attack Range, ATK and DEF +31%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 55% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "∞"
+                },
+                {
+                    "level": "5",
+                    "effect": "Expands Attack Range, ATK and DEF +33%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 55% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "∞"
+                },
+                {
+                    "level": "6",
+                    "effect": "Expands Attack Range, ATK and DEF +35%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 55% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "∞"
+                },
+                {
+                    "level": "7",
+                    "effect": "Expands Attack Range, ATK and DEF +37%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 60% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Expands Attack Range, ATK and DEF +40%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 60% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Expands Attack Range, ATK and DEF +45%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 60% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Expands Attack Range, ATK and DEF +50%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 70% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "∞"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Semi-Synthetic Solvent",
+                "quantity": "5"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Compound Cutting Fluid",
+                "quantity": "4"
+            },
+            {
+                "name": "Grindstone",
+                "quantity": "3"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Cluster",
+                        "quantity": "11"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Kindness Begets Prosperity",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When Lee is blocking an enemy, the enemy has ASPD -7 and Lee has ASPD +7; If there is only one enemy within the surrounding 8 tiles, this effect is doubled"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When Lee is blocking an enemy, the enemy has ASPD -14 and Lee has ASPD +14; If there is only one enemy within the surrounding 8 tiles, this effect is doubled"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "When Lee is blocking an enemy, the enemy has ASPD -8 (+1) and Lee has ASPD +8 (+1); If there is only one enemy within the surrounding 8 tiles, this effect is doubled"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "When Lee is blocking an enemy, the enemy has ASPD -15 (+1) and Lee has ASPD +15 (+1); If there is only one enemy within the surrounding 8 tiles, this effect is doubled"
+                }
+            ]
+        },
+        {
+            "name": "Preparedness Averts Peril",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "When DP is consumed by Lee's Trait, if there is sufficient DP, consumes 5 DP instead to block the next Stun/Frozen effect inflicted on Lee and Stun the attacker for 3 seconds"
+                }
+            ]
+        }
+    ]
+}

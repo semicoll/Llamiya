@@ -1,0 +1,23 @@
+{
+  "name": "Penance",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Very high HP",
+    "Very high ATK compared to other Defenders",
+    "Guardian of the Law grants a Barrier that absorbs a good deal of damage; from Elite 1, the Barrier's damage absorption can be increased by defeating enemies",
+    "Last Word is a solid DPS skill that can be Overcharged to be even more effective",
+    "Stoic Atonement applies Sanctuary and periodically deals Arts damage to surrounding enemies, in addition to strengthening the Barrier from Guardian of the Law",
+    "Trial of Thorns greatly buffs ATK and grants a/strengthens the Barrier, as well as Taunting enemies",
+    "Wreathed in Thorns deals Arts damage to attackers while Penance has a Barrier provided by her Guardian of the Law or Trial of Thorns"
+  ],
+  "cons": [
+    "Very high DP cost – the highest of all Operators at Elite 2",
+    "Cannot be directly healed by friendly units (but can still be healed by indirect healing, e.g. Bard Supporters' trait) and have no ways to restore own HP, unlike other Juggernaut Defenders",
+    "Very susceptible to Elemental Damage buildup",
+    "Guardian of the Law can be less useful if Penance is deployed on low-traffic areas or other friendly units steal her kills too often",
+    "Stoic Atonement stops Penance from attacking",
+    "Trial of Thorns increases attack interval and has defensive SP recovery, rendering its SP unable to be charged outside combat and not suitable against high-speed unblockable enemies"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Penance/Overview"
+}

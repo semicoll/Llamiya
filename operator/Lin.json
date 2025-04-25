@@ -1,0 +1,502 @@
+{
+    "info": {
+        "title": "Lin",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/e/ee/Lin_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20230117040048"
+        }
+    },
+    "skills": [
+        {
+            "name": "Elegance",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Can switch between the original state and the following state:\nAttack interval slightly increased, ATK +10%, attacks slow the target for 0.7 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Can switch between the original state and the following state:\nAttack interval slightly increased, ATK +15%, attacks slow the target for 0.7 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Can switch between the original state and the following state:\nAttack interval slightly increased, ATK +20%, attacks slow the target for 0.7 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Can switch between the original state and the following state:\nAttack interval slightly increased, ATK +25%, attacks slow the target for 0.8 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Can switch between the original state and the following state:\nAttack interval slightly increased, ATK +30%, attacks slow the target for 0.8 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Can switch between the original state and the following state:\nAttack interval slightly increased, ATK +35%, attacks slow the target for 0.8 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Can switch between the original state and the following state:\nAttack interval slightly increased, ATK +40%, attacks slow the target for 0.9 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Can switch between the original state and the following state:\nAttack interval slightly increased, ATK +45%, attacks slow the target for 0.9 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Can switch between the original state and the following state:\nAttack interval slightly increased, ATK +50%, attacks slow the target for 1 second",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Can switch between the original state and the following state:\nAttack interval slightly increased, ATK +60%, attacks slow the target for 1 second",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Shelter",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "25 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ASPD +10, less likely to be attacked by enemies, all allies within attack range gain Talent 1 effect while skill is active",
+                    "initial_sp": "15",
+                    "sp_cost": "45",
+                    "duration": "25s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ASPD +20, less likely to be attacked by enemies, all allies within attack range gain Talent 1 effect while skill is active",
+                    "initial_sp": "15",
+                    "sp_cost": "44",
+                    "duration": "25s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ASPD +30, less likely to be attacked by enemies, all allies within attack range gain Talent 1 effect while skill is active",
+                    "initial_sp": "15",
+                    "sp_cost": "43",
+                    "duration": "25s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ASPD +50, less likely to be attacked by enemies, all allies within attack range gain Talent 1 effect while skill is active",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ASPD +60, less likely to be attacked by enemies, all allies within attack range gain Talent 1 effect while skill is active",
+                    "initial_sp": "20",
+                    "sp_cost": "39",
+                    "duration": "25s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ASPD +70, less likely to be attacked by enemies, all allies within attack range gain Talent 1 effect while skill is active",
+                    "initial_sp": "20",
+                    "sp_cost": "38",
+                    "duration": "25s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ASPD +90, less likely to be attacked by enemies, all allies within attack range gain Talent 1 effect while skill is active",
+                    "initial_sp": "25",
+                    "sp_cost": "35",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ASPD +100, less likely to be attacked by enemies, all allies within attack range gain Talent 1 effect while skill is active",
+                    "initial_sp": "25",
+                    "sp_cost": "32",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ASPD +110, less likely to be attacked by enemies, all allies within attack range gain Talent 1 effect while skill is active",
+                    "initial_sp": "25",
+                    "sp_cost": "31",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ASPD +130, less likely to be attacked by enemies, all allies within attack range gain Talent 1 effect while skill is active",
+                    "initial_sp": "25",
+                    "sp_cost": "30",
+                    "duration": "25s"
+                }
+            ]
+        },
+        {
+            "name": "Riving Lighttails",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "24-30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +90%, attack range and Crystal Barrier shatter damage range increase; Crystal Barrier damage threshold increases to 1.5x. Whenever an attack defeats an enemy, immediately shatter the Crystal Barrier and create a new one\nSkill can be manually deactivated (skill can be interrupted at any time)",
+                    "initial_sp": "10",
+                    "sp_cost": "60",
+                    "duration": "24s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +100%, attack range and Crystal Barrier shatter damage range increase; Crystal Barrier damage threshold increases to 1.5x. Whenever an attack defeats an enemy, immediately shatter the Crystal Barrier and create a new one\nSkill can be manually deactivated (skill can be interrupted at any time)",
+                    "initial_sp": "12",
+                    "sp_cost": "59",
+                    "duration": "24s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +110%, attack range and Crystal Barrier shatter damage range increase; Crystal Barrier damage threshold increases to 1.5x. Whenever an attack defeats an enemy, immediately shatter the Crystal Barrier and create a new one\nSkill can be manually deactivated (skill can be interrupted at any time)",
+                    "initial_sp": "14",
+                    "sp_cost": "58",
+                    "duration": "24s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +125%, attack range and Crystal Barrier shatter damage range increase; Crystal Barrier damage threshold increases to 2x. Whenever an attack defeats an enemy, immediately shatter the Crystal Barrier and create a new one\nSkill can be manually deactivated (skill can be interrupted at any time)",
+                    "initial_sp": "16",
+                    "sp_cost": "56",
+                    "duration": "26s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +135%, attack range and Crystal Barrier shatter damage range increase; Crystal Barrier damage threshold increases to 2x. Whenever an attack defeats an enemy, immediately shatter the Crystal Barrier and create a new one\nSkill can be manually deactivated (skill can be interrupted at any time)",
+                    "initial_sp": "18",
+                    "sp_cost": "55",
+                    "duration": "26s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +145%, attack range and Crystal Barrier shatter damage range increase; Crystal Barrier damage threshold increases to 2x. Whenever an attack defeats an enemy, immediately shatter the Crystal Barrier and create a new one\nSkill can be manually deactivated (skill can be interrupted at any time)",
+                    "initial_sp": "20",
+                    "sp_cost": "54",
+                    "duration": "26s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +160%, attack range and Crystal Barrier shatter damage range increase; Crystal Barrier damage threshold increases to 2.5x. Whenever an attack defeats an enemy, immediately shatter the Crystal Barrier and create a new one\nSkill can be manually deactivated (skill can be interrupted at any time)",
+                    "initial_sp": "22",
+                    "sp_cost": "52",
+                    "duration": "28s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +175%, attack range and Crystal Barrier shatter damage range increase; Crystal Barrier damage threshold increases to 2.5x. Whenever an attack defeats an enemy, immediately shatter the Crystal Barrier and create a new one\nSkill can be manually deactivated (skill can be interrupted at any time)",
+                    "initial_sp": "24",
+                    "sp_cost": "50",
+                    "duration": "28s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +185%, attack range and Crystal Barrier shatter damage range increase; Crystal Barrier damage threshold increases to 2.5x. Whenever an attack defeats an enemy, immediately shatter the Crystal Barrier and create a new one\nSkill can be manually deactivated (skill can be interrupted at any time)",
+                    "initial_sp": "28",
+                    "sp_cost": "50",
+                    "duration": "28s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +200%, attack range and Crystal Barrier shatter damage range increase; Crystal Barrier damage threshold increases to 3x. Whenever an attack defeats an enemy, immediately shatter the Crystal Barrier and create a new one\nSkill can be manually deactivated (skill can be interrupted at any time)",
+                    "initial_sp": "30",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "6"
+            },
+            {
+                "name": "Orirock",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Transmuted Salt",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "5"
+            },
+            {
+                "name": "Compound Cutting Fluid",
+                "quantity": "3"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Semi-Synthetic Solvent",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Oriron Cluster",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polyester Pack",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Transmuted Salt Agglomerate",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Foolproof Plan",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "A Crystal Barrier blocks all damage, shattering when 150 or more damage is taken from a single source, dealing 60% of Lin's ATK as Arts damage to all enemies within attack range[note 1] and stunning them for 1s, reforms after 12s"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "A Crystal Barrier blocks all damage, shattering when 200 or more damage is taken from a single source, dealing 100% of Lin's ATK as Arts damage to all enemies within attack range[note 1] and stunning them for 1s, reforms after 8s"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "A Crystal Barrier blocks all damage, shattering when 150 or more damage is taken from a single source, dealing 70% (+10%) of Lin's ATK as Arts damage to all enemies within attack range[note 1] and stunning them for 1s, reforms after 12s"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "A Crystal Barrier blocks all damage, shattering when 200 or more damage is taken from a single source, dealing 110% (+10%) of Lin's ATK as Arts damage to all enemies within attack range[note 1] and stunning them for 1s, reforms after 8s"
+                }
+            ]
+        },
+        {
+            "name": "Shrouded Strength",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "50% chance to recover 1 SP when attacked"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 3",
+                    "description": "55% (+5%) chance to recover 1 SP when attacked"
+                }
+            ]
+        }
+    ]
+}

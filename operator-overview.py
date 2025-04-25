@@ -106,28 +106,15 @@ def save_to_json(data, operator_name):
         data (dict): The operator data to save
         operator_name (str): The name of the operator
     """
-    # Create the directory if it doesn't exist
-    output_dir = Path("/home/semicolon/Projects/Llamiya/files/operator")
+    # Create the directory for this operator if it doesn't exist
+    output_dir = Path(f"./files/{operator_name}")
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    output_file = output_dir / "overview.json"
+    output_file = output_dir / "Overview.json"
     
-    # Load existing data if the file exists
-    if output_file.exists():
-        with open(output_file, 'r', encoding='utf-8') as f:
-            try:
-                all_operators = json.load(f)
-            except json.JSONDecodeError:
-                all_operators = {}
-    else:
-        all_operators = {}
-    
-    # Add or update the operator data
-    all_operators[operator_name.lower()] = data
-    
-    # Save the updated data
+    # Save the data to the file
     with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(all_operators, f, indent=2, ensure_ascii=False)
+        json.dump(data, f, indent=2, ensure_ascii=False)
     
     print(f"Data for {operator_name} saved to {output_file}")
 

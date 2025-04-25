@@ -1,0 +1,497 @@
+{
+    "info": {
+        "title": "Mountain",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/4/4a/Mountain_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20201217054721",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/4/4e/Mountain_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20210503051253",
+            "Dark Cloud": "https://static.wikia.nocookie.net/mrfz/images/a/a9/Mountain_Skin_2.png/revision/latest/scale-to-width-down/268?cb=20220908225437"
+        }
+    },
+    "skills": [
+        {
+            "name": "Left Hook",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "The next attack deals 140% damage and hits 1 additional target",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "The next attack deals 150% damage and hits 1 additional target",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "The next attack deals 160% damage and hits 1 additional target",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "The next attack deals 170% damage and hits 1 additional target",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "The next attack deals 180% damage and hits 1 additional target",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "The next attack deals 190% damage and hits 1 additional target",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "The next attack deals 200% damage and hits 1 additional target",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "The next attack deals 210% damage and hits 1 additional target",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "The next attack deals 220% damage and hits 1 additional target",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "The next attack deals 230% damage and hits 1 additional target",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Sweeping Stance",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Can switch between the original state and the following state:\nDEF -30%, Attack Range reduces, ATK +20%, Block +1, attacks all blocked enemies, and restores 3% Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Can switch between the original state and the following state:\nDEF -30%, Attack Range reduces, ATK +25%, Block +1, attacks all blocked enemies, and restores 3% Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Can switch between the original state and the following state:\nDEF -30%, Attack Range reduces, ATK +30%, Block +1, attacks all blocked enemies, and restores 3% Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Can switch between the original state and the following state:\nDEF -30%, Attack Range reduces, ATK +35%, Block +1, attacks all blocked enemies, and restores 4% Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Can switch between the original state and the following state:\nDEF -30%, Attack Range reduces, ATK +40%, Block +1, attacks all blocked enemies, and restores 4% Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Can switch between the original state and the following state:\nDEF -30%, Attack Range reduces, ATK +45%, Block +1, attacks all blocked enemies, and restores 4% Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Can switch between the original state and the following state:\nDEF -25%, Attack Range reduces, ATK +50%, Block +1, attacks all blocked enemies, and restores 5% Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Can switch between the original state and the following state:\nDEF -25%, Attack Range reduces, ATK +60%, Block +1, attacks all blocked enemies, and restores 5.5% Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Can switch between the original state and the following state:\nDEF -25%, Attack Range reduces, ATK +70%, Block +1, attacks all blocked enemies, and restores 6% Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Can switch between the original state and the following state:\nDEF -20%, Attack Range reduces, ATK +80%, Block +1, attacks all blocked enemies, and restores 7% Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Earth-Shattering Smash",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "25-30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Interval increases, ATK +40%, attacks hit 2 times, increases the activation rate of the first Talent to 40%, and each attack pushes up to 3 surrounding targets away moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "50",
+                    "duration": "25s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Interval increases, ATK +45%, attacks hit 2 times, increases the activation rate of the first Talent to 42%, and each attack pushes up to 3 surrounding targets away moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "49",
+                    "duration": "25s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Interval increases, ATK +50%, attacks hit 2 times, increases the activation rate of the first Talent to 44%, and each attack pushes up to 3 surrounding targets away moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "48",
+                    "duration": "25s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Interval increases, ATK +55%, attacks hit 2 times, increases the activation rate of the first Talent to 48%, and each attack pushes up to 3 surrounding targets away moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "47",
+                    "duration": "26s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Interval increases, ATK +60%, attacks hit 2 times, increases the activation rate of the first Talent to 50%, and each attack pushes up to 3 surrounding targets away moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "46",
+                    "duration": "26s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Interval increases, ATK +65%, attacks hit 2 times, increases the activation rate of the first Talent to 52%, and each attack pushes up to 3 surrounding targets away moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "45",
+                    "duration": "26s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Interval increases, ATK +70%, attacks hit 2 times, increases the activation rate of the first Talent to 55%, and each attack pushes up to 3 surrounding targets away moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "44",
+                    "duration": "27s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Interval increases, ATK +80%, attacks hit 2 times, increases the activation rate of the first Talent to 60%, and each attack pushes up to 4 surrounding targets away moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "43",
+                    "duration": "28s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Interval increases, ATK +90%, attacks hit 2 times, increases the activation rate of the first Talent to 65%, and each attack pushes up to 4 surrounding targets away moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "42",
+                    "duration": "29s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Interval increases, ATK +100%, attacks hit 2 times, increases the activation rate of the first Talent to 70%, and each attack pushes up to 4 surrounding targets away moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "7"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "7"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Manganese Ore",
+                "quantity": "3"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-12",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "9"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Forceful Fist",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "20% chance for attacks to deal 140% damage and reduce the target's ATK by 10% for 3 seconds (Does not stack)"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "20% chance for attacks to deal 160% damage and reduce the target's ATK by 15% for 3 seconds (Does not stack)"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "20% chance for attacks to deal 145% (+5%) damage and reduce the target's ATK by 10% for 3 seconds (Does not stack)"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "20% chance for attacks to deal 165% (+5%) damage and reduce the target's ATK by 15% for 3 seconds (Does not stack)"
+                }
+            ]
+        },
+        {
+            "name": "Sturdy Constitution",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "DEF +10%, Physical Dodge +15%"
+                }
+            ]
+        }
+    ]
+}

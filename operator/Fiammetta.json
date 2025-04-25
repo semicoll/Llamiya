@@ -1,0 +1,496 @@
+{
+    "info": {
+        "title": "Fiammetta",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/1/18/Fiammetta_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20220315043108"
+        }
+    },
+    "skills": [
+        {
+            "name": "\"Provocate\"",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Manual Trigger",
+                "30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Range +1 tile, ATK +30%",
+                    "initial_sp": "5",
+                    "sp_cost": "20",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Range +1 tile, ATK +35%",
+                    "initial_sp": "5",
+                    "sp_cost": "19",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Range +1 tile, ATK +40%",
+                    "initial_sp": "5",
+                    "sp_cost": "18",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Range +1 tile, ATK +45%",
+                    "initial_sp": "5",
+                    "sp_cost": "17",
+                    "duration": "30s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Range +1 tile, ATK +50%",
+                    "initial_sp": "5",
+                    "sp_cost": "16",
+                    "duration": "30s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Range +1 tile, ATK +55%",
+                    "initial_sp": "5",
+                    "sp_cost": "15",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Range +1 tile, ATK +60%",
+                    "initial_sp": "5",
+                    "sp_cost": "14",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Range +1 tile, ATK +75%",
+                    "initial_sp": "5",
+                    "sp_cost": "13",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Range +1 tile, ATK +90%",
+                    "initial_sp": "5",
+                    "sp_cost": "12",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Range +1 tile, ATK +100%",
+                    "initial_sp": "5",
+                    "sp_cost": "10",
+                    "duration": "30s"
+                }
+            ]
+        },
+        {
+            "name": "\"Paenitete\"",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Fires scorching bullets that leaves incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum Attack Range, dealing 200% Physical damage and causing incendiary marks to explode in sequence, dealing 100% Physical damage",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Fires scorching bullets that leaves incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum Attack Range, dealing 220% Physical damage and causing incendiary marks to explode in sequence, dealing 110% Physical damage",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Fires scorching bullets that leaves incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum Attack Range, dealing 240% Physical damage and causing incendiary marks to explode in sequence, dealing 120% Physical damage",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Fires scorching bullets that leaves incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum Attack Range, dealing 260% Physical damage and causing incendiary marks to explode in sequence, dealing 130% Physical damage",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Fires scorching bullets that leaves incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum Attack Range, dealing 280% Physical damage and causing incendiary marks to explode in sequence, dealing 140% Physical damage",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Fires scorching bullets that leaves incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum Attack Range, dealing 300% Physical damage and causing incendiary marks to explode in sequence, dealing 150% Physical damage",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Fires scorching bullets that leaves incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum Attack Range, dealing 320% Physical damage and causing incendiary marks to explode in sequence, dealing 160% Physical damage",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Fires scorching bullets that leaves incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum Attack Range, dealing 340% Physical damage and causing incendiary marks to explode in sequence, dealing 170% Physical damage",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Fires scorching bullets that leaves incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum Attack Range, dealing 360% Physical damage and causing incendiary marks to explode in sequence, dealing 180% Physical damage",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Fires scorching bullets that leaves incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum Attack Range, dealing 400% Physical damage and causing incendiary marks to explode in sequence, dealing 200% Physical damage",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "\"Reponite\"",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Manual Trigger",
+                "Toggleable"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Continuously barrages a fixed area in front of this unit at max Range, expanding explosion area and increasing ATK to 105%. Enemies closer to the impact site in a smaller area will instead take 150% ATK as damage\nUnlimited duration, can manually deactivate skill",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Continuously barrages a fixed area in front of this unit at max Range, expanding explosion area and increasing ATK to 105%. Enemies closer to the impact site in a smaller area will instead take 155% ATK as damage\nUnlimited duration, can manually deactivate skill",
+                    "initial_sp": "0",
+                    "sp_cost": "24",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Continuously barrages a fixed area in front of this unit at max Range, expanding explosion area and increasing ATK to 105%. Enemies closer to the impact site in a smaller area will instead take 160% ATK as damage\nUnlimited duration, can manually deactivate skill",
+                    "initial_sp": "0",
+                    "sp_cost": "23",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Continuously barrages a fixed area in front of this unit at max Range, expanding explosion area and increasing ATK to 110%. Enemies closer to the impact site in a smaller area will instead take 170% ATK as damage\nUnlimited duration, can manually deactivate skill",
+                    "initial_sp": "0",
+                    "sp_cost": "22",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Continuously barrages a fixed area in front of this unit at max Range, expanding explosion area and increasing ATK to 110%. Enemies closer to the impact site in a smaller area will instead take 175% ATK as damage\nUnlimited duration, can manually deactivate skill",
+                    "initial_sp": "0",
+                    "sp_cost": "21",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Continuously barrages a fixed area in front of this unit at max Range, expanding explosion area and increasing ATK to 110%. Enemies closer to the impact site in a smaller area will instead take 180% ATK as damage\nUnlimited duration, can manually deactivate skill",
+                    "initial_sp": "0",
+                    "sp_cost": "20",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Continuously barrages a fixed area in front of this unit at max Range, expanding explosion area and increasing ATK to 115%. Enemies closer to the impact site in a smaller area will instead take 185% ATK as damage\nUnlimited duration, can manually deactivate skill",
+                    "initial_sp": "0",
+                    "sp_cost": "19",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Continuously barrages a fixed area in front of this unit at max Range, expanding explosion area and increasing ATK to 115%. Enemies closer to the impact site in a smaller area will instead take 190% ATK as damage\nUnlimited duration, can manually deactivate skill",
+                    "initial_sp": "0",
+                    "sp_cost": "18",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Continuously barrages a fixed area in front of this unit at max Range, expanding explosion area and increasing ATK to 115%. Enemies closer to the impact site in a smaller area will instead take 200% ATK as damage\nUnlimited duration, can manually deactivate skill",
+                    "initial_sp": "0",
+                    "sp_cost": "17",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Continuously barrages a fixed area in front of this unit at max Range, expanding explosion area and increasing ATK to 125%. Enemies closer to the impact site in a smaller area will instead take 220% ATK as damage\nUnlimited duration, can manually deactivate skill",
+                    "initial_sp": "0",
+                    "sp_cost": "15",
+                    "duration": "–"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Orirock",
+                "quantity": "6"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "4"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Coagulating Gel",
+                "quantity": "5"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Manganese Ore",
+                "quantity": "4"
+            },
+            {
+                "name": "Incandescent Alloy",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Manganese Ore",
+                        "quantity": "9"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "3"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Sufferer of Tribulations",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "Continually loses HP over time[note 1] (HP cannot drop to 0 as a result of this effect); When HP is above 50%, this unit gains Vigor, increasing ATK by 15%; this effect is doubled above 80% HP"
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "Continually loses HP over time[note 1] (HP cannot drop to 0 as a result of this effect); When HP is above 50%, this unit gains Vigor, increasing ATK by 20%; this effect is doubled above 80% HP"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Continually loses HP over time[note 1] (HP cannot drop to 0 as a result of this effect); When HP is above 50%, this unit gains Vigor, increasing ATK by 25%; this effect is doubled above 80% HP"
+                }
+            ]
+        },
+        {
+            "name": "Herald of Revelations",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "While this unit has no skill active, ASPD +27"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "While this unit has no skill active, ASPD +30 (+3)"
+                }
+            ]
+        }
+    ]
+}

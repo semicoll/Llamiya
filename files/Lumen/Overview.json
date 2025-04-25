@@ -1,0 +1,22 @@
+{
+  "name": "Lumen",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Wide healing range",
+    "Good ATK",
+    "In Downpour, Grace cures all Negative Statuses on the healed friendlies when Overcharged",
+    "An Everyman's Wish bestows Status Resistance to healed targets, which is extended for friendlies with >75% HP",
+    "This Lantern Undying significantly improves Lumen's healing capability especially on friendlies on Negative Statuses which will also cures them, and the ammo will only be consumed when healing friendlies with Negative Statuses",
+    "Quick Fix automatically have Lumen heal friendlies the moment they are affected with a Negative Status",
+    "Welfare Operator; accessible and Potential can be easily maxed out"
+  ],
+  "cons": [
+    "Can only be obtained during Stultifera Navis, but players who missed the event will have the opportunity to obtain Lumen at the rerun and later, through Record Restoration",
+    "Higher DP cost and lower ATK than Medical Medics",
+    "Healing is reduced to 80% at further targets",
+    "This Lantern Undying can be detrimental when there are friendlies needing immediate HP recovery over curing Negative Statuses",
+    "Quick Fix has a cooldown"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Lumen/Overview"
+}

@@ -1,0 +1,612 @@
+{
+    "info": {
+        "title": "Blaze",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/a/ab/Blaze_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20200201060226",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/d/d9/Blaze_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20210503053633"
+        }
+    },
+    "stats": {
+        "HP": {
+            "Base": "1286",
+            "Max": "1649",
+            "Elite 1": "2115",
+            "Elite 2": "2821",
+            "Trust": ""
+        },
+        "ATK": {
+            "Base": "308",
+            "Max": "429",
+            "Elite 1": "581",
+            "Elite 2": "765",
+            "Trust": "+60"
+        },
+        "DEF": {
+            "Base": "156",
+            "Max": "224",
+            "Elite 1": "303",
+            "Elite 2": "370",
+            "Trust": "+45"
+        },
+        "RES": {
+            "Base": "0",
+            "Max": "0",
+            "Elite 1": "0",
+            "Elite 2": "0",
+            "Trust": ""
+        },
+        "Rdpl. time": {
+            "Base": "70s",
+            "Max": "70s",
+            "Elite 1": "70s",
+            "Elite 2": "70s",
+            "Trust": ""
+        },
+        "DP cost": {
+            "Base": "20",
+            "Max": "20",
+            "Elite 1": "22",
+            "Elite 2": "24",
+            "Trust": ""
+        },
+        "Blk. cnt.": {
+            "Base": "2",
+            "Max": "2",
+            "Elite 1": "2",
+            "Elite 2": "3",
+            "Trust": ""
+        },
+        "Atk. itvl.": {
+            "Base": "1.2s",
+            "Max": "1.2s",
+            "Elite 1": "1.2s",
+            "Elite 2": "1.2s",
+            "Trust": ""
+        }
+    },
+    "potential": {
+        "Pot 1": "DP cost -1",
+        "Pot 2": "Improves Emergency Defibrillation",
+        "Pot 3": "ATK +28",
+        "Pot 4": "Improves Harsh Training",
+        "Pot 5": "DP cost -1"
+    },
+    "promotion": {
+        "Elite 1": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Chainsaw Extension Module.\nNew talent: Emergency Defibrillation.\nLevel 50\n30K\n5\n5\n4",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "30K"
+                },
+                {
+                    "name": "Guard Chip",
+                    "quantity": "50"
+                },
+                {
+                    "name": "Device",
+                    "quantity": "5"
+                },
+                {
+                    "name": "Polyketon",
+                    "quantity": "5"
+                }
+            ]
+        },
+        "Elite 2": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nBlock count +1.\nNew skill: Boiling Burst.\nNew talent: Harsh Training.\nEmergency Defibrillation improved.\nElite 1 Level 80\n180K\n4\n4\n6",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "180K"
+                },
+                {
+                    "name": "Guard Dualchip",
+                    "quantity": "1"
+                },
+                {
+                    "name": "D32 Steel",
+                    "quantity": "80"
+                },
+                {
+                    "name": "Optimized Device",
+                    "quantity": "4"
+                }
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "Power Strike γ",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Increases the ATK of next attack to 190%",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Increases the ATK of next attack to 195%",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Increases the ATK of next attack to 200%",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Increases the ATK of next attack to 205%",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Increases the ATK of next attack to 210%",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Increases the ATK of next attack to 215%",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Increases the ATK of next attack to 225%",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Increases the ATK of next attack to 245%",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Increases the ATK of next attack to 265%",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Increases the ATK of next attack to 290%",
+                    "initial_sp": "0",
+                    "sp_cost": "2",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Chainsaw Extension Module",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger",
+                "Unlimited"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +40%, DEF +10%, and Attack Range increases\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "90",
+                    "duration": "∞"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +45%, DEF +10%, and Attack Range increases\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "89",
+                    "duration": "∞"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +50%, DEF +10%, and Attack Range increases\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "88",
+                    "duration": "∞"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +55%, DEF +15%, and Attack Range increases\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "85",
+                    "duration": "∞"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +60%, DEF +15%, and Attack Range increases\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "84",
+                    "duration": "∞"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +65%, DEF +15%, and Attack Range increases\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "83",
+                    "duration": "∞"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +70%, DEF +20%, and Attack Range increases\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "80",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +80%, DEF +25%, and Attack Range increases\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "77",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +90%, DEF +30%, and Attack Range increases\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "74",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +100%, DEF +35%, and Attack Range increases\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "70",
+                    "duration": "∞"
+                }
+            ]
+        },
+        {
+            "name": "Boiling Burst",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "10 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Upon skill activation, ATK and DEF gradually increase to +30%, and attacks slice enemies in front of this unit. When this skill ends, this unit loses 25% HP and deals 300% ATK as Physical damage to surrounding enemies",
+                    "initial_sp": "15",
+                    "sp_cost": "45",
+                    "duration": "10s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Upon skill activation, ATK and DEF gradually increase to +35%, and attacks slice enemies in front of this unit. When this skill ends, this unit loses 25% HP and deals 300% ATK as Physical damage to surrounding enemies",
+                    "initial_sp": "15",
+                    "sp_cost": "44",
+                    "duration": "10s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Upon skill activation, ATK and DEF gradually increase to +40%, and attacks slice enemies in front of this unit. When this skill ends, this unit loses 25% HP and deals 300% ATK as Physical damage to surrounding enemies",
+                    "initial_sp": "15",
+                    "sp_cost": "43",
+                    "duration": "10s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Upon skill activation, ATK and DEF gradually increase to +45%, and attacks slice enemies in front of this unit. When this skill ends, this unit loses 25% HP and deals 320% ATK as Physical damage to surrounding enemies",
+                    "initial_sp": "17",
+                    "sp_cost": "42",
+                    "duration": "10s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Upon skill activation, ATK and DEF gradually increase to +50%, and attacks slice enemies in front of this unit. When this skill ends, this unit loses 25% HP and deals 320% ATK as Physical damage to surrounding enemies",
+                    "initial_sp": "17",
+                    "sp_cost": "41",
+                    "duration": "10s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Upon skill activation, ATK and DEF gradually increase to +55%, and attacks slice enemies in front of this unit. When this skill ends, this unit loses 25% HP and deals 320% ATK as Physical damage to surrounding enemies",
+                    "initial_sp": "17",
+                    "sp_cost": "40",
+                    "duration": "10s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Upon skill activation, ATK and DEF gradually increase to +60%, and attacks slice enemies in front of this unit. When this skill ends, this unit loses 25% HP and deals 340% ATK as Physical damage to surrounding enemies",
+                    "initial_sp": "19",
+                    "sp_cost": "39",
+                    "duration": "10s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Upon skill activation, ATK and DEF gradually increase to +65%, and attacks slice enemies in front of this unit. When this skill ends, this unit loses 25% HP and deals 360% ATK as Physical damage to surrounding enemies",
+                    "initial_sp": "21",
+                    "sp_cost": "38",
+                    "duration": "10s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Upon skill activation, ATK and DEF gradually increase to +70%, and attacks slice enemies in front of this unit. When this skill ends, this unit loses 25% HP and deals 380% ATK as Physical damage to surrounding enemies",
+                    "initial_sp": "23",
+                    "sp_cost": "37",
+                    "duration": "10s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Upon skill activation, ATK and DEF gradually increase to +80%, and attacks slice enemies in front of this unit. When this skill ends, this unit loses 25% HP and deals 400% ATK as Physical damage to surrounding enemies",
+                    "initial_sp": "25",
+                    "sp_cost": "35",
+                    "duration": "10s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            },
+            {
+                "name": "Ester",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "7"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "4"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cluster",
+                "quantity": "8"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Coagulating Gel",
+                "quantity": "4"
+            },
+            {
+                "name": "Oriron Cluster",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Cluster",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Integrated Device",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Emergency Defibrillation",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When this unit's HP falls beneath 25%, restores 50% HP (one time only) and prevents HP from falling under 50% for 3 seconds"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When this unit's HP falls beneath 25%, restores 50% HP (one time only) and prevents HP from falling under 50% for 6 seconds"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 3",
+                    "description": "When this unit's HP falls beneath 25%, restores 50% HP (one time only) and prevents HP from falling under 50% for 4(+1) seconds"
+                },
+                {
+                    "level": "Potential 2",
+                    "description": "When this unit's HP falls beneath 25%, restores 50% HP (one time only) and prevents HP from falling under 50% for 7(+1) seconds"
+                }
+            ]
+        },
+        {
+            "name": "Harsh Training",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Gains status resistance after being deployed for 15 seconds"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Gains status resistance after being deployed for 12 (-3) seconds"
+                }
+            ]
+        }
+    ]
+}

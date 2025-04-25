@@ -1,0 +1,607 @@
+{
+    "info": {
+        "title": "Nian",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/c/c8/Nian_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20200201060609",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/5/5f/Nian_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20210406101532"
+        }
+    },
+    "stats": {
+        "HP": {
+            "Base": "1539",
+            "Max": "2080",
+            "Elite 1": "2737",
+            "Elite 2": "3699",
+            "Trust": "+400"
+        },
+        "ATK": {
+            "Base": "295",
+            "Max": "405",
+            "Elite 1": "513",
+            "Elite 2": "619",
+            "Trust": ""
+        },
+        "DEF": {
+            "Base": "254",
+            "Max": "380",
+            "Elite 1": "529",
+            "Elite 2": "726",
+            "Trust": "+70"
+        },
+        "RES": {
+            "Base": "0",
+            "Max": "0",
+            "Elite 1": "0",
+            "Elite 2": "0",
+            "Trust": ""
+        },
+        "Rdpl. time": {
+            "Base": "70s",
+            "Max": "70s",
+            "Elite 1": "70s",
+            "Elite 2": "70s",
+            "Trust": ""
+        },
+        "DP cost": {
+            "Base": "19",
+            "Max": "19",
+            "Elite 1": "21",
+            "Elite 2": "23",
+            "Trust": ""
+        },
+        "Blk. cnt.": {
+            "Base": "3",
+            "Max": "3",
+            "Elite 1": "3",
+            "Elite 2": "3",
+            "Trust": ""
+        },
+        "Atk. itvl.": {
+            "Base": "1.5s",
+            "Max": "1.5s",
+            "Elite 1": "1.5s",
+            "Elite 2": "1.5s",
+            "Trust": ""
+        }
+    },
+    "potential": {
+        "Pot 1": "DP cost -1",
+        "Pot 2": "ATK +24",
+        "Pot 3": "DEF +30",
+        "Pot 4": "Improves Tectonic Armor",
+        "Pot 5": "DP cost -1"
+    },
+    "promotion": {
+        "Elite 1": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Copper Seal.\nNew talent: Tectonic Armor.\nLevel 50\n30K\n5\n12\n5",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "30K"
+                },
+                {
+                    "name": "Defender Chip",
+                    "quantity": "50"
+                },
+                {
+                    "name": "Orirock Cube",
+                    "quantity": "5"
+                },
+                {
+                    "name": "Polyester",
+                    "quantity": "12"
+                }
+            ]
+        },
+        "Elite 2": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Iron Defense.\nNew talent: Clairvoyance.\nTectonic Armor improved.\nOperator Modules available.\nElite 1 Level 80\n180K\n4\n4\n7",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "180K"
+                },
+                {
+                    "name": "Defender Dualchip",
+                    "quantity": "1"
+                },
+                {
+                    "name": "Polymerization Preparation",
+                    "quantity": "80"
+                },
+                {
+                    "name": "Incandescent Alloy Block",
+                    "quantity": "4"
+                }
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "Tin Burning",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "20-30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "DEF +25%, ATK +10%, and normal attacks now deal Arts damage",
+                    "initial_sp": "10",
+                    "sp_cost": "30",
+                    "duration": "20s"
+                },
+                {
+                    "level": "2",
+                    "effect": "DEF +30%, ATK +10%, and normal attacks now deal Arts damage",
+                    "initial_sp": "10",
+                    "sp_cost": "30",
+                    "duration": "21s"
+                },
+                {
+                    "level": "3",
+                    "effect": "DEF +35%, ATK +10%, and normal attacks now deal Arts damage",
+                    "initial_sp": "10",
+                    "sp_cost": "30",
+                    "duration": "22s"
+                },
+                {
+                    "level": "4",
+                    "effect": "DEF +40%, ATK +20%, and normal attacks now deal Arts damage",
+                    "initial_sp": "10",
+                    "sp_cost": "30",
+                    "duration": "23s"
+                },
+                {
+                    "level": "5",
+                    "effect": "DEF +45%, ATK +20%, and normal attacks now deal Arts damage",
+                    "initial_sp": "10",
+                    "sp_cost": "30",
+                    "duration": "24s"
+                },
+                {
+                    "level": "6",
+                    "effect": "DEF +50%, ATK +20%, and normal attacks now deal Arts damage",
+                    "initial_sp": "10",
+                    "sp_cost": "30",
+                    "duration": "25s"
+                },
+                {
+                    "level": "7",
+                    "effect": "DEF +55%, ATK +30%, and normal attacks now deal Arts damage",
+                    "initial_sp": "10",
+                    "sp_cost": "30",
+                    "duration": "26s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "DEF +60%, ATK +35%, and normal attacks now deal Arts damage",
+                    "initial_sp": "10",
+                    "sp_cost": "30",
+                    "duration": "27s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "DEF +65%, ATK +40%, and normal attacks now deal Arts damage",
+                    "initial_sp": "10",
+                    "sp_cost": "30",
+                    "duration": "28s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "DEF +70%, ATK +45%, and normal attacks now deal Arts damage",
+                    "initial_sp": "10",
+                    "sp_cost": "30",
+                    "duration": "30s"
+                }
+            ]
+        },
+        {
+            "name": "Copper Seal",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30-35 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Stops attacking; DEF +60%, Block +1, upon receiving an enemy attack, deals Arts damage to the attacker equal to 50% of Nian's ATK and silences them for 3 seconds",
+                    "initial_sp": "25",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Stops attacking; DEF +65%, Block +1, upon receiving an enemy attack, deals Arts damage to the attacker equal to 50% of Nian's ATK and silences them for 3 seconds",
+                    "initial_sp": "26",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Stops attacking; DEF +70%, Block +1, upon receiving an enemy attack, deals Arts damage to the attacker equal to 50% of Nian's ATK and silences them for 3 seconds",
+                    "initial_sp": "27",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Stops attacking; DEF +80%, Block +1, upon receiving an enemy attack, deals Arts damage to the attacker equal to 60% of Nian's ATK and silences them for 3 seconds",
+                    "initial_sp": "28",
+                    "sp_cost": "50",
+                    "duration": "31s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Stops attacking; DEF +85%, Block +1, upon receiving an enemy attack, deals Arts damage to the attacker equal to 60% of Nian's ATK and silences them for 3 seconds",
+                    "initial_sp": "29",
+                    "sp_cost": "50",
+                    "duration": "31s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Stops attacking; DEF +90%, Block +1, upon receiving an enemy attack, deals Arts damage to the attacker equal to 60% of Nian's ATK and silences them for 3 seconds",
+                    "initial_sp": "30",
+                    "sp_cost": "50",
+                    "duration": "31s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Stops attacking; DEF +100%, Block +1, upon receiving an enemy attack, deals Arts damage to the attacker equal to 70% of Nian's ATK and silences them for 3 seconds",
+                    "initial_sp": "31",
+                    "sp_cost": "50",
+                    "duration": "32s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Stops attacking; DEF +110%, Block +1, upon receiving an enemy attack, deals Arts damage to the attacker equal to 70% of Nian's ATK and silences them for 4 seconds",
+                    "initial_sp": "32",
+                    "sp_cost": "50",
+                    "duration": "33s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Stops attacking; DEF +120%, Block +1, upon receiving an enemy attack, deals Arts damage to the attacker equal to 80% of Nian's ATK and silences them for 4 seconds",
+                    "initial_sp": "33",
+                    "sp_cost": "50",
+                    "duration": "34s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Stops attacking; DEF +130%, Block +1, upon receiving an enemy attack, deals Arts damage to the attacker equal to 90% of Nian's ATK and silences them for 5 seconds",
+                    "initial_sp": "35",
+                    "sp_cost": "50",
+                    "duration": "35s"
+                }
+            ]
+        },
+        {
+            "name": "Iron Defense",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "40-45 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +55%; Nearby ally units gain DEF +30%, Block +1 and status resistance",
+                    "initial_sp": "40",
+                    "sp_cost": "85",
+                    "duration": "40s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +55%; Nearby ally units gain DEF +30%, Block +1 and status resistance",
+                    "initial_sp": "42",
+                    "sp_cost": "85",
+                    "duration": "40s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +60%; Nearby ally units gain DEF +30%, Block +1 and status resistance",
+                    "initial_sp": "44",
+                    "sp_cost": "85",
+                    "duration": "40s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +65%; Nearby ally units gain DEF +40%, Block +1 and status resistance",
+                    "initial_sp": "48",
+                    "sp_cost": "85",
+                    "duration": "40s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +70%; Nearby ally units gain DEF +40%, Block +1 and status resistance",
+                    "initial_sp": "50",
+                    "sp_cost": "85",
+                    "duration": "40s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +75%; Nearby ally units gain DEF +40%, Block +1 and status resistance",
+                    "initial_sp": "52",
+                    "sp_cost": "85",
+                    "duration": "40s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +80%; Nearby ally units gain DEF +50%, Block +1 and status resistance",
+                    "initial_sp": "56",
+                    "sp_cost": "85",
+                    "duration": "40s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +90%; Nearby ally units gain DEF +60%, Block +1 and status resistance",
+                    "initial_sp": "60",
+                    "sp_cost": "85",
+                    "duration": "41s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +100%; Nearby ally units gain DEF +70%, Block +1 and status resistance",
+                    "initial_sp": "64",
+                    "sp_cost": "85",
+                    "duration": "42s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +120%; Nearby ally units gain DEF +80%, Block +1 and status resistance",
+                    "initial_sp": "70",
+                    "sp_cost": "85",
+                    "duration": "45s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Orirock",
+                "quantity": "6"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "4"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Coagulating Gel",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron Cluster",
+                "quantity": "3"
+            },
+            {
+                "name": "Grindstone",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Ore",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-12",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "9"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Tectonic Armor",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When this unit is in the squad, all Defenders gain +8% Max HP"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When this unit is in the squad, all Defenders gain +16% Max HP"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "When this unit is in the squad, all Defenders gain +12%(+4%) Max HP"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "When this unit is in the squad, all Defenders gain +20%(+4%) Max HP"
+                }
+            ]
+        },
+        {
+            "name": "Clairvoyance",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "After deployment, immediately gains 3 Shields"
+                }
+            ]
+        }
+    ]
+}

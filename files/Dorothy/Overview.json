@@ -1,0 +1,21 @@
+{
+  "name": "Dorothy",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Classified as a ranged Operator with a ranged attack similar to that of Marksman Snipers (but does not prioritize flying units)",
+    "Allows the deployment of Resonators, which are traps not counted towards the Unit Limit",
+    "All three skills are automatically activated and gives Dorothy additional Resonators to use in each activation",
+    "Dangerous Entity Removal reduce the victim's DEF, making them more vulnerable to Physical damage",
+    "Quicksand Generation is good for stalling especially if the Resonator only hits one enemy",
+    "High-speed Resonating Troubleshooter can cause massive Arts damage due to the \"chain reaction\" if deployed correctly",
+    "Dreamer buffs ATK (up to a limit) every time a Resonator is triggered"
+  ],
+  "cons": [
+    "Not as effective as true Marksman Snipers in DPS",
+    "The Resonators cannot be deployed on tiles occupied by enemies, will not be triggered by flying and invisible enemies, and will disappear when Dorothy is KO'd or retreated",
+    "Despite being automatically given and have no deployment restrictions, there is a limit on how many Resonators Dorothy can hold at a time",
+    "Micromanagement-intensive, not recommended for casual or new players"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Dorothy/Overview"
+}

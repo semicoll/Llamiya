@@ -1,0 +1,506 @@
+{
+    "info": {
+        "title": "Mudrock",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/9/97/Mudrock_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20201101075314",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/4/4c/Mudrock_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20210803142508",
+            "Silent Night DN06": "https://static.wikia.nocookie.net/mrfz/images/0/08/Mudrock_Skin_2.png/revision/latest/scale-to-width-down/268?cb=20220502081317"
+        }
+    },
+    "skills": [
+        {
+            "name": "DEF Up γ",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "40 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "DEF +30%",
+                    "initial_sp": "0",
+                    "sp_cost": "45",
+                    "duration": "40s"
+                },
+                {
+                    "level": "2",
+                    "effect": "DEF +35%",
+                    "initial_sp": "0",
+                    "sp_cost": "45",
+                    "duration": "40s"
+                },
+                {
+                    "level": "3",
+                    "effect": "DEF +40%",
+                    "initial_sp": "0",
+                    "sp_cost": "45",
+                    "duration": "40s"
+                },
+                {
+                    "level": "4",
+                    "effect": "DEF +45%",
+                    "initial_sp": "5",
+                    "sp_cost": "40",
+                    "duration": "40s"
+                },
+                {
+                    "level": "5",
+                    "effect": "DEF +50%",
+                    "initial_sp": "5",
+                    "sp_cost": "40",
+                    "duration": "40s"
+                },
+                {
+                    "level": "6",
+                    "effect": "DEF +55%",
+                    "initial_sp": "5",
+                    "sp_cost": "40",
+                    "duration": "40s"
+                },
+                {
+                    "level": "7",
+                    "effect": "DEF +60%",
+                    "initial_sp": "10",
+                    "sp_cost": "35",
+                    "duration": "40s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "DEF +75%",
+                    "initial_sp": "10",
+                    "sp_cost": "34",
+                    "duration": "40s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "DEF +90%",
+                    "initial_sp": "10",
+                    "sp_cost": "33",
+                    "duration": "40s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "DEF +100%",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "40s"
+                }
+            ]
+        },
+        {
+            "name": "Crag Splitter",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Defensive Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "The next attack restores 4% of this unit's Max HP and deals 170% ATK as Physical damage to all surrounding ground enemies, with a 30% chance to Stun them for 0.4 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "The next attack restores 4% of this unit's Max HP and deals 175% ATK as Physical damage to all surrounding ground enemies, with a 30% chance to Stun them for 0.4 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "The next attack restores 4% of this unit's Max HP and deals 180% ATK as Physical damage to all surrounding ground enemies, with a 30% chance to Stun them for 0.4 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "The next attack restores 4% of this unit's Max HP and deals 190% ATK as Physical damage to all surrounding ground enemies, with a 30% chance to Stun them for 0.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "The next attack restores 4% of this unit's Max HP and deals 195% ATK as Physical damage to all surrounding ground enemies, with a 30% chance to Stun them for 0.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "The next attack restores 4% of this unit's Max HP and deals 200% ATK as Physical damage to all surrounding ground enemies, with a 30% chance to Stun them for 0.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "The next attack restores 5% of this unit's Max HP and deals 210% ATK as Physical damage to all surrounding ground enemies, with a 30% chance to Stun them for 0.6 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "The next attack restores 5% of this unit's Max HP and deals 230% ATK as Physical damage to all surrounding ground enemies, with a 30% chance to Stun them for 0.8 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "The next attack restores 5% of this unit's Max HP and deals 250% ATK as Physical damage to all surrounding ground enemies, with a 30% chance to Stun them for 1 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "The next attack restores 6% of this unit's Max HP and deals 270% ATK as Physical damage to all surrounding ground enemies, with a 30% chance to Stun them for 1.2 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Bloodline of Desecrated Earth",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Upon skill activation, Mudrock stops attacking and does not take damage for 10 seconds, and reduces the Movement Speed of surrounding enemies by -60%; After this state ends, Mudrock Stuns surrounding ground enemies for 3 seconds and gains reduced attack interval, ATK +70%, DEF +30%, and the ability to attack all blocked enemies",
+                    "initial_sp": "10",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Upon skill activation, Mudrock stops attacking and does not take damage for 10 seconds, and reduces the Movement Speed of surrounding enemies by -60%; After this state ends, Mudrock Stuns surrounding ground enemies for 3 seconds and gains reduced attack interval, ATK +75%, DEF +30%, and the ability to attack all blocked enemies",
+                    "initial_sp": "10",
+                    "sp_cost": "34",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Upon skill activation, Mudrock stops attacking and does not take damage for 10 seconds, and reduces the Movement Speed of surrounding enemies by -60%; After this state ends, Mudrock Stuns surrounding ground enemies for 3 seconds and gains reduced attack interval, ATK +80%, DEF +30%, and the ability to attack all blocked enemies",
+                    "initial_sp": "10",
+                    "sp_cost": "33",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Upon skill activation, Mudrock stops attacking and does not take damage for 10 seconds, and reduces the Movement Speed of surrounding enemies by -60%; After this state ends, Mudrock Stuns surrounding ground enemies for 3 seconds and gains reduced attack interval, ATK +85%, DEF +40%, and the ability to attack all blocked enemies",
+                    "initial_sp": "11",
+                    "sp_cost": "32",
+                    "duration": "30s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Upon skill activation, Mudrock stops attacking and does not take damage for 10 seconds, and reduces the Movement Speed of surrounding enemies by -60%; After this state ends, Mudrock Stuns surrounding ground enemies for 3 seconds and gains reduced attack interval, ATK +90%, DEF +40%, and the ability to attack all blocked enemies",
+                    "initial_sp": "11",
+                    "sp_cost": "31",
+                    "duration": "30s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Upon skill activation, Mudrock stops attacking and does not take damage for 10 seconds, and reduces the Movement Speed of surrounding enemies by -60%; After this state ends, Mudrock Stuns surrounding ground enemies for 3 seconds and gains reduced attack interval, ATK +95%, DEF +40%, and the ability to attack all blocked enemies",
+                    "initial_sp": "11",
+                    "sp_cost": "30",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Upon skill activation, Mudrock stops attacking and does not take damage for 10 seconds, and reduces the Movement Speed of surrounding enemies by -60%; After this state ends, Mudrock Stuns surrounding ground enemies for 3.5 seconds and gains reduced attack interval, ATK +100%, DEF +50%, and the ability to attack all blocked enemies",
+                    "initial_sp": "12",
+                    "sp_cost": "29",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Upon skill activation, Mudrock stops attacking and does not take damage for 10 seconds, and reduces the Movement Speed of surrounding enemies by -60%; After this state ends, Mudrock Stuns surrounding ground enemies for 4 seconds and gains reduced attack interval, ATK +110%, DEF +60%, and the ability to attack all blocked enemies",
+                    "initial_sp": "13",
+                    "sp_cost": "28",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Upon skill activation, Mudrock stops attacking and does not take damage for 10 seconds, and reduces the Movement Speed of surrounding enemies by -60%; After this state ends, Mudrock Stuns surrounding ground enemies for 4.5 seconds and gains reduced attack interval, ATK +120%, DEF +70%, and the ability to attack all blocked enemies",
+                    "initial_sp": "14",
+                    "sp_cost": "27",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Upon skill activation, Mudrock stops attacking and does not take damage for 10 seconds, and reduces the Movement Speed of surrounding enemies by -60%; After this state ends, Mudrock Stuns surrounding ground enemies for 5 seconds and gains reduced attack interval, ATK +140%, DEF +80%, and the ability to attack all blocked enemies",
+                    "initial_sp": "15",
+                    "sp_cost": "25",
+                    "duration": "30s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Integrated Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Coagulating Gel",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Integrated Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "3"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Ore",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Ward of the Fertile Soil",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "Every 9 seconds, gains 1 Shield (Can have up to 2 stacks, with 1 stack granted immediately when deployed). When a Shield is broken, restores 15% of Max HP"
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "Every 9 seconds, gains 1 Shield (Can have up to 2 stacks, with 1 stack granted immediately when deployed). When a Shield is broken, restores 17% of Max HP"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Every 9 seconds, gains 1 Shield (Can have up to 3 stacks, with 1 stack granted immediately when deployed). When a Shield is broken, restores 20% of Max HP"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Every 9 seconds, gains 1 Shield (Can have up to 2 stacks, with 1 stack granted immediately when deployed). When a Shield is broken, restores 17% (+2%) of Max HP"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "Every 9 seconds, gains 1 Shield (Can have up to 2 stacks, with 1 stack granted immediately when deployed). When a Shield is broken, restores 19% (+2%) of Max HP"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "Every 9 seconds, gains 1 Shield (Can have up to 3 stacks, with 1 stack granted immediately when deployed). When a Shield is broken, restores 22% (+2%) of Max HP"
+                }
+            ]
+        },
+        {
+            "name": "Unshakable Solidarity",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Takes 30% less damage from Sarkaz enemies"
+                }
+            ]
+        }
+    ]
+}

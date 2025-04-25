@@ -1,0 +1,22 @@
+{
+  "name": "Bagpipe",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Highest ATK of all Vanguards",
+    "Generates 1 DP with each kill",
+    "Returns all DP cost when retreated",
+    "High-Impact Assault causes attacks to do more damage and deliver two hits, improving DPS",
+    "Precise Reloading gives a decent chance for attacks to do more damage and hit an additional enemy",
+    "Locked Breech Burst significantly improves DPS and defensive capability",
+    "Martial Tradition increases all Vanguards' initial SP"
+  ],
+  "cons": [
+    "High DP cost – second highest of all Vanguards",
+    "Her own DP generation is somewhat low",
+    "Low DEF and can only block a single enemy, making it hard to take advantage of Precise Reloading (unless Locked Breech Burst is active)",
+    "Locked Breech Burst increases attack interval",
+    "Her full suite of DP benefits requires her to be at full potential, which can be daunting for later players to achieve. This is proven to be especially pivotal in game modes like Contingency Contract"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Bagpipe/Overview"
+}

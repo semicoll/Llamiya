@@ -1,0 +1,613 @@
+{
+    "info": {
+        "title": "Gavial the Invincible",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/5/5c/Gavial_the_Invincible_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20220811065248",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/1/11/Gavial_the_Invincible_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20230808090507"
+        }
+    },
+    "stats": {
+        "HP": {
+            "Base": "1325",
+            "Max": "1699",
+            "Elite 1": "2179",
+            "Elite 2": "2906",
+            "Trust": ""
+        },
+        "ATK": {
+            "Base": "309",
+            "Max": "430",
+            "Elite 1": "582",
+            "Elite 2": "766",
+            "Trust": "+50"
+        },
+        "DEF": {
+            "Base": "165",
+            "Max": "236",
+            "Elite 1": "320",
+            "Elite 2": "391",
+            "Trust": "+60"
+        },
+        "RES": {
+            "Base": "0",
+            "Max": "0",
+            "Elite 1": "0",
+            "Elite 2": "0",
+            "Trust": ""
+        },
+        "Rdpl. time": {
+            "Base": "70s",
+            "Max": "70s",
+            "Elite 1": "70s",
+            "Elite 2": "70s",
+            "Trust": ""
+        },
+        "DP cost": {
+            "Base": "20",
+            "Max": "20",
+            "Elite 1": "22",
+            "Elite 2": "24",
+            "Trust": ""
+        },
+        "Blk. cnt.": {
+            "Base": "2",
+            "Max": "2",
+            "Elite 1": "2",
+            "Elite 2": "3",
+            "Trust": ""
+        },
+        "Atk. itvl.": {
+            "Base": "1.2s",
+            "Max": "1.2s",
+            "Elite 1": "1.2s",
+            "Elite 2": "1.2s",
+            "Trust": ""
+        }
+    },
+    "potential": {
+        "Pot 1": "DP cost -1",
+        "Pot 2": "Improves Battleaxe",
+        "Pot 3": "ATK +28",
+        "Pot 4": "Improves Medical Background",
+        "Pot 5": "DP cost -1"
+    },
+    "promotion": {
+        "Elite 1": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Chainsaw Assault.\nNew talent: Battleaxe.\nLevel 50\n30K\n5\n12\n4",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "30K"
+                },
+                {
+                    "name": "Guard Chip",
+                    "quantity": "50"
+                },
+                {
+                    "name": "Orirock Cube",
+                    "quantity": "5"
+                },
+                {
+                    "name": "Polyketon",
+                    "quantity": "12"
+                }
+            ]
+        },
+        "Elite 2": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nBlock count +1.\nNew skill: Soul of the Jungle.\nNew talent: Medical Background.\nBattleaxe improved.\nElite 1 Level 80\n180K\n4\n4\n6",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "180K"
+                },
+                {
+                    "name": "Guard Dualchip",
+                    "quantity": "1"
+                },
+                {
+                    "name": "Bipolar Nanoflake",
+                    "quantity": "80"
+                },
+                {
+                    "name": "Polymerized Gel",
+                    "quantity": "4"
+                }
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "Precise Thrashing",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "25 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +30%, each attack restores HP to this unit equal to 25% of the damage dealt",
+                    "initial_sp": "10",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +35%, each attack restores HP to this unit equal to 25% of the damage dealt",
+                    "initial_sp": "10",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +40%, each attack restores HP to this unit equal to 25% of the damage dealt",
+                    "initial_sp": "10",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +45%, each attack restores HP to this unit equal to 30% of the damage dealt",
+                    "initial_sp": "10",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +50%, each attack restores HP to this unit equal to 30% of the damage dealt",
+                    "initial_sp": "10",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +55%, each attack restores HP to this unit equal to 30% of the damage dealt",
+                    "initial_sp": "10",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +60%, each attack restores HP to this unit equal to 35% of the damage dealt",
+                    "initial_sp": "10",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +65%, each attack restores HP to this unit equal to 35% of the damage dealt",
+                    "initial_sp": "10",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +70%, each attack restores HP to this unit equal to 35% of the damage dealt",
+                    "initial_sp": "10",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +80%, each attack restores HP to this unit equal to 40% of the damage dealt",
+                    "initial_sp": "10",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                }
+            ]
+        },
+        {
+            "name": "Chainsaw Assault",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30-40 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Range expands, ATK +80%, DEF +30%; When attacking unblocked enemies, pulls them towards this unit moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "45",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Range expands, ATK +90%, DEF +30%; When attacking unblocked enemies, pulls them towards this unit moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "44",
+                    "duration": "31s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Range expands, ATK +100%, DEF +30%; When attacking unblocked enemies, pulls them towards this unit moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "43",
+                    "duration": "32s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Range expands, ATK +110%, DEF +35%; When attacking unblocked enemies, pulls them towards this unit moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "42",
+                    "duration": "33s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Range expands, ATK +120%, DEF +35%; When attacking unblocked enemies, pulls them towards this unit moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "41",
+                    "duration": "34s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Range expands, ATK +130%, DEF +35%; When attacking unblocked enemies, pulls them towards this unit moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "40",
+                    "duration": "35s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Range expands, ATK +140%, DEF +40%; When attacking unblocked enemies, pulls them towards this unit moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "39",
+                    "duration": "36s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Range expands, ATK +150%, DEF +40%; When attacking unblocked enemies, pulls them towards this unit moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "38",
+                    "duration": "37s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Range expands, ATK +165%, DEF +40%; When attacking unblocked enemies, pulls them towards this unit moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "37",
+                    "duration": "38s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Range expands, ATK +180%, DEF +50%; When attacking unblocked enemies, pulls them towards this unit moderately",
+                    "initial_sp": "25",
+                    "sp_cost": "35",
+                    "duration": "40s"
+                }
+            ]
+        },
+        {
+            "name": "Soul of the Jungle",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "25 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +70%, ASPD +40, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +75%, ASPD +40, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +80%, ASPD +40, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +85%, ASPD +60, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +90%, ASPD +60, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +95%, ASPD +60, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +100%, ASPD +80, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+                    "initial_sp": "21",
+                    "sp_cost": "39",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +110%, ASPD +80, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+                    "initial_sp": "22",
+                    "sp_cost": "38",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +120%, ASPD +80, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+                    "initial_sp": "23",
+                    "sp_cost": "37",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +140%, ASPD +100, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+                    "initial_sp": "25",
+                    "sp_cost": "35",
+                    "duration": "25s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Grindstone",
+                "quantity": "5"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "3"
+            },
+            {
+                "name": "Incandescent Alloy",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Semi-Synthetic Solvent",
+                        "quantity": "3"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Cluster",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "9"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Battleaxe",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "Increases ATK and DEF by 5%, increased by a further 3% for each blocked enemy"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Increases ATK and DEF by 10%, increased by a further 4% for each blocked enemy"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 3",
+                    "description": "Increases ATK and DEF by 7% (+2%), increased by a further 4% (+1%) for each blocked enemy"
+                },
+                {
+                    "level": "Potential 3",
+                    "description": "Increases ATK and DEF by 12% (+2%), increased by a further 5% (+1%) for each blocked enemy"
+                }
+            ]
+        },
+        {
+            "name": "Medical Background",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Increases this unit's healing received by 20%, increased to 40% when under half HP"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Increases this unit's healing received by 25% (+5%), increased to 45% (+5%) when under half HP"
+                }
+            ]
+        }
+    ]
+}

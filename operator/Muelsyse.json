@@ -1,0 +1,606 @@
+{
+    "info": {
+        "title": "Muelsyse",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/c/c4/Muelsyse_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20230501063414"
+        }
+    },
+    "stats": {
+        "HP": {
+            "Base": "811",
+            "Max": "1159",
+            "Elite 1": "1486",
+            "Elite 2": "1813",
+            "Trust": ""
+        },
+        "ATK": {
+            "Base": "210",
+            "Max": "309",
+            "Elite 1": "407",
+            "Elite 2": "497",
+            "Trust": "+40"
+        },
+        "DEF": {
+            "Base": "40",
+            "Max": "68",
+            "Elite 1": "98",
+            "Elite 2": "117",
+            "Trust": "+40"
+        },
+        "RES": {
+            "Base": "0",
+            "Max": "0",
+            "Elite 1": "0",
+            "Elite 2": "0",
+            "Trust": ""
+        },
+        "Rdpl. time": {
+            "Base": "70s",
+            "Max": "70s",
+            "Elite 1": "70s",
+            "Elite 2": "70s",
+            "Trust": ""
+        },
+        "DP cost": {
+            "Base": "13",
+            "Max": "13",
+            "Elite 1": "15",
+            "Elite 2": "15",
+            "Trust": ""
+        },
+        "Blk. cnt.": {
+            "Base": "1",
+            "Max": "1",
+            "Elite 1": "1",
+            "Elite 2": "1",
+            "Trust": ""
+        },
+        "Atk. itvl.": {
+            "Base": "1s",
+            "Max": "1s",
+            "Elite 1": "1s",
+            "Elite 2": "1s",
+            "Trust": ""
+        }
+    },
+    "potential": {
+        "Pot 1": "DP cost -1",
+        "Pot 2": "Redeployment time -4 seconds",
+        "Pot 3": "ATK +25",
+        "Pot 4": "Improves Resource Economization",
+        "Pot 5": "DP cost -1"
+    },
+    "promotion": {
+        "Elite 1": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Ecological Coupling.\nPure Water is Life improved.\nRange extended.\nLevel 50\n30K\n5\n11\n6",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "30K"
+                },
+                {
+                    "name": "Vanguard Chip",
+                    "quantity": "50"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "5"
+                },
+                {
+                    "name": "Orirock Cube",
+                    "quantity": "11"
+                }
+            ]
+        },
+        "Elite 2": {
+            "details": "Maximum attributes increased.\nNew skill: Superficial Non-Entropic Adaption.\nNew talent: Resource Economization.\nPure Water is Life improved.\nElite 1 Level 80\n180K\n4\n4\n4",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "180K"
+                },
+                {
+                    "name": "Vanguard Dualchip",
+                    "quantity": "1"
+                },
+                {
+                    "name": "Bipolar Nanoflake",
+                    "quantity": "80"
+                },
+                {
+                    "name": "Grindstone Pentahydrate",
+                    "quantity": "4"
+                }
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "Progressive Moisturization",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Gradually obtains 10 DP during skill duration; Self and the Reinforcement gains ATK +10% and ASPD +10",
+                    "initial_sp": "0",
+                    "sp_cost": "38",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Gradually obtains 10 DP during skill duration; Self and the Reinforcement gains ATK 14+% and ASPD +14",
+                    "initial_sp": "0",
+                    "sp_cost": "37",
+                    "duration": "15s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Gradually obtains 10 DP during skill duration; Self and the Reinforcement gains ATK +18% and ASPD +18",
+                    "initial_sp": "0",
+                    "sp_cost": "36",
+                    "duration": "15s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Gradually obtains 11 DP during skill duration; Self and the Reinforcement gains ATK +22% and ASPD +22",
+                    "initial_sp": "4",
+                    "sp_cost": "35",
+                    "duration": "15s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Gradually obtains 11 DP during skill duration; Self and the Reinforcement gains ATK +26% and ASPD +26",
+                    "initial_sp": "4",
+                    "sp_cost": "34",
+                    "duration": "15s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Gradually obtains 11 DP during skill duration; Self and the Reinforcement gains ATK +30% and ASPD +30",
+                    "initial_sp": "4",
+                    "sp_cost": "33",
+                    "duration": "15s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Gradually obtains 12 DP during skill duration; Self and the Reinforcement gains ATK +35% and ASPD +35",
+                    "initial_sp": "8",
+                    "sp_cost": "32",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Gradually obtains 12 DP during skill duration; Self and the Reinforcement gains ATK +40% and ASPD +40",
+                    "initial_sp": "8",
+                    "sp_cost": "31",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Gradually obtains 12 DP during skill duration; Self and the Reinforcement gains ATK +45% and ASPD +45",
+                    "initial_sp": "8",
+                    "sp_cost": "30",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Gradually obtains 13 DP during skill duration; Self and the Reinforcement gains ATK +50% and ASPD +50",
+                    "initial_sp": "8",
+                    "sp_cost": "28",
+                    "duration": "15s"
+                }
+            ]
+        },
+        {
+            "name": "Ecological Interaction",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Immediately obtains 12 DP. Self and the Reinforcement gains ATK +10%; if the Reinforcement is a Melee unit, restores 1% HP every second and obtains 10% Sanctuary; if the Reinforcement is a Ranged unit, change attacks to fire 2 times at random targets within attack range",
+                    "initial_sp": "5",
+                    "sp_cost": "45",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Immediately obtains 12 DP. Self and the Reinforcement gains ATK +14%; if the Reinforcement is a Melee unit, restores 1% HP every second and obtains 10% Sanctuary; if the Reinforcement is a Ranged unit, change attacks to fire 2 times at random targets within attack range",
+                    "initial_sp": "5",
+                    "sp_cost": "44",
+                    "duration": "15s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Immediately obtains 12 DP. Self and the Reinforcement gains ATK +18%; if the Reinforcement is a Melee unit, restores 1% HP every second and obtains 10% Sanctuary; if the Reinforcement is a Ranged unit, change attacks to fire 2 times at random targets within attack range",
+                    "initial_sp": "5",
+                    "sp_cost": "43",
+                    "duration": "15s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Immediately obtains 13 DP. Self and the Reinforcement gains ATK +22%; if the Reinforcement is a Melee unit, restores 2% HP every second and obtains 15% Sanctuary; if the Reinforcement is a Ranged unit, change attacks to fire 2 times at random targets within attack range",
+                    "initial_sp": "10",
+                    "sp_cost": "42",
+                    "duration": "15s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Immediately obtains 13 DP. Self and the Reinforcement gains ATK +26%; if the Reinforcement is a Melee unit, restores 2% HP every second and obtains 15% Sanctuary; if the Reinforcement is a Ranged unit, change attacks to fire 2 times at random targets within attack range",
+                    "initial_sp": "10",
+                    "sp_cost": "41",
+                    "duration": "15s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Immediately obtains 13 DP. Self and the Reinforcement gains ATK +30%; if the Reinforcement is a Melee unit, restores 2% HP every second and obtains 15% Sanctuary; if the Reinforcement is a Ranged unit, change attacks to fire 2 times at random targets within attack range",
+                    "initial_sp": "10",
+                    "sp_cost": "40",
+                    "duration": "15s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Immediately obtains 14 DP. Self and the Reinforcement gains ATK +35%; if the Reinforcement is a Melee unit, restores 3% HP every second and obtains 20% Sanctuary; if the Reinforcement is a Ranged unit, change attacks to fire 2 times at random targets within attack range",
+                    "initial_sp": "15",
+                    "sp_cost": "39",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Immediately obtains 14 DP. Self and the Reinforcement gains ATK +40%; if the Reinforcement is a Melee unit, restores 4% HP every second and obtains 20% Sanctuary; if the Reinforcement is a Ranged unit, change attacks to fire 2 times at random targets within attack range",
+                    "initial_sp": "16",
+                    "sp_cost": "38",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Immediately obtains 14 DP. Self and the Reinforcement gains ATK +45%; if the Reinforcement is a Melee unit, restores 4% HP every second and obtains 25% Sanctuary; if the Reinforcement is a Ranged unit, change attacks to fire 2 times at random targets within attack range",
+                    "initial_sp": "17",
+                    "sp_cost": "37",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Immediately obtains 15 DP. Self and the Reinforcement gains ATK +50%; if the Reinforcement is a Melee unit, restores 5% HP every second and obtains 25% Sanctuary; if the Reinforcement is a Ranged unit, change attacks to fire 2 times at random targets within attack range",
+                    "initial_sp": "18",
+                    "sp_cost": "35",
+                    "duration": "15s"
+                }
+            ]
+        },
+        {
+            "name": "Superficial Regulation",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Immediately obtains 12 DP. Self and the Reinforcement gains ATK +10%; if the Reinforcement is a Melee unit, pull enemies in the surrounding 8 tiles to it slightly every 2 seconds and Stuns all blocked enemies; if the Reinforcement is a Ranged unit, refreshes all Reinforcements and attacks Bind the target for 1.5 seconds",
+                    "initial_sp": "5",
+                    "sp_cost": "45",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Immediately obtains 12 DP. Self and the Reinforcement gains ATK +14%; if the Reinforcement is a Melee unit, pull enemies in the surrounding 8 tiles to it slightly every 2 seconds and Stuns all blocked enemies; if the Reinforcement is a Ranged unit, refreshes all Reinforcements and attacks Bind the target for 1.5 seconds",
+                    "initial_sp": "5",
+                    "sp_cost": "44",
+                    "duration": "15s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Immediately obtains 12 DP. Self and the Reinforcement gains ATK +18%; if the Reinforcement is a Melee unit, pull enemies in the surrounding 8 tiles to it slightly every 2 seconds and Stuns all blocked enemies; if the Reinforcement is a Ranged unit, refreshes all Reinforcements and attacks Bind the target for 1.5 seconds",
+                    "initial_sp": "5",
+                    "sp_cost": "43",
+                    "duration": "15s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Immediately obtains 13 DP. Self and the Reinforcement gains ATK +22%; if the Reinforcement is a Melee unit, pull enemies in the surrounding 8 tiles to it slightly every 2 seconds and Stuns all blocked enemies; if the Reinforcement is a Ranged unit, refreshes all Reinforcements and attacks Bind the target for 1.5 seconds",
+                    "initial_sp": "10",
+                    "sp_cost": "42",
+                    "duration": "15s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Immediately obtains 13 DP. Self and the Reinforcement gains ATK +26%; if the Reinforcement is a Melee unit, pull enemies in the surrounding 8 tiles to it slightly every 2 seconds and Stuns all blocked enemies; if the Reinforcement is a Ranged unit, refreshes all Reinforcements and attacks Bind the target for 1.5 seconds",
+                    "initial_sp": "10",
+                    "sp_cost": "41",
+                    "duration": "15s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Immediately obtains 13 DP. Self and the Reinforcement gains ATK +30%; if the Reinforcement is a Melee unit, pull enemies in the surrounding 8 tiles to it slightly every 2 seconds and Stuns all blocked enemies; if the Reinforcement is a Ranged unit, refreshes all Reinforcements and attacks Bind the target for 1.5 seconds",
+                    "initial_sp": "10",
+                    "sp_cost": "40",
+                    "duration": "15s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Immediately obtains 14 DP. Self and the Reinforcement gains ATK +35%; if the Reinforcement is a Melee unit, pull enemies in the surrounding 8 tiles to it slightly every 2 seconds and Stuns all blocked enemies; if the Reinforcement is a Ranged unit, refreshes all Reinforcements and attacks Bind the target for 1.5 seconds",
+                    "initial_sp": "15",
+                    "sp_cost": "39",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Immediately obtains 14 DP. Self and the Reinforcement gains ATK +40%; if the Reinforcement is a Melee unit, pull enemies in the surrounding 8 tiles to it slightly every 2 seconds and Stuns all blocked enemies; if the Reinforcement is a Ranged unit, refreshes all Reinforcements and attacks Bind the target for 1.5 seconds",
+                    "initial_sp": "16",
+                    "sp_cost": "38",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Immediately obtains 14 DP. Self and the Reinforcement gains ATK +45%; if the Reinforcement is a Melee unit, pull enemies in the surrounding 8 tiles to it slightly every 2 seconds and Stuns all blocked enemies; if the Reinforcement is a Ranged unit, refreshes all Reinforcements and attacks Bind the target for 1.5 seconds",
+                    "initial_sp": "17",
+                    "sp_cost": "37",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Immediately obtains 15 DP. Self and the Reinforcement gains ATK +50%; if the Reinforcement is a Melee unit, pull enemies in the surrounding 8 tiles to it slightly every 2 seconds and Stuns all blocked enemies; if the Reinforcement is a Ranged unit, refreshes all Reinforcements and attacks Bind the target for 1.5 seconds",
+                    "initial_sp": "18",
+                    "sp_cost": "35",
+                    "duration": "15s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Ester",
+                "quantity": "6"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Coagulating Gel",
+                "quantity": "5"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Integrated Device",
+                "quantity": "4"
+            },
+            {
+                "name": "Orirock Cluster",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polyester Pack",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Cluster",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Transmuted Salt Agglomerate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Compound Cutting Fluid",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "10"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "3"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Nucleic Crystal Sinter",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Pure Water is Life",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "Can summon a Flowing Shape to assist in combat from a Tactical Point, which copies part of of an Operator's attributes (Max HP, ATK, DEF, RES, Block, Attack Interval, Attack Range, damage type) and obtains a unique Trait effect based on Melee/Ranged position; Flowing Shapes automatically respawn 30 seconds after being defeated"
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "Can summon a Flowing Shape to assist in combat from a Tactical Point, which copies some attributes of an Operator (Max HP, ATK, DEF, RES, Block, Attack Interval, Attack Range, damage type) and obtains a unique Trait effect based on Melee/Ranged position; Flowing Shapes automatically respawn 28 seconds after being defeated"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Can summon a Flowing Shape to assist in combat from a Tactical Point, which copies most attributes of an Operator (Max HP, ATK, DEF, RES, Block, Attack Interval, Attack Range, damage type) and obtains a unique Trait effect based on Melee/Ranged position; Flowing Shapes automatically respawn 25 seconds after being defeated"
+                }
+            ]
+        },
+        {
+            "name": "Resource Economization",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "DP cost -2 when [Rhine Lab] Operators are in the squad; The first deployed [Rhine Lab] Operator gets DP Cost -1"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "DP cost -2 when [Rhine Lab] Operators are in the squad; The first deployed [Rhine Lab] Operator gets DP Cost -2 (+1)"
+                }
+            ]
+        }
+    ]
+}

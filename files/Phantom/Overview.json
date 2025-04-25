@@ -1,0 +1,24 @@
+{
+  "name": "Phantom",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Has a redeployment time of 18 seconds instead of other Operators' 70",
+    "Low DP cost",
+    "Can use the Phantom in the Mirror, a weaker clone with an independent redeployment time (that starts from when it is deployed) through the namesake talent as a force multiplier",
+    "The Phantom in the Mirror have the same skill as Phantom himself, nearly doubling their effectiveness when used correctly",
+    "The Phantom in the Mirror will have its skill refreshed for use again when redeployed, even if Phantom himself remains on the field",
+    "Phantom of the Night is effective for distraction and stalling",
+    "Bloody Opus is effective for assassinating single targets",
+    "Night Raid is effective for disrupting enemy formations and interrupting enemy abilities at times, and can also be used together with push/pull Specialists, Ash's Breaching Rounds or Croissant's Magnetic Hammer, to aid in displacing enemies (especially heavier ones). Used with Ash's Assault Tactics, the stun will help Ash inflict more damage and extend the time the enemy is stunned",
+    "Phantom Mastery reduces the Phantom in the Mirror's redeployment time"
+  ],
+  "cons": [
+    "Mediocre overall stats",
+    "The Phantom in the Mirror is counted towards the Unit Limit and will disappear when Phantom is KOd or retreated, requiring Phantom to remain on the field to maintain the Mirror",
+    "Phantom of the Night's Barrier only absorbs Physical damage, unlike most other Barriers, but does not decay over time",
+    "Night Raid can be detrimental if used carelessly due to its shift effect",
+    "Does not excel in any specializations"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Phantom/Overview"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "SilverAsh",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Has a ranged attack used when not blocking an enemy that can hit aerial enemies",
+    "Good overall stats",
+    "Rules of Survival greatly improves SilverAsh's survivability and can offset the Poison Haze effect in certain operations",
+    "Leader slightly buffs SilverAsh's ATK and reduces the redeployment cooldown of friendlies",
+    "Truesilver Slash can clear out entire waves of enemies with ease",
+    "Eagle Eyes reveals invisible enemies within SilverAsh's range, which is useful against dangerous invisible enemies such as Invisible Casters and synergizes well with Snipers; this also extends to Truesilver Slash, in a temporarily-expanded range"
+  ],
+  "cons": [
+    "Ranged attacks do only 80% of melee attacks' damage",
+    "Unlike other Lord Guards, SilverAsh's ranged attacks has a noticeably longer wind-up time",
+    "Rules of Survival shortens SilverAsh's attack range (though he will use his melee attack at enemies within range), which also affects his Eagle Eyes range too, inadvertently impairing his ability to reveal invisible enemies from far away",
+    "Truesilver Slash has high SP cost, limiting its usage, and greatly lowers SilverAsh's DEF, leaving him vulnerable to enemies with high ATK; it is also not as effective against enemies with significant HP and/or DEF",
+    "Relies heavily on Truesilver Slash, thus SilverAsh must be promoted to Elite 2 and the skill must be improved all the way to Mastery 3 for full effectiveness"
+  ],
+  "url": "https://arknights.fandom.com/wiki/SilverAsh/Overview"
+}

@@ -1,0 +1,607 @@
+{
+    "info": {
+        "title": "Stainless",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/3/37/Stainless_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20221011135204",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/a/a8/Stainless_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20230706165345"
+        }
+    },
+    "stats": {
+        "HP": {
+            "Base": "1043",
+            "Max": "1490",
+            "Elite 1": "2042",
+            "Elite 2": "2723",
+            "Trust": ""
+        },
+        "ATK": {
+            "Base": "236",
+            "Max": "369",
+            "Elite 1": "492",
+            "Elite 2": "593",
+            "Trust": "+40"
+        },
+        "DEF": {
+            "Base": "190",
+            "Max": "274",
+            "Elite 1": "354",
+            "Elite 2": "421",
+            "Trust": "+40"
+        },
+        "RES": {
+            "Base": "0",
+            "Max": "0",
+            "Elite 1": "0",
+            "Elite 2": "0",
+            "Trust": ""
+        },
+        "Rdpl. time": {
+            "Base": "70s",
+            "Max": "70s",
+            "Elite 1": "70s",
+            "Elite 2": "70s",
+            "Trust": ""
+        },
+        "DP cost": {
+            "Base": "15",
+            "Max": "15",
+            "Elite 1": "17",
+            "Elite 2": "19",
+            "Trust": ""
+        },
+        "Blk. cnt.": {
+            "Base": "2",
+            "Max": "2",
+            "Elite 1": "2",
+            "Elite 2": "2",
+            "Trust": ""
+        },
+        "Atk. itvl.": {
+            "Base": "1.5s",
+            "Max": "1.5s",
+            "Elite 1": "1.5s",
+            "Elite 2": "1.5s",
+            "Trust": ""
+        }
+    },
+    "potential": {
+        "Pot 1": "DP cost -1",
+        "Pot 2": "Redeployment time -6 seconds",
+        "Pot 3": "ATK +25",
+        "Pot 4": "Improves Cost Cutting",
+        "Pot 5": "DP cost -1"
+    },
+    "promotion": {
+        "Elite 1": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Efficient Resupply.\nField Engineer improved.\nLevel 50\n30K\n5\n7\n5",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "30K"
+                },
+                {
+                    "name": "Supporter Chip",
+                    "quantity": "50"
+                },
+                {
+                    "name": "Oriron",
+                    "quantity": "5"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "7"
+                }
+            ]
+        },
+        "Elite 2": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Prototype of Feist's Metal Crab.\nNew talent: Cost Cutting.\nField Engineer improved.\nElite 1 Level 80\n180K\n4\n4\n6",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "180K"
+                },
+                {
+                    "name": "Supporter Dualchip",
+                    "quantity": "1"
+                },
+                {
+                    "name": "Polymerization Preparation",
+                    "quantity": "80"
+                },
+                {
+                    "name": "Refined Solvent",
+                    "quantity": "4"
+                }
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "Extreme Firepower",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15-20 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "When this skill is equipped: Device gives an ally Operator ATK +12%\nWhen activated, immediately gain a device. Attacks deal 110% of ATK as Physical damage, and device effects increase by 2x\nAll active devices are destroyed when skill expires",
+                    "initial_sp": "10",
+                    "sp_cost": "55",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "When this skill is equipped: Device gives an ally Operator ATK +12%\nWhen activated, immediately gain a device. Attacks deal 120% of ATK as Physical damage, and device effects increase by 2x\nAll active devices are destroyed when skill expires",
+                    "initial_sp": "10",
+                    "sp_cost": "55",
+                    "duration": "15s"
+                },
+                {
+                    "level": "3",
+                    "effect": "When this skill is equipped: Device gives an ally Operator ATK +12%\nWhen activated, immediately gain a device. Attacks deal 130% of ATK as Physical damage, and device effects increase by 2x\nAll active devices are destroyed when skill expires",
+                    "initial_sp": "10",
+                    "sp_cost": "55",
+                    "duration": "15s"
+                },
+                {
+                    "level": "4",
+                    "effect": "When this skill is equipped: Device gives an ally Operator ATK +12%\nWhen activated, immediately gain a device. Attacks deal 140% of ATK as Physical damage, and device effects increase by 2.5x\nAll active devices are destroyed when skill expires",
+                    "initial_sp": "15",
+                    "sp_cost": "50",
+                    "duration": "16s"
+                },
+                {
+                    "level": "5",
+                    "effect": "When this skill is equipped: Device gives an ally Operator ATK +12%\nWhen activated, immediately gain a device. Attacks deal 150% of ATK as Physical damage, and device effects increase by 2.5x\nAll active devices are destroyed when skill expires",
+                    "initial_sp": "15",
+                    "sp_cost": "50",
+                    "duration": "16s"
+                },
+                {
+                    "level": "6",
+                    "effect": "When this skill is equipped: Device gives an ally Operator ATK +12%\nWhen activated, immediately gain a device. Attacks deal 160% of ATK as Physical damage, and device effects increase by 2.5x\nAll active devices are destroyed when skill expires",
+                    "initial_sp": "15",
+                    "sp_cost": "50",
+                    "duration": "16s"
+                },
+                {
+                    "level": "7",
+                    "effect": "When this skill is equipped: Device gives an ally Operator ATK +12%\nWhen activated, immediately gain a device. Attacks deal 170% of ATK as Physical damage, and device effects increase by 3x\nAll active devices are destroyed when skill expires",
+                    "initial_sp": "20",
+                    "sp_cost": "45",
+                    "duration": "17s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "When this skill is equipped: Device gives an ally Operator ATK +12%\nWhen activated, immediately gain a device. Attacks deal 180% of ATK as Physical damage, and device effects increase by 3.5x\nAll active devices are destroyed when skill expires",
+                    "initial_sp": "20",
+                    "sp_cost": "45",
+                    "duration": "18s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "When this skill is equipped: Device gives an ally Operator ATK +12%\nWhen activated, immediately gain a device. Attacks deal 190% of ATK as Physical damage, and device effects increase by 3.5x\nAll active devices are destroyed when skill expires",
+                    "initial_sp": "20",
+                    "sp_cost": "45",
+                    "duration": "19s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "When this skill is equipped: Device gives an ally Operator ATK +12%\nWhen activated, immediately gain a device. Attacks deal 200% of ATK as Physical damage, and device effects increase by 4x\nAll active devices are destroyed when skill expires",
+                    "initial_sp": "20",
+                    "sp_cost": "45",
+                    "duration": "20s"
+                }
+            ]
+        },
+        {
+            "name": "Efficient Resupply",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "When this skill is equipped: Device gives an ally Operator 1 SP every 3.5s\nATK +10%, DEF +10%, and attack multiple enemies up to Block count.[note 1] Device boosted to grant 1 SP every 3s, but HP loss is doubled\nGains 1 device when skill expires",
+                    "initial_sp": "15",
+                    "sp_cost": "65",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "When this skill is equipped: Device gives an ally Operator 1 SP every 3.5s\nATK +15%, DEF +15%, and attack multiple enemies up to Block count.[note 1] Device boosted to grant 1 SP every 3s, but HP loss is doubled\nGains 1 device when skill expires",
+                    "initial_sp": "15",
+                    "sp_cost": "65",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "When this skill is equipped: Device gives an ally Operator 1 SP every 3.5s\nATK +20%, DEF +20%, and attack multiple enemies up to Block count.[note 1] Device boosted to grant 1 SP every 3s, but HP loss is doubled\nGains 1 device when skill expires",
+                    "initial_sp": "15",
+                    "sp_cost": "65",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "When this skill is equipped: Device gives an ally Operator 1 SP every 3.5s\nATK +25%, DEF +25%, and attack multiple enemies up to Block count.[note 1] Device boosted to grant 1 SP every 2.5s, but HP loss is doubled\nGains 1 device when skill expires",
+                    "initial_sp": "20",
+                    "sp_cost": "60",
+                    "duration": "30s"
+                },
+                {
+                    "level": "5",
+                    "effect": "When this skill is equipped: Device gives an ally Operator 1 SP every 3.5s\nATK +30%, DEF +30%, and attack multiple enemies up to Block count.[note 1] Device boosted to grant 1 SP every 2.5s, but HP loss is doubled\nGains 1 device when skill expires",
+                    "initial_sp": "20",
+                    "sp_cost": "60",
+                    "duration": "30s"
+                },
+                {
+                    "level": "6",
+                    "effect": "When this skill is equipped: Device gives an ally Operator 1 SP every 3.5s\nATK +35%, DEF +35%, and attack multiple enemies up to Block count.[note 1] Device boosted to grant 1 SP every 2.5s, but HP loss is doubled\nGains 1 device when skill expires",
+                    "initial_sp": "20",
+                    "sp_cost": "60",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "When this skill is equipped: Device gives an ally Operator 1 SP every 3.5s\nATK +40%, DEF +40%, and attack multiple enemies up to Block count.[note 1] Device boosted to grant 1 SP every 2s, but HP loss is doubled\nGains 1 device when skill expires",
+                    "initial_sp": "20",
+                    "sp_cost": "55",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "When this skill is equipped: Device gives an ally Operator 1 SP every 3.5s\nATK +45%, DEF +45%, and attack multiple enemies up to Block count.[note 1] Device boosted to grant 1 SP every 2s, but HP loss is doubled\nGains 1 device when skill expires",
+                    "initial_sp": "25",
+                    "sp_cost": "53",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "When this skill is equipped: Device gives an ally Operator 1 SP every 3.5s\nATK +50%, DEF +50%, and attack multiple enemies up to Block count.[note 1] Device boosted to grant 1 SP every 2s, but HP loss is doubled\nGains 1 device when skill expires",
+                    "initial_sp": "25",
+                    "sp_cost": "51",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "When this skill is equipped: Device gives an ally Operator 1 SP every 3.5s\nATK +60%, DEF +60%, and attack multiple enemies up to Block count.[note 1] Device boosted to grant 1 SP every 2s, but HP loss is doubled\nGains 1 device when skill expires",
+                    "initial_sp": "25",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                }
+            ]
+        },
+        {
+            "name": "Prototype of Feist's Metal Crab",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "When this skill is equipped: Device can be attacked by allied Operators, but does not take damage. Can deal area Physical damage with its skill, but loses HP\nWhen activated, immediately gain a device, ATK +10%, ASPD +10",
+                    "initial_sp": "10",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "When this skill is equipped: Device can be attacked by allied Operators, but does not take damage. Can deal area Physical damage with its skill, but loses HP\nWhen activated, immediately gain a device, ATK +15%, ASPD +15",
+                    "initial_sp": "10",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "When this skill is equipped: Device can be attacked by allied Operators, but does not take damage. Can deal area Physical damage with its skill, but loses HP\nWhen activated, immediately gain a device, ATK +20%, ASPD +20",
+                    "initial_sp": "10",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "When this skill is equipped: Device can be attacked by allied Operators, but does not take damage. Can deal area Physical damage with its skill, but loses HP\nWhen activated, immediately gain a device, ATK +25%, ASPD +25",
+                    "initial_sp": "15",
+                    "sp_cost": "45",
+                    "duration": "30s"
+                },
+                {
+                    "level": "5",
+                    "effect": "When this skill is equipped: Device can be attacked by allied Operators, but does not take damage. Can deal area Physical damage with its skill, but loses HP\nWhen activated, immediately gain a device, ATK +30%, ASPD +30",
+                    "initial_sp": "15",
+                    "sp_cost": "45",
+                    "duration": "30s"
+                },
+                {
+                    "level": "6",
+                    "effect": "When this skill is equipped: Device can be attacked by allied Operators, but does not take damage. Can deal area Physical damage with its skill, but loses HP\nWhen activated, immediately gain a device, ATK +35%, ASPD +35",
+                    "initial_sp": "15",
+                    "sp_cost": "45",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "When this skill is equipped: Device can be attacked by allied Operators, but does not take damage. Can deal area Physical damage with its skill, but loses HP\nWhen activated, immediately gain a device, ATK +40%, ASPD +40",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "When this skill is equipped: Device can be attacked by allied Operators, but does not take damage. Can deal area Physical damage with its skill, but loses HP\nWhen activated, immediately gain a device, ATK +45%, ASPD +45",
+                    "initial_sp": "20",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "When this skill is equipped: Device can be attacked by allied Operators, but does not take damage. Can deal area Physical damage with its skill, but loses HP\nWhen activated, immediately gain a device, ATK +50%, ASPD +50",
+                    "initial_sp": "20",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "When this skill is equipped: Device can be attacked by allied Operators, but does not take damage. Can deal area Physical damage with its skill, but loses HP\nWhen activated, immediately gain a device, ATK +55%, ASPD +55",
+                    "initial_sp": "20",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "6"
+            },
+            {
+                "name": "Orirock",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Semi-Synthetic Solvent",
+                "quantity": "5"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Crystalline Component",
+                "quantity": "6"
+            },
+            {
+                "name": "Sugar Pack",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Sugar Pack",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "9"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Battlefield Engineer",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "Can carry 2 <Support Devices> (deploy up to 1), with different effects depending on Skill"
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "Can carry 2 <Support Devices> (deploy up to 2), with different effects depending on Skill"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Can carry 3 <Support Devices> (deploy up to 2), with different effects depending on Skill"
+                }
+            ]
+        },
+        {
+            "name": "Cost Cutting",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Stainless has a 70% chance to recycle a device if it is destroyed within the 8 tiles surrounding him"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Stainless has a 80% (+10%) chance to recycle a device if it is destroyed within the 8 tiles surrounding him"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,498 @@
+{
+    "info": {
+        "title": "Ch'en the Holungday",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/a/a2/Ch%27en_the_Holungday_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20210803031856",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/9/93/Ch%27en_the_Holungday_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20230501091159"
+        }
+    },
+    "skills": [
+        {
+            "name": "High-Pressure Splash",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Auto Trigger",
+                "Toggleable"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +40%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +45%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +50%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +55%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +60%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +65%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +70%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +80%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +90%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +100%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "\"Night of Violet\"",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "Toggleable"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +35%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -10% and DEF -50 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "30",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +40%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -10% and DEF -50 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "29",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +45%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -10% and DEF -50 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "28",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +50%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -20% and DEF -100 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "5",
+                    "sp_cost": "27",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +55%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -20% and DEF -100 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "5",
+                    "sp_cost": "26",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +60%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -20% and DEF -100 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "5",
+                    "sp_cost": "25",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +65%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -30% and DEF -150 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "10",
+                    "sp_cost": "24",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +70%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -30% and DEF -150 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "11",
+                    "sp_cost": "23",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +75%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -35% and DEF -170 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "11",
+                    "sp_cost": "22",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +80%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -35% and DEF -170 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "12",
+                    "sp_cost": "20",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "\"Holiday Storm\"",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "Toggleable"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Range expands, ATK +40%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -20% and DEF -100 (Does not stack).\nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "15",
+                    "sp_cost": "70",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Range expands, ATK +45%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -20% and DEF -100 (Does not stack).\nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "15",
+                    "sp_cost": "70",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Range expands, ATK +50%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -20% and DEF -100 (Does not stack).\nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "15",
+                    "sp_cost": "70",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Range expands, ATK +55%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -30% and DEF -150 (Does not stack).\nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "20",
+                    "sp_cost": "65",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Range expands, ATK +60%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -30% and DEF -150 (Does not stack).\nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "20",
+                    "sp_cost": "65",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Range expands, ATK +65%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -30% and DEF -150 (Does not stack).\nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "20",
+                    "sp_cost": "65",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Range expands, ATK +70%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -40% and DEF -200 (Does not stack).\nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "25",
+                    "sp_cost": "60",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Range expands, ATK +80%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -45% and DEF -220 (Does not stack).\nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "27",
+                    "sp_cost": "58",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Range expands, ATK +90%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -45% and DEF -220 (Does not stack).\nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "29",
+                    "sp_cost": "56",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Range expands, ATK +100%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -45% and DEF -220 (Does not stack).\nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+                    "initial_sp": "30",
+                    "sp_cost": "55",
+                    "duration": "–"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Manganese Ore",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Grindstone",
+                "quantity": "4"
+            },
+            {
+                "name": "Orirock Cluster",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Cluster",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Integrated Device",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "9"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Frugality",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When deployed, Ch'en's ammo-based skills have a 15% chance to not consume the corresponding ammo for each shot; Other Sniper Operators' ammo-based skills have a 20% chance instead[note 1] (only the highest effect of this type will be applied)"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When deployed, Ch'en's ammo-based skills have a 20% chance to not consume the corresponding ammo for each shot; Other Sniper Operators' ammo-based skills have a 20%[note 2] chance instead (only the highest effect of this type will be applied)"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "When deployed, Ch'en's ammo-based skills have a 17% (+2%) chance to not consume the corresponding ammo for each shot; Other Sniper Operators' ammo-based skills have a 20% chance instead[note 1] (only the highest effect of this type will be applied)"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "When deployed, Ch'en's ammo-based skills have a 22% (+2%) chance to not consume the corresponding ammo for each shot; Other Sniper Operators' ammo-based skills have a 20%[note 2] chance instead (only the highest effect of this type will be applied)"
+                }
+            ]
+        },
+        {
+            "name": "Vestiges of Vacation",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "ASPD +8, when there is a water terrain on the battlefield,[note 3] the effect becomes ASPD +12"
+                }
+            ]
+        }
+    ]
+}

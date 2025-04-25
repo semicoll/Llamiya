@@ -1,0 +1,23 @@
+{
+  "name": "Mizuki",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Attacks hit all enemies within range",
+    "Can dodge Physical and Arts attacks 50% at the time",
+    "Innately have Negative Taunt",
+    "Traumatic Hysteria inflicts additional Arts damage to the enemy with the lowest HP, useful for finishing off strong enemies",
+    "Awaken greatly increases damage dealt by Traumatic Hysteria",
+    "Prisoner's Dilemma improves DPS, makes Traumatic Hysteria affect two enemies and temporarily binding them",
+    "Moon in the Water extends Mizuki's reach and makes Traumatic Hysteria affect three enemies and temporarily stunning them",
+    "Countertransference buffs ATK if there is an enemy with below 50% HP inside Mizuki's range"
+  ],
+  "cons": [
+    "Low DEF",
+    "High attack interval",
+    "Has a block count of 0 (though this can be an advantage as melee enemies will ignore Mizuki)",
+    "Traumatic Hysteria is not as effective against high-RES enemies",
+    "Mizuki will lose HP if he does not hit three or more enemies in each attack with Moon in the Water, which can KO him"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Mizuki/Overview"
+}

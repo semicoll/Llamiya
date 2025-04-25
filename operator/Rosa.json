@@ -1,0 +1,494 @@
+{
+    "info": {
+        "title": "Rosa",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/3/36/Rosa_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20201009003149",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/6/6f/Rosa_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20211101160637"
+        }
+    },
+    "skills": [
+        {
+            "name": "ATK Up γ",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +30%",
+                    "initial_sp": "0",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +35%",
+                    "initial_sp": "0",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +40%",
+                    "initial_sp": "0",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +45%",
+                    "initial_sp": "5",
+                    "sp_cost": "37",
+                    "duration": "30s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +50%",
+                    "initial_sp": "5",
+                    "sp_cost": "37",
+                    "duration": "30s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +55%",
+                    "initial_sp": "5",
+                    "sp_cost": "37",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +60%",
+                    "initial_sp": "10",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +75%",
+                    "initial_sp": "10",
+                    "sp_cost": "34",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +90%",
+                    "initial_sp": "10",
+                    "sp_cost": "33",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +100%",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "30s"
+                }
+            ]
+        },
+        {
+            "name": "Split Shot",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "60 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +30%, and attacks hit one additional enemy",
+                    "initial_sp": "39",
+                    "sp_cost": "80",
+                    "duration": "60s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +35%, and attacks hit one additional enemy",
+                    "initial_sp": "40",
+                    "sp_cost": "80",
+                    "duration": "60s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +40%, and attacks hit one additional enemy",
+                    "initial_sp": "41",
+                    "sp_cost": "80",
+                    "duration": "60s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +45%, and attacks hit one additional enemy",
+                    "initial_sp": "42",
+                    "sp_cost": "80",
+                    "duration": "60s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +50%, and attacks hit one additional enemy",
+                    "initial_sp": "43",
+                    "sp_cost": "80",
+                    "duration": "60s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +55%, and attacks hit one additional enemy",
+                    "initial_sp": "44",
+                    "sp_cost": "80",
+                    "duration": "60s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +60%, and attacks hit one additional enemy",
+                    "initial_sp": "45",
+                    "sp_cost": "80",
+                    "duration": "60s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +70%, and attacks hit one additional enemy",
+                    "initial_sp": "45",
+                    "sp_cost": "75",
+                    "duration": "60s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +80%, and attacks hit one additional enemy",
+                    "initial_sp": "45",
+                    "sp_cost": "70",
+                    "duration": "60s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +90%, and attacks hit one additional enemy",
+                    "initial_sp": "45",
+                    "sp_cost": "65",
+                    "duration": "60s"
+                }
+            ]
+        },
+        {
+            "name": "Avalanche Breaker",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "6-8 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +10%; Immediately fires harpoons at the 3 heaviest enemies within range, Binding them and attacking them once each second during the duration of this skill",
+                    "initial_sp": "10",
+                    "sp_cost": "40",
+                    "duration": "6s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +10%; Immediately fires harpoons at the 3 heaviest enemies within range, Binding them and attacking them once each second during the duration of this skill",
+                    "initial_sp": "10",
+                    "sp_cost": "39",
+                    "duration": "6s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +10%; Immediately fires harpoons at the 3 heaviest enemies within range, Binding them and attacking them once each second during the duration of this skill",
+                    "initial_sp": "10",
+                    "sp_cost": "38",
+                    "duration": "6s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +10%; Immediately fires harpoons at the 3 heaviest enemies within range, Binding them and attacking them once each second during the duration of this skill",
+                    "initial_sp": "11",
+                    "sp_cost": "37",
+                    "duration": "6s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +10%; Immediately fires harpoons at the 3 heaviest enemies within range, Binding them and attacking them once each second during the duration of this skill",
+                    "initial_sp": "11",
+                    "sp_cost": "36",
+                    "duration": "6s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +10%; Immediately fires harpoons at the 3 heaviest enemies within range, Binding them and attacking them once each second during the duration of this skill",
+                    "initial_sp": "11",
+                    "sp_cost": "35",
+                    "duration": "6s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +10%; Immediately fires harpoons at the 3 heaviest enemies within range, Binding them and attacking them once each second during the duration of this skill",
+                    "initial_sp": "12",
+                    "sp_cost": "34",
+                    "duration": "7s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +15%; Immediately fires harpoons at the 3 heaviest enemies within range, Binding them and attacking them once each second during the duration of this skill",
+                    "initial_sp": "13",
+                    "sp_cost": "33",
+                    "duration": "7s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +20%; Immediately fires harpoons at the 4 heaviest enemies within range, Binding them and attacking them once each second during the duration of this skill",
+                    "initial_sp": "14",
+                    "sp_cost": "32",
+                    "duration": "7s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +25%; Immediately fires harpoons at the 4 heaviest enemies within range, Binding them and attacking them once each second during the duration of this skill",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "8s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Grindstone",
+                "quantity": "5"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Incandescent Alloy",
+                "quantity": "4"
+            },
+            {
+                "name": "Manganese Ore",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Cluster",
+                        "quantity": "11"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Cluster",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "9"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Bone Piercer",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When attacking a heavy enemy, ignore 40% of its DEF (enemies with 3 weight or higher count for this effect)"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When attacking a heavy enemy, ignore 60% of its DEF (enemies with 3 weight or higher count for this effect)"
+                }
+            ]
+        },
+        {
+            "name": "Ideal Student",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "When this unit is in the squad, all [Ursus Student Self-Governing Group] Operators gain +8% ATK"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "When this unit is in the squad, all [Ursus Student Self-Governing Group] Operators gain +10% ATK (+2%)"
+                }
+            ]
+        }
+    ]
+}

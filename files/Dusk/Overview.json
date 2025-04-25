@@ -1,0 +1,20 @@
+{
+  "name": "Dusk",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Attacks deal AoE Arts damage",
+    "Transcendental Stroke is good for delivering sustained AoE Arts DPS",
+    "Flowing Ink buffs ATK, extends attack range, and makes attacks hit all enemies in range with enemies below 50% HP taking more damage",
+    "Sublimity provides a stacking, slight ATK buff for each enemy defeated by Dusk (and Freelings later)",
+    "Image Over Form vastly improves AoE crowd-control capabilities and summons/heals Freelings in each attack to help blocking and attacking enemies",
+    "Finishing Touch summon a Freeling on the first attack made after deployment"
+  ],
+  "cons": [
+    "Only available from Festival limited headhunting banners from Hidden Moon; Dusk will not be available from any other headhunting banners",
+    "Very high DP cost, tied with Ifrit and Mostima",
+    "Image Over Form has a high SP cost",
+    "The Freelings will only appear if the tile it were to be summoned is an open, deployable melee tile, and has a limited duration"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Dusk/Overview"
+}

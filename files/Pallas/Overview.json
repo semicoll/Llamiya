@@ -1,0 +1,22 @@
+{
+  "name": "Pallas' overview",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Has an extended attack range of 2 tiles ahead",
+    "Attacks deal 120% (130% with X-Module) damage against enemies not blocked by Pallas",
+    "Decent DP cost",
+    "Good DEF",
+    "Whip of Conviction has a good chance of stunning the target in each attack, in addition to extending Pallas' range",
+    "Birth of a Hero applies Vigor to Minoan Operators",
+    "Blessing of Heroism applies a stronger Vigor to the friendly melee unit in front of Pallas, in addition to buffing their DEF and increasing their block count; if there are no melee units in front of her, Blessing of Heroism will be applied on Pallas herself",
+    "Goddess' Inspiration slightly restores HP for Pallas and the friendly unit in front of her on each attack"
+  ],
+  "cons": [
+    "Despite the extended range, Pallas cannot attack flying enemies",
+    "Birth of a Hero is situational since Minoan Operators are few in number",
+    "Blessing of Heroism's effects applied after a delay, which can be detrimental at times",
+    "Goddess' Inspiration does not apply to Operators that cannot be healed directly like Juggernaut Defenders/Musha Guards"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Pallas/Overview"
+}

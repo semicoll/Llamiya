@@ -1,0 +1,512 @@
+{
+    "info": {
+        "title": "Ifrit",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/b/b2/Ifrit_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20190625063650",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/d/df/Ifrit_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20200201075626",
+            "Sunburn SS.SP": "https://static.wikia.nocookie.net/mrfz/images/6/6b/Ifrit_Skin_2.png/revision/latest/scale-to-width-down/268?cb=20200201075233"
+        }
+    },
+    "skills": [
+        {
+            "name": "Fanaticism",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "20 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +10%; ASPD +45",
+                    "initial_sp": "0",
+                    "sp_cost": "50",
+                    "duration": "20s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +10%; ASPD +48",
+                    "initial_sp": "0",
+                    "sp_cost": "49",
+                    "duration": "20s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +10%; ASPD +50",
+                    "initial_sp": "0",
+                    "sp_cost": "48",
+                    "duration": "20s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +10%; ASPD +58",
+                    "initial_sp": "10",
+                    "sp_cost": "47",
+                    "duration": "20s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +10%; ASPD +61",
+                    "initial_sp": "10",
+                    "sp_cost": "46",
+                    "duration": "20s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +10%; ASPD +64",
+                    "initial_sp": "10",
+                    "sp_cost": "45",
+                    "duration": "20s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +20%; ASPD +67",
+                    "initial_sp": "15",
+                    "sp_cost": "44",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +20%; ASPD +70",
+                    "initial_sp": "15",
+                    "sp_cost": "43",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +20%; ASPD +75",
+                    "initial_sp": "15",
+                    "sp_cost": "42",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +20%; ASPD +80",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "20s"
+                }
+            ]
+        },
+        {
+            "name": "Pyroclasm",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Deals 130% of ATK Arts damage in the next attack; Targets' DEF -100 for 3 seconds; Causes them to take Burn damage\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Deals 140% of ATK Arts damage in the next attack; Targets' DEF -100 for 3 seconds; Causes them to take Burn damage\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Deals 150% of ATK Arts damage in the next attack; Targets' DEF -100 for 3 seconds; Causes them to take Burn damage\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Deals 160% of ATK Arts damage in the next attack; Targets' DEF -100 for 3 seconds; Causes them to take Burn damage\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Deals 170% of ATK Arts damage in the next attack; Targets' DEF -100 for 3 seconds; Causes them to take Burn damage\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Deals 180% of ATK Arts damage in the next attack; Targets' DEF -100 for 3 seconds; Causes them to take Burn damage\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Deals 190% of ATK Arts damage in the next attack; Targets' DEF -200 for 3 seconds; Causes them to take Burn damage\nCan store 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Deals 215% of ATK Arts damage in the next attack; Targets' DEF -200 for 3 seconds; Causes them to take Burn damage\nCan store 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Deals 225% of ATK Arts damage in the next attack; Targets' DEF -200 for 3 seconds; Causes them to take Burn damage\nCan store 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Deals 250% of ATK Arts damage in the next attack; Targets' DEF -300 for 3 seconds; Causes them to take Burn damage\nCan store 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Scorched Earth",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "20 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Deals 75% of ATK Arts damage per second to ground enemies within range and reduces targets' RES by -7\nThis unit loses 2% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "40",
+                    "duration": "20s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Deals 80% of ATK Arts damage per second to ground enemies within range and reduces targets' RES by -7\nThis unit loses 2% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "39",
+                    "duration": "20s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Deals 85% of ATK Arts damage per second to ground enemies within range and reduces targets' RES by -7\nThis unit loses 2% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "38",
+                    "duration": "20s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Deals 90% of ATK Arts damage per second to ground enemies within range and reduces targets' RES by -7\nThis unit loses 2% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "36",
+                    "duration": "20s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Deals 95% of ATK Arts damage per second to ground enemies within range and reduces targets' RES by -7\nThis unit loses 2% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "35",
+                    "duration": "20s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Deals 100% of ATK Arts damage per second to ground enemies within range and reduces targets' RES by -7\nThis unit loses 2% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "34",
+                    "duration": "20s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Deals 110% of ATK Arts damage per second to ground enemies within range and reduces targets' RES by -10\nThis unit loses 2% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "31",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Deals 120% of ATK Arts damage per second to ground enemies within range and reduces targets' RES by -13\nThis unit loses 2% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "30",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Deals 130% of ATK Arts damage per second to ground enemies within range and reduces targets' RES by -16\nThis unit loses 2% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "29",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Deals 140% of ATK Arts damage per second to ground enemies within range and reduces targets' RES by -20\nThis unit loses 2% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "28",
+                    "duration": "20s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Ester",
+                "quantity": "6"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Integrated Device",
+                "quantity": "4"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "5"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Integrated Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Ore",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Spiritual Dissolution",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "RES of enemies within range -15%"
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "RES of enemies within range -27%"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "RES of enemies within range -40%"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 3",
+                    "description": "RES of enemies within range -19% (+4%)"
+                },
+                {
+                    "level": "Potential 3",
+                    "description": "RES of enemies within range -31% (+4%)"
+                },
+                {
+                    "level": "Potential 3",
+                    "description": "RES of enemies within range -44% (+4%)"
+                }
+            ]
+        },
+        {
+            "name": "Rhine Loop",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Restores 2 extra Skill Points every 6 seconds"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Restores 2 extra Skill Points every 5.5 seconds (-0.5)"
+                }
+            ]
+        }
+    ]
+}

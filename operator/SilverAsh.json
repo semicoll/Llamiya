@@ -1,0 +1,497 @@
+{
+    "info": {
+        "title": "SilverAsh",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/6/6d/SilverAsh_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20190628063249",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/c/cc/SilverAsh_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20200201080807",
+            "York's Bise": "https://static.wikia.nocookie.net/mrfz/images/3/3e/SilverAsh_Skin_2.png/revision/latest/scale-to-width-down/268?cb=20200826220938"
+        }
+    },
+    "skills": [
+        {
+            "name": "Power Strike γ",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Increases the ATK of next attack to 190%",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Increases the ATK of next attack to 195%",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Increases the ATK of next attack to 200%",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Increases the ATK of next attack to 205%",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Increases the ATK of next attack to 210%",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Increases the ATK of next attack to 215%",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Increases the ATK of next attack to 225%",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Increases the ATK of next attack to 245%",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Increases the ATK of next attack to 265%",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Increases the ATK of next attack to 290%",
+                    "initial_sp": "0",
+                    "sp_cost": "2",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Rules of Survival",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Can switch between the original state and the following state:\nRange reduces; DEF +35%; Restores HP by 3% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Can switch between the original state and the following state:\nRange reduces; DEF +40%; Restores HP by 3% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Can switch between the original state and the following state:\nRange reduces; DEF +45%; Restores HP by 3% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Can switch between the original state and the following state:\nRange reduces; DEF +50%; Restores HP by 3.5% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Can switch between the original state and the following state:\nRange reduces; DEF +55%; Restores HP by 3.5% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Can switch between the original state and the following state:\nRange reduces; DEF +60%; Restores HP by 3.5% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Can switch between the original state and the following state:\nRange reduces; DEF +65%; Restores HP by 4% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Can switch between the original state and the following state:\nRange reduces; DEF +75%; Restores HP by 4.5% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Can switch between the original state and the following state:\nRange reduces; DEF +85%; Restores HP by 5% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Can switch between the original state and the following state:\nRange reduces; DEF +100%; Restores HP by 6% of Max HP per second",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Truesilver Slash",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "20-30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "DEF -70%; ATK +110%; Range expands; Attacks at most 3 targets simultaneously (regarded as Melee Attack)",
+                    "initial_sp": "50",
+                    "sp_cost": "90",
+                    "duration": "20s"
+                },
+                {
+                    "level": "2",
+                    "effect": "DEF -70%; ATK +115%; Range expands; Attacks at most 3 targets simultaneously (regarded as Melee Attack)",
+                    "initial_sp": "50",
+                    "sp_cost": "90",
+                    "duration": "21s"
+                },
+                {
+                    "level": "3",
+                    "effect": "DEF -70%; ATK +120%; Range expands; Attacks at most 3 targets simultaneously (regarded as Melee Attack)",
+                    "initial_sp": "50",
+                    "sp_cost": "90",
+                    "duration": "22s"
+                },
+                {
+                    "level": "4",
+                    "effect": "DEF -70%; ATK +125%; Range expands; Attacks at most 4 targets simultaneously (regarded as Melee Attack)",
+                    "initial_sp": "55",
+                    "sp_cost": "90",
+                    "duration": "23s"
+                },
+                {
+                    "level": "5",
+                    "effect": "DEF -70%; ATK +130%; Range expands; Attacks at most 4 targets simultaneously (regarded as Melee Attack)",
+                    "initial_sp": "55",
+                    "sp_cost": "90",
+                    "duration": "24s"
+                },
+                {
+                    "level": "6",
+                    "effect": "DEF -70%; ATK +135%; Range expands; Attacks at most 4 targets simultaneously (regarded as Melee Attack)",
+                    "initial_sp": "55",
+                    "sp_cost": "90",
+                    "duration": "25s"
+                },
+                {
+                    "level": "7",
+                    "effect": "DEF -70%; ATK +140%; Range expands; Attacks at most 5 targets simultaneously (regarded as Melee Attack)",
+                    "initial_sp": "60",
+                    "sp_cost": "90",
+                    "duration": "26s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "DEF -70%; ATK +160%; Range expands; Attacks at most 5 targets simultaneously (regarded as Melee Attack)",
+                    "initial_sp": "65",
+                    "sp_cost": "90",
+                    "duration": "27s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "DEF -70%; ATK +180%; Range expands; Attacks at most 5 targets simultaneously (regarded as Melee Attack)",
+                    "initial_sp": "70",
+                    "sp_cost": "90",
+                    "duration": "28s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "DEF -70%; ATK +200%; Range expands; Attacks at most 6 targets simultaneously (regarded as Melee Attack)",
+                    "initial_sp": "75",
+                    "sp_cost": "90",
+                    "duration": "30s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Ester",
+                "quantity": "6"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar Pack",
+                "quantity": "7"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester Pack",
+                "quantity": "4"
+            },
+            {
+                "name": "Manganese Ore",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Sugar Pack",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polyester Pack",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Cluster",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "9"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Leader",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "ATK +5%; All allies' Redeployment Time -5%"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "ATK +10%; All allies' Redeployment Time -10%"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "ATK +7% (+2%); All allies' Redeployment Time -7% (+2%)"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "ATK +12% (+2%); All allies' Redeployment Time -12% (+2%)"
+                }
+            ]
+        },
+        {
+            "name": "Eagle Eyes",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Reveals Invisible enemies within range"
+                }
+            ]
+        }
+    ]
+}

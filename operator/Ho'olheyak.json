@@ -1,0 +1,605 @@
+{
+    "info": {
+        "title": "Ho'olheyak",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/0/09/Ho%27olheyak_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20230501063404"
+        }
+    },
+    "stats": {
+        "HP": {
+            "Base": "743",
+            "Max": "1062",
+            "Elite 1": "1380",
+            "Elite 2": "1770",
+            "Trust": ""
+        },
+        "ATK": {
+            "Base": "287",
+            "Max": "399",
+            "Elite 1": "525",
+            "Elite 2": "533",
+            "Trust": "+90"
+        },
+        "DEF": {
+            "Base": "49",
+            "Max": "84",
+            "Elite 1": "116",
+            "Elite 2": "190",
+            "Trust": ""
+        },
+        "RES": {
+            "Base": "10",
+            "Max": "10",
+            "Elite 1": "15",
+            "Elite 2": "20",
+            "Trust": ""
+        },
+        "Rdpl. time": {
+            "Base": "70s",
+            "Max": "70s",
+            "Elite 1": "70s",
+            "Elite 2": "70s",
+            "Trust": ""
+        },
+        "DP cost": {
+            "Base": "19",
+            "Max": "19",
+            "Elite 1": "21",
+            "Elite 2": "21",
+            "Trust": ""
+        },
+        "Blk. cnt.": {
+            "Base": "1",
+            "Max": "1",
+            "Elite 1": "1",
+            "Elite 2": "1",
+            "Trust": ""
+        },
+        "Atk. itvl.": {
+            "Base": "1.6s",
+            "Max": "1.6s",
+            "Elite 1": "1.6s",
+            "Elite 2": "1.6s",
+            "Trust": ""
+        }
+    },
+    "potential": {
+        "Pot 1": "DP cost -1",
+        "Pot 2": "Redeployment time -4 seconds",
+        "Pot 3": "ATK +27",
+        "Pot 4": "Improves Terminus of Legends",
+        "Pot 5": "DP cost -1"
+    },
+    "promotion": {
+        "Elite 1": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Meandering Stars.\nNew talent: Terminus of Legends.\nRange extended.\nLevel 50\n30K\n5\n8\n6",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "30K"
+                },
+                {
+                    "name": "Caster Chip",
+                    "quantity": "50"
+                },
+                {
+                    "name": "Polyester",
+                    "quantity": "5"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "8"
+                }
+            ]
+        },
+        "Elite 2": {
+            "details": "Maximum attributes increased.\nNew skill: Ravings of the Wildtalker.\nNew talent: One Who Once Bore Wings.\nTerminus of Legends improved.\nOperator Modules available.\nElite 1 Level 80\n180K\n4\n4\n7",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "180K"
+                },
+                {
+                    "name": "Caster Dualchip",
+                    "quantity": "1"
+                },
+                {
+                    "name": "D32 Steel",
+                    "quantity": "80"
+                },
+                {
+                    "name": "Transmuted Salt Agglomerate",
+                    "quantity": "4"
+                }
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "Search for Answers",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "The next attack targets 1 additional enemy and deals 160% ATK as Arts damage; If the attack only hits 1 target, Levitate them for 2 seconds\nCan store 1 charge",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "The next attack targets 1 additional enemy and deals 170% ATK as Arts damage; If the attack only hits 1 target, Levitate them for 2 seconds\nCan store 1 charge",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "The next attack targets 1 additional enemy and deals 180% ATK as Arts damage; If the attack only hits 1 target, Levitate them for 2 seconds\nCan store 1 charge",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "The next attack targets 1 additional enemy and deals 200% ATK as Arts damage; If the attack only hits 1 target, Levitate them for 2.5 seconds\nCan store 1 charge",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "The next attack targets 1 additional enemy and deals 210% ATK as Arts damage; If the attack only hits 1 target, Levitate them for 2.5 seconds\nCan store 1 charge",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "The next attack targets 1 additional enemy and deals 220% ATK as Arts damage; If the attack only hits 1 target, Levitate them for 2.5 seconds\nCan store 1 charge",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "The next attack targets 1 additional enemy and deals 240% ATK as Arts damage; If the attack only hits 1 target, Levitate them for 3 seconds\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "The next attack targets 1 additional enemy and deals 260% ATK as Arts damage; If the attack only hits 1 target, Levitate them for 3.5 seconds\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "The next attack targets 1 additional enemy and deals 280% ATK as Arts damage; If the attack only hits 1 target, Levitate them for 3.5 seconds\nCan store 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "The next attack targets 1 additional enemy and deals 300% ATK as Arts damage; If the attack only hits 1 target, Levitate them for 4 seconds\nCan store 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Meandering Stars",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "16 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Each attack turns into bursts of 9 attacks with 20% ATK and attacks random targets within attack range; Each burst has a 8% chance to Levitate targets for 1 second",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "16s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Each attack turns into bursts of 9 attacks with 22% ATK and attacks random targets within attack range; Each burst has a 8% chance to Levitate targets for 1 second",
+                    "initial_sp": "20",
+                    "sp_cost": "39",
+                    "duration": "16s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Each attack turns into bursts of 9 attacks with 24% ATK and attacks random targets within attack range; Each burst has a 8% chance to Levitate targets for 1 second",
+                    "initial_sp": "20",
+                    "sp_cost": "38",
+                    "duration": "16s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Each attack turns into bursts of 9 attacks with 27% ATK and attacks random targets within attack range; Each burst has a 10% chance to Levitate targets for 1 second",
+                    "initial_sp": "21",
+                    "sp_cost": "36",
+                    "duration": "16s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Each attack turns into bursts of 9 attacks with 29% ATK and attacks random targets within attack range; Each burst has a 10% chance to Levitate targets for 1 second",
+                    "initial_sp": "21",
+                    "sp_cost": "35",
+                    "duration": "16s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Each attack turns into bursts of 9 attacks with 31% ATK and attacks random targets within attack range; Each burst has a 10% chance to Levitate targets for 1 second",
+                    "initial_sp": "21",
+                    "sp_cost": "34",
+                    "duration": "16s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Each attack turns into bursts of 9 attacks with 35% ATK and attacks random targets within attack range; Each burst has a 12% chance to Levitate targets for 1 second",
+                    "initial_sp": "22",
+                    "sp_cost": "32",
+                    "duration": "16s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Each attack turns into bursts of 9 attacks with 38% ATK and attacks random targets within attack range; Each burst has a 13% chance to Levitate targets for 1 second",
+                    "initial_sp": "23",
+                    "sp_cost": "31",
+                    "duration": "16s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Each attack turns into bursts of 9 attacks with 41% ATK and attacks random targets within attack range; Each burst has a 14% chance to Levitate targets for 1 second",
+                    "initial_sp": "24",
+                    "sp_cost": "31",
+                    "duration": "16s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Each attack turns into bursts of 9 attacks with 45% ATK and attacks random targets within attack range; Each burst has a 15% chance to Levitate targets for 1 second",
+                    "initial_sp": "25",
+                    "sp_cost": "30",
+                    "duration": "16s"
+                }
+            ]
+        },
+        {
+            "name": "Ravings of the Wildreader",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "45 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack range expands, Attack Interval increases; Attacks release whirlwinds that travels straight ahead, dealing Arts damage proportional to the distance travelled and reaches maximum after three tiles (min 213% ATK, max 320% ATK)[note 1] towards the first target hit and Levitates them for 1.6 seconds",
+                    "initial_sp": "40",
+                    "sp_cost": "70",
+                    "duration": "45s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack range expands, Attack Interval increases; Attacks release whirlwinds that travels straight ahead, dealing Arts damage proportional to the distance travelled and reaches maximum after three tiles (min 220% ATK, max 330% ATK)[note 1] towards the first target hit and Levitates them for 1.6 seconds",
+                    "initial_sp": "40",
+                    "sp_cost": "69",
+                    "duration": "45s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack range expands, Attack Interval increases; Attacks release whirlwinds that travels straight ahead, dealing Arts damage proportional to the distance travelled and reaches maximum after three tiles (min 227% ATK, max 340% ATK)[note 1] towards the first target hit and Levitates them for 1.6 seconds",
+                    "initial_sp": "40",
+                    "sp_cost": "68",
+                    "duration": "45s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack range expands, Attack Interval increases; Attacks release whirlwinds that travels straight ahead, dealing Arts damage proportional to the distance travelled and reaches maximum after three tiles (min 233% ATK, max 350% ATK)[note 1] towards the first target hit and Levitates them for 1.8 seconds",
+                    "initial_sp": "41",
+                    "sp_cost": "67",
+                    "duration": "45s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack range expands, Attack Interval increases; Attacks release whirlwinds that travels straight ahead, dealing Arts damage proportional to the distance travelled and reaches maximum after three tiles (min 240% ATK, max 360% ATK)[note 1] towards the first target hit and Levitates them for 1.8 seconds",
+                    "initial_sp": "41",
+                    "sp_cost": "66",
+                    "duration": "45s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack range expands, Attack Interval increases; Attacks release whirlwinds that travels straight ahead, dealing Arts damage proportional to the distance travelled and reaches maximum after three tiles (min 247% ATK, max 370% ATK)[note 1] towards the first target hit and Levitates them for 1.8 seconds",
+                    "initial_sp": "41",
+                    "sp_cost": "65",
+                    "duration": "45s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack range expands, Attack Interval increases; Attacks release whirlwinds that travels straight ahead, dealing Arts damage proportional to the distance travelled and reaches maximum after three tiles (min 253% ATK, max 380% ATK)[note 1] towards the first target hit and Levitates them for 2 seconds",
+                    "initial_sp": "42",
+                    "sp_cost": "64",
+                    "duration": "45s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack range expands, Attack Interval increases; Attacks release whirlwinds that travels straight ahead, dealing Arts damage proportional to the distance travelled and reaches maximum after three tiles (min 267% ATK, max 400% ATK)[note 1] towards the first target hit and Levitates them for 2 seconds",
+                    "initial_sp": "43",
+                    "sp_cost": "63",
+                    "duration": "45s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack range expands, Attack Interval increases; Attacks release whirlwinds that travels straight ahead, dealing Arts damage proportional to the distance travelled and reaches maximum after three tiles (min 273% ATK, max 410% ATK)[note 1] towards the first target hit and Levitates them for 2 seconds",
+                    "initial_sp": "44",
+                    "sp_cost": "62",
+                    "duration": "45s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack range expands, Attack Interval increases; Attacks release whirlwinds that travels straight ahead, dealing Arts damage proportional to the distance travelled and reaches maximum after three tiles (min 280% ATK, max 420% ATK)[note 1] towards the first target hit and Levitates them for 2.2 seconds",
+                    "initial_sp": "45",
+                    "sp_cost": "60",
+                    "duration": "45s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Integrated Device",
+                "quantity": "4"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "6"
+            },
+            {
+                "name": "Incandescent Alloy",
+                "quantity": "3"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-12",
+                        "quantity": "3"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Transmuted Salt",
+                        "quantity": "3"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Transmuted Salt Agglomerate",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Terminus of Legends",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When attacking aerial enemies, increase ATK to 110% and disables the target's special abilities for 1 second"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When attacking aerial enemies, increase ATK to 120% and disables the target's special abilities for 3 seconds"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "When attacking aerial enemies, increase ATK to 113% (+3%) and disables the target's special abilities for 1 second"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "When attacking aerial enemies, increase ATK to 123% (+3%) and disables the target's special abilities for 3 seconds"
+                }
+            ]
+        },
+        {
+            "name": "One Who Once Bore Wings",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Inflicts Weightless on enemies within attack range whose HP is above 80%"
+                }
+            ]
+        }
+    ]
+}

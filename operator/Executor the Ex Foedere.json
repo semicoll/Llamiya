@@ -1,0 +1,606 @@
+{
+    "info": {
+        "title": "Executor the Ex Foedere",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/6/6d/Executor_the_Ex_Foedere_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20230608063718"
+        }
+    },
+    "stats": {
+        "HP": {
+            "Base": "1076",
+            "Max": "1475",
+            "Elite 1": "1967",
+            "Elite 2": "2491",
+            "Trust": ""
+        },
+        "ATK": {
+            "Base": "298",
+            "Max": "439",
+            "Elite 1": "586",
+            "Elite 2": "707",
+            "Trust": "+70"
+        },
+        "DEF": {
+            "Base": "224",
+            "Max": "308",
+            "Elite 1": "396",
+            "Elite 2": "461",
+            "Trust": "+30"
+        },
+        "RES": {
+            "Base": "0",
+            "Max": "0",
+            "Elite 1": "0",
+            "Elite 2": "0",
+            "Trust": ""
+        },
+        "Rdpl. time": {
+            "Base": "70s",
+            "Max": "70s",
+            "Elite 1": "70s",
+            "Elite 2": "70s",
+            "Trust": ""
+        },
+        "DP cost": {
+            "Base": "20",
+            "Max": "20",
+            "Elite 1": "21",
+            "Elite 2": "23",
+            "Trust": ""
+        },
+        "Blk. cnt.": {
+            "Base": "1",
+            "Max": "1",
+            "Elite 1": "2",
+            "Elite 2": "2",
+            "Trust": ""
+        },
+        "Atk. itvl.": {
+            "Base": "1.3s",
+            "Max": "1.3s",
+            "Elite 1": "1.3s",
+            "Elite 2": "1.3s",
+            "Trust": ""
+        }
+    },
+    "potential": {
+        "Pot 1": "DP cost -1",
+        "Pot 2": "DEF +22",
+        "Pot 3": "ATK +26",
+        "Pot 4": "Improves The Chosen One",
+        "Pot 5": "DP cost -1"
+    },
+    "promotion": {
+        "Elite 1": {
+            "details": "Maximum attributes increased.\nDP cost +1.\nBlock count +1.\nNew skill: Close Gunfight.\nNew talent: The Chosen One.\nLevel 50\n30K\n5\n7\n4",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "30K"
+                },
+                {
+                    "name": "Guard Chip",
+                    "quantity": "50"
+                },
+                {
+                    "name": "Polyketon",
+                    "quantity": "5"
+                },
+                {
+                    "name": "Oriron",
+                    "quantity": "7"
+                }
+            ]
+        },
+        "Elite 2": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Verdict of Covenant.\nNew talent: Empathy of Bullets.\nThe Chosen One improved.\nElite 1 Level 80\n180K\n4\n3\n7",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "180K"
+                },
+                {
+                    "name": "Guard Dualchip",
+                    "quantity": "1"
+                },
+                {
+                    "name": "Nucleic Crystal Sinter",
+                    "quantity": "80"
+                },
+                {
+                    "name": "Polymerized Gel",
+                    "quantity": "4"
+                }
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "Testament Exacted",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Auto Trigger",
+                "Toggleable"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack range expands, ATK +10%, and attacks ignore 100 DEF\nSkill has 8 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack range expands, ATK +10%, and attacks ignore 130 DEF\nSkill has 8 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack range expands, ATK +10%, and attacks ignore 160 DEF\nSkill has 8 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack range expands, ATK +20%, and attacks ignore 190 DEF\nSkill has 8 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack range expands, ATK +20%, and attacks ignore 220 DEF\nSkill has 8 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack range expands, ATK +20%, and attacks ignore 250 DEF\nSkill has 8 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack range expands, ATK +30%, and attacks ignore 280 DEF\nSkill has 8 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack range expands, ATK +40%, and attacks ignore 320 DEF\nSkill has 8 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack range expands, ATK +45%, and attacks ignore 360 DEF\nSkill has 8 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack range expands, ATK +50%, and attacks ignore 400 DEF\nSkill has 8 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Close Combat",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Manual Trigger",
+                "Toggleable"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +30%, DEF +30%, Block +1, and has a 10% chance to dodge the attack and replenish 1 ammo when receiving an enemy's melee attack\nSkill has 12 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "15",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +35%, DEF +35%, Block +1, and has a 10% chance to dodge the attack and replenish 1 ammo when receiving an enemy's melee attack\nSkill has 12 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "1",
+                    "sp_cost": "15",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +40%, DEF +40%, Block +1, and has a 10% chance to dodge the attack and replenish 1 ammo when receiving an enemy's melee attack\nSkill has 12 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "2",
+                    "sp_cost": "15",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +45%, DEF +45%, Block +1, and has a 20% chance to dodge the attack and replenish 1 ammo when receiving an enemy's melee attack\nSkill has 12 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "3",
+                    "sp_cost": "15",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +50%, DEF +50%, Block +1, and has a 20% chance to dodge the attack and replenish 1 ammo when receiving an enemy's melee attack\nSkill has 12 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "4",
+                    "sp_cost": "15",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +55%, DEF +55%, Block +1, and has a 20% chance to dodge the attack and replenish 1 ammo when receiving an enemy's melee attack\nSkill has 12 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "5",
+                    "sp_cost": "15",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +60%, DEF +60%, Block +1, and has a 30% chance to dodge the attack and replenish 1 ammo when receiving an enemy's melee attack\nSkill has 12 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "6",
+                    "sp_cost": "15",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +70%, DEF +70%, Block +1, and has a 30% chance to dodge the attack and replenish 1 ammo when receiving an enemy's melee attack\nSkill has 12 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "6",
+                    "sp_cost": "14",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +75%, DEF +75%, Block +1, and has a 30% chance to dodge the attack and replenish 1 ammo when receiving an enemy's melee attack\nSkill has 12 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "6",
+                    "sp_cost": "13",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +80%, DEF +80%, Block +1, and has a 40% chance to dodge the attack and replenish 1 ammo when receiving an enemy's melee attack\nSkill has 12 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "6",
+                    "sp_cost": "12",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Damnatus Ex Foedere",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Manual Trigger",
+                "Toggleable"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack interval slightly increases, attack range expands, ATK +90% and additionally ATK +3% for each ammo consumed (stacks up to 30 times), and HP recovery from Trait effect increases to 2 times; When the skill ends, deal 200% of ATK as Physical damage to the targets attacked during skill duration\nSkill has 16 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "36",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack interval slightly increases, attack range expands, ATK +100% and additionally ATK +3% for each ammo consumed (stacks up to 30 times), and HP recovery from Trait effect increases to 2 times; When the skill ends, deal 200% of ATK as Physical damage to the targets attacked during skill duration\nSkill has 16 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "2",
+                    "sp_cost": "35",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack interval slightly increases, attack range expands, ATK +110% and additionally ATK +3% for each ammo consumed (stacks up to 30 times), and HP recovery from Trait effect increases to 2 times; When the skill ends, deal 200% of ATK as Physical damage to the targets attacked during skill duration\nSkill has 16 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "4",
+                    "sp_cost": "34",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack interval slightly increases, attack range expands, ATK +120% and additionally ATK +4% for each ammo consumed (stacks up to 30 times), and HP recovery from Trait effect increases to 2 times; When the skill ends, deal 200% of ATK as Physical damage to the targets attacked during skill duration\nSkill has 16 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "6",
+                    "sp_cost": "33",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack interval slightly increases, attack range expands, ATK +130% and additionally ATK +4% for each ammo consumed (stacks up to 30 times), and HP recovery from Trait effect increases to 2 times; When the skill ends, deal 200% of ATK as Physical damage to the targets attacked during skill duration\nSkill has 16 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "8",
+                    "sp_cost": "32",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack interval slightly increases, attack range expands, ATK +140% and additionally ATK +4% for each ammo consumed (stacks up to 30 times), and HP recovery from Trait effect increases to 2 times; When the skill ends, deal 200% of ATK as Physical damage to the targets attacked during skill duration\nSkill has 16 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "10",
+                    "sp_cost": "31",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack interval slightly increases, attack range expands, ATK +150% and additionally ATK +5% for each ammo consumed (stacks up to 30 times), and HP recovery from Trait effect increases to 2 times; When the skill ends, deal 200% of ATK as Physical damage to the targets attacked during skill duration\nSkill has 16 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "12",
+                    "sp_cost": "30",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack interval slightly increases, attack range expands, ATK +160% and additionally ATK +5% for each ammo consumed (stacks up to 30 times), and HP recovery from Trait effect increases to 3 times; When the skill ends, deal 200% of ATK as Physical damage to the targets attacked during skill duration\nSkill has 16 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "12",
+                    "sp_cost": "28",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack interval slightly increases, attack range expands, ATK +170% and additionally ATK +5% for each ammo consumed (stacks up to 30 times), and HP recovery from Trait effect increases to 3 times; When the skill ends, deal 200% of ATK as Physical damage to the targets attacked during skill duration\nSkill has 16 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "12",
+                    "sp_cost": "26",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack interval slightly increases, attack range expands, ATK +180% and additionally ATK +6% for each ammo consumed (stacks up to 30 times), and HP recovery from Trait effect increases to 3 times; When the skill ends, deal 250% of ATK as Physical damage to the targets attacked during skill duration\nSkill has 16 ammo and the skill ends when all ammo are used (can manually deactivate skill)",
+                    "initial_sp": "12",
+                    "sp_cost": "24",
+                    "duration": "–"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            },
+            {
+                "name": "Ester",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "7"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "4"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester Pack",
+                "quantity": "7"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar Pack",
+                "quantity": "6"
+            },
+            {
+                "name": "Manganese Trihydrate",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Oriron Cluster",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Nucleic Crystal Sinter",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "The Chosen One",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When attacking, has a 10% chance to attack a second time. During skill duration, the chance increases by 3% for every ammo consumed; resets when the skill ends"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When attacking, has a 20% chance to attack a second time. During skill duration, the chance increases by 5% for every ammo consumed; resets when the skill ends"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "When attacking, has a 13% (+3%) chance to attack a second time. During skill duration, the chance increases by 3% for every ammo consumed; resets when the skill ends"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "When attacking, has a 23% (+3%) chance to attack a second time. During skill duration, the chance increases by 5% for every ammo consumed; resets when the skill ends"
+                }
+            ]
+        },
+        {
+            "name": "Empathy by Shotgun",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "For every [Laterano] Operator deployed, the maximum ammo of skills +1 (stacks up to 4 times)"
+                }
+            ]
+        }
+    ]
+}

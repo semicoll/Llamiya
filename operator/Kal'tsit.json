@@ -1,0 +1,607 @@
+{
+    "info": {
+        "title": "Kal'tsit",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/1/1e/Kal%27tsit_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20210424140805",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/3/39/Kal%27tsit_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20230501091215"
+        }
+    },
+    "stats": {
+        "HP": {
+            "Base": "865",
+            "Max": "1219",
+            "Elite 1": "1469",
+            "Elite 2": "1633",
+            "Trust": "+400"
+        },
+        "ATK": {
+            "Base": "167",
+            "Max": "274",
+            "Elite 1": "392",
+            "Elite 2": "490",
+            "Trust": ""
+        },
+        "DEF": {
+            "Base": "94",
+            "Max": "137",
+            "Elite 1": "172",
+            "Elite 2": "215",
+            "Trust": "+40"
+        },
+        "RES": {
+            "Base": "0",
+            "Max": "0",
+            "Elite 1": "0",
+            "Elite 2": "0",
+            "Trust": ""
+        },
+        "Rdpl. time": {
+            "Base": "70s",
+            "Max": "70s",
+            "Elite 1": "70s",
+            "Elite 2": "70s",
+            "Trust": ""
+        },
+        "DP cost": {
+            "Base": "18",
+            "Max": "18",
+            "Elite 1": "20",
+            "Elite 2": "20",
+            "Trust": ""
+        },
+        "Blk. cnt.": {
+            "Base": "1",
+            "Max": "1",
+            "Elite 1": "1",
+            "Elite 2": "1",
+            "Trust": ""
+        },
+        "Atk. itvl.": {
+            "Base": "2.85s",
+            "Max": "2.85s",
+            "Elite 1": "2.85s",
+            "Elite 2": "2.85s",
+            "Trust": ""
+        }
+    },
+    "potential": {
+        "Pot 1": "DP cost -1",
+        "Pot 2": "Redeployment time -4 seconds",
+        "Pot 3": "ATK +25",
+        "Pot 4": "Improves Non-Damaging Restructuring",
+        "Pot 5": "DP cost -1"
+    },
+    "promotion": {
+        "Elite 1": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Command: Tactical Coordination.\nMon3tr improved.\nRange extended.\nLevel 50\n30K\n5\n8\n5",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "30K"
+                },
+                {
+                    "name": "Medic Chip",
+                    "quantity": "50"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "5"
+                },
+                {
+                    "name": "Polyketon",
+                    "quantity": "8"
+                }
+            ]
+        },
+        "Elite 2": {
+            "details": "Maximum attributes increased.\nNew skill: Command: Meltdown.\nNew talent: Non-Damaging Restructuring.\nMon3tr improved.\nRange extended.\nOperator Modules available.\nElite 1 Level 80\n180K\n4\n4\n4",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "180K"
+                },
+                {
+                    "name": "Medic Dualchip",
+                    "quantity": "1"
+                },
+                {
+                    "name": "Crystalline Electronic Unit",
+                    "quantity": "80"
+                },
+                {
+                    "name": "Optimized Device",
+                    "quantity": "4"
+                }
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "Command: Structural Fortification",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30-40 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "This unit and Mon3tr gains +60% DEF. This unit also gains 20% Physical resist",
+                    "initial_sp": "0",
+                    "sp_cost": "30",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "This unit and Mon3tr gains +70% DEF. This unit also gains 20% Physical resist",
+                    "initial_sp": "1",
+                    "sp_cost": "29",
+                    "duration": "31s"
+                },
+                {
+                    "level": "3",
+                    "effect": "This unit and Mon3tr gains +80% DEF. This unit also gains 20% Physical resist",
+                    "initial_sp": "2",
+                    "sp_cost": "28",
+                    "duration": "32s"
+                },
+                {
+                    "level": "4",
+                    "effect": "This unit and Mon3tr gains +90% DEF. This unit also gains 30% Physical resist",
+                    "initial_sp": "3",
+                    "sp_cost": "27",
+                    "duration": "33s"
+                },
+                {
+                    "level": "5",
+                    "effect": "This unit and Mon3tr gains +100% DEF. This unit also gains 30% Physical resist",
+                    "initial_sp": "4",
+                    "sp_cost": "26",
+                    "duration": "34s"
+                },
+                {
+                    "level": "6",
+                    "effect": "This unit and Mon3tr gains +110% DEF. This unit also gains 30% Physical resist",
+                    "initial_sp": "5",
+                    "sp_cost": "25",
+                    "duration": "35s"
+                },
+                {
+                    "level": "7",
+                    "effect": "This unit and Mon3tr gains +120% DEF. This unit also gains 40% Physical resist",
+                    "initial_sp": "6",
+                    "sp_cost": "24",
+                    "duration": "36s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "This unit and Mon3tr gains +130% DEF. This unit also gains 40% Physical resist",
+                    "initial_sp": "7",
+                    "sp_cost": "23",
+                    "duration": "37s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "This unit and Mon3tr gains +140% DEF. This unit also gains 40% Physical resist",
+                    "initial_sp": "8",
+                    "sp_cost": "22",
+                    "duration": "38s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "This unit and Mon3tr gains +150% DEF. This unit also gains 50% Physical resist",
+                    "initial_sp": "10",
+                    "sp_cost": "20",
+                    "duration": "40s"
+                }
+            ]
+        },
+        {
+            "name": "Command: Tactical Coordination",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15-20 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "This unit gains +30 ASPD; Mon3tr gains ATK +20% and attacks multiple targets up to Block count[note 1]\nThis skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "14",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "This unit gains +35 ASPD; Mon3tr gains ATK +25% and attacks multiple targets up to Block count[note 1]\nThis skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "14",
+                    "duration": "15s"
+                },
+                {
+                    "level": "3",
+                    "effect": "This unit gains +40 ASPD; Mon3tr gains ATK +30% and attacks multiple targets up to Block count[note 1]\nThis skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "14",
+                    "duration": "15s"
+                },
+                {
+                    "level": "4",
+                    "effect": "This unit gains +45 ASPD; Mon3tr gains ATK +35% and attacks multiple targets up to Block count[note 1]\nThis skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "13",
+                    "duration": "16s"
+                },
+                {
+                    "level": "5",
+                    "effect": "This unit gains +50 ASPD; Mon3tr gains ATK +40% and attacks multiple targets up to Block count[note 1]\nThis skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "13",
+                    "duration": "16s"
+                },
+                {
+                    "level": "6",
+                    "effect": "This unit gains +55 ASPD; Mon3tr gains ATK +45% and attacks multiple targets up to Block count[note 1]\nThis skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "13",
+                    "duration": "16s"
+                },
+                {
+                    "level": "7",
+                    "effect": "This unit gains +60 ASPD; Mon3tr gains ATK +50% and attacks multiple targets up to Block count[note 1]\nThis skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "17s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "This unit gains +70 ASPD; Mon3tr gains ATK +60% and attacks multiple targets up to Block count[note 1]\nThis skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "18s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "This unit gains +80 ASPD; Mon3tr gains ATK +75% and attacks multiple targets up to Block count[note 1]\nThis skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "19s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "This unit gains +100 ASPD; Mon3tr gains ATK +90% and attacks multiple targets up to Block count[note 1]\nThis skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "20s"
+                }
+            ]
+        },
+        {
+            "name": "Command: Meltdown",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "18-20 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Mon3tr gains DEF +100%, ATK +130% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% of Max HP. This skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "25",
+                    "duration": "18s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Mon3tr gains DEF +100%, ATK +140% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% of Max HP. This skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "24",
+                    "duration": "18s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Mon3tr gains DEF +100%, ATK +150% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% of Max HP. This skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "23",
+                    "duration": "18s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Mon3tr gains DEF +120%, ATK +160% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% of Max HP. This skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "22",
+                    "duration": "18s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Mon3tr gains DEF +120%, ATK +170% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% of Max HP. This skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "21",
+                    "duration": "18s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Mon3tr gains DEF +120%, ATK +180% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% of Max HP. This skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "20",
+                    "duration": "18s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Mon3tr gains DEF +140%, ATK +190% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% of Max HP. This skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "19",
+                    "duration": "18s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Mon3tr gains DEF +160%, ATK +210% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% of Max HP. This skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "18",
+                    "duration": "18s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Mon3tr gains DEF +180%, ATK +230% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% of Max HP. This skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "17",
+                    "duration": "19s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Mon3tr gains DEF +200%, ATK +260% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% of Max HP. This skill is Tied to Mon3tr",
+                    "initial_sp": "0",
+                    "sp_cost": "15",
+                    "duration": "20s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            },
+            {
+                "name": "Ester",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "7"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "4"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron Cluster",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "3"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "6"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Cluster",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Mon3tr",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "Can use and heal Mon3tr, and Mon3tr has a 35 second redeployment time. Kal'tsit will prioritize healing herself and Mon3tr; If Mon3tr is not within Kal'tsit's Attack Range, Mon3tr's DEF is reduced to 0"
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "Can use and heal Mon3tr, and Mon3tr has a 30 second redeployment time. Kal'tsit will prioritize healing herself and Mon3tr; If Mon3tr is not within Kal'tsit's Attack Range, Mon3tr's DEF is reduced to 0"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Can use and heal Mon3tr, and Mon3tr has a 25 second redeployment time. Kal'tsit will prioritize healing herself and Mon3tr; If Mon3tr is not within Kal'tsit's Attack Range, Mon3tr's DEF is reduced to 0"
+                }
+            ]
+        },
+        {
+            "name": "Non-Damaging Restructuring",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "When Mon3tr is defeated (excluding retreat), all enemies in the surrounding 8 tiles are Stunned for 3 seconds and receive 1200 True damage"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "When Mon3tr is defeated (excluding retreat), all enemies in the surrounding 8 tiles are Stunned for 3.5 (+0.5) seconds and receive 1400 (+200) True damage"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,504 @@
+{
+    "info": {
+        "title": "Thorns",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/b/b6/Thorns_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20200811101846",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/4/42/Thorns_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20210601155924"
+        }
+    },
+    "skills": [
+        {
+            "name": "ATK Up γ",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +30%",
+                    "initial_sp": "0",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +35%",
+                    "initial_sp": "0",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +40%",
+                    "initial_sp": "0",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +45%",
+                    "initial_sp": "5",
+                    "sp_cost": "37",
+                    "duration": "30s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +50%",
+                    "initial_sp": "5",
+                    "sp_cost": "37",
+                    "duration": "30s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +55%",
+                    "initial_sp": "5",
+                    "sp_cost": "37",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +60%",
+                    "initial_sp": "10",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +75%",
+                    "initial_sp": "10",
+                    "sp_cost": "34",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +90%",
+                    "initial_sp": "10",
+                    "sp_cost": "33",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +100%",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "30s"
+                }
+            ]
+        },
+        {
+            "name": "Protective Spikes",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30-40 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Stops attacking; ATK +30%, DEF +40%; When hit by an enemy's normal attack, launches long-ranged spikes at up to 4 enemies in front (0.8-second cooldown)",
+                    "initial_sp": "10",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Stops attacking; ATK +30%, DEF +45%; When hit by an enemy's normal attack, launches long-ranged spikes at up to 4 enemies in front (0.8-second cooldown)",
+                    "initial_sp": "10",
+                    "sp_cost": "34",
+                    "duration": "31s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Stops attacking; ATK +30%, DEF +50%; When hit by an enemy's normal attack, launches long-ranged spikes at up to 4 enemies in front (0.8-second cooldown)",
+                    "initial_sp": "10",
+                    "sp_cost": "33",
+                    "duration": "32s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Stops attacking; ATK +30%, DEF +55%; When hit by an enemy's normal attack, launches long-ranged spikes at up to 4 enemies in front (0.8-second cooldown)",
+                    "initial_sp": "10",
+                    "sp_cost": "31",
+                    "duration": "33s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Stops attacking; ATK +30%, DEF +60%; When hit by an enemy's normal attack, launches long-ranged spikes at up to 4 enemies in front (0.8-second cooldown)",
+                    "initial_sp": "10",
+                    "sp_cost": "30",
+                    "duration": "34s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Stops attacking; ATK +30%, DEF +65%; When hit by an enemy's normal attack, launches long-ranged spikes at up to 4 enemies in front (0.8-second cooldown)",
+                    "initial_sp": "10",
+                    "sp_cost": "29",
+                    "duration": "35s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Stops attacking; ATK +40%, DEF +70%; When hit by an enemy's normal attack, launches long-ranged spikes at up to 4 enemies in front (0.75-second cooldown)",
+                    "initial_sp": "10",
+                    "sp_cost": "28",
+                    "duration": "36s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Stops attacking; ATK +45%, DEF +80%; When hit by an enemy's normal attack, launches long-ranged spikes at up to 4 enemies in front (0.7-second cooldown)",
+                    "initial_sp": "10",
+                    "sp_cost": "27",
+                    "duration": "37s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Stops attacking; ATK +50%, DEF +90%; When hit by an enemy's normal attack, launches long-ranged spikes at up to 4 enemies in front (0.65-second cooldown)",
+                    "initial_sp": "10",
+                    "sp_cost": "26",
+                    "duration": "38s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Stops attacking; ATK +60%, DEF +110%; When hit by an enemy's normal attack, launches long-ranged spikes at up to 4 enemies in front (0.6-second cooldown)",
+                    "initial_sp": "10",
+                    "sp_cost": "25",
+                    "duration": "40"
+                }
+            ]
+        },
+        {
+            "name": "Destreza",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Manual Trigger",
+                "30 sec./Unlimited"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Range expands, ATK +26%, ASPD +12, and ranged attacks no longer deal reduced damage\nUpon the second activation of this skill and afterwards, this skill has unlimited duration, and its bonuses are twice the base amount",
+                    "initial_sp": "0",
+                    "sp_cost": "15",
+                    "duration": "30s/∞"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Range expands, ATK +28%, ASPD +12, and ranged attacks no longer deal reduced damage\nUpon the second activation of this skill and afterwards, this skill has unlimited duration, and its bonuses are twice the base amount",
+                    "initial_sp": "0",
+                    "sp_cost": "15",
+                    "duration": "30s/∞"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Range expands, ATK +30%, ASPD +12, and ranged attacks no longer deal reduced damage\nUpon the second activation of this skill and afterwards, this skill has unlimited duration, and its bonuses are twice the base amount",
+                    "initial_sp": "0",
+                    "sp_cost": "15",
+                    "duration": "30s/∞"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Range expands, ATK +33%, ASPD +14, and ranged attacks no longer deal reduced damage\nUpon the second activation of this skill and afterwards, this skill has unlimited duration, and its bonuses are twice the base amount",
+                    "initial_sp": "0",
+                    "sp_cost": "15",
+                    "duration": "30s/∞"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Range expands, ATK +35%, ASPD +14, and ranged attacks no longer deal reduced damage\nUpon the second activation of this skill and afterwards, this skill has unlimited duration, and its bonuses are twice the base amount",
+                    "initial_sp": "0",
+                    "sp_cost": "15",
+                    "duration": "30s/∞"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Range expands, ATK +37%, ASPD +14, and ranged attacks no longer deal reduced damage\nUpon the second activation of this skill and afterwards, this skill has unlimited duration, and its bonuses are twice the base amount",
+                    "initial_sp": "0",
+                    "sp_cost": "15",
+                    "duration": "30s/∞"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Range expands, ATK +40%, ASPD +16, and ranged attacks no longer deal reduced damage\nUpon the second activation of this skill and afterwards, this skill has unlimited duration, and its bonuses are twice the base amount",
+                    "initial_sp": "0",
+                    "sp_cost": "15",
+                    "duration": "30s/∞"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Range expands, ATK +45%, ASPD +19, and ranged attacks no longer deal reduced damage\nUpon the second activation of this skill and afterwards, this skill has unlimited duration, and its bonuses are twice the base amount",
+                    "initial_sp": "0",
+                    "sp_cost": "15",
+                    "duration": "30s/∞"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Range expands, ATK +50%, ASPD +22, and ranged attacks no longer deal reduced damage\nUpon the second activation of this skill and afterwards, this skill has unlimited duration, and its bonuses are twice the base amount",
+                    "initial_sp": "0",
+                    "sp_cost": "15",
+                    "duration": "30s/∞"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Range expands, ATK +60%, ASPD +25, and ranged attacks no longer deal reduced damage\nUpon the second activation of this skill and afterwards, this skill has unlimited duration, and its bonuses are twice the base amount",
+                    "initial_sp": "0",
+                    "sp_cost": "15",
+                    "duration": "30s/∞"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cluster",
+                "quantity": "8"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "3"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "6"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Nerve Corrosion",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "Poisons the targets when attacking, dealing 65 Arts Damage to them per second, lasting 3 seconds (damage is doubled against Ranged enemies)"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Poisons the targets when attacking, dealing 125 Arts Damage to them per second, lasting 3 seconds (damage is doubled against Ranged enemies)"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Poisons the targets when attacking, dealing 80 (+15) Arts Damage to them per second, lasting 3 seconds (damage is doubled against Ranged enemies)"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "Poisons the targets when attacking, dealing 140 (+15) Arts Damage to them per second, lasting 3 seconds (damage is doubled against Ranged enemies)"
+                }
+            ]
+        },
+        {
+            "name": "Echoes of Ancestral Waves",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "If this unit hasn't attacked for the last 2 seconds, restores 3.5% max HP every second"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 3",
+                    "description": "If this unit hasn't attacked for the last 2 seconds, restores 4% (+0.5%) max HP every second"
+                }
+            ]
+        }
+    ]
+}

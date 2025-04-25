@@ -1,0 +1,502 @@
+{
+    "info": {
+        "title": "Passenger",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/1/1e/Passenger_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20210415052547",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/8/8c/Passenger_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20221101140721"
+        }
+    },
+    "skills": [
+        {
+            "name": "Touch of Static",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Increases the ATK of the next attack to 150%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Increases the ATK of the next attack to 160%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Increases the ATK of the next attack to 170%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Increases the ATK of the next attack to 180%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Increases the ATK of the next attack to 190%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Increases the ATK of the next attack to 200%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Increases the ATK of the next attack to 210%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Increases the ATK of the next attack to 220%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Increases the ATK of the next attack to 230%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Increases the ATK of the next attack to 250%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Focus Command",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "25-35 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Range +1 tile, ATK +10%, Attack Interval decreases slightly. Increase the maximum number of jumps to 5",
+                    "initial_sp": "10",
+                    "sp_cost": "50",
+                    "duration": "25s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Range +1 tile, ATK +10%, Attack Interval decreases slightly. Increase the maximum number of jumps to 5",
+                    "initial_sp": "11",
+                    "sp_cost": "49",
+                    "duration": "26s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Range +1 tile, ATK +10%, Attack Interval decreases slightly. Increase the maximum number of jumps to 5",
+                    "initial_sp": "12",
+                    "sp_cost": "48",
+                    "duration": "27s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Range +1 tile, ATK +15%, Attack Interval decreases a little. Increase the maximum number of jumps to 5",
+                    "initial_sp": "13",
+                    "sp_cost": "47",
+                    "duration": "28s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Range +1 tile, ATK +15%, Attack Interval decreases a little. Increase the maximum number of jumps to 5",
+                    "initial_sp": "14",
+                    "sp_cost": "46",
+                    "duration": "29s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Range +1 tile, ATK +15%, Attack Interval decreases a little. Increase the maximum number of jumps to 5",
+                    "initial_sp": "15",
+                    "sp_cost": "45",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Range +1 tile, ATK +20%, Attack Interval decreases. Increase the maximum number of jumps to 5",
+                    "initial_sp": "16",
+                    "sp_cost": "44",
+                    "duration": "31s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Range +1 tile, ATK +25%, Attack Interval decreases. Increase the maximum number of jumps to 5",
+                    "initial_sp": "17",
+                    "sp_cost": "43",
+                    "duration": "32s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Range +1 tile, ATK +30%, Attack Interval decreases. Increase the maximum number of jumps to 5",
+                    "initial_sp": "18",
+                    "sp_cost": "42",
+                    "duration": "33s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Range +1 tile, ATK +30%, Attack Interval decreases moderately. Increase the maximum number of jumps to 5",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "35s"
+                }
+            ]
+        },
+        {
+            "name": "Glorious Shards",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Immediately generates a lightning storm centered on the target with the highest HP within a wide range, lasting for 4 seconds; Deals an additional attack equal to 100% ATK to a random enemy within the lightning storm every 0.5 seconds; Can store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "35",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Immediately generates a lightning storm centered on the target with the highest HP within a wide range, lasting for 4 seconds; Deals an additional attack equal to 105% ATK to a random enemy within the lightning storm every 0.5 seconds; Can store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "35",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Immediately generates a lightning storm centered on the target with the highest HP within a wide range, lasting for 4 seconds; Deals an additional attack equal to 110% ATK to a random enemy within the lightning storm every 0.5 seconds; Can store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "35",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Immediately generates a lightning storm centered on the target with the highest HP within a wide range, lasting for 4 seconds; Deals an additional attack equal to 115% ATK to a random enemy within the lightning storm every 0.5 seconds; Can store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "35",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Immediately generates a lightning storm centered on the target with the highest HP within a wide range, lasting for 4 seconds; Deals an additional attack equal to 120% ATK to a random enemy within the lightning storm every 0.5 seconds; Can store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "35",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Immediately generates a lightning storm centered on the target with the highest HP within a wide range, lasting for 4 seconds; Deals an additional attack equal to 125% ATK to a random enemy within the lightning storm every 0.5 seconds; Can store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "35",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Immediately generates a lightning storm centered on the target with the highest HP within a wide range, lasting for 4 seconds; Deals an additional attack equal to 130% ATK to a random enemy within the lightning storm every 0.5 seconds; Can store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "34",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Immediately generates a lightning storm centered on the target with the highest HP within a wide range, lasting for 4 seconds; Deals an additional attack equal to 135% ATK to a random enemy within the lightning storm every 0.5 seconds; Can store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "33",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Immediately generates a lightning storm centered on the target with the highest HP within a wide range, lasting for 4 seconds; Deals an additional attack equal to 140% ATK to a random enemy within the lightning storm every 0.5 seconds; Can store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "32",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Immediately generates a lightning storm centered on the target with the highest HP within a wide range, lasting for 4 seconds; Deals an additional attack equal to 150% ATK to a random enemy within the lightning storm every 0.5 seconds; Can store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "30",
+                    "duration": "–"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Ester",
+                "quantity": "6"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cluster",
+                "quantity": "8"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Coagulating Gel",
+                "quantity": "4"
+            },
+            {
+                "name": "Oriron Cluster",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Integrated Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "3"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "9"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Mechanism Analysis",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When attacking enemies with more than 80% HP, Passenger will deal 10% increased damage to them for 3 seconds"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When attacking enemies with more than 80% HP, Passenger will deal 20% increased damage to them for 3 seconds"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 6",
+                    "description": "When attacking enemies with more than 80% HP, Passenger will deal 15% (+5%) increased damage to them for 3 seconds"
+                },
+                {
+                    "level": "Potential 6",
+                    "description": "When attacking enemies with more than 80% HP, Passenger will deal 25% (+5%) increased damage to them for 3 seconds"
+                }
+            ]
+        },
+        {
+            "name": "Lone Soldier",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "When there are no enemies in the surrounding 4 tiles, ATK +8%"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 3",
+                    "description": "When there are no enemies in the surrounding 4 tiles, ATK +10% (+2%)"
+                }
+            ]
+        }
+    ]
+}

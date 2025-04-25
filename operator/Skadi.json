@@ -1,0 +1,497 @@
+{
+    "info": {
+        "title": "Skadi",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/7/7c/Skadi_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20190724203716",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/0/04/Skadi_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20200811102050",
+            "Waverider WR04": "https://static.wikia.nocookie.net/mrfz/images/5/5f/Skadi_Skin_2.png/revision/latest/scale-to-width-down/268?cb=20230420122821"
+        }
+    },
+    "skills": [
+        {
+            "name": "Swift Strike γ",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "35 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +20%; ASPD +20",
+                    "initial_sp": "0",
+                    "sp_cost": "45",
+                    "duration": "35s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +22%; ASPD +20",
+                    "initial_sp": "0",
+                    "sp_cost": "44",
+                    "duration": "35s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +24%; ASPD +20",
+                    "initial_sp": "0",
+                    "sp_cost": "43",
+                    "duration": "35s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +27%; ASPD +25",
+                    "initial_sp": "5",
+                    "sp_cost": "42",
+                    "duration": "35s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +29%; ASPD +25",
+                    "initial_sp": "5",
+                    "sp_cost": "41",
+                    "duration": "35s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +31%; ASPD +25",
+                    "initial_sp": "5",
+                    "sp_cost": "40",
+                    "duration": "35s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +34%; ASPD +35",
+                    "initial_sp": "10",
+                    "sp_cost": "39",
+                    "duration": "35s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +37%; ASPD +35",
+                    "initial_sp": "10",
+                    "sp_cost": "38",
+                    "duration": "35s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +40%; ASPD +35",
+                    "initial_sp": "10",
+                    "sp_cost": "37",
+                    "duration": "35s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +45%; ASPD +45",
+                    "initial_sp": "15",
+                    "sp_cost": "35",
+                    "duration": "35s"
+                }
+            ]
+        },
+        {
+            "name": "Wave Strike",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Passive"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +80% for 15 seconds after Skadi is deployed",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +85% for 16 seconds after Skadi is deployed",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +90% for 17 seconds after Skadi is deployed",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +100% for 20 seconds after Skadi is deployed",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +105% for 21 seconds after Skadi is deployed",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +110% for 22 seconds after Skadi is deployed",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +120% for 25 seconds after Skadi is deployed",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +135% for 27 seconds after Skadi is deployed",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +150% for 28 seconds after Skadi is deployed",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +170% for 30 seconds after Skadi is deployed",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Tidal Elegy",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "35-50 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK, DEF, and Max HP +70%",
+                    "initial_sp": "50",
+                    "sp_cost": "90",
+                    "duration": "35s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK, DEF, and Max HP +75%",
+                    "initial_sp": "50",
+                    "sp_cost": "90",
+                    "duration": "35s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK, DEF, and Max HP +80%",
+                    "initial_sp": "50",
+                    "sp_cost": "90",
+                    "duration": "35s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK, DEF, and Max HP +85%",
+                    "initial_sp": "55",
+                    "sp_cost": "90",
+                    "duration": "38s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK, DEF, and Max HP +90%",
+                    "initial_sp": "55",
+                    "sp_cost": "90",
+                    "duration": "38s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK, DEF, and Max HP +95%",
+                    "initial_sp": "55",
+                    "sp_cost": "90",
+                    "duration": "38s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK, DEF, and Max HP +100%",
+                    "initial_sp": "60",
+                    "sp_cost": "90",
+                    "duration": "41s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK, DEF, and Max HP +110%",
+                    "initial_sp": "63",
+                    "sp_cost": "90",
+                    "duration": "44s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK, DEF, and Max HP +120%",
+                    "initial_sp": "66",
+                    "sp_cost": "90",
+                    "duration": "47s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK, DEF, and Max HP +130%",
+                    "initial_sp": "70",
+                    "sp_cost": "90",
+                    "duration": "50s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            },
+            {
+                "name": "Ester",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "7"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "4"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Integrated Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Sugar Pack",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Integrated Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "9"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Abyssal Predator",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When this unit is in the squad, all [Abyssal Hunter] Operators gain +7% ATK"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When this unit is in the squad, all [Abyssal Hunter] Operators gain +14% ATK"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "When this unit is in the squad, all [Abyssal Hunter] Operators gain +9% (+2%) ATK"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "When this unit is in the squad, all [Abyssal Hunter] Operators gain +16% (+2%) ATK"
+                }
+            ]
+        },
+        {
+            "name": "Swift Action",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Redeployment Time -10 seconds"
+                }
+            ]
+        }
+    ]
+}

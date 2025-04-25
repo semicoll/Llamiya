@@ -1,0 +1,494 @@
+{
+    "info": {
+        "title": "Chongyue",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/9/9c/Chongyue_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20230117040030"
+        }
+    },
+    "skills": [
+        {
+            "name": "Abundant",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Deals 210% ATK as Physical damage to the target. When at maximum charges, removes all charges and deals damage for each charge removed\nMax 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Deals 220% ATK as Physical damage to the target. When at maximum charges, removes all charges and deals damage for each charge removed\nMax 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Deals 230% ATK as Physical damage to the target. When at maximum charges, removes all charges and deals damage for each charge removed\nMax 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Deals 250% ATK as Physical damage to the target. When at maximum charges, removes all charges and deals damage for each charge removed\nMax 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Deals 260% ATK as Physical damage to the target. When at maximum charges, removes all charges and deals damage for each charge removed\nMax 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Deals 270% ATK as Physical damage to the target. When at maximum charges, removes all charges and deals damage for each charge removed\nMax 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Deals 290% ATK as Physical damage to the target. When at maximum charges, removes all charges and deals damage for each charge removed\nMax 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Deals 320% ATK as Physical damage to the target. When at maximum charges, removes all charges and deals damage for each charge removed\nMax 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Deals 350% ATK as Physical damage to the target. When at maximum charges, removes all charges and deals damage for each charge removed\nMax 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Deals 400% ATK as Physical damage to the target. When at maximum charges, removes all charges and deals damage for each charge removed\nMax 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Whisk",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Deals 250% ATK as Physical damage to up to 4 enemies and causes targets affected by Talent 1 to Levitate, then removes Levitate from all enemies with Levitate, activates Talent 1 on them with 100% chance, and deals 350% ATK as Physical damage\nMax 2 charges",
+                    "initial_sp": "5",
+                    "sp_cost": "13",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Deals 260% ATK as Physical damage to up to 4 enemies and causes targets affected by Talent 1 to Levitate, then removes Levitate from all enemies with Levitate, activates Talent 1 on them with 100% chance, and deals 370% ATK as Physical damage\nMax 2 charges",
+                    "initial_sp": "5",
+                    "sp_cost": "13",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Deals 270% ATK as Physical damage to up to 4 enemies and causes targets affected by Talent 1 to Levitate, then removes Levitate from all enemies with Levitate, activates Talent 1 on them with 100% chance, and deals 390% ATK as Physical damage\nMax 2 charges",
+                    "initial_sp": "5",
+                    "sp_cost": "13",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Deals 290% ATK as Physical damage to up to 4 enemies and causes targets affected by Talent 1 to Levitate, then removes Levitate from all enemies with Levitate, activates Talent 1 on them with 100% chance, and deals 410% ATK as Physical damage\nMax 2 charges",
+                    "initial_sp": "6",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Deals 310% ATK as Physical damage to up to 4 enemies and causes targets affected by Talent 1 to Levitate, then removes Levitate from all enemies with Levitate, activates Talent 1 on them with 100% chance, and deals 430% ATK as Physical damage\nMax 2 charges",
+                    "initial_sp": "6",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Deals 330% ATK as Physical damage to up to 4 enemies and causes targets affected by Talent 1 to Levitate, then removes Levitate from all enemies with Levitate, activates Talent 1 on them with 100% chance, and deals 450% ATK as Physical damage\nMax 2 charges",
+                    "initial_sp": "6",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Deals 350% ATK as Physical damage to up to 4 enemies and causes targets affected by Talent 1 to Levitate, then removes Levitate from all enemies with Levitate, activates Talent 1 on them with 100% chance, and deals 480% ATK as Physical damage\nMax 2 charges",
+                    "initial_sp": "7",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Deals 380% ATK as Physical damage to up to 4 enemies and causes targets affected by Talent 1 to Levitate, then removes Levitate from all enemies with Levitate, activates Talent 1 on them with 100% chance, and deals 530% ATK as Physical damage\nMax 2 charges",
+                    "initial_sp": "7",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Deals 410% ATK as Physical damage to up to 4 enemies and causes targets affected by Talent 1 to Levitate, then removes Levitate from all enemies with Levitate, activates Talent 1 on them with 100% chance, and deals 580% ATK as Physical damage\nMax 2 charges",
+                    "initial_sp": "7",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Deals 450% ATK as Physical damage to up to 4 enemies and causes targets affected by Talent 1 to Levitate, then removes Levitate from all enemies with Levitate, activates Talent 1 on them with 100% chance, and deals 650% ATK as Physical damage\nMax 2 charges",
+                    "initial_sp": "9",
+                    "sp_cost": "10",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Anatta",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Deals 180% ATK as Physical damage to the target and nearby enemies; after this skill has been used 5 times, Chongyue's attack range increases and attacks hit twice; this skill becomes auto-activated and deals damage an extra time",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Deals 200% ATK as Physical damage to the target and nearby enemies; after this skill has been used 5 times, Chongyue's attack range increases and attacks hit twice; this skill becomes auto-activated and deals damage an extra time",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Deals 220% ATK as Physical damage to the target and nearby enemies; after this skill has been used 5 times, Chongyue's attack range increases and attacks hit twice; this skill becomes auto-activated and deals damage an extra time",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Deals 240% ATK as Physical damage to the target and nearby enemies; after this skill has been used 5 times, Chongyue's attack range increases and attacks hit twice; this skill becomes auto-activated and deals damage an extra time",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Deals 260% ATK as Physical damage to the target and nearby enemies; after this skill has been used 5 times, Chongyue's attack range increases and attacks hit twice; this skill becomes auto-activated and deals damage an extra time",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Deals 280% ATK as Physical damage to the target and nearby enemies; after this skill has been used 5 times, Chongyue's attack range increases and attacks hit twice; this skill becomes auto-activated and deals damage an extra time",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Deals 300% ATK as Physical damage to the target and nearby enemies; after this skill has been used 5 times, Chongyue's attack range increases and attacks hit twice; this skill becomes auto-activated and deals damage an extra time",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Deals 320% ATK as Physical damage to the target and nearby enemies; after this skill has been used 5 times, Chongyue's attack range increases and attacks hit twice; this skill becomes auto-activated and deals damage an extra time",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Deals 350% ATK as Physical damage to the target and nearby enemies; after this skill has been used 5 times, Chongyue's attack range increases and attacks hit twice; this skill becomes auto-activated and deals damage an extra time",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Deals 380% ATK as Physical damage to the target and nearby enemies; after this skill has been used 5 times, Chongyue's attack range increases and attacks hit twice; this skill becomes auto-activated and deals damage an extra time",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron Cluster",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Transmuted Salt",
+                "quantity": "6"
+            },
+            {
+                "name": "Crystalline Component",
+                "quantity": "3"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Sugar Pack",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Transmuted Salt Agglomerate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Transmuted Salt Agglomerate",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Nucleic Crystal Sinter",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "An End to War",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "18% chance for normal attacks to increase the damage Chongyue deals to the target by 55% for 2.5 seconds"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "23% chance for normal attacks to increase the damage Chongyue deals to the target by 65% for 2.5 seconds"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "20% (+2%) chance for normal attacks to increase the damage Chongyue deals to the target by 60% (+5%) for 2.5 seconds"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "25% (+2%) chance for normal attacks to increase the damage Chongyue deals to the target by 70% (+5%) for 2.5 seconds"
+                }
+            ]
+        },
+        {
+            "name": "All Are Guests",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Chongyue recovers 3 SP if he defeats at least one enemy with a skill"
+                }
+            ]
+        }
+    ]
+}

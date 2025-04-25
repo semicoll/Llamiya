@@ -1,0 +1,497 @@
+{
+    "info": {
+        "title": "Mizuki",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/d/de/Mizuki_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20210803031926",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/2/26/Mizuki_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20221116005219"
+        }
+    },
+    "skills": [
+        {
+            "name": "Awaken",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "The next attack deals 170% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 1.7 times\nCan store 1 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "The next attack deals 180% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 1.7 times\nCan store 1 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "The next attack deals 190% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 1.7 times\nCan store 1 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "The next attack deals 200% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 2 times\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "The next attack deals 210% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 2 times\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "The next attack deals 220% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 2 times\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "The next attack deals 230% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 2.3 times\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "The next attack deals 250% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 2.5 times\nCan store 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "The next attack deals 270% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 2.7 times\nCan store 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "The next attack deals 300% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 3 times\nCan store 3 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Prisoner's Dilemma",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "17-21 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Interval reduces slightly, ATK +10%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 0.6 seconds",
+                    "initial_sp": "5",
+                    "sp_cost": "25",
+                    "duration": "17s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Interval reduces slightly, ATK +11%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 0.6 seconds",
+                    "initial_sp": "5",
+                    "sp_cost": "24",
+                    "duration": "17s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Interval reduces slightly, ATK +12%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 0.6 seconds",
+                    "initial_sp": "5",
+                    "sp_cost": "23",
+                    "duration": "17s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Interval reduces slightly, ATK +15%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 0.8 seconds",
+                    "initial_sp": "5",
+                    "sp_cost": "22",
+                    "duration": "17s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Interval reduces slightly, ATK +16%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 0.8 seconds",
+                    "initial_sp": "5",
+                    "sp_cost": "21",
+                    "duration": "17s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Interval reduces slightly, ATK +17%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 0.8 seconds",
+                    "initial_sp": "5",
+                    "sp_cost": "20",
+                    "duration": "17s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Interval reduces, ATK +20%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 1 seconds",
+                    "initial_sp": "5",
+                    "sp_cost": "19",
+                    "duration": "19s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Interval reduces, ATK +23%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 1.1 seconds",
+                    "initial_sp": "7",
+                    "sp_cost": "18",
+                    "duration": "19s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Interval reduces, ATK +26%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 1.2 seconds",
+                    "initial_sp": "10",
+                    "sp_cost": "17",
+                    "duration": "19s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Interval reduces greatly, ATK +30%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 1.3 seconds",
+                    "initial_sp": "10",
+                    "sp_cost": "15",
+                    "duration": "21s"
+                }
+            ]
+        },
+        {
+            "name": "Moon in the Water",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Range expands, ATK +75%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 0.5 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+                    "initial_sp": "20",
+                    "sp_cost": "80",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Range expands, ATK +80%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 0.5 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+                    "initial_sp": "20",
+                    "sp_cost": "80",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Range expands, ATK +85%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 0.5 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+                    "initial_sp": "20",
+                    "sp_cost": "80",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Range expands, ATK +90%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 0.7 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+                    "initial_sp": "25",
+                    "sp_cost": "75",
+                    "duration": "30s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Range expands, ATK +95%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 0.7 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+                    "initial_sp": "25",
+                    "sp_cost": "75",
+                    "duration": "30s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Range expands, ATK +100%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 0.7 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+                    "initial_sp": "25",
+                    "sp_cost": "75",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Range expands, ATK +105%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 1 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+                    "initial_sp": "30",
+                    "sp_cost": "70",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Range expands, ATK +120%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 1 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+                    "initial_sp": "30",
+                    "sp_cost": "65",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Range expands, ATK +135%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 1 seconds; When attacks hit less than 3 enemies, Mizuki loses 12% Max HP",
+                    "initial_sp": "30",
+                    "sp_cost": "65",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Range expands, ATK +150%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 1 seconds; When attacks hit less than 3 enemies, Mizuki loses 12% Max HP",
+                    "initial_sp": "30",
+                    "sp_cost": "60",
+                    "duration": "30s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Ester",
+                "quantity": "6"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "7"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Manganese Ore",
+                "quantity": "3"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-12",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "9"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Traumatic Hysteria",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "Attacks deal additional 20% of ATK as Arts damage to the target with the lowest HP"
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "Attacks deal additional 30% of ATK as Arts damage to the target with the lowest HP"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Attacks deal additional 50% of ATK as Arts damage to the target with the lowest HP"
+                }
+            ]
+        },
+        {
+            "name": "Countertransference",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "When there are enemies with less than 50% HP within Attack Range, ATK +10%"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "When there are enemies with less than 50% HP within Attack Range, ATK +12% (+2%)"
+                }
+            ]
+        }
+    ]
+}

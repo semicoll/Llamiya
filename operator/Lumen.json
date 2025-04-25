@@ -1,0 +1,492 @@
+{
+    "info": {
+        "title": "Lumen",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/c/ca/Lumen_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20220501123930",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/6/69/Lumen_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20230501091228"
+        }
+    },
+    "skills": [
+        {
+            "name": "In Drizzle, Privation",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "The next attack causes the target and nearby allies to receive healing equal to 25% of Lumen's ATK every second for 3 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "13",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "The next attack causes the target and nearby allies to receive healing equal to 27% of Lumen's ATK every second for 3 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "13",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "The next attack causes the target and nearby allies to receive healing equal to 30% of Lumen's ATK every second for 3 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "13",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "The next attack causes the target and nearby allies to receive healing equal to 32% of Lumen's ATK every second for 4 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "The next attack causes the target and nearby allies to receive healing equal to 35% of Lumen's ATK every second for 4 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "The next attack causes the target and nearby allies to receive healing equal to 37% of Lumen's ATK every second for 4 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "The next attack causes the target and nearby allies to receive healing equal to 40% of Lumen's ATK every second for 5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "The next attack causes the target and nearby allies to receive healing equal to 45% of Lumen's ATK every second for 5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "The next attack causes the target and nearby allies to receive healing equal to 50% of Lumen's ATK every second for 5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "The next attack causes the target and nearby allies to receive healing equal to 55% of Lumen's ATK every second for 5 seconds",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "In Downpour, Grace",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Restore HP equal to 120% ATK to 2 allies within range;\nCharged effect: Remove negative statuses from targets",
+                    "initial_sp": "5",
+                    "sp_cost": "20",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Restore HP equal to 130% ATK to 2 allies within range;\nCharged effect: Remove negative statuses from targets",
+                    "initial_sp": "5",
+                    "sp_cost": "20",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Restore HP equal to 140% ATK to 2 allies within range;\nCharged effect: Remove negative statuses from targets",
+                    "initial_sp": "5",
+                    "sp_cost": "19",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Restore HP equal to 160% ATK to 2 allies within range;\nCharged effect: Remove negative statuses from targets",
+                    "initial_sp": "5",
+                    "sp_cost": "19",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Restore HP equal to 170% ATK to 2 allies within range;\nCharged effect: Remove negative statuses from targets",
+                    "initial_sp": "5",
+                    "sp_cost": "18",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Restore HP equal to 180% ATK to 2 allies within range;\nCharged effect: Remove negative statuses from targets",
+                    "initial_sp": "5",
+                    "sp_cost": "18",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Restore HP equal to 200% ATK to 2 allies within range;\nCharged effect: Remove negative statuses from targets",
+                    "initial_sp": "5",
+                    "sp_cost": "16",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Restore HP equal to 220% ATK to 3 allies within range;\nCharged effect: Remove negative statuses from targets",
+                    "initial_sp": "5",
+                    "sp_cost": "15",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Restore HP equal to 240% ATK to 3 allies within range;\nCharged effect: Remove negative statuses from targets",
+                    "initial_sp": "5",
+                    "sp_cost": "14",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Restore HP equal to 260% ATK to 3 allies within range;\nCharged effect: Remove negative statuses from targets",
+                    "initial_sp": "5",
+                    "sp_cost": "13",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "This Lantern Undying",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "Toggleable"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +20%, ASPD +10, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 120% ATK, and removing negative statuses from the target\nAttack has 3 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "65",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +23%, ASPD +10, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 125% ATK, and removing negative statuses from the target\nAttack has 3 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "64",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +26%, ASPD +10, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 130% ATK, and removing negative statuses from the target\nAttack has 4 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "63",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +30%, ASPD +20, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 135% ATK, and removing negative statuses from the target\nAttack has 4 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "61",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +33%, ASPD +20, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 140% ATK, and removing negative statuses from the target\nAttack has 5 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "60",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +36%, ASPD +20, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 145% ATK, and removing negative statuses from the target\nAttack has 5 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "59",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +40%, ASPD +20, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 150% ATK, and removing negative statuses from the target\nAttack has 6 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "57",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +45%, ASPD +30, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 170% ATK, and removing negative statuses from the target\nAttack has 6 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "55",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +50%, ASPD +30, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 185% ATK, and removing negative statuses from the target\nAttack has 7 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "53",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +55%, ASPD +30, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 200% ATK, and removing negative statuses from the target\nAttack has 8 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+                    "initial_sp": "0",
+                    "sp_cost": "50",
+                    "duration": "–"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "6"
+            },
+            {
+                "name": "Orirock",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Integrated Device",
+                "quantity": "4"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "5"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Compound Cutting Fluid",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Manganese Ore",
+                        "quantity": "9"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "An Everyman's Wish",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "Healing targets gain status resistance for 2 seconds. If the target's HP is above 75%, they gain status resistance for 4 seconds instead."
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Healing targets gain status resistance for 4 seconds. If the target's HP is above 75%, they gain status resistance for 6 seconds instead."
+                }
+            ]
+        },
+        {
+            "name": "Quick Fix",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "When an ally within range receives a negative status, heal them for 80% of Lumen's ATK. 12 seconds cooldown."
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "When an ally within range receives a negative status, heal them for 80% of Lumen's ATK. 10 (-2) seconds cooldown."
+                }
+            ]
+        }
+    ]
+}

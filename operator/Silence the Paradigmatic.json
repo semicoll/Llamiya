@@ -1,0 +1,602 @@
+{
+    "info": {
+        "title": "Silence the Paradigmatic",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/9/93/Silence_the_Paradigmatic_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20230501063417"
+        }
+    },
+    "stats": {
+        "HP": {
+            "Base": "737",
+            "Max": "1054",
+            "Elite 1": "1445",
+            "Elite 2": "1927",
+            "Trust": "+350"
+        },
+        "ATK": {
+            "Base": "185",
+            "Max": "290",
+            "Elite 1": "387",
+            "Elite 2": "467",
+            "Trust": "+55"
+        },
+        "DEF": {
+            "Base": "73",
+            "Max": "110",
+            "Elite 1": "147",
+            "Elite 2": "184",
+            "Trust": ""
+        },
+        "RES": {
+            "Base": "15",
+            "Max": "15",
+            "Elite 1": "20",
+            "Elite 2": "25",
+            "Trust": ""
+        },
+        "Rdpl. time": {
+            "Base": "90s",
+            "Max": "90s",
+            "Elite 1": "90s",
+            "Elite 2": "90s",
+            "Trust": ""
+        },
+        "DP cost": {
+            "Base": "13",
+            "Max": "13",
+            "Elite 1": "15",
+            "Elite 2": "15",
+            "Trust": ""
+        },
+        "Blk. cnt.": {
+            "Base": "1",
+            "Max": "1",
+            "Elite 1": "1",
+            "Elite 2": "1",
+            "Trust": ""
+        },
+        "Atk. itvl.": {
+            "Base": "1.6s",
+            "Max": "1.6s",
+            "Elite 1": "1.6s",
+            "Elite 2": "1.6s",
+            "Trust": ""
+        }
+    },
+    "potential": {
+        "Pot 1": "DP cost -1",
+        "Pot 2": "Redeployment time -10 seconds",
+        "Pot 3": "DP cost -1",
+        "Pot 4": "Improves Soaring Wings",
+        "Pot 5": "DP cost -1"
+    },
+    "promotion": {
+        "Elite 1": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: Bird's Eye Horizon.\nNew talent: Silent Mainstay.\nRange extended.\nLevel 50\n30K\n5\n7\n4",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "30K"
+                },
+                {
+                    "name": "Supporter Chip",
+                    "quantity": "50"
+                },
+                {
+                    "name": "Oriron",
+                    "quantity": "5"
+                },
+                {
+                    "name": "Polyester",
+                    "quantity": "7"
+                }
+            ]
+        },
+        "Elite 2": {
+            "details": "Maximum attributes increased.\nNew skill: Indomitable Protocol.\nNew talent: Soaring Wings.\nSilent Mainstay improved.\nElite 1 Level 80\n180K\n4\n3\n6",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "180K"
+                },
+                {
+                    "name": "Supporter Dualchip",
+                    "quantity": "1"
+                },
+                {
+                    "name": "Crystalline Electronic Unit",
+                    "quantity": "80"
+                },
+                {
+                    "name": "RMA70-24",
+                    "quantity": "4"
+                }
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "Enterprise",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger",
+                "25 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +20%",
+                    "initial_sp": "5",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +25%",
+                    "initial_sp": "5",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +30%",
+                    "initial_sp": "5",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +35%",
+                    "initial_sp": "10",
+                    "sp_cost": "35",
+                    "duration": "25s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +40%",
+                    "initial_sp": "10",
+                    "sp_cost": "35",
+                    "duration": "25s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +45%",
+                    "initial_sp": "10",
+                    "sp_cost": "35",
+                    "duration": "25s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +50%",
+                    "initial_sp": "10",
+                    "sp_cost": "30",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +60%",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +70%",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +80%",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "25s"
+                }
+            ]
+        },
+        {
+            "name": "Bird's Eye Horizon",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "12 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ASPD +10, can use 1 Auxiliary Drone during skill duration\nAfter the Drone is deployed, applies the first Talent with 1.8x effectiveness to nearby allies. The Drone is destroyed when the skill ends or Silence the Paradigmatic leaves the field",
+                    "initial_sp": "0",
+                    "sp_cost": "36",
+                    "duration": "12s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ASPD +10, can use 1 Auxiliary Drone during skill duration\nAfter the Drone is deployed, applies the first Talent with 1.9x effectiveness to nearby allies. The Drone is destroyed when the skill ends or Silence the Paradigmatic leaves the field",
+                    "initial_sp": "0",
+                    "sp_cost": "35",
+                    "duration": "12s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ASPD +10, can use 1 Auxiliary Drone during skill duration\nAfter the Drone is deployed, applies the first Talent with 2x effectiveness to nearby allies. The Drone is destroyed when the skill ends or Silence the Paradigmatic leaves the field",
+                    "initial_sp": "0",
+                    "sp_cost": "34",
+                    "duration": "12s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ASPD +20, can use 1 Auxiliary Drone during skill duration\nAfter the Drone is deployed, applies the first Talent with 2.1x effectiveness to nearby allies. The Drone is destroyed when the skill ends or Silence the Paradigmatic leaves the field",
+                    "initial_sp": "4",
+                    "sp_cost": "33",
+                    "duration": "12s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ASPD +20, can use 1 Auxiliary Drone during skill duration\nAfter the Drone is deployed, applies the first Talent with 2.2x effectiveness to nearby allies. The Drone is destroyed when the skill ends or Silence the Paradigmatic leaves the field",
+                    "initial_sp": "4",
+                    "sp_cost": "32",
+                    "duration": "12s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ASPD +20, can use 1 Auxiliary Drone during skill duration\nAfter the Drone is deployed, applies the first Talent with 2.3x effectiveness to nearby allies. The Drone is destroyed when the skill ends or Silence the Paradigmatic leaves the field",
+                    "initial_sp": "4",
+                    "sp_cost": "31",
+                    "duration": "12s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ASPD +30, can use 1 Auxiliary Drone during skill duration\nAfter the Drone is deployed, applies the first Talent with 2.4x effectiveness to nearby allies. The Drone is destroyed when the skill ends or Silence the Paradigmatic leaves the field",
+                    "initial_sp": "8",
+                    "sp_cost": "30",
+                    "duration": "12s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ASPD +40, can use 1 Auxiliary Drone during skill duration\nAfter the Drone is deployed, applies the first Talent with 2.6x effectiveness to nearby allies. The Drone is destroyed when the skill ends or Silence the Paradigmatic leaves the field",
+                    "initial_sp": "10",
+                    "sp_cost": "28",
+                    "duration": "12s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ASPD +50, can use 1 Auxiliary Drone during skill duration\nAfter the Drone is deployed, applies the first Talent with 2.8x effectiveness to nearby allies. The Drone is destroyed when the skill ends or Silence the Paradigmatic leaves the field",
+                    "initial_sp": "12",
+                    "sp_cost": "26",
+                    "duration": "12s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ASPD +60, can use 1 Auxiliary Drone during skill duration\nAfter the Drone is deployed, applies the first Talent with 3x effectiveness to nearby allies. The Drone is destroyed when the skill ends or Silence the Paradigmatic leaves the field",
+                    "initial_sp": "14",
+                    "sp_cost": "24",
+                    "duration": "12s"
+                }
+            ]
+        },
+        {
+            "name": "Dreadnought Protocol",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "60 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +10%, the effect of the first Talent increases to 1.2x; Once per skill duration, when an Operator within attack range takes fatal damage, prevents their HP from falling below 1 for 5 seconds\nCan be used up to 2 times in one battle; Can manually deactivate skill (skill can be deactivated at will)",
+                    "initial_sp": "20",
+                    "sp_cost": "50",
+                    "duration": "60s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +10%, the effect of the first Talent increases to 1.3x; Once per skill duration, when an Operator within attack range takes fatal damage, prevents their HP from falling below 1 for 5 seconds\nCan be used up to 2 times in one battle; Can manually deactivate skill (skill can be deactivated at will)",
+                    "initial_sp": "20",
+                    "sp_cost": "50",
+                    "duration": "60s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +10%, the effect of the first Talent increases to 1.4x; Once per skill duration, when an Operator within attack range takes fatal damage, prevents their HP from falling below 1 for 5 seconds\nCan be used up to 2 times in one battle; Can manually deactivate skill (skill can be deactivated at will)",
+                    "initial_sp": "20",
+                    "sp_cost": "50",
+                    "duration": "60s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +20%, the effect of the first Talent increases to 1.5x; Once per skill duration, when an Operator within attack range takes fatal damage, prevents their HP from falling below 1 for 6 seconds\nCan be used up to 2 times in one battle; Can manually deactivate skill (skill can be deactivated at will)",
+                    "initial_sp": "20",
+                    "sp_cost": "46",
+                    "duration": "60s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +20%, the effect of the first Talent increases to 1.6x; Once per skill duration, when an Operator within attack range takes fatal damage, prevents their HP from falling below 1 for 6 seconds\nCan be used up to 2 times in one battle; Can manually deactivate skill (skill can be deactivated at will)",
+                    "initial_sp": "20",
+                    "sp_cost": "46",
+                    "duration": "60s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +20%, the effect of the first Talent increases to 1.7x; Once per skill duration, when an Operator within attack range takes fatal damage, prevents their HP from falling below 1 for 6 seconds\nCan be used up to 2 times in one battle; Can manually deactivate skill (skill can be deactivated at will)",
+                    "initial_sp": "20",
+                    "sp_cost": "46",
+                    "duration": "60s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +30%, the effect of the first Talent increases to 1.8x; Once per skill duration, when an Operator within attack range takes fatal damage, prevents their HP from falling below 1 for 7 seconds\nCan be used up to 2 times in one battle; Can manually deactivate skill (skill can be deactivated at will)",
+                    "initial_sp": "20",
+                    "sp_cost": "42",
+                    "duration": "60s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +30%, the effect of the first Talent increases to 1.8x; Once per skill duration, when an Operator within attack range takes fatal damage, prevents their HP from falling below 1 for 8 seconds\nCan be used up to 2 times in one battle; Can manually deactivate skill (skill can be deactivated at will)",
+                    "initial_sp": "20",
+                    "sp_cost": "38",
+                    "duration": "60s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +30%, the effect of the first Talent increases to 1.8x; Once per skill duration, when an Operator within attack range takes fatal damage, prevents their HP from falling below 1 for 9 seconds\nCan be used up to 2 times in one battle; Can manually deactivate skill (skill can be deactivated at will)",
+                    "initial_sp": "20",
+                    "sp_cost": "34",
+                    "duration": "60s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +30%, the effect of the first Talent increases to 1.8x; Once per skill duration, when an Operator within attack range takes fatal damage, prevents their HP from falling below 1 for 10 seconds\nCan be used up to 2 times in one battle; Can manually deactivate skill (skill can be deactivated at will)",
+                    "initial_sp": "20",
+                    "sp_cost": "30",
+                    "duration": "60s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "6"
+            },
+            {
+                "name": "Orirock",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "7"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester Pack",
+                "quantity": "6"
+            },
+            {
+                "name": "Semi-Synthetic Solvent",
+                "quantity": "3"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Crystalline Component",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Semi-Synthetic Solvent",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "8"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Nucleic Crystal Sinter",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Silent Mainstay",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "Applies 8% Sanctuary to allies within attack range. The effect increases based on lost HP (reaches maximum effect of 15% Sanctuary at below 30% HP)"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Applies 10% Sanctuary to allies within attack range. The effect increases based on lost HP (reaches maximum effect of 24% Sanctuary at below 30% HP)"
+                }
+            ]
+        },
+        {
+            "name": "Soaring Wings",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Allies within attack range whose HP is below 50% restores HP equal to 5% of Silence the Paradigmatic's ATK every second. The effect is doubled for [Rhine Lab] Operators"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Allies within attack range whose HP is below 50% restores HP equal to 6% (+1%) of Silence the Paradigmatic's ATK every second. The effect is doubled for [Rhine Lab] Operators"
+                }
+            ]
+        }
+    ]
+}

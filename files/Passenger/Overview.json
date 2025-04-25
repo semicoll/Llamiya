@@ -1,0 +1,26 @@
+{
+  "name": "Passenger",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Attacks jump to 3 (4 at Elite 2) additional enemies and slows the targets",
+    "Higher ATK than Core Casters",
+    "Touch of Static extends the slow effect of Passenger's attacks",
+    "Focus Command increases Passenger's attack range and speed, additionally making his attacks jump to 5 targets",
+    "Mechanism Analysis temporarily increases damage dealt against enemies with more than 80% HP",
+    "Glorious Shards is an effective focused DPS skill that can stack two charges",
+    "Lone Soldier buffs ATK when there are no enemies adjacent to Passenger"
+  ],
+  "cons": [
+    "High DP cost – nearly equal to that of Splash Casters",
+    "Lower ATK than Splash Casters",
+    "Long attack interval",
+    "Each jump deals 15% less damage",
+    "Glorious Shards has a very low uptime",
+    "The increased damage from Mechanism Analysis has a very short duration, requiring Passenger to deliver fast-hitting attacks to maximize its effectiveness",
+    "Overwhelmed by large swarms due to attacks reaching jump limit",
+    "Dependent on the Modules for full effectiveness, which requires Passenger to be promoted to Elite 2 Level 60",
+    "Without the Modules, Passenger is generally outperformed by Operators of lower rarity when only one niche is needed"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Passenger/Overview"
+}

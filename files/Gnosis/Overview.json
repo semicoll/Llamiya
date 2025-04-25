@@ -1,0 +1,22 @@
+{
+  "name": "Gnosis' overview",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Low DP cost",
+    "Higher HP and RES than other Supporters",
+    "Unusually long range for a Supporter",
+    "High-Speed Cogitation improves DPS",
+    "Zero-Point Burst inflicts Cold to enemies within attack range or Freezes them outright when Overcharged",
+    "Rigid Ice causes Gnosis' attacks to apply Cold and inflicts Fragile to chilled enemies, with Frozen enemies becoming even more vulnerable",
+    "Hypothermia is an outstanding choice for stalling",
+    "Two Paths, One Goal give Status Resistance for Karlan Trade Operators sometime after they are deployed"
+  ],
+  "cons": [
+    "Lower ATK than other Supporters",
+    "Cannot reach full capability against enemies immune to Freeze",
+    "Abilities to inflict Cold/Freeze are not very effective without support from other Operators",
+    "Two Paths, One Goal is ineffective without other K.T. Operators"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Gnosis/Overview"
+}

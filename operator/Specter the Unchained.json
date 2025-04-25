@@ -1,0 +1,498 @@
+{
+    "info": {
+        "title": "Specter the Unchained",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/d/db/Specter_the_Unchained_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20220501091141",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/3/30/Specter_the_Unchained_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20230501091244"
+        }
+    },
+    "skills": [
+        {
+            "name": "The Skill to Survive",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "25 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +60%",
+                    "initial_sp": "5",
+                    "sp_cost": "45",
+                    "duration": "25s"
+                },
+                {
+                    "level": "2",
+                    "effect": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +70%",
+                    "initial_sp": "5",
+                    "sp_cost": "45",
+                    "duration": "25s"
+                },
+                {
+                    "level": "3",
+                    "effect": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +80%",
+                    "initial_sp": "5",
+                    "sp_cost": "45",
+                    "duration": "25s"
+                },
+                {
+                    "level": "4",
+                    "effect": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +90%",
+                    "initial_sp": "10",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "5",
+                    "effect": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +100%",
+                    "initial_sp": "10",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "6",
+                    "effect": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +110%",
+                    "initial_sp": "10",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "7",
+                    "effect": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +120%",
+                    "initial_sp": "15",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +130%",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +140%",
+                    "initial_sp": "20",
+                    "sp_cost": "35",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +150%",
+                    "initial_sp": "25",
+                    "sp_cost": "35",
+                    "duration": "25s"
+                }
+            ]
+        },
+        {
+            "name": "The Thirst to Survive",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "13-20 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +40%, ASPD +10. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+                    "initial_sp": "15",
+                    "sp_cost": "40",
+                    "duration": "13s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +50%, ASPD +14. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+                    "initial_sp": "15",
+                    "sp_cost": "40",
+                    "duration": "13s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +60%, ASPD +18. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+                    "initial_sp": "15",
+                    "sp_cost": "40",
+                    "duration": "13s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +70%, ASPD +22. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "15s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +80%, ASPD +26. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "15s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +90%, ASPD +30. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "15s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +100%, ASPD +34. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+                    "initial_sp": "25",
+                    "sp_cost": "35",
+                    "duration": "17s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +110%, ASPD +38. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+                    "initial_sp": "25",
+                    "sp_cost": "35",
+                    "duration": "18s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +120%, ASPD +44. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+                    "initial_sp": "25",
+                    "sp_cost": "35",
+                    "duration": "19s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +130%, ASPD +50. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+                    "initial_sp": "25",
+                    "sp_cost": "35",
+                    "duration": "20s"
+                }
+            ]
+        },
+        {
+            "name": "The Pressure to Survive",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "25 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack interval increases, attacks all blocked enemies, ATK +130%, Max HP +100%; deal 40% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+                    "initial_sp": "15",
+                    "sp_cost": "50",
+                    "duration": "25s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack interval increases, attacks all blocked enemies, ATK +140%, Max HP +110%; deal 40% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+                    "initial_sp": "15",
+                    "sp_cost": "50",
+                    "duration": "25s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack interval increases, attacks all blocked enemies, ATK +160%, Max HP +120%; deal 40% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+                    "initial_sp": "15",
+                    "sp_cost": "50",
+                    "duration": "25s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack interval increases, attacks all blocked enemies, ATK +170%, Max HP +130%; deal 50% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+                    "initial_sp": "20",
+                    "sp_cost": "45",
+                    "duration": "25s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack interval increases, attacks all blocked enemies, ATK +180%, Max HP +140%; deal 50% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+                    "initial_sp": "20",
+                    "sp_cost": "45",
+                    "duration": "25s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack interval increases, attacks all blocked enemies, ATK +190%, Max HP +150%; deal 50% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+                    "initial_sp": "20",
+                    "sp_cost": "45",
+                    "duration": "25s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack interval increases, attacks all blocked enemies, ATK +200%, Max HP +160%; deal 60% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack interval increases, attacks all blocked enemies, ATK +220%, Max HP +170%; deal 70% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+                    "initial_sp": "25",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack interval increases, attacks all blocked enemies, ATK +240%, Max HP +185%; deal 70% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+                    "initial_sp": "25",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack interval increases, attacks all blocked enemies, ATK +260%, Max HP +200%; deal 70% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+                    "initial_sp": "25",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Ester",
+                "quantity": "6"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron Cluster",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "3"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "6"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Cluster",
+                        "quantity": "11"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-12",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "3"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "9"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Embraced Self",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "<Substitute> reduces the Movement Speed of nearby ground[note 1] enemies by 20%, and deals 20% ATK Arts damage to them per second"
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "<Substitute> reduces the Movement Speed of nearby ground[note 1] enemies by 30%, and deals 30% ATK Arts damage to them per second"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "<Substitute> reduces the Movement Speed of nearby ground[note 1] enemies by 40%, and deals 40% ATK Arts damage to them per second"
+                }
+            ]
+        },
+        {
+            "name": "Ægir's Depths",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "While this unit is in the squad, all Abyssal Hunters Operators gain +20% Max HP"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "While this unit is in the squad, all Abyssal Hunters Operators gain +23% (+3%) Max HP"
+                }
+            ]
+        }
+    ]
+}

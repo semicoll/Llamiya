@@ -1,0 +1,21 @@
+{
+  "name": "Reed the Flame Shadow",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Attacks enemies rather than healing friendlies, dealing Arts damage",
+    "Heals a friendly within range for 50% ATK when attacking enemies",
+    "Wither and Thrive allows the Flame Shadow to provide effective support for melee units",
+    "Cinder gives a chance to inflict the namesake debuff in each attack, reducing the target's ATK and applying Arts Fragility on them",
+    "Ember of Life allows the Flame Shadow to cause mass destruction against clusters of enemies",
+    "Reflected Shine heals the Flame Shadow whenever she heals a friendly unit",
+    "Can be obtained and used even if the player does not have Reed in their roster"
+  ],
+  "cons": [
+    "Despite having a surprisingly decent DPS, the Flame Shadow is outperformed by dedicated Arts Operators when focused Arts damage is needed",
+    "Without Ember of Life, Cinder is somewhat unreliable due to the subpar proc chance",
+    "Ember of Life is graphically demanding especially if large swarms of enemies are present and may crash the game if the player's device is not strong enough to handle it!",
+    "Cannot heal allies when there are no enemies in range, rendering the Flame Shadow useless when periodic instead of constant waves of enemies are present"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Reed the Flame Shadow/Overview"
+}

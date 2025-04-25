@@ -1,0 +1,486 @@
+{
+    "info": {
+        "title": "Weedy",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/b/b4/Weedy_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20200501132501",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/a/a6/Weedy_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20210406094238"
+        }
+    },
+    "skills": [
+        {
+            "name": "Barrel Burst",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "The next attack pushes the targets towards attack direction slightly, dealing 105% ATK as Physical damage and Stunning them for 0.8 second(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "The next attack pushes the targets towards attack direction slightly, dealing 110% ATK as Physical damage and Stunning them for 0.8 second(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "The next attack pushes the targets towards attack direction slightly, dealing 115% ATK as Physical damage and Stunning them for 0.8 second(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "The next attack pushes the targets towards attack direction moderately, dealing 120% ATK as Physical damage and Stunning them for 0.8 second(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "The next attack pushes the targets towards attack direction moderately, dealing 125% ATK as Physical damage and Stunning them for 0.8 second(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "The next attack pushes the targets towards attack direction moderately, dealing 130% ATK as Physical damage and Stunning them for 0.8 second(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "The next attack pushes the targets towards attack direction moderately, dealing 135% ATK as Physical damage and Stunning them for 0.9 second(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "The next attack pushes the targets towards attack direction moderately, dealing 140% ATK as Physical damage and Stunning them for 1 second(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "The next attack pushes the targets towards attack direction moderately, dealing 145% ATK as Physical damage and Stunning them for 1.1 second(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "The next attack pushes the targets towards attack direction significantly, dealing 150% ATK as Physical damage and Stunning them for 1.2 second(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Hydraulics Mode",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger",
+                "Unlimited"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Interval increases, ATK +110%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away very slightly\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "90",
+                    "duration": "∞"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Interval increases, ATK +120%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away very slightly\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "88",
+                    "duration": "∞"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Interval increases, ATK +130%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away very slightly\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "86",
+                    "duration": "∞"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Interval increases, ATK +140%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "84",
+                    "duration": "∞"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Interval increases, ATK +150%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "82",
+                    "duration": "∞"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Interval increases, ATK +160%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "80",
+                    "duration": "∞"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Interval increases, ATK +170%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "78",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Interval increases, ATK +180%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "76",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Interval increases, ATK +190%, Attack Range extends by +2 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "74",
+                    "duration": "∞"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Interval increases, ATK +200%, Attack Range extends by +2 and becomes a long-range AoE attack, attacks now push enemies away moderately\nUnlimited duration",
+                    "initial_sp": "0",
+                    "sp_cost": "70",
+                    "duration": "∞"
+                }
+            ]
+        },
+        {
+            "name": "Liquid Nitrogen Cannon",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Immediately fires a compressed liquid nitrogen cannon, dealing 260% Arts damage in an area and pushing enemies away moderately; For 4 seconds, enemies hit by this ability take True Damage proportional to the distance traveled; If the Reserve Water Cannon is located within 4 tiles, it will also activate this ability",
+                    "initial_sp": "10",
+                    "sp_cost": "43",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Immediately fires a compressed liquid nitrogen cannon, dealing 270% Arts damage in an area and pushing enemies away moderately; For 4 seconds, enemies hit by this ability take True Damage proportional to the distance traveled; If the Reserve Water Cannon is located within 4 tiles, it will also activate this ability",
+                    "initial_sp": "11",
+                    "sp_cost": "42",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Immediately fires a compressed liquid nitrogen cannon, dealing 280% Arts damage in an area and pushing enemies away moderately; For 4 seconds, enemies hit by this ability take True Damage proportional to the distance traveled; If the Reserve Water Cannon is located within 4 tiles, it will also activate this ability",
+                    "initial_sp": "12",
+                    "sp_cost": "41",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Immediately fires a compressed liquid nitrogen cannon, dealing 290% Arts damage in an area and pushing enemies away moderately; For 5 seconds, enemies hit by this ability take True Damage proportional to the distance traveled; If the Reserve Water Cannon is located within 4 tiles, it will also activate this ability",
+                    "initial_sp": "13",
+                    "sp_cost": "40",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Immediately fires a compressed liquid nitrogen cannon, dealing 300% Arts damage in an area and pushing enemies away moderately; For 5 seconds, enemies hit by this ability take True Damage proportional to the distance traveled; If the Reserve Water Cannon is located within 4 tiles, it will also activate this ability",
+                    "initial_sp": "14",
+                    "sp_cost": "39",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Immediately fires a compressed liquid nitrogen cannon, dealing 310% Arts damage in an area and pushing enemies away moderately; For 5 seconds, enemies hit by this ability take True Damage proportional to the distance traveled; If the Reserve Water Cannon is located within 4 tiles, it will also activate this ability",
+                    "initial_sp": "15",
+                    "sp_cost": "38",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Immediately fires a compressed liquid nitrogen cannon, dealing 320% Arts damage in an area and pushing enemies away significantly; For 6 seconds, enemies hit by this ability take True Damage proportional to the distance traveled; If the Reserve Water Cannon is located within 4 tiles, it will also activate this ability",
+                    "initial_sp": "16",
+                    "sp_cost": "37",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Immediately fires a compressed liquid nitrogen cannon, dealing 330% Arts damage in an area and pushing enemies away significantly; For 6 seconds, enemies hit by this ability take True Damage proportional to the distance traveled; If the Reserve Water Cannon is located within 4 tiles, it will also activate this ability",
+                    "initial_sp": "17",
+                    "sp_cost": "36",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Immediately fires a compressed liquid nitrogen cannon, dealing 340% Arts damage in an area and pushing enemies away significantly; For 7 seconds, enemies hit by this ability take True Damage proportional to the distance traveled; If the Reserve Water Cannon is located within 4 tiles, it will also activate this ability",
+                    "initial_sp": "18",
+                    "sp_cost": "35",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Immediately fires a compressed liquid nitrogen cannon, dealing 350% Arts damage in an area and pushing enemies away greatly; For 8 seconds, enemies hit by this ability take True Damage proportional to the distance traveled; If the Reserve Water Cannon is located within 4 tiles, it will also activate this ability",
+                    "initial_sp": "20",
+                    "sp_cost": "33",
+                    "duration": "–"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            },
+            {
+                "name": "Ester",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "7"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "4"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "7"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cluster",
+                "quantity": "5"
+            },
+            {
+                "name": "Integrated Device",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Integrated Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Ore",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Industrial Water Cannon",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "Can deploy a Reserve Water Cannon that lasts for 15s; the Water Cannon can attack 1 target and push it away slightly"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Can deploy a Reserve Water Cannon that lasts for 20s; the Water Cannon can attack 1 target and push it away slightly"
+                }
+            ]
+        },
+        {
+            "name": "Upgraded Water Cannon",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Increases the shift level of the Water Cannon's normal attacks and skills by 1, and Weedy will restore 1 SP per 3 seconds if the Water Cannon is located within 4 tiles of her"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lin",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Attacks deal Arts damage to all enemies in range",
+    "Greatly increased DEF and RES when skill is inactive",
+    "Foolproof Plan can nullify many sources of damage on its own or with support",
+    "When Crystal Barrier is shattered, the stun and AOE damage can give an opportunity to recover",
+    "Elegance is effective for stalling",
+    "Shelter can provide stuns or defensive support for other Operators",
+    "Riving Lighttails significantly improves Lin's damage, range, and defensive potential",
+    "Shrouded Strength gives her great skill uptime when she can be consistently targeted by attacks"
+  ],
+  "cons": [
+    "Can only attack when skill is active",
+    "DEF and RES buffs are disabled when skill is active (partially retained with module)",
+    "Foolproof Plan's damage threshold is relatively low and thus relies on her DEF, RES and other sources of mitigation to remain active",
+    "Crystal Barrier's long regeneration time leaves Lin vulnerable if it gets shattered",
+    "Elegance does not provide any defensive boosts itself while active",
+    "Riving Lighttails has poor uptime without help from her module-boosted 2nd talent"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Lin/Overview"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Horn",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Can launch ranged AoE attacks when not blocking enemies",
+    "Higher ATK than most other Defenders",
+    "Flare Grenade can reveal invisible enemies, making it a good supporting skill",
+    "Tempest Command provides a consistent AoE DPS especially once Overloaded, and can be deactivated to cause concentrated AoE damage",
+    "Military Fortification buffs the ATK of all Defenders while Horn is deployed",
+    "Ultimate Line of Defense massively improves Horn's DPS, especially when Overloaded and at Mastery levels",
+    "Bloodbath causes Horn to survive a lethal attack with buffed ASPD and DEF"
+  ],
+  "cons": [
+    "High DP cost that increases with every promotion and attack interval",
+    "Short ranged attack range, which also has a minimum range and cannot attack flying enemies",
+    "Lower DEF than most other Defenders",
+    "Flare Grenade does not work if there are no visible enemies to shoot at",
+    "Tempest Command causes Horn to lose part of her HP when deactivated while being Overloaded, which can KO her",
+    "Ultimate Line of Defense causes Horn to rapidly lose HP over time while Overloaded, which can KO her",
+    "Bloodbath halves Horn's HP and only works once per deployment"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Horn/Overview"
+}

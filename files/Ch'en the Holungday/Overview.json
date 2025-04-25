@@ -1,0 +1,24 @@
+{
+  "name": "Ch'en the Holungday",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Highest HP and DEF of all Snipers",
+    "Attacks hit all enemies in range with the ones on the frontal row taking 1.5× damage",
+    "High-Pressure Splash and \"Holiday Storm\" applies the Holungday's trait to all enemies within range",
+    "\"Night of Violet\" and \"Holiday Storm\" cover the tiles within the Holungday's range in goo on each attack that slows enemies and reduces their DEF, making them more susceptible to physical damage",
+    "\"Night of Violet\" can be Overcharged to receive more ammo",
+    "\"Holiday Storm\" greatly extends the Holungday's range and combines the effects of High-Pressure Splash and \"Night of Violet\", making it her best skill",
+    "Frugality gives a chance that the attacks of the Holungday and Snipers whose skill uses the Ammunition mechanic do not consume the skill's ammo",
+    "Vestiges of Vacation is most effective on operations with water tiles, notably most DH and OF ones"
+  ],
+  "cons": [
+    "Only available from Carnival limited headhunting banners starting from Holiday Stars; the Holungday will not be available from any other headhunting banners",
+    "Very high DP cost – the highest of all Snipers",
+    "Very short attack range on her own",
+    "Very high attack interval – the highest of all Snipers",
+    "The goos' DEF debuff from \"Night of Violet\" and \"Holiday Storm\" are not as effective on enemies with little to no DEF, and both the speed and DEF debuff does not stack if an enemy gets caught in multiple goos",
+    "\"Holiday Storm\" consumes two ammo in each attack, unlike the other two skills"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Ch'en the Holungday/Overview"
+}

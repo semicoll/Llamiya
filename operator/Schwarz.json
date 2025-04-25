@@ -1,0 +1,503 @@
+{
+    "info": {
+        "title": "Schwarz",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/5/5f/Schwarz_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20190829230759",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/b/b6/Schwarz_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20200201075134",
+            "Presents": "https://static.wikia.nocookie.net/mrfz/images/b/b1/Schwarz_Skin_2.png/revision/latest/scale-to-width-down/268?cb=20210406105156"
+        }
+    },
+    "skills": [
+        {
+            "name": "Charged Shot",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "The next attack deals 160% damage, and increases the chance of triggering this unit's Talent to 50%",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "The next attack deals 165% damage, and increases the chance of triggering this unit's Talent to 50%",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "The next attack deals 170% damage, and increases the chance of triggering this unit's Talent to 50%",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "The next attack deals 175% damage, and increases the chance of triggering this unit's Talent to 60%",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "The next attack deals 180% damage, and increases the chance of triggering this unit's Talent to 60%",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "The next attack deals 185% damage, and increases the chance of triggering this unit's Talent to 60%",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "The next attack deals 190% damage, and increases the chance of triggering this unit's Talent to 70%",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "The next attack deals 200% damage, and increases the chance of triggering this unit's Talent to 73%",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "The next attack deals 210% damage, and increases the chance of triggering this unit's Talent to 76%",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "The next attack deals 220% damage, and increases the chance of triggering this unit's Talent to 80%",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Sharp Eye",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30-40 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +70%, and increases the chance to activate the Talent to 35%",
+                    "initial_sp": "10",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +75%, and increases the chance to activate the Talent to 35%",
+                    "initial_sp": "10",
+                    "sp_cost": "39",
+                    "duration": "31s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +80%, and increases the chance to activate the Talent to 35%",
+                    "initial_sp": "10",
+                    "sp_cost": "38",
+                    "duration": "32s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +85%, and increases the chance to activate the Talent to 40%",
+                    "initial_sp": "13",
+                    "sp_cost": "37",
+                    "duration": "33s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +90%, and increases the chance to activate the Talent to 40%",
+                    "initial_sp": "13",
+                    "sp_cost": "36",
+                    "duration": "34s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +95%, and increases the chance to activate the Talent to 40%",
+                    "initial_sp": "13",
+                    "sp_cost": "35",
+                    "duration": "35s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +100%, and increases the chance to activate the Talent to 45%",
+                    "initial_sp": "16",
+                    "sp_cost": "34",
+                    "duration": "36s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +110%, and increases the chance to activate the Talent to 45%",
+                    "initial_sp": "17",
+                    "sp_cost": "33",
+                    "duration": "37s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +120%, and increases the chance to activate the Talent to 45%",
+                    "initial_sp": "18",
+                    "sp_cost": "32",
+                    "duration": "38s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +130%, and increases the chance to activate the Talent to 50%",
+                    "initial_sp": "20",
+                    "sp_cost": "30",
+                    "duration": "40s"
+                }
+            ]
+        },
+        {
+            "name": "Final Tactics",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15-25 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Changes attack range to frontal 3 tiles, Attack Interval increases a bit, ATK +100%, increasing Talent triggering chance to 100%",
+                    "initial_sp": "5",
+                    "sp_cost": "35",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Changes attack range to frontal 3 tiles, Attack Interval increases a bit, ATK +105%, increasing Talent triggering chance to 100%",
+                    "initial_sp": "5",
+                    "sp_cost": "34",
+                    "duration": "16s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Changes attack range to frontal 3 tiles, Attack Interval increases a bit, ATK +110%, increasing Talent triggering chance to 100%",
+                    "initial_sp": "5",
+                    "sp_cost": "33",
+                    "duration": "17s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Changes attack range to frontal 3 tiles, Attack Interval increases a bit, ATK +120%, increasing Talent triggering chance to 100%",
+                    "initial_sp": "7",
+                    "sp_cost": "32",
+                    "duration": "18s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Changes attack range to frontal 3 tiles, Attack Interval increases a bit, ATK +125%, increasing Talent triggering chance to 100%",
+                    "initial_sp": "7",
+                    "sp_cost": "31",
+                    "duration": "18s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Changes attack range to frontal 3 tiles, Attack Interval increases a bit, ATK +130%, increasing Talent triggering chance to 100%",
+                    "initial_sp": "7",
+                    "sp_cost": "30",
+                    "duration": "20s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Changes attack range to frontal 3 tiles, Attack Interval increases a bit, ATK +140%, increasing Talent triggering chance to 100%",
+                    "initial_sp": "9",
+                    "sp_cost": "29",
+                    "duration": "21s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Changes attack range to frontal 4 tiles, Attack Interval increases a bit, ATK +150%, increasing Talent triggering chance to 100%",
+                    "initial_sp": "10",
+                    "sp_cost": "28",
+                    "duration": "22s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Changes attack range to frontal 4 tiles, Attack Interval increases a bit, ATK +160%, increasing Talent triggering chance to 100%",
+                    "initial_sp": "11",
+                    "sp_cost": "27",
+                    "duration": "23s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Changes attack range to frontal 4 tiles, Attack Interval increases a bit, ATK +180%, increasing Talent triggering chance to 100%",
+                    "initial_sp": "12",
+                    "sp_cost": "25",
+                    "duration": "25s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "7"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Manganese Ore",
+                "quantity": "3"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Ore",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Sharp Arrow",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "When attacking, has a 20% chance to increase the current damage of that attack to 130%"
+                }
+            ]
+        },
+        {
+            "name": "Armor Penetration Arrow",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When attacking, has a 20% chance to increase the current damage of that attack to 130% and reduce the DEF of the target hit by 10% for 5 seconds"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When attacking, has a 20% chance to increase the current damage of that attack to 160% and reduce the DEF of the target hit by 20% for 5 seconds"
+                }
+            ]
+        },
+        {
+            "name": "Crossfire",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "When Schwarz and at least one more [Sniper] Operator are on the battlefield, all [Sniper] Operators' ATK +8%"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 6",
+                    "description": "When Schwarz and at least one more [Sniper] Operator are on the battlefield, all [Sniper] Operators' ATK +10%(+2%)"
+                }
+            ]
+        }
+    ]
+}

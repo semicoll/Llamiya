@@ -1,0 +1,22 @@
+{
+  "name": "Eunectes' overview",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Very high ATK – the highest of all Defenders",
+    "Very high HP",
+    "Has an attack range of 1 tile ahead like most melee Operators",
+    "Menacing Slash \"stunlocks\" the enemy being blocked by Eunectes, useful to duel strong enemies",
+    "Peerless Bravery either increases damage dealt or applies the Sanctuary buff (reduces physical and Arts damage taken), depending on Eunectes' HP percentage",
+    "Iron Will turns Eunectes into a literal war machine with excellent offensive and defensive capabilities",
+    "Resilience increases SP generation rate"
+  ],
+  "cons": [
+    "Very high DP cost",
+    "Can only block a single enemy, unlike other Defenders",
+    "Can only generate SP while blocking an enemy (even with SP generators), making Menacing Slash and Iron Will cannot be charged outside combat",
+    "Menacing Slash increases attack interval",
+    "Iron Will stuns Eunectes for a short time when it expires where she can neither attack nor block enemies"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Eunectes/Overview"
+}

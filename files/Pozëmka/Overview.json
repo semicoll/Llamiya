@@ -1,0 +1,21 @@
+{
+  "name": "Pozëmka",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "High ATK",
+    "Can use the Typewriter, a crossbow turret with an independent redeployment time (that starts from when it is deployed) through Automatic Typewriter as a force multiplier, or as an invincible attacker that can be deployed deep in enemy lines",
+    "Iamb provides a consistent increase to DPS",
+    "Précis is effective to provide burst DPS and shortens the Typewriter's redeployment time",
+    "Opprobrium gives a massive damage buff on top of reducing attack interval, and annihilates enemies in both Pozëmka and the Typewriter's range",
+    "Stenography of Weaknesses gives the Typewriter's attacks a DEF reduction effect that is increased if it is adjacent to Pozëmka herself"
+  ],
+  "cons": [
+    "High DP cost that increases in each promotion",
+    "Short attack range and quite high attack interval",
+    "The Typewriter lasts for a finite period of time; careful timing is required for maximum damage",
+    "Iamb has offensive SP recovery",
+    "Précis doesn't quite do enough damage against moderately durable enemies"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Pozëmka/Overview"
+}

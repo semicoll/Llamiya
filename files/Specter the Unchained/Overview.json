@@ -1,0 +1,25 @@
+{
+  "name": "Specter the Unchained",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Will be replaced by a Substitute for 20 seconds when the Unchained's HP is reduced to 0, after which she will return to the map in the Substitute's place with full HP",
+    "The Substitute periodically deals Arts damage to surrounding enemies and slows them",
+    "The Skill to Survive switches the Unchained's HP percentage with that of the friendly with lowest HP percentage when used, useful to ensure their survivability and facilitate the use of the Unchained's Substitute",
+    "The Thirst to Survive",
+    "The Pressure to Survive is a great DPS skill that temporarily gives her AoE capabilities, especially against enemies with higher HP percentage than the Unchained who will receive additional damage",
+    "Ægir's Depths buffs the maximum HP of Abyssal Hunters Operators when the Unchained is deployed"
+  ],
+  "cons": [
+    "Only available from the Celebration limited headhunting banners from the 4th anniversary (CN)/2023 Gift of the Deep Ones (Global) and Abyss Corrosion; the Unchained will not be available from any other headhunting banners",
+    "Has a redeployment cooldown of 70 seconds like regular Operators, despite having the Fast-Redeploy tag",
+    "The Unchained loses all SP when she swaps into her Substitute, and cannot gain SP while in her Substitute",
+    "The Unchained's Substitute cannot block enemies (though this can be an advantage since melee enemies will ignore it)",
+    "The Skill to Survive can be detrimental if used without paying attention to the Operators' HP",
+    "The Thirst to Survive \"sets the Unchained's HP to 0 when it ends\", immediately swapping her into her Substitute",
+    "The Pressure to Survive increases attack interval and drains the Unchained's HP if she attack enemies whose HP percentage is below her",
+    "The Unchained must be redeployed if the Substitute is KO'd",
+    "Must be equipped with either modules at Stage 3 to be truly effective; without modules, the Unchained is often worse than base Specter"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Specter the Unchained/Overview"
+}

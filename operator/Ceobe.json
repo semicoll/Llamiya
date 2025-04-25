@@ -1,0 +1,607 @@
+{
+    "info": {
+        "title": "Ceobe",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/3/32/Ceobe_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20200225104537",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/4/49/Ceobe_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20200826220903",
+            "Summer Flowers FA333": "https://static.wikia.nocookie.net/mrfz/images/e/ec/Ceobe_Skin_2.png/revision/latest/scale-to-width-down/268?cb=20220216065703"
+        }
+    },
+    "stats": {
+        "HP": {
+            "Base": "657",
+            "Max": "939",
+            "Elite 1": "1220",
+            "Elite 2": "1565",
+            "Trust": ""
+        },
+        "ATK": {
+            "Base": "302",
+            "Max": "420",
+            "Elite 1": "553",
+            "Elite 2": "667",
+            "Trust": "+90"
+        },
+        "DEF": {
+            "Base": "48",
+            "Max": "82",
+            "Elite 1": "114",
+            "Elite 2": "128",
+            "Trust": ""
+        },
+        "RES": {
+            "Base": "10",
+            "Max": "10",
+            "Elite 1": "15",
+            "Elite 2": "20",
+            "Trust": ""
+        },
+        "Rdpl. time": {
+            "Base": "70s",
+            "Max": "70s",
+            "Elite 1": "70s",
+            "Elite 2": "70s",
+            "Trust": ""
+        },
+        "DP cost": {
+            "Base": "19",
+            "Max": "19",
+            "Elite 1": "21",
+            "Elite 2": "21",
+            "Trust": ""
+        },
+        "Blk. cnt.": {
+            "Base": "1",
+            "Max": "1",
+            "Elite 1": "1",
+            "Elite 2": "1",
+            "Trust": ""
+        },
+        "Atk. itvl.": {
+            "Base": "1.6s",
+            "Max": "1.6s",
+            "Elite 1": "1.6s",
+            "Elite 2": "1.6s",
+            "Trust": ""
+        }
+    },
+    "potential": {
+        "Pot 1": "DP cost -1",
+        "Pot 2": "Redeployment time -4 seconds",
+        "Pot 3": "ATK +27",
+        "Pot 4": "Improves Thresher",
+        "Pot 5": "DP cost -1"
+    },
+    "promotion": {
+        "Elite 1": {
+            "details": "Maximum attributes increased.\nDP cost +2.\nNew skill: \"Really Hot Knives\".\nNew talent: Thresher.\nRange extended.\nLevel 50\n30K\n5\n3\n5",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "30K"
+                },
+                {
+                    "name": "Caster Chip",
+                    "quantity": "50"
+                },
+                {
+                    "name": "Oriron",
+                    "quantity": "5"
+                },
+                {
+                    "name": "Device",
+                    "quantity": "3"
+                }
+            ]
+        },
+        "Elite 2": {
+            "details": "Maximum attributes increased.\nNew skill: \"Really Heavy Spear\".\nNew talent: Lone Journey.\nThresher improved.\nOperator Modules available.\nElite 1 Level 80\n180K\n4\n4\n5",
+            "materials": [
+                {
+                    "name": "LMD",
+                    "quantity": "180K"
+                },
+                {
+                    "name": "Caster Dualchip",
+                    "quantity": "1"
+                },
+                {
+                    "name": "Bipolar Nanoflake",
+                    "quantity": "80"
+                },
+                {
+                    "name": "Incandescent Alloy Block",
+                    "quantity": "4"
+                }
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "\"Really Cold Axe\"",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Increases the ATK of the next attack by 150%, prioritizing enemies that are not blocked and Binding them for 1.5 seconds\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Increases the ATK of the next attack by 155%, prioritizing enemies that are not blocked and Binding them for 1.5 seconds\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Increases the ATK of the next attack by 160%, prioritizing enemies that are not blocked and Binding them for 1.5 seconds\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Increases the ATK of the next attack by 165%, prioritizing enemies that are not blocked and Binding them for 2 seconds\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Increases the ATK of the next attack by 170%, prioritizing enemies that are not blocked and Binding them for 2 seconds\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Increases the ATK of the next attack by 175%, prioritizing enemies that are not blocked and Binding them for 2 seconds\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Increases the ATK of the next attack by 180%, prioritizing enemies that are not blocked and Binding them for 2.5 seconds\nCan store 2 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Increases the ATK of the next attack by 190%, prioritizing enemies that are not blocked and Binding them for 2.5 seconds\nCan store 2 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Increases the ATK of the next attack by 200%, prioritizing enemies that are not blocked and Binding them for 2.5 seconds\nCan store 3 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Increases the ATK of the next attack by 210%, prioritizing enemies that are not blocked and Binding them for 3 seconds\nCan store 3 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "\"Really Hot Knives\"",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30-40 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Interval is reduced slightly, and attacks prioritize enemies with the highest DEF",
+                    "initial_sp": "10",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Interval is reduced slightly, and attacks prioritize enemies with the highest DEF",
+                    "initial_sp": "11",
+                    "sp_cost": "49",
+                    "duration": "31s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Interval is reduced slightly, and attacks prioritize enemies with the highest DEF",
+                    "initial_sp": "12",
+                    "sp_cost": "48",
+                    "duration": "32s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Interval is reduced, and attacks prioritize enemies with the highest DEF",
+                    "initial_sp": "13",
+                    "sp_cost": "47",
+                    "duration": "33s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Interval is reduced, and attacks prioritize enemies with the highest DEF",
+                    "initial_sp": "14",
+                    "sp_cost": "46",
+                    "duration": "34s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Interval is reduced, and attacks prioritize enemies with the highest DEF",
+                    "initial_sp": "15",
+                    "sp_cost": "45",
+                    "duration": "35s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Interval is reduced moderately, and attacks prioritize enemies with the highest DEF",
+                    "initial_sp": "16",
+                    "sp_cost": "44",
+                    "duration": "36s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Interval is reduced significantly, and attacks prioritize enemies with the highest DEF",
+                    "initial_sp": "18",
+                    "sp_cost": "43",
+                    "duration": "37s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Interval is reduced significantly, and attacks prioritize enemies with the highest DEF",
+                    "initial_sp": "20",
+                    "sp_cost": "42",
+                    "duration": "38s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Interval is reduced greatly, and attacks prioritize enemies with the highest DEF",
+                    "initial_sp": "25",
+                    "sp_cost": "40",
+                    "duration": "40s"
+                }
+            ]
+        },
+        {
+            "name": "\"Really Heavy Spear\"",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "55-60 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Range expands, ATK +100%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 2 seconds",
+                    "initial_sp": "35",
+                    "sp_cost": "80",
+                    "duration": "55s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack range expands, ATK +110%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 2 seconds",
+                    "initial_sp": "37",
+                    "sp_cost": "80",
+                    "duration": "55s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack range expands, ATK +120%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 2 seconds",
+                    "initial_sp": "39",
+                    "sp_cost": "80",
+                    "duration": "55s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack range expands, ATK +130%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 2.5 seconds",
+                    "initial_sp": "41",
+                    "sp_cost": "80",
+                    "duration": "56s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack range expands, ATK +140%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 2.5 seconds",
+                    "initial_sp": "43",
+                    "sp_cost": "80",
+                    "duration": "56s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack range expands, ATK +150%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 2.5 seconds",
+                    "initial_sp": "45",
+                    "sp_cost": "80",
+                    "duration": "56s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack range expands, ATK +160%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 3 seconds",
+                    "initial_sp": "47",
+                    "sp_cost": "80",
+                    "duration": "57s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack range expands, ATK +175%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 3.5 seconds",
+                    "initial_sp": "49",
+                    "sp_cost": "80",
+                    "duration": "58s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack range expands, ATK +190%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 4 seconds",
+                    "initial_sp": "52",
+                    "sp_cost": "80",
+                    "duration": "59s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack range expands, ATK +210%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 5 seconds",
+                    "initial_sp": "55",
+                    "sp_cost": "80",
+                    "duration": "60s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Grindstone",
+                "quantity": "4"
+            },
+            {
+                "name": "Orirock Cluster",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Ore",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-12",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Cluster",
+                        "quantity": "11"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "9"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Thresher",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "Each attack deals additional Arts damage to the target equal to 25% of its DEF"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Each attack deals additional Arts damage to the target equal to 40% of its DEF"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Each attack deals additional Arts damage to the target equal to 29%(+4%) of its DEF"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "Each attack deals additional Arts damage to the target equal to 44%(+4%) of its DEF"
+                }
+            ]
+        },
+        {
+            "name": "Lone Journey",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "When there are no other friendly units in the surrounding 4 tiles, ATK +8% and ASPD +8"
+                }
+            ]
+        }
+    ]
+}

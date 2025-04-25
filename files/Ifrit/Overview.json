@@ -1,0 +1,21 @@
+{
+  "name": "Ifrit",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Attacks hit all enemies within range",
+    "Very high ATK",
+    "Longer attack range than other Casters",
+    "Spiritual Dissolution makes enemies vulnerable to Ifrit's attacks and other Arts DPS dealers",
+    "Pyroclasm lowers enemy DEF and burns them, leaving them vulnerable to physical DPS dealers",
+    "Scorched Earth lowers enemy RES further and deals continuous damage",
+    "Rhine Loop periodically gives additional SP"
+  ],
+  "cons": [
+    "Very high DP cost",
+    "High attack interval",
+    "Requires careful positioning due to the linear attack range",
+    "Scorched Earth does not affect aerial enemies and drains Ifrit's HP over time, which can KO her"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Ifrit/Overview"
+}

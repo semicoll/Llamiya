@@ -1,0 +1,492 @@
+{
+    "info": {
+        "title": "Flametail",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/9/93/Flametail_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20211101070107",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/f/fc/Flametail_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20220609163529"
+        }
+    },
+    "skills": [
+        {
+            "name": "Quick Intuition",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Immediately gains 6 DP and dodge the next Physical attack",
+                    "initial_sp": "0",
+                    "sp_cost": "23",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Immediately gains 6 DP and dodge the next Physical attack",
+                    "initial_sp": "0",
+                    "sp_cost": "23",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Immediately gains 6 DP and dodge the next Physical attack",
+                    "initial_sp": "0",
+                    "sp_cost": "23",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Immediately gains 6 DP and dodge the next Physical attack",
+                    "initial_sp": "3",
+                    "sp_cost": "21",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Immediately gains 6 DP and dodge the next Physical attack",
+                    "initial_sp": "3",
+                    "sp_cost": "21",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Immediately gains 6 DP and dodge the next Physical attack",
+                    "initial_sp": "3",
+                    "sp_cost": "21",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Immediately gains 6 DP and dodge the next Physical attack",
+                    "initial_sp": "6",
+                    "sp_cost": "19",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Immediately gains 6 DP and dodge the next Physical attack",
+                    "initial_sp": "7",
+                    "sp_cost": "19",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Immediately gains 6 DP and dodge the next Physical attack",
+                    "initial_sp": "8",
+                    "sp_cost": "19",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Immediately gains 6 DP and dodge the next Physical attack",
+                    "initial_sp": "9",
+                    "sp_cost": "18",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "\"Pinus Sylvestris\"",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Immediately gains 10 DP; Deals 150% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 35% Physical Dodge for 10 seconds",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Immediately gains 10 DP; Deals 160% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 35% Physical Dodge for 10 seconds",
+                    "initial_sp": "21",
+                    "sp_cost": "40",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Immediately gains 10 DP; Deals 170% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 35% Physical Dodge for 10 seconds",
+                    "initial_sp": "22",
+                    "sp_cost": "40",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Immediately gains 11 DP; Deals 180% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 40% Physical Dodge for 10 seconds",
+                    "initial_sp": "23",
+                    "sp_cost": "40",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Immediately gains 11 DP; Deals 190% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 40% Physical Dodge for 10 seconds",
+                    "initial_sp": "24",
+                    "sp_cost": "40",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Immediately gains 11 DP; Deals 200% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 40% Physical Dodge for 10 seconds",
+                    "initial_sp": "25",
+                    "sp_cost": "40",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Immediately gains 12 DP; Deals 210% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 45% Physical Dodge for 10 seconds",
+                    "initial_sp": "26",
+                    "sp_cost": "40",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Immediately gains 12 DP; Deals 220% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 45% Physical Dodge for 10 seconds",
+                    "initial_sp": "27",
+                    "sp_cost": "40",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Immediately gains 12 DP; Deals 230% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 50% Physical Dodge for 10 seconds",
+                    "initial_sp": "28",
+                    "sp_cost": "40",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Immediately gains 13 DP; Deals 240% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 50% Physical Dodge for 10 seconds",
+                    "initial_sp": "30",
+                    "sp_cost": "40",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Flameheart",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "8 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +30%, Block +1 and gain 60% Physical and Arts Dodge",
+                    "initial_sp": "0",
+                    "sp_cost": "22",
+                    "duration": "8s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +35%, Block +1 and gain 60% Physical and Arts Dodge",
+                    "initial_sp": "1",
+                    "sp_cost": "22",
+                    "duration": "8s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +40%, Block +1 and gain 60% Physical and Arts Dodge",
+                    "initial_sp": "1",
+                    "sp_cost": "21",
+                    "duration": "8s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +45%, Block +1 and gain 60% Physical and Arts Dodge",
+                    "initial_sp": "2",
+                    "sp_cost": "21",
+                    "duration": "8s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +50%, Block +1 and gain 60% Physical and Arts Dodge",
+                    "initial_sp": "2",
+                    "sp_cost": "20",
+                    "duration": "8s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +55%, Block +1 and gain 60% Physical and Arts Dodge",
+                    "initial_sp": "3",
+                    "sp_cost": "20",
+                    "duration": "8s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +60%, Block +1 and gain 80% Physical and Arts Dodge",
+                    "initial_sp": "3",
+                    "sp_cost": "19",
+                    "duration": "8s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +70%, Block +1 and gain 80% Physical and Arts Dodge",
+                    "initial_sp": "4",
+                    "sp_cost": "18",
+                    "duration": "8s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +80%, Block +1 and gain 80% Physical and Arts Dodge",
+                    "initial_sp": "5",
+                    "sp_cost": "17",
+                    "duration": "8s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +90%, Block +1 and gain 80% Physical and Arts Dodge",
+                    "initial_sp": "6",
+                    "sp_cost": "16",
+                    "duration": "8s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "3"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Crystalline Component",
+                "quantity": "4"
+            },
+            {
+                "name": "Coagulating Gel",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Compound Cutting Fluid",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Vanguard Swordsmanship",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "After dodging an attack, the next attack deals two hits"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "After dodging an attack, the next attack deals two hits and attacks multiple enemies up to Block count[note 1]"
+                }
+            ]
+        },
+        {
+            "name": "Pinus Sylvestris Leader",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "When deployed, all \"Kazimierz\" Operators gain 22% Physical Dodge"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "When deployed, all \"Kazimierz\" Operators gain 25% (+3%) Physical Dodge"
+                }
+            ]
+        }
+    ]
+}

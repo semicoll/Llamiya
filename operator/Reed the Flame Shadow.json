@@ -1,0 +1,503 @@
+{
+    "info": {
+        "title": "Reed the Flame Shadow",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/2/22/Reed_the_Flame_Shadow_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20221215050248"
+        }
+    },
+    "skills": [
+        {
+            "name": "Swift Strike γ",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "35 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +20%; ASPD +20",
+                    "initial_sp": "0",
+                    "sp_cost": "45",
+                    "duration": "35s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +22%; ASPD +20",
+                    "initial_sp": "0",
+                    "sp_cost": "44",
+                    "duration": "35s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +24%; ASPD +20",
+                    "initial_sp": "0",
+                    "sp_cost": "43",
+                    "duration": "35s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +27%; ASPD +25",
+                    "initial_sp": "5",
+                    "sp_cost": "42",
+                    "duration": "35s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +29%; ASPD +25",
+                    "initial_sp": "5",
+                    "sp_cost": "41",
+                    "duration": "35s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +31%; ASPD +25",
+                    "initial_sp": "5",
+                    "sp_cost": "40",
+                    "duration": "35s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +34%; ASPD +35",
+                    "initial_sp": "10",
+                    "sp_cost": "39",
+                    "duration": "35s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +37%; ASPD +35",
+                    "initial_sp": "10",
+                    "sp_cost": "38",
+                    "duration": "35s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +40%; ASPD +35",
+                    "initial_sp": "10",
+                    "sp_cost": "37",
+                    "duration": "35s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +45%; ASPD +45",
+                    "initial_sp": "15",
+                    "sp_cost": "35",
+                    "duration": "35s"
+                }
+            ]
+        },
+        {
+            "name": "Wither and Thrive",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15-20 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Prioritizing ground Operators, gives 1 ally 3 fireballs with the following effect: Every 1.5 seconds, deals 130% of Reed the Flame Shadow's ATK as Arts damage to an enemy, triggering her Trait but only on that ally.",
+                    "initial_sp": "5",
+                    "sp_cost": "40",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Prioritizing ground Operators, gives 1 ally 3 fireballs with the following effect: Every 1.5 seconds, deals 140% of Reed the Flame Shadow's ATK as Arts damage to an enemy, triggering her Trait but only on that ally.",
+                    "initial_sp": "5",
+                    "sp_cost": "39",
+                    "duration": "15s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Prioritizing ground Operators, gives 1 ally 3 fireballs with the following effect: Every 1.5 seconds, deals 150% of Reed the Flame Shadow's ATK as Arts damage to an enemy, triggering her Trait but only on that ally.",
+                    "initial_sp": "5",
+                    "sp_cost": "38",
+                    "duration": "15s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Prioritizing ground Operators, gives 1 ally 3 fireballs with the following effect: Every 1.5 seconds, deals 160% of Reed the Flame Shadow's ATK as Arts damage to an enemy, triggering her Trait but only on that ally.",
+                    "initial_sp": "10",
+                    "sp_cost": "37",
+                    "duration": "20s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Prioritizing ground Operators, gives 1 ally 3 fireballs with the following effect: Every 1.5 seconds, deals 170% of Reed the Flame Shadow's ATK as Arts damage to an enemy, triggering her Trait but only on that ally.",
+                    "initial_sp": "10",
+                    "sp_cost": "36",
+                    "duration": "20s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Prioritizing ground Operators, gives 1 ally 3 fireballs with the following effect: Every 1.5 seconds, deals 180% of Reed the Flame Shadow's ATK as Arts damage to an enemy, triggering her Trait but only on that ally.",
+                    "initial_sp": "10",
+                    "sp_cost": "35",
+                    "duration": "20s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Prioritizing ground Operators, gives 2 allies 3 fireballs with the following effect: Every 1.5 seconds, deals 190% of Reed the Flame Shadow's ATK as Arts damage to an enemy, triggering her Trait but only on that ally.",
+                    "initial_sp": "15",
+                    "sp_cost": "33",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Prioritizing ground Operators, gives 2 allies 3 fireballs with the following effect: Every 1.5 seconds, deals 200% of Reed the Flame Shadow's ATK as Arts damage to an enemy, triggering her Trait but only on that ally.",
+                    "initial_sp": "16",
+                    "sp_cost": "31",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Prioritizing ground Operators, gives 2 allies 3 fireballs with the following effect: Every 1.5 seconds, deals 220% of Reed the Flame Shadow's ATK as Arts damage to an enemy, triggering her Trait but only on that ally.",
+                    "initial_sp": "17",
+                    "sp_cost": "29",
+                    "duration": "20s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Prioritizing ground Operators, gives 2 allies 3 fireballs with the following effect: Every 1.5 seconds, deals 240% of Reed the Flame Shadow's ATK as Arts damage to an enemy, triggering her Trait but only on that ally.",
+                    "initial_sp": "18",
+                    "sp_cost": "27",
+                    "duration": "20s"
+                }
+            ]
+        },
+        {
+            "name": "Ember of Life",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attacks hit 2 enemies; ATK +10%; Talent 1 activation chance increases to 100%; enemies with the Cinder effect take 10% of Reed the Flame Shadow's ATK as Arts damage per second, and when defeated deal 90% of ATK as Arts damage and inflict Cinder to nearby enemies\nCinder lasts until this skill expires",
+                    "initial_sp": "10",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attacks hit 2 enemies; ATK +15%; Talent 1 activation chance increases to 100%; enemies with the Cinder effect take 10% of Reed the Flame Shadow's ATK as Arts damage per second, and when defeated deal 90% of ATK as Arts damage and inflict Cinder to nearby enemies\nCinder lasts until this skill expires",
+                    "initial_sp": "10",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attacks hit 2 enemies; ATK +20%; Talent 1 activation chance increases to 100%; enemies with the Cinder effect take 10% of Reed the Flame Shadow's ATK as Arts damage per second, and when defeated deal 90% of ATK as Arts damage and inflict Cinder to nearby enemies\nCinder lasts until this skill expires",
+                    "initial_sp": "10",
+                    "sp_cost": "50",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attacks hit 2 enemies; ATK +25%; Talent 1 activation chance increases to 100%; enemies with the Cinder effect take 20% of Reed the Flame Shadow's ATK as Arts damage per second, and when defeated deal 100% of ATK as Arts damage and inflict Cinder to nearby enemies\nCinder lasts until this skill expires",
+                    "initial_sp": "15",
+                    "sp_cost": "45",
+                    "duration": "30s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attacks hit 2 enemies; ATK +30%; Talent 1 activation chance increases to 100%; enemies with the Cinder effect take 20% of Reed the Flame Shadow's ATK as Arts damage per second, and when defeated deal 100% of ATK as Arts damage and inflict Cinder to nearby enemies\nCinder lasts until this skill expires",
+                    "initial_sp": "15",
+                    "sp_cost": "45",
+                    "duration": "30s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attacks hit 2 enemies; ATK +35%; Talent 1 activation chance increases to 100%; enemies with the Cinder effect take 20% of Reed the Flame Shadow's ATK as Arts damage per second, and when defeated deal 100% of ATK as Arts damage and inflict Cinder to nearby enemies\nCinder lasts until this skill expires",
+                    "initial_sp": "15",
+                    "sp_cost": "45",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attacks hit 2 enemies; ATK +40%; Talent 1 activation chance increases to 100%; enemies with the Cinder effect take 30% of Reed the Flame Shadow's ATK as Arts damage per second, and when defeated deal 110% of ATK as Arts damage and inflict Cinder to nearby enemies\nCinder lasts until this skill expires",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attacks hit 2 enemies; ATK +45%; Talent 1 activation chance increases to 100%; enemies with the Cinder effect take 40% of Reed the Flame Shadow's ATK as Arts damage per second, and when defeated deal 120% of ATK as Arts damage and inflict Cinder to nearby enemies\nCinder lasts until this skill expires",
+                    "initial_sp": "20",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attacks hit 2 enemies; ATK +50%; Talent 1 activation chance increases to 100%; enemies with the Cinder effect take 50% of Reed the Flame Shadow's ATK as Arts damage per second, and when defeated deal 130% of ATK as Arts damage and inflict Cinder to nearby enemies\nCinder lasts until this skill expires",
+                    "initial_sp": "25",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attacks hit 2 enemies; ATK +60%; Talent 1 activation chance increases to 100%; enemies with the Cinder effect take 50% of Reed the Flame Shadow's ATK as Arts damage per second, and when defeated deal 140% of ATK as Arts damage and inflict Cinder to nearby enemies\nCinder lasts until this skill expires",
+                    "initial_sp": "30",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Ester",
+                "quantity": "6"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "4"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cluster",
+                "quantity": "5"
+            },
+            {
+                "name": "Integrated Device",
+                "quantity": "3"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Semi-Synthetic Solvent",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Transmuted Salt",
+                        "quantity": "3"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Ore",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Transmuted Salt Agglomerate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "9"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Cutting Fluid Solution",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Nucleic Crystal Sinter",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Cinder",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When dealing damage, 30% chance to inflict Cinder: ATK -10%, 15% Arts Fragility, does not stack, lasts 6s"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When dealing damage, 30% chance to inflict Cinder: ATK -20%, 30% Arts Fragility, does not stack, lasts 6s"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 3",
+                    "description": "When dealing damage, 30% chance to inflict Cinder: ATK -12% (+2%), 17% (+2%) Arts Fragility, does not stack, lasts 6s"
+                },
+                {
+                    "level": "Potential 3",
+                    "description": "When dealing damage, 30% chance to inflict Cinder: ATK -22% (+2%), 32% (+2%) Arts Fragility, does not stack, lasts 6s"
+                }
+            ]
+        },
+        {
+            "name": "Reflected Shine",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "When healing an ally, Reed the Flame Shadow heals herself for 50% of the amount healed"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 6",
+                    "description": "When healing an ally, Reed the Flame Shadow heals herself for 55% (+5%) of the amount healed"
+                }
+            ]
+        }
+    ]
+}

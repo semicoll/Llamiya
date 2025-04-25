@@ -1,0 +1,20 @@
+{
+  "name": "Flametail",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Higher overall stats than other Pioneer Vanguards, especially HP and DEF",
+    "Quick Intuition causes Flametail to dodge the next Physical attack received",
+    "Despite not being an Arts attack, \"Pinus Sylvestris\" is just as useful as Texas' Sword Rain in addition to giving friendlies within range some Physical dodge",
+    "Vanguard Swordsmanship makes the next attack after dodging a Physical attack deliver two hits and with multi-target capability (at Elite 2)",
+    "Flameheart is a solid DP generation/augmentation skill, especially from its high Physical/Arts dodge",
+    "Pinus Sylvestris Leader gives Kazimierzian Operators a small Physical dodge while Flametail is deployed"
+  ],
+  "cons": [
+    "Highest DP cost of all Vanguards, tied with Saga and Siege",
+    "Quick Intuition's guaranteed Physical dodge does not stack with multiple activations",
+    "The Physical damage and short stun duration of \"Pinus Sylvestris\" makes it less effective for crowd-control",
+    "Vanguard Swordsmanship relies on Flametail's dodge, which can be unreliable at times"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Flametail/Overview"
+}

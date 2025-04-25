@@ -1,0 +1,503 @@
+{
+    "info": {
+        "title": "Eyjafjalla",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/9/95/Eyjafjalla_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20190627032127",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/c/c7/Eyjafjalla_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20210720125841"
+        }
+    },
+    "skills": [
+        {
+            "name": "Duetto",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "25 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ASPD +30\nStarting from the second use of the skill, ATK +30%",
+                    "initial_sp": "10",
+                    "sp_cost": "45",
+                    "duration": "25s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ASPD +32\nStarting from the second use of the skill, ATK +32%",
+                    "initial_sp": "10",
+                    "sp_cost": "44",
+                    "duration": "25s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ASPD +35\nStarting from the second use of the skill, ATK +35%",
+                    "initial_sp": "10",
+                    "sp_cost": "43",
+                    "duration": "25s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ASPD +38\nStarting from the second use of the skill, ATK +38%",
+                    "initial_sp": "15",
+                    "sp_cost": "42",
+                    "duration": "25s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ASPD +40\nStarting from the second use of the skill, ATK +40%",
+                    "initial_sp": "15",
+                    "sp_cost": "41",
+                    "duration": "25s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ASPD +42\nStarting from the second use of the skill, ATK +42%",
+                    "initial_sp": "15",
+                    "sp_cost": "40",
+                    "duration": "25s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ASPD +45\nStarting from the second use of the skill, ATK +45%",
+                    "initial_sp": "20",
+                    "sp_cost": "39",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ASPD +50\nStarting from the second use of the skill, ATK +50%",
+                    "initial_sp": "20",
+                    "sp_cost": "38",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ASPD +55\nStarting from the second use of the skill, ATK +55%",
+                    "initial_sp": "20",
+                    "sp_cost": "37",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ASPD +60\nStarting from the second use of the skill, ATK +60%",
+                    "initial_sp": "25",
+                    "sp_cost": "35",
+                    "duration": "25s"
+                }
+            ]
+        },
+        {
+            "name": "Ignition",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Deals 240% of ATK Arts damage in the next attack; Deals half damage to enemies around the target and their (main target only) RES -10% for 6 seconds\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Deals 250% of ATK Arts damage in the next attack; Deals half damage to enemies around the target and their (main target only) RES -10% for 6 seconds\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Deals 260% of ATK Arts damage in the next attack; Deals half damage to enemies around the target and their (main target only) RES -10% for 6 seconds\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Deals 275% of ATK Arts damage in the next attack; Deals half damage to enemies around the target and their (main target only) RES -15% for 6 seconds\nCan store 2 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Deals 285% of ATK Arts damage in the next attack; Deals half damage to enemies around the target and their (main target only) RES -15% for 6 seconds\nCan store 2 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Deals 295% of ATK Arts damage in the next attack; Deals half damage to enemies around the target and their (main target only) RES -15% for 6 seconds\nCan store 2 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Deals 310% of ATK Arts damage in the next attack; Deals half damage to enemies around the target and their (main target only) RES -20% for 6 seconds\nCan store 2 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Deals 330% of ATK Arts damage in the next attack; Deals half damage to enemies around the target and their (main target only) RES -20% for 6 seconds\nCan store 3 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Deals 350% of ATK Arts damage in the next attack; Deals half damage to enemies around the target and their (main target only) RES -20% for 6 seconds\nCan store 3 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Deals 370% of ATK Arts damage in the next attack; Deals half damage to enemies around the target and their (main target only) RES -25% for 6 seconds\nCan store 3 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Volcano",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +55%; Range increases; Attack Interval reduces significantly; Attack becomes randomly shooting lava that can hit at most 3 enemies within range",
+                    "initial_sp": "30",
+                    "sp_cost": "80",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +60%; Range increases; Attack Interval reduces significantly; Attack becomes randomly shooting lava that can hit at most 3 enemies within range",
+                    "initial_sp": "31",
+                    "sp_cost": "80",
+                    "duration": "15s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +65%; Range increases; Attack Interval reduces significantly; Attack becomes randomly shooting lava that can hit at most 3 enemies within range",
+                    "initial_sp": "32",
+                    "sp_cost": "80",
+                    "duration": "15s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +70%; Range increases; Attack Interval reduces significantly; Attack becomes randomly shooting lava that can hit at most 4 enemies within range",
+                    "initial_sp": "33",
+                    "sp_cost": "80",
+                    "duration": "15s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +75%; Range increases; Attack Interval reduces significantly; Attack becomes randomly shooting lava that can hit at most 4 enemies within range",
+                    "initial_sp": "34",
+                    "sp_cost": "80",
+                    "duration": "15s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +80%; Range increases; Attack Interval reduces significantly; Attack becomes randomly shooting lava that can hit at most 4 enemies within range",
+                    "initial_sp": "35",
+                    "sp_cost": "80",
+                    "duration": "15s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +85%; Range increases; Attack Interval reduces significantly; Attack becomes randomly shooting lava that can hit at most 5 enemies within range",
+                    "initial_sp": "40",
+                    "sp_cost": "80",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +100%; Range increases; Attack Interval reduces significantly; Attack becomes randomly shooting lava that can hit at most 5 enemies within range",
+                    "initial_sp": "45",
+                    "sp_cost": "80",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +115%; Range increases; Attack Interval reduces significantly; Attack becomes randomly shooting lava that can hit at most 5 enemies within range",
+                    "initial_sp": "50",
+                    "sp_cost": "80",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +130%; Range increases; Attack Interval reduces significantly; Attack becomes randomly shooting lava that can hit at most 6 enemies within range",
+                    "initial_sp": "55",
+                    "sp_cost": "80",
+                    "duration": "15s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "7"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Manganese Ore",
+                "quantity": "3"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Ore",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Pyrobreath",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "All [Caster] Operators' ATK +7% when Eyjafjalla is deployed"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "All [Caster] Operators' ATK +14% when Eyjafjalla is deployed"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 6",
+                    "description": "All [Caster] Operators' ATK +9% (+2%) when Eyjafjalla is deployed"
+                },
+                {
+                    "level": "Potential 6",
+                    "description": "All [Caster] Operators' ATK +16% (+2%) when Eyjafjalla is deployed"
+                }
+            ]
+        },
+        {
+            "name": "Wild Fire",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Immediately obtains a small random number of Skill Points after deployment"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 3",
+                    "description": "Immediately obtains a large random number of Skill Points after deployment"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Suzuran",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Attacks deal Arts damage and briefly slows enemies",
+    "Childhood Frolic allows Suzuran to attack two enemies at once",
+    "Skill Aura - Supporter increases the SP generation rate of Supporters",
+    "Foxfire Haze continuously slows enemies and heals allies within an expanded range, and makes Binding Circle more effective",
+    "Binding Circle applies the Fragile debuff to slowed enemies within Suzuran's range"
+  ],
+  "cons": [
+    "Skill Aura - Supporter does not stack with Ptilopsis' Skill Aura and only affect Operators with automatic SP recovery",
+    "Foxfire Haze stops Suzuran from attacking",
+    "Must be leveled and promoted to Elite 2 for maximum effectiveness"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Suzuran/Overview"
+}

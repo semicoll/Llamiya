@@ -1,0 +1,24 @@
+{
+  "name": "Goldenglow",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Attacks deal Arts damage",
+    "Lower attack interval than other Casters",
+    "Controls a Drone which attacks in tandem with Goldenglow, dealing more damage when attacking the same target continuously up to a certain limit",
+    "All three skills give additional Drone(s) and have the Drones lock onto enemies even if they later moves outside Goldenglow's attack range until they are defeated or the skill expires",
+    "Surging Current permanently extends Goldenglow's reach and requires less micromanagement",
+    "Beacon's Wrath gives a chance for Goldenglow's Drones to self-destruct when attacking, dealing heavy Arts damage",
+    "Crystalline Shine allow Goldenglow's Drones to acquire targets on the entire map and causes their attacks to temporarily slow the victims, making it excellent for stalling",
+    "Precise Redirection makes Goldenglow and her Drones ignore some RES in each attack"
+  ],
+  "cons": [
+    "Very low ATK",
+    "The Drone deals low damage initially and must continuously attack one target for maximum effectiveness",
+    "The skills' Drone lock on can be difficult to utilize properly, particularly against numerous enemies, and will often prioritize those closest to the Protection Objective",
+    "The Drones' self-destruction through Beacon's Wrath can deprive Goldenglow of some DPS potential",
+    "Crystalline Shine stops Goldenglow from attacking and can be ineffective against enemies with Taunt or similar, as the Drones will focus on that enemy",
+    "The Drones cannot attack enemies that are obscured by invisibility"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Goldenglow/Overview"
+}

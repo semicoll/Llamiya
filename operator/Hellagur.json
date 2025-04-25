@@ -1,0 +1,461 @@
+{
+    "info": {
+        "title": "Hellagur",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/c/ca/Hellagur_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20191104023819",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/f/f6/Hellagur_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20210417160918"
+        }
+    },
+    "skills": [
+        {
+            "name": "Crescent Moon",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "The ATK of next attack increases to 110%, attacking twice consecutively",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "The ATK of next attack increases to 115%, attacking twice consecutively",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "The ATK of next attack increases to 120%, attacking twice consecutively",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "The ATK of next attack increases to 125%, attacking twice consecutively",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "The ATK of next attack increases to 130%, attacking twice consecutively",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "The ATK of next attack increases to 135%, attacking twice consecutively",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "The ATK of next attack increases to 145%, attacking twice consecutively",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "The ATK of next attack increases to 155%, attacking twice consecutively",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "The ATK of next attack increases to 165%, attacking twice consecutively",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "The ATK of next attack increases to 175%, attacking twice consecutively",
+                    "initial_sp": "0",
+                    "sp_cost": "2",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Half Moon",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "10-13 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +20%, changes attack to twice attack, obtaining 75% Physical Dodge",
+                    "initial_sp": "0",
+                    "sp_cost": "35",
+                    "duration": "10s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +25%, changes attack to twice attack, obtaining 75% Physical Dodge",
+                    "initial_sp": "0",
+                    "sp_cost": "34",
+                    "duration": "10s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +30%, changes attack to twice attack, obtaining 75% Physical Dodge",
+                    "initial_sp": "0",
+                    "sp_cost": "33",
+                    "duration": "10s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +35%, changes attack to twice attack, obtaining 75% Physical Dodge",
+                    "initial_sp": "5",
+                    "sp_cost": "32",
+                    "duration": "11s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +40%, changes attack to twice attack, obtaining 75% Physical Dodge",
+                    "initial_sp": "5",
+                    "sp_cost": "31",
+                    "duration": "11s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +45%, changes attack to twice attack, obtaining 75% Physical Dodge",
+                    "initial_sp": "5",
+                    "sp_cost": "30",
+                    "duration": "11s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +50%, changes attack to twice attack, obtaining 75% Physical Dodge",
+                    "initial_sp": "10",
+                    "sp_cost": "29",
+                    "duration": "12s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +60%, changes attack to twice attack, obtaining 75% Physical Dodge",
+                    "initial_sp": "11",
+                    "sp_cost": "28",
+                    "duration": "12s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +70%, changes attack to twice attack, obtaining 75% Physical Dodge",
+                    "initial_sp": "12",
+                    "sp_cost": "27",
+                    "duration": "12s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +80%, changes attack to twice attack, obtaining 75% Physical Dodge",
+                    "initial_sp": "15",
+                    "sp_cost": "25",
+                    "duration": "13s"
+                }
+            ]
+        },
+        {
+            "name": "Full Moon",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "12-15 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +40%, attack range +1 tiles, can attack up to 3 targets simultaneously",
+                    "initial_sp": "15",
+                    "sp_cost": "45",
+                    "duration": "12s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +45%, attack range +1 tiles, can attack up to 3 targets simultaneously",
+                    "initial_sp": "15",
+                    "sp_cost": "45",
+                    "duration": "12s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +50%, attack range +1 tiles, can attack up to 3 targets simultaneously",
+                    "initial_sp": "15",
+                    "sp_cost": "45",
+                    "duration": "12s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +55%, attack range +1 tiles, can attack up to 3 targets simultaneously",
+                    "initial_sp": "15",
+                    "sp_cost": "43",
+                    "duration": "13s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +60%, attack range +1 tiles, can attack up to 3 targets simultaneously",
+                    "initial_sp": "15",
+                    "sp_cost": "43",
+                    "duration": "13s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +65%, attack range +1 tiles, can attack up to 3 targets simultaneously",
+                    "initial_sp": "15",
+                    "sp_cost": "43",
+                    "duration": "13s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +70%, attack range +1 tiles, can attack up to 3 targets simultaneously",
+                    "initial_sp": "15",
+                    "sp_cost": "41",
+                    "duration": "14s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +80%, attack range +2 tiles, can attack up to 3 targets simultaneously",
+                    "initial_sp": "15",
+                    "sp_cost": "39",
+                    "duration": "14s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +90%, attack range +2 tiles, can attack up to 3 targets simultaneously",
+                    "initial_sp": "15",
+                    "sp_cost": "37",
+                    "duration": "14s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +100%, attack range +2 tiles, can attack up to 3 targets simultaneously",
+                    "initial_sp": "15",
+                    "sp_cost": "35",
+                    "duration": "15s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Ester",
+                "quantity": "6"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Manganese Ore",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Grindstone",
+                "quantity": "4"
+            },
+            {
+                "name": "Orirock Cluster",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "RMA70-12",
+                        "quantity": "5"
+                    },
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Cluster",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Sugar Pack",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Waxing Moon",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "When deployed, gains up to +50 ASPD Tenacity (reaches maximum when below 50% HP)"
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "When deployed, gains up to +75 ASPD Tenacity (reaches maximum when below 40% HP)"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When deployed, gains up to +100 ASPD Tenacity (reaches maximum when below 30% HP)"
+                }
+            ]
+        },
+        {
+            "name": "Ingenious Strategist",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Regenerate 60 HP per second when this unit is not blocking an enemy."
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Regenerate 70 (+10) HP per second when this unit is not blocking an enemy."
+                }
+            ]
+        }
+    ]
+}

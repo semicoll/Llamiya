@@ -1,0 +1,22 @@
+{
+  "name": "Fiammetta",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Attacks deal splash damage",
+    "High ATK",
+    "Decent HP and DEF",
+    "Sufferer of Tribulations gives an ATK Vigor when Fiammetta's HP is above 50%, which is doubled when she have 80% or more HP",
+    "\"Paenitete\" can be a highly effective AoE skill when its usage is timed correctly",
+    "\"Reponite\" is permanent and allow Fiammetta to deal massive splash DPS",
+    "Herald of Revelations buffs ASPD outside skill activation",
+    "Communal Suffering is a great way to get an Operator instantly back into their base roles without staying in the dorms"
+  ],
+  "cons": [
+    "High DP cost that increases with every promotion",
+    "Sufferer of Tribulations causes Fiammetta to lose HP over time (which fortunately is non-lethal), requiring constant heal in dangerous missions lest she becomes easy pickings for the enemy. If her HP goes down below 50% it also causes her Vigor buff to disappear unless she's healed back.",
+    "All three skills have offensive SP recovery, making them slow to charge outside combat",
+    "Fiammetta cannot attack normally with \"Reponite\", being forced to continuously attack the marked tile until deactivated"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Fiammetta/Overview"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Saileach",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Low DP cost",
+    "Support γ is one of the best DP generators in the game, especially at Mastery 3",
+    "Unwavering Banner gives Saileach the namesake, which debuffs the ASPD of enemies and buffs the ASPD of friendlies around it; the banner can be planted on another location with Inheritance of Faith or Glorious Banner, and automatically returned to Saileach when the skill expires",
+    "Inheritance of Faith plants the Unwavering Banner on a friendly with the lowest HP percentage, buffing their DEF and periodically healing them",
+    "Glorious Banner plants the Unwavering Banner on an enemy, inflicting AoE damage and stun, and continuous Slow and Fragile to surrounding enemies",
+    "Spiritual Influence reduces the DP cost of the next deployed unit when Saileach is deployed"
+  ],
+  "cons": [
+    "Can neither attack nor block enemies while the skill is active (though the latter can be an advantage since it makes melee enemies ignore Saileach)",
+    "Spiritual Influence only works once each time Saileach is deployed"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Saileach/Overview"
+}

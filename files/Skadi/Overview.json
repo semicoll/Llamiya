@@ -1,0 +1,20 @@
+{
+  "name": "Skadi",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Very high HP and ATK",
+    "Wave Strike provides a massive ATK buff upon deployment for dueling bosses or strong enemies",
+    "Abyssal Predator buffs the ATK (and max HP with the upgraded DRE-Y Module) of Abyssal Hunters Operators",
+    "Tidal Elegy literally turns Skadi into an unstoppable juggernaut and has a good amount of initial SP",
+    "Swift Action reduces redeployment time especially with the upgraded DRE-X Module"
+  ],
+  "cons": [
+    "Lower DEF than other Dreadnought Guards",
+    "Can only block one enemy",
+    "Tidal Elegy has a high SP cost, limiting its usage",
+    "Even with Swift Action, Skadi's redeployment time is still slow (60 seconds, 56 seconds at Potential 3) without the upgraded DRE-X Module",
+    "Has a straightforward function of dealing high physical DPS"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Skadi/Overview"
+}

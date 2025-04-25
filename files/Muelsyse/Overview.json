@@ -1,0 +1,20 @@
+{
+  "name": "Muelsyse",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "The Flowing Shape can copy other operators' stats and be deployed on both melee and ranged tiles, making it very adaptable",
+    "Melee Shapes steal ATK and DEF from enemies on attack, up to 250 extra ATK/DEF which bolsters its stats",
+    "Ranged Shapes create a temporary copy every 10 attacks, increasing its damage output significantly",
+    "Superficial Regulation provides amazing crowd control, either through melee Shapes pulling and stunning enemies, or through the ranged Shape instantly creating 4 clones and binding enemies on hit",
+    "Has much better combat capabilities than most other Vanguards",
+    "E2 talent reduces SP costs of all Rhine Lab operators including herself"
+  ],
+  "cons": [
+    "High DP cost for a Vanguard (though her E2 talent somewhat makes up for that)",
+    "Flowing Shapes only partially copy the operator's base stats (90% at E2), and do not copy their trait, talent(s) and skill",
+    "Reliant on having good targets for her Flowing Shape to copy",
+    "Doesn't fit quite as well in a traditional Vanguard role"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Muelsyse/Overview"
+}

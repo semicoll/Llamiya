@@ -1,0 +1,496 @@
+{
+    "info": {
+        "title": "Eunectes",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/e/e9/Eunectes_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20200825101307",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/9/9d/Eunectes_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20210503051121"
+        }
+    },
+    "skills": [
+        {
+            "name": "Tomahawk",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Passive"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +10%, DEF +10%",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +11%, DEF +11%",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +12%, DEF +12%",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +14%, DEF +14%",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +15%, DEF +15%",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +16%, DEF +16%",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +18%, DEF +18%",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +20%, DEF +20%",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +22%, DEF +22%",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +25%, DEF +25%",
+                    "initial_sp": "–",
+                    "sp_cost": "–",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Menacing Slash",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15-18 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Interval increases a bit, ATK +70%. Stuns all blocked targets for the duration of the skill",
+                    "initial_sp": "10",
+                    "sp_cost": "38",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Interval increases a bit, ATK +80%. Stuns all blocked targets for the duration of the skill",
+                    "initial_sp": "10",
+                    "sp_cost": "37",
+                    "duration": "15s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Interval increases a bit, ATK +90%. Stuns all blocked targets for the duration of the skill",
+                    "initial_sp": "10",
+                    "sp_cost": "36",
+                    "duration": "15s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Interval increases a bit, ATK +100%. Stuns all blocked targets for the duration of the skill",
+                    "initial_sp": "11",
+                    "sp_cost": "35",
+                    "duration": "16s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Interval increases a bit, ATK +110%. Stuns all blocked targets for the duration of the skill",
+                    "initial_sp": "11",
+                    "sp_cost": "34",
+                    "duration": "16s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Interval increases a bit, ATK +120%. Stuns all blocked targets for the duration of the skill",
+                    "initial_sp": "11",
+                    "sp_cost": "33",
+                    "duration": "16s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Interval increases a bit, ATK +130%. Stuns all blocked targets for the duration of the skill",
+                    "initial_sp": "12",
+                    "sp_cost": "32",
+                    "duration": "17s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Interval increases a bit, ATK +145%. Stuns all blocked targets for the duration of the skill",
+                    "initial_sp": "13",
+                    "sp_cost": "31",
+                    "duration": "17s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Interval increases a bit, ATK +160%. Stuns all blocked targets for the duration of the skill",
+                    "initial_sp": "14",
+                    "sp_cost": "30",
+                    "duration": "17s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Interval increases a bit, ATK +180%. Stuns all blocked targets for the duration of the skill",
+                    "initial_sp": "15",
+                    "sp_cost": "28",
+                    "duration": "18s"
+                }
+            ]
+        },
+        {
+            "name": "Iron Will",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30-35 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +110%, DEF +60%, Block +2, Restores 3% HP every second\nThis unit is Stunned for 5 seconds after the skill duration",
+                    "initial_sp": "20",
+                    "sp_cost": "55",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +120%, DEF +70%, Block +2, Restores 3% HP every second\nThis unit is Stunned for 5 seconds after the skill duration",
+                    "initial_sp": "20",
+                    "sp_cost": "54",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +130%, DEF +80%, Block +2, Restores 3% HP every second\nThis unit is Stunned for 5 seconds after the skill duration",
+                    "initial_sp": "20",
+                    "sp_cost": "53",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +140%, DEF +90%, Block +2, Restores 3% HP every second\nThis unit is Stunned for 5 seconds after the skill duration",
+                    "initial_sp": "21",
+                    "sp_cost": "52",
+                    "duration": "31s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +150%, DEF +100%, Block +2, Restores 3% HP every second\nThis unit is Stunned for 5 seconds after the skill duration",
+                    "initial_sp": "21",
+                    "sp_cost": "51",
+                    "duration": "31s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +160%, DEF +110%, Block +2, Restores 3% HP every second\nThis unit is Stunned for 5 seconds after the skill duration",
+                    "initial_sp": "21",
+                    "sp_cost": "50",
+                    "duration": "31s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +170%, DEF +120%, Block +2, Restores 3% HP every second\nThis unit is Stunned for 5 seconds after the skill duration",
+                    "initial_sp": "22",
+                    "sp_cost": "49",
+                    "duration": "32s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +190%, DEF +130%, Block +2, Restores 4% HP every second\nThis unit is Stunned for 5 seconds after the skill duration",
+                    "initial_sp": "23",
+                    "sp_cost": "48",
+                    "duration": "33s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +210%, DEF +140%, Block +2, Restores 5% HP every second\nThis unit is Stunned for 5 seconds after the skill duration",
+                    "initial_sp": "24",
+                    "sp_cost": "47",
+                    "duration": "34s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +230%, DEF +160%, Block +2, Restores 6% HP every second\nThis unit is Stunned for 5 seconds after the skill duration",
+                    "initial_sp": "25",
+                    "sp_cost": "45",
+                    "duration": "35s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "6"
+            },
+            {
+                "name": "Orirock",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "4"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Incandescent Alloy",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Integrated Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Coagulating Gel",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Ore",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Peerless Bravery",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When HP is above 50%, attacks deal 108% damage; When HP is 50% or lower, gains 10% Sanctuary effect"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When HP is above 50%, attacks deal 115% damage; When HP is 50% or lower, gains 20% Sanctuary effect"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "When HP is above 50%, attacks deal 110% (+2%) damage; When HP is 50% or lower, gains 12% (+2%) Sanctuary effect"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "When HP is above 50%, attacks deal 117% (+2%) damage; When HP is 50% or lower, gains 22% (+2%) Sanctuary effect"
+                }
+            ]
+        },
+        {
+            "name": "Resilience",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Increases this unit's SP recovery by +0.2/sec when blocking enemies"
+                }
+            ]
+        }
+    ]
+}

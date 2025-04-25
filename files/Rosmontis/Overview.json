@@ -1,0 +1,24 @@
+{
+  "name": "Rosmontis' overview",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Attacks deal splash damage with an additional shockwave",
+    "Long attack range (especially at Elite 1)",
+    "Expanded Cognition causes attacks to deal Arts damage, useful against high-DEF enemies",
+    "Armaments of Annihilation causes attacks to ignore a flat amount of DEF",
+    "Nociceptor Inhibition expands the splash damage radius, increases the number of attacks' shockwaves, and has a chance of Stunning attacked enemies",
+    "\"As You Wish\" significantly improves DPS and deploys two Tactical Devices to act as effective distractions which also weaken enemies",
+    "Stable Esthesia buffs the ATK of Rosmontis and a random Caster upon deployment"
+  ],
+  "cons": [
+    "Only available from Celebration limited headhunting banners since Path of the Radiant; Rosmontis will not be available on any other headhunting banners",
+    "Cannot attack aerial enemies",
+    "Nociceptor Inhibition increases attack interval and can lower Rosmontis' DPS against enemies with higher DEF unless at the skill is at Mastery 3",
+    "Rosmontis will only attack blocked enemies while \"As You Wish\" is active",
+    "Tactical Devices spawned by \"As You Wish\" can block enemies and keep them outside of Rosmontis' range, preventing her from attacking them",
+    "DPS falls off very quickly against enemies with high DEF due to the shockwaves' low damage",
+    "Unlike Artilleryman Snipers, if Rosmontis' intended target is defeated before her normal attack lands, the attack will be interrupted and will not cause damage, even if there are other enemies nearby that would have received the splash damage"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Rosmontis/Overview"
+}

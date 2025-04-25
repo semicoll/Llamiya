@@ -1,0 +1,497 @@
+{
+    "info": {
+        "title": "Blemishine",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/f/f7/Blemishine_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20201015095229",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/1/11/Blemishine_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20211015155026"
+        }
+    },
+    "skills": [
+        {
+            "name": "Surging Brilliance",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "The next attack deals 180% ATK as Physical damage and restores the HP of a nearby ally for 100% of Blemishine's ATK\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "The next attack deals 185% ATK as Physical damage and restores the HP of a nearby ally for 100% of Blemishine's ATK\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "The next attack deals 190% ATK as Physical damage and restores the HP of a nearby ally for 100% of Blemishine's ATK\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "The next attack deals 200% ATK as Physical damage and restores the HP of a nearby ally for 110% of Blemishine's ATK\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "The next attack deals 205% ATK as Physical damage and restores the HP of a nearby ally for 110% of Blemishine's ATK\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "The next attack deals 210% ATK as Physical damage and restores the HP of a nearby ally for 110% of Blemishine's ATK\nCan store 1 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "The next attack deals 220% ATK as Physical damage and restores the HP of a nearby ally for 120% of Blemishine's ATK\nCan store 2 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "The next attack deals 230% ATK as Physical damage and restores the HP of a nearby ally for 130% of Blemishine's ATK\nCan store 2 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "The next attack deals 240% ATK as Physical damage and restores the HP of a nearby ally for 140% of Blemishine's ATK\nCan store 2 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "The next attack deals 260% ATK as Physical damage and restores the HP of a nearby ally for 150% of Blemishine's ATK\nCan store 3 charge(s)",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Deterring Radiance",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Defensive Recovery",
+                "Manual Trigger",
+                "10 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +40% and all ground enemies within the same tile as herself are put to Sleep. Restores the HP of all nearby allies by 15% of Blemishine's ATK every second",
+                    "initial_sp": "0",
+                    "sp_cost": "20",
+                    "duration": "10s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +45% and all ground enemies within the same tile as herself are put to Sleep. Restores the HP of all nearby allies by 15% of Blemishine's ATK every second",
+                    "initial_sp": "0",
+                    "sp_cost": "20",
+                    "duration": "10s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +50% and all ground enemies within the same tile as herself are put to Sleep. Restores the HP of all nearby allies by 15% of Blemishine's ATK every second",
+                    "initial_sp": "0",
+                    "sp_cost": "20",
+                    "duration": "10s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +55% and all ground enemies within the same tile as herself are put to Sleep. Restores the HP of all nearby allies by 16% of Blemishine's ATK every second",
+                    "initial_sp": "0",
+                    "sp_cost": "18",
+                    "duration": "10s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +60% and all ground enemies within the same tile as herself are put to Sleep. Restores the HP of all nearby allies by 16% of Blemishine's ATK every second",
+                    "initial_sp": "0",
+                    "sp_cost": "18",
+                    "duration": "10s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +65% and all ground enemies within the same tile as herself are put to Sleep. Restores the HP of all nearby allies by 16% of Blemishine's ATK every second",
+                    "initial_sp": "0",
+                    "sp_cost": "18",
+                    "duration": "10s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +70% and all ground enemies within the same tile as herself are put to Sleep. Restores the HP of all nearby allies by 17% of Blemishine's ATK every second",
+                    "initial_sp": "0",
+                    "sp_cost": "16",
+                    "duration": "10s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +80% and all ground enemies within the same tile as herself are put to Sleep. Restores the HP of all nearby allies by 18% of Blemishine's ATK every second",
+                    "initial_sp": "0",
+                    "sp_cost": "15",
+                    "duration": "10s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +90% and all ground enemies within the same tile as herself are put to Sleep. Restores the HP of all nearby allies by 19% of Blemishine's ATK every second",
+                    "initial_sp": "0",
+                    "sp_cost": "14",
+                    "duration": "10s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +110% and all ground enemies within the same tile as herself are put to Sleep. Restores the HP of all nearby allies by 20% of Blemishine's ATK every second",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "10s"
+                }
+            ]
+        },
+        {
+            "name": "Divine Avatar",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Defensive Recovery",
+                "Manual Trigger",
+                "20-30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +50%, DEF +20%; Every attack deals an additional 50% ATK as Arts damage and restores the HP of a nearby ally besides herself for 60% of Blemishine's ATK",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "10s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +55%, DEF +20%; Every attack deals an additional 50% ATK as Arts damage and restores the HP of a nearby ally besides herself for 60% of Blemishine's ATK",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "12s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +60%, DEF +20%; Every attack deals an additional 50% ATK as Arts damage and restores the HP of a nearby ally besides herself for 60% of Blemishine's ATK",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "14s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +65%, DEF +25%; Every attack deals an additional 60% ATK as Arts damage and restores the HP of a nearby ally besides herself for 70% of Blemishine's ATK",
+                    "initial_sp": "15",
+                    "sp_cost": "29",
+                    "duration": "16s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +70%, DEF +25%; Every attack deals an additional 60% ATK as Arts damage and restores the HP of a nearby ally besides herself for 70% of Blemishine's ATK",
+                    "initial_sp": "15",
+                    "sp_cost": "29",
+                    "duration": "18s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +75%, DEF +25%; Every attack deals an additional 60% ATK as Arts damage and restores the HP of a nearby ally besides herself for 70% of Blemishine's ATK",
+                    "initial_sp": "15",
+                    "sp_cost": "29",
+                    "duration": "20s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +80%, DEF +30%; Every attack deals an additional 70% ATK as Arts damage and restores the HP of a nearby ally besides herself for 80% of Blemishine's ATK",
+                    "initial_sp": "15",
+                    "sp_cost": "28",
+                    "duration": "22s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +90%, DEF +40%; Every attack deals an additional 80% ATK as Arts damage and restores the HP of a nearby ally besides herself for 90% of Blemishine's ATK",
+                    "initial_sp": "15",
+                    "sp_cost": "27",
+                    "duration": "24s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +100%, DEF +50%; Every attack deals an additional 90% ATK as Arts damage and restores the HP of a nearby ally besides herself for 90% of Blemishine's ATK",
+                    "initial_sp": "15",
+                    "sp_cost": "26",
+                    "duration": "27s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +110%, DEF +60%; Every attack deals an additional 100% ATK as Arts damage and restores the HP of a nearby ally besides herself for 100% of Blemishine's ATK",
+                    "initial_sp": "15",
+                    "sp_cost": "25",
+                    "duration": "30s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Orirock",
+                "quantity": "6"
+            },
+            {
+                "name": "Damaged Device",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Manganese Ore",
+                "quantity": "3"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Loxic Kohl",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Cluster",
+                        "quantity": "11"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Knight of Sword and Shield",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When deployed, allies that have a Defensive Recovery skill also gain 1 SP when attacking"
+                }
+            ]
+        },
+        {
+            "name": "Mercy",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "Blemishine can attack and will prioritize Sleeping enemies; Increase ATK to 120% when attacking Sleeping enemies"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Blemishine can attack and will prioritize Sleeping enemies; Increase ATK to 140% when attacking Sleeping enemies"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Blemishine can attack and will prioritize Sleeping enemies; Increase ATK to 124% (+4%) when attacking Sleeping enemies"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "Blemishine can attack and will prioritize Sleeping enemies; Increase ATK to 144% (+4%) when attacking Sleeping enemies"
+                }
+            ]
+        }
+    ]
+}

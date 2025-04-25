@@ -1,0 +1,494 @@
+{
+    "info": {
+        "title": "Mostima",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/5/5c/Mostima_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20200201060210",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/2/24/Mostima_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20200709115454"
+        }
+    },
+    "skills": [
+        {
+            "name": "ATK Up γ",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "30 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "ATK +30%",
+                    "initial_sp": "0",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "2",
+                    "effect": "ATK +35%",
+                    "initial_sp": "0",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "3",
+                    "effect": "ATK +40%",
+                    "initial_sp": "5",
+                    "sp_cost": "40",
+                    "duration": "30s"
+                },
+                {
+                    "level": "4",
+                    "effect": "ATK +45%",
+                    "initial_sp": "5",
+                    "sp_cost": "37",
+                    "duration": "30s"
+                },
+                {
+                    "level": "5",
+                    "effect": "ATK +50%",
+                    "initial_sp": "5",
+                    "sp_cost": "37",
+                    "duration": "30s"
+                },
+                {
+                    "level": "6",
+                    "effect": "ATK +55%",
+                    "initial_sp": "5",
+                    "sp_cost": "37",
+                    "duration": "30s"
+                },
+                {
+                    "level": "7",
+                    "effect": "ATK +60%",
+                    "initial_sp": "10",
+                    "sp_cost": "35",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "ATK +75%",
+                    "initial_sp": "10",
+                    "sp_cost": "34",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "ATK +90%",
+                    "initial_sp": "10",
+                    "sp_cost": "33",
+                    "duration": "30s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "ATK +100%",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "30s"
+                }
+            ]
+        },
+        {
+            "name": "Lock of Shattered Time",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "4-7 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Stuns all enemies within Attack Range and deals 80% ATK as Arts damage to them every second",
+                    "initial_sp": "5",
+                    "sp_cost": "65",
+                    "duration": "4s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Stuns all enemies within Attack Range and deals 90% ATK as Arts damage to them every second",
+                    "initial_sp": "7",
+                    "sp_cost": "64",
+                    "duration": "4s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Stuns all enemies within Attack Range and deals 100% ATK as Arts damage to them every second",
+                    "initial_sp": "9",
+                    "sp_cost": "63",
+                    "duration": "4s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Stuns all enemies within Attack Range and deals 100% ATK as Arts damage to them every second",
+                    "initial_sp": "11",
+                    "sp_cost": "61",
+                    "duration": "5s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Stuns all enemies within Attack Range and deals 110% ATK as Arts damage to them every second",
+                    "initial_sp": "13",
+                    "sp_cost": "59",
+                    "duration": "5s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Stuns all enemies within Attack Range and deals 120% ATK as Arts damage to them every second",
+                    "initial_sp": "15",
+                    "sp_cost": "58",
+                    "duration": "5s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Stuns all enemies within Attack Range and deals 120% ATK as Arts damage to them every second",
+                    "initial_sp": "17",
+                    "sp_cost": "56",
+                    "duration": "6s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Stuns all enemies within Attack Range and deals 130% ATK as Arts damage to them every second",
+                    "initial_sp": "20",
+                    "sp_cost": "54",
+                    "duration": "6s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Stuns all enemies within Attack Range and deals 130% ATK as Arts damage to them every second",
+                    "initial_sp": "23",
+                    "sp_cost": "52",
+                    "duration": "7s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Stuns all enemies within Attack Range and deals 140% ATK as Arts damage to them every second",
+                    "initial_sp": "30",
+                    "sp_cost": "50",
+                    "duration": "7s"
+                }
+            ]
+        },
+        {
+            "name": "Key of Chronology",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "20-27 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Attack Range increases, attacks turn into ripples that spread outward, ATK +60%, increases the effect of the second talent by 3×, and attacks knock targets back slightly",
+                    "initial_sp": "50",
+                    "sp_cost": "110",
+                    "duration": "20s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Attack Range increases, attacks turn into ripples that spread outward, ATK +70%, increases the effect of the second talent by 3×, and attacks knock targets back slightly",
+                    "initial_sp": "52",
+                    "sp_cost": "110",
+                    "duration": "20s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Attack Range increases, attacks turn into ripples that spread outward, ATK +80%, increases the effect of the second talent by 3×, and attacks knock targets back slightly",
+                    "initial_sp": "54",
+                    "sp_cost": "110",
+                    "duration": "20s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Attack Range increases, attacks turn into ripples that spread outward, ATK +90%, increases the effect of the second talent by 3×, and attacks knock targets back slightly",
+                    "initial_sp": "56",
+                    "sp_cost": "110",
+                    "duration": "22s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Attack Range increases, attacks turn into ripples that spread outward, ATK +100%, increases the effect of the second talent by 3×, and attacks knock targets back slightly",
+                    "initial_sp": "58",
+                    "sp_cost": "110",
+                    "duration": "22s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Attack Range increases, attacks turn into ripples that spread outward, ATK +110%, increases the effect of the second talent by 3×, and attacks knock targets back slightly",
+                    "initial_sp": "60",
+                    "sp_cost": "110",
+                    "duration": "22s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Attack Range increases, attacks turn into ripples that spread outward, ATK +120%, increases the effect of the second talent by 3×, and attacks knock targets back slightly",
+                    "initial_sp": "62",
+                    "sp_cost": "110",
+                    "duration": "24s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Attack Range increases, attacks turn into ripples that spread outward, ATK +135%, increases the effect of the second talent by 3×, and attacks knock targets back slightly",
+                    "initial_sp": "68",
+                    "sp_cost": "110",
+                    "duration": "25s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Attack Range increases, attacks turn into ripples that spread outward, ATK +150%, increases the effect of the second talent by 3×, and attacks knock targets back slightly",
+                    "initial_sp": "74",
+                    "sp_cost": "110",
+                    "duration": "26s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Attack Range increases, attacks turn into ripples that spread outward, ATK +170%, increases the effect of the second talent by 3×, and attacks knock targets back slightly",
+                    "initial_sp": "80",
+                    "sp_cost": "110",
+                    "duration": "27s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "6"
+            },
+            {
+                "name": "Orirock",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cube",
+                "quantity": "5"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "4"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Orirock Cluster",
+                "quantity": "5"
+            },
+            {
+                "name": "Integrated Device",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Orirock Cluster",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-12",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Cluster",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Cluster",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "7"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "6"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "6"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Skill Aura - Caster",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "When deployed, increases the SP recovery rate of all Casters by +0.2/second (only the highest effect of this type takes place)"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "When deployed, increases the SP recovery rate of all Casters by +0.4/second (only the highest effect of this type takes place)"
+                }
+            ]
+        },
+        {
+            "name": "Subjective Time Dilation",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Slows the movement speed of enemies within this unit's attack range by 15%"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Slows the movement speed of enemies within this unit's attack range by 18%(+3%)"
+                }
+            ]
+        }
+    ]
+}

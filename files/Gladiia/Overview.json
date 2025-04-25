@@ -1,0 +1,24 @@
+{
+  "name": "Gladiia",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Can be deployed on both melee and ranged tiles",
+    "Has a long attack range of 2 tiles (3 at Elite 1)",
+    "All three skills pull enemies towards Gladiia, which can be used to force enemies into the range of friendlies or score environmental kills",
+    "Waterless Parting of the Great Ocean can hold multiple charges at higher levels",
+    "Waterless Grasp of the Raging Seas extends attack range and allows Gladiia to attack up to two enemies simultaneously",
+    "Waves of Ægir give Abyssal Hunters Operators HP regeneration and reduces physical and Arts damage taken from Seaborn enemies",
+    "Waterless Dance of the Shattered Maelstrom also slows enemies and deals Arts damage periodically, making it effective for crowd-control",
+    "Survival of the Fittest increases damage dealt against lightweight enemies",
+    "Welfare Operator; accessible and Potential can be easily maxed out"
+  ],
+  "cons": [
+    "Can only be obtained during Under Tides, but players who missed the event will have the opportunity to obtain Gladiia at the rerun and later, through Record Restoration",
+    "Highest DP cost of all Hookmaster Specialists",
+    "Waterless Grasp of the Raging Seas increases attack interval",
+    "Waves of Ægir requires module at least Stage 2 to be useful against all enemies",
+    "Less useful in most operations which do not feature holes and/or hazards"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Gladiia/Overview"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Fartooth",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "High ATK and long range (especially at Elite 1)",
+    "Attack enemies with the lowest DEF over the others",
+    "Ally Support allows Fartooth to attack blocked enemies outside her normal range",
+    "Concentration buffs ATK as long as Fartooth is not attacked in the last 10 seconds",
+    "Feathershine Arrows improve DPS and extends her reach infinitely (though only within the frontal tiles)",
+    "Steady Breath provides Negative Taunt and the ability to bypass Physical Dodge in each attack while Fartooth's skill is active"
+  ],
+  "cons": [
+    "High DP cost and attack interval",
+    "Feathershine Arrows narrow Fartooth's attack range to a frontal line, requiring proper placement for maximum effectiveness"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Fartooth/Overview"
+}

@@ -1,0 +1,495 @@
+{
+    "info": {
+        "title": "Vigil",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/1/1e/Vigil_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20221101084430"
+        }
+    },
+    "skills": [
+        {
+            "name": "Packleader's Call",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Immediately generates 7 DP and summons 1 \"Wolf Shadow\"",
+                    "initial_sp": "0",
+                    "sp_cost": "30",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Immediately generates 7 DP and summons 1 \"Wolf Shadow\"",
+                    "initial_sp": "0",
+                    "sp_cost": "29",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Immediately generates 7 DP and summons 1 \"Wolf Shadow\"",
+                    "initial_sp": "0",
+                    "sp_cost": "28",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Immediately generates 7 DP and summons 1 \"Wolf Shadow\"",
+                    "initial_sp": "1",
+                    "sp_cost": "27",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Immediately generates 7 DP and summons 1 \"Wolf Shadow\"",
+                    "initial_sp": "1",
+                    "sp_cost": "26",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Immediately generates 7 DP and summons 1 \"Wolf Shadow\"",
+                    "initial_sp": "1",
+                    "sp_cost": "25",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Immediately generates 7 DP and summons 1 \"Wolf Shadow\"",
+                    "initial_sp": "2",
+                    "sp_cost": "24",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Immediately generates 7 DP and summons 1 \"Wolf Shadow\"",
+                    "initial_sp": "3",
+                    "sp_cost": "23",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Immediately generates 7 DP and summons 1 \"Wolf Shadow\"",
+                    "initial_sp": "4",
+                    "sp_cost": "22",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Immediately generates 7 DP and summons 1 \"Wolf Shadow\"",
+                    "initial_sp": "5",
+                    "sp_cost": "21",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Packleader's Gift",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Immediately generates 2 DP and causes the Wolfpack's next attack to deal 140% damage and restores 10% of its Max HP; Generates an additional 1 DP if the Wolfpack defeats an enemy",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Immediately generates 2 DP and causes the Wolfpack's next attack to deal 145% damage and restores 10% of its Max HP; Generates an additional 1 DP if the Wolfpack defeats an enemy",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Immediately generates 2 DP and causes the Wolfpack's next attack to deal 150% damage and restores 10% of its Max HP; Generates an additional 1 DP if the Wolfpack defeats an enemy",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Immediately generates 2 DP and causes the Wolfpack's next attack to deal 155% damage and restores 10% of its Max HP; Generates an additional 1 DP if the Wolfpack defeats an enemy",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Immediately generates 2 DP and causes the Wolfpack's next attack to deal 160% damage and restores 10% of its Max HP; Generates an additional 1 DP if the Wolfpack defeats an enemy",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Immediately generates 2 DP and causes the Wolfpack's next attack to deal 165% damage and restores 10% of its Max HP; Generates an additional 1 DP if the Wolfpack defeats an enemy",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Immediately generates 2 DP and causes the Wolfpack's next attack to deal 170% damage and restores 15% of its Max HP; Generates an additional 1 DP if the Wolfpack defeats an enemy",
+                    "initial_sp": "1",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Immediately generates 2 DP and causes the Wolfpack's next attack to deal 180% damage and restores 15% of its Max HP; Generates an additional 1 DP if the Wolfpack defeats an enemy",
+                    "initial_sp": "2",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Immediately generates 2 DP and causes the Wolfpack's next attack to deal 190% damage and restores 15% of its Max HP; Generates an additional 1 DP if the Wolfpack defeats an enemy",
+                    "initial_sp": "3",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Immediately generates 2 DP and causes the Wolfpack's next attack to deal 200% damage and restores 20% of its Max HP; Generates an additional 1 DP if the Wolfpack defeats an enemy",
+                    "initial_sp": "4",
+                    "sp_cost": "5",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Packleader's Dignity",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Gradually generates 9 DP over the skill duration, and causes attacks to hit 3 times; When Vigil or the Wolfpack deal damage to a unit blocked by the Wolfpack, they deal an additional 10% of Vigil's ATK as Arts damage",
+                    "initial_sp": "5",
+                    "sp_cost": "45",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Gradually generates 9 DP over the skill duration, and causes attacks to hit 3 times; When Vigil or the Wolfpack deal damage to a unit blocked by the Wolfpack, they deal an additional 13% of Vigil's ATK as Arts damage",
+                    "initial_sp": "5",
+                    "sp_cost": "44",
+                    "duration": "15s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Gradually generates 9 DP over the skill duration, and causes attacks to hit 3 times; When Vigil or the Wolfpack deal damage to a unit blocked by the Wolfpack, they deal an additional 16% of Vigil's ATK as Arts damage",
+                    "initial_sp": "5",
+                    "sp_cost": "43",
+                    "duration": "15s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Gradually generates 10 DP over the skill duration, and causes attacks to hit 3 times; When Vigil or the Wolfpack deal damage to a unit blocked by the Wolfpack, they deal an additional 20% of Vigil's ATK as Arts damage",
+                    "initial_sp": "6",
+                    "sp_cost": "42",
+                    "duration": "15s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Gradually generates 10 DP over the skill duration, and causes attacks to hit 3 times; When Vigil or the Wolfpack deal damage to a unit blocked by the Wolfpack, they deal an additional 23% of Vigil's ATK as Arts damage",
+                    "initial_sp": "6",
+                    "sp_cost": "41",
+                    "duration": "15s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Gradually generates 10 DP over the skill duration, and causes attacks to hit 3 times; When Vigil or the Wolfpack deal damage to a unit blocked by the Wolfpack, they deal an additional 26% of Vigil's ATK as Arts damage",
+                    "initial_sp": "6",
+                    "sp_cost": "40",
+                    "duration": "15s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Gradually generates 11 DP over the skill duration, and causes attacks to hit 3 times; When Vigil or the Wolfpack deal damage to a unit blocked by the Wolfpack, they deal an additional 30% of Vigil's ATK as Arts damage",
+                    "initial_sp": "7",
+                    "sp_cost": "39",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Gradually generates 11 DP over the skill duration, and causes attacks to hit 3 times; When Vigil or the Wolfpack deal damage to a unit blocked by the Wolfpack, they deal an additional 35% of Vigil's ATK as Arts damage",
+                    "initial_sp": "8",
+                    "sp_cost": "38",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Gradually generates 11 DP over the skill duration, and causes attacks to hit 3 times; When Vigil or the Wolfpack deal damage to a unit blocked by the Wolfpack, they deal an additional 40% of Vigil's ATK as Arts damage",
+                    "initial_sp": "9",
+                    "sp_cost": "37",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Gradually generates 12 DP over the skill duration, and causes attacks to hit 3 times; When Vigil or the Wolfpack deal damage to a unit blocked by the Wolfpack, they deal an additional 50% of Vigil's ATK as Arts damage",
+                    "initial_sp": "10",
+                    "sp_cost": "35",
+                    "duration": "15s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "5"
+            },
+            {
+                "name": "Diketon",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "5"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Oriron",
+                "quantity": "4"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Manganese Ore",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "4"
+            },
+            {
+                "name": "Loxic Kohl",
+                "quantity": "3"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Crystalline Component",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Compound Cutting Fluid",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Refined Solvent",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Incandescent Alloy",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Transmuted Salt Agglomerate",
+                        "quantity": "8"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "9"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Crystalline Circuit",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Leader of the Wolfpack",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "Can summon a Wolfpack initially consisting of 2 \"Wolf Shadows\" at the Tactical Point to assist in combat; The number of \"Wolf Shadows\" increases by 1 every 30 seconds (up to a maximum of 3; each \"Wolf Shadow\" increases the Wolfpack's Block by 1 and causes its attacks to deal an additional instance of damage)"
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "Can summon a Wolfpack initially consisting of 2 \"Wolf Shadows\" at the Tactical Point to assist in combat; The number of \"Wolf Shadows\" increases by 1 every 27 seconds (up to a maximum of 3; each \"Wolf Shadow\" increases the Wolfpack's Block by 1 and causes its attacks to deal an additional instance of damage)"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Can summon a Wolfpack initially consisting of 2 \"Wolf Shadows\" at the Tactical Point to assist in combat; The number of \"Wolf Shadows\" increases by 1 every 25 seconds (up to a maximum of 3; each \"Wolf Shadow\" increases the Wolfpack's Block by 1 and causes its attacks to deal an additional instance of damage)"
+                }
+            ]
+        },
+        {
+            "name": "Wolven Nature",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "Vigil and the Wolfpack's attacks ignore 175 DEF when attacking enemies blocked by the Wolfpack"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Vigil and the Wolfpack attacks ignore 200 (+25) DEF when attacking enemies blocked by the Wolfpack"
+                }
+            ]
+        }
+    ]
+}

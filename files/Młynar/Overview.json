@@ -1,0 +1,25 @@
+{
+  "name": "Młynar",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Has a larger range than normal Guards with side tiles as well as frontal",
+    "Relatively low DP cost",
+    "Very high HP and can block two (three at Elite 2) enemies",
+    "Gains ATK over time which starts after the skill is not active, up to twice of Młynar's base ATK over 40 seconds",
+    "All three skills increase the damage dealt by Młynar's attacks",
+    "Unresolved Sorrow will not reset the trait's ATK buff if Młynar defeats an enemy with it",
+    "Wanderer improves DPS especially when three or more enemies are around Młynar, at which he also takes less damage",
+    "Unbrilliant Glory removes everything from existence",
+    "Unmoved counters any attacks directed at Kazimierz Operators with a weak Pure damage while Młynar is deployed"
+  ],
+  "cons": [
+    "Can only attack and block enemies while the skill is active, leaving Młynar combat ineffective otherwise (other than to be a sponge for ranged attacks)",
+    "The ATK buff is removed when the skill expires upon being activated, except with Unresolved Sorrow after Młynar defeats an enemy",
+    "Unresolved Sorrow increases attack interval",
+    "The ATK buff decays at a rate of 10% per kill when Młynar defeats an enemy while Unbrilliant Glory is active",
+    "Młynar Taunts enemies with Unmoved, which can be detrimental against enemies with ranged Arts attacks",
+    "Must be used alongside Kazimierz Operators for \"maximum\" effectiveness"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Młynar/Overview"
+}

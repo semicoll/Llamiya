@@ -1,0 +1,22 @@
+{
+  "name": "Ch'en",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Each attack hits the target twice",
+    "Good HP and DEF, and can block two enemies",
+    "Chi Xiao - Unsheath is devastating especially against groups of enemies, and can be used immediately after deployment at Mastery 3",
+    "Scolding periodically gives additional SP to Operators with offensive and defensive SP recovery",
+    "Chi Xiao - Shadowless is excellent for crowd-control and against bosses",
+    "Blade Art allows Ch'en to sometimes dodge physical attacks"
+  ],
+  "cons": [
+    "Relatively high DP cost that increases with every promotion",
+    "All three skills have offensive SP recovery, making them slow to charge outside combat even with Scolding",
+    "Despite landing two hits, each attack only adds 1 SP",
+    "Chi Xiao - Unsheath is not as effective against enemies with balanced DEF and RES",
+    "Despite Chi Xiao - Unsheath being immensely powerful and can be used immediately upon deployment at Mastery 3, Ch'en's standard redeployment time prevents her from truly replacing an Executor Specialist",
+    "Requires significant investment to be effective due to being dependent in Mastery training, especially for Chi Xiao - Unsheath"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Ch'en/Overview"
+}

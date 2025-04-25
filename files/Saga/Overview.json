@@ -1,0 +1,21 @@
+{
+  "name": "Saga",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Higher ATK than other Pioneer Vanguards",
+    "Has good DP generation with skills",
+    "Preaching Critically Wounds enemies that took lethal damage from Saga",
+    "Cleansing Evil deals heavy Physical damage in a cross-shaped radius, can store multiple charges, and executes enemies Critically Wounded by it after resolving (the killing blow is attributed to Saga, allowing her to benefit from Preaching)",
+    "Fierce Glare improves DPS especially against enemies below 50% HP who will be attacked twice by Saga",
+    "Clear Mind grant a short-lasting high Physical dodge and HP regeneration when Saga's HP falls below 40% for the first time in each deployment"
+  ],
+  "cons": [
+    "Highest DP cost of all Vanguards, tied with Siege",
+    "Lower HP and DEF than other Pioneer Vanguards",
+    "Preaching can be detrimental especially if Saga is deployed near a Protection Objective since she will not attack Critically Wounded enemies",
+    "Cleansing Evil deals Physical damage, making it less effective on high-DEF enemies, and cannot hit aerial targets",
+    "Fierce Glare increases attack interval"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Saga/Overview"
+}

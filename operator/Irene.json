@@ -1,0 +1,491 @@
+{
+    "info": {
+        "title": "Irene",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/f/fe/Irene_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20220501103242",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/5/57/Irene_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20230501091211"
+        }
+    },
+    "skills": [
+        {
+            "name": "Gust",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Auto Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "The next attack deals 100% ATK as Physical damage, and causes the target to Levitate for 1 seconds, then deals 100% ATK as Physical damage to it again",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "The next attack deals 110% ATK as Physical damage, and causes the target to Levitate for 1 seconds, then deals 110% ATK as Physical damage to it again",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "The next attack deals 120% ATK as Physical damage, and causes the target to Levitate for 1 seconds, then deals 120% ATK as Physical damage to it again",
+                    "initial_sp": "0",
+                    "sp_cost": "7",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "The next attack deals 130% ATK as Physical damage, and causes the target to Levitate for 1 seconds, then deals 130% ATK as Physical damage to it again",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "The next attack deals 140% ATK as Physical damage, and causes the target to Levitate for 1 seconds, then deals 140% ATK as Physical damage to it again",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "The next attack deals 150% ATK as Physical damage, and causes the target to Levitate for 1 seconds, then deals 150% ATK as Physical damage to it again",
+                    "initial_sp": "0",
+                    "sp_cost": "6",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "The next attack deals 160% ATK as Physical damage, and causes the target to Levitate for 1 seconds, then deals 160% ATK as Physical damage to it again",
+                    "initial_sp": "0",
+                    "sp_cost": "5",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "The next attack deals 170% ATK as Physical damage, and causes the target to Levitate for 1 seconds, then deals 170% ATK as Physical damage to it again",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "The next attack deals 190% ATK as Physical damage, and causes the target to Levitate for 1 seconds, then deals 190% ATK as Physical damage to it again",
+                    "initial_sp": "0",
+                    "sp_cost": "4",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "The next attack deals 200% ATK as Physical damage, and causes the target to Levitate for 1 seconds, then deals 200% ATK as Physical damage to it again",
+                    "initial_sp": "0",
+                    "sp_cost": "3",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Shattertide",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Deals 280% ATK as Physical damage to up to 4 ground enemies in front, and cause targets with 3 or less Weight to Levitate for 1 seconds\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Deals 290% ATK as Physical damage to up to 4 ground enemies in front, and cause targets with 3 or less Weight to Levitate for 1 seconds\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Deals 300% ATK as Physical damage to up to 4 ground enemies in front, and cause targets with 3 or less Weight to Levitate for 1 seconds\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "12",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Deals 310% ATK as Physical damage to up to 5 ground enemies in front, and cause targets with 3 or less Weight to Levitate for 2 seconds\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Deals 320% ATK as Physical damage to up to 5 ground enemies in front, and cause targets with 3 or less Weight to Levitate for 2 seconds\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Deals 330% ATK as Physical damage to up to 5 ground enemies in front, and cause targets with 3 or less Weight to Levitate for 2 seconds\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "11",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Deals 340% ATK as Physical damage to up to 6 ground enemies in front, and cause targets with 3 or less Weight to Levitate for 3 seconds\nCan store 2 charges",
+                    "initial_sp": "0",
+                    "sp_cost": "10",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Deals 360% ATK as Physical damage to up to 6 ground enemies in front, and cause targets with 3 or less Weight to Levitate for 3 seconds\nCan store 2 charges",
+                    "initial_sp": "2",
+                    "sp_cost": "9",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Deals 380% ATK as Physical damage to up to 6 ground enemies in front, and cause targets with 3 or less Weight to Levitate for 3 seconds\nCan store 2 charges",
+                    "initial_sp": "4",
+                    "sp_cost": "8",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Deals 400% ATK as Physical damage to up to 6 ground enemies in front, and cause targets with 3 or less Weight to Levitate for 4 seconds\nCan store 2 charges",
+                    "initial_sp": "6",
+                    "sp_cost": "8",
+                    "duration": "–"
+                }
+            ]
+        },
+        {
+            "name": "Judgment",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Offensive Recovery",
+                "Manual Trigger"
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Deals 200% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate for 2 seconds, then bombard 8 times, each hit dealing 180% ATK as Physical damage to all enemies in a small area around a random target",
+                    "initial_sp": "0",
+                    "sp_cost": "34",
+                    "duration": "–"
+                },
+                {
+                    "level": "2",
+                    "effect": "Deals 200% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate for 2 seconds, then bombard 8 times, each hit dealing 190% ATK as Physical damage to all enemies in a small area around a random target",
+                    "initial_sp": "4",
+                    "sp_cost": "34",
+                    "duration": "–"
+                },
+                {
+                    "level": "3",
+                    "effect": "Deals 200% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate for 2 seconds, then bombard 8 times, each hit dealing 200% ATK as Physical damage to all enemies in a small area around a random target",
+                    "initial_sp": "8",
+                    "sp_cost": "34",
+                    "duration": "–"
+                },
+                {
+                    "level": "4",
+                    "effect": "Deals 250% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate for 2 seconds, then bombard 10 times, each hit dealing 200% ATK as Physical damage to all enemies in a small area around a random target",
+                    "initial_sp": "8",
+                    "sp_cost": "32",
+                    "duration": "–"
+                },
+                {
+                    "level": "5",
+                    "effect": "Deals 250% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate for 2 seconds, then bombard 10 times, each hit dealing 210% ATK as Physical damage to all enemies in a small area around a random target",
+                    "initial_sp": "12",
+                    "sp_cost": "32",
+                    "duration": "–"
+                },
+                {
+                    "level": "6",
+                    "effect": "Deals 250% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate for 2 seconds, then bombard 10 times, each hit dealing 220% ATK as Physical damage to all enemies in a small area around a random target",
+                    "initial_sp": "16",
+                    "sp_cost": "32",
+                    "duration": "–"
+                },
+                {
+                    "level": "7",
+                    "effect": "Deals 250% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate for 3 seconds, then bombard 10 times, each hit dealing 230% ATK as Physical damage to all enemies in a small area around a random target",
+                    "initial_sp": "16",
+                    "sp_cost": "30",
+                    "duration": "–"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Deals 300% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate for 3 seconds, then bombard 12 times, each hit dealing 230% ATK as Physical damage to all enemies in a small area around a random target",
+                    "initial_sp": "16",
+                    "sp_cost": "28",
+                    "duration": "–"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Deals 300% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate for 3 seconds, then bombard 12 times, each hit dealing 240% ATK as Physical damage to all enemies in a small area around a random target",
+                    "initial_sp": "16",
+                    "sp_cost": "26",
+                    "duration": "–"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Deals 300% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate for 4 seconds, then bombard 12 times, each hit dealing 250% ATK as Physical damage to all enemies in a small area around a random target",
+                    "initial_sp": "16",
+                    "sp_cost": "24",
+                    "duration": "–"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Aketon",
+                "quantity": "6"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "Integrated Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Coagulating Gel",
+                "quantity": "4"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Coagulating Gel",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "3"
+                    },
+                    {
+                        "name": "Oriron Cluster",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "White Horse Kohl",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Aketon",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone Pentahydrate",
+                        "quantity": "9"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polymerized Gel",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Incandescent Alloy Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "8"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Crystalline Electronic Unit",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Bipolar Nanoflake",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Flames of Castigation",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "Physical damage has a 50% chance to ignore 30% DEF. Chance increases to 100% against aerial units."
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Physical damage has a 50% chance to ignore 50% DEF. Chance increases to 100% against aerial units."
+                }
+            ]
+        },
+        {
+            "name": "Sword of Cleansing",
+            "elite_levels": [
+                {
+                    "level": "Elite 2",
+                    "description": "ASPD +18. Effect doubles when there are [Sea Monster] enemies on the battlefield."
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "ASPD +21 (+3). Effect doubles when there are [Sea Monster] enemies on the battlefield."
+                }
+            ]
+        }
+    ]
+}

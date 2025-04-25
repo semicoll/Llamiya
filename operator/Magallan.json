@@ -1,0 +1,506 @@
+{
+    "info": {
+        "title": "Magallan",
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/2/2d/Magallan_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20191104023909",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/5/5e/Magallan_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20200719115601"
+        }
+    },
+    "skills": [
+        {
+            "name": "High-Efficiency Freezing Module",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Passive: Slows enemies within the Attack Range of this unit and drones every 3 seconds for 0.7 seconds\nActive: Instead of Slowing, Binds targets for 1.6 seconds. Retreats all drones after this effect ends",
+                    "initial_sp": "10",
+                    "sp_cost": "30",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Passive: Slows enemies within the Attack Range of this unit and drones every 3 seconds for 0.7 seconds\nActive: Instead of Slowing, Binds targets for 1.7 seconds. Retreats all drones after this effect ends",
+                    "initial_sp": "11",
+                    "sp_cost": "30",
+                    "duration": "15s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Passive: Slows enemies within the Attack Range of this unit and drones every 3 seconds for 0.7 seconds\nActive: Instead of Slowing, Binds targets for 1.8 seconds. Retreats all drones after this effect ends",
+                    "initial_sp": "12",
+                    "sp_cost": "30",
+                    "duration": "15s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Passive: Slows enemies within the Attack Range of this unit and drones every 3 seconds for 0.8 seconds\nActive: Instead of Slowing, Binds targets for 1.9 seconds. Retreats all drones after this effect ends",
+                    "initial_sp": "13",
+                    "sp_cost": "30",
+                    "duration": "15s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Passive: Slows enemies within the Attack Range of this unit and drones every 3 seconds for 0.8 seconds\nActive: Instead of Slowing, Binds targets for 2 seconds. Retreats all drones after this effect ends",
+                    "initial_sp": "14",
+                    "sp_cost": "30",
+                    "duration": "15s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Passive: Slows enemies within the Attack Range of this unit and drones every 3 seconds for 0.8 seconds\nActive: Instead of Slowing, Binds targets for 2.1 seconds. Retreats all drones after this effect ends",
+                    "initial_sp": "15",
+                    "sp_cost": "30",
+                    "duration": "15s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Passive: Slows enemies within the Attack Range of this unit and drones every 3 seconds for 0.9 seconds\nActive: Instead of Slowing, Binds targets for 2.2 seconds. Retreats all drones after this effect ends",
+                    "initial_sp": "16",
+                    "sp_cost": "30",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Passive: Slows enemies within the Attack Range of this unit and drones every 3 seconds for 0.9 seconds\nActive: Instead of Slowing, Binds targets for 2.3 seconds. Retreats all drones after this effect ends",
+                    "initial_sp": "17",
+                    "sp_cost": "30",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Passive: Slows enemies within the Attack Range of this unit and drones every 3 seconds for 0.9 seconds\nActive: Instead of Slowing, Binds targets for 2.4 seconds. Retreats all drones after this effect ends",
+                    "initial_sp": "18",
+                    "sp_cost": "30",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Passive: Slows enemies within the Attack Range of this unit and drones every 3 seconds for 1 seconds\nActive: Instead of Slowing, Binds targets for 2.5 seconds. Retreats all drones after this effect ends",
+                    "initial_sp": "20",
+                    "sp_cost": "30",
+                    "duration": "15s"
+                }
+            ]
+        },
+        {
+            "name": "Laser Mining Module",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Passive: Drones may be deployed on melee tiles, dealing single-target Arts damage.\nActive: Magallan and her drones gain +60 ASPD, and drones gain AoE attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "50",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Passive: Drones may be deployed on melee tiles, dealing single-target Arts damage.\nActive: Magallan and her drones gain +65 ASPD, and drones gain AoE attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "49",
+                    "duration": "15s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Passive: Drones may be deployed on melee tiles, dealing single-target Arts damage.\nActive: Magallan and her drones gain +70 ASPD, and drones gain AoE attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "48",
+                    "duration": "15s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Passive: Drones may be deployed on melee tiles, dealing single-target Arts damage.\nActive: Magallan and her drones gain +80 ASPD, and drones gain AoE attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "47",
+                    "duration": "15s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Passive: Drones may be deployed on melee tiles, dealing single-target Arts damage.\nActive: Magallan and her drones gain +85 ASPD, and drones gain AoE attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "46",
+                    "duration": "15s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Passive: Drones may be deployed on melee tiles, dealing single-target Arts damage.\nActive: Magallan and her drones gain +90 ASPD, and drones gain AoE attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "45",
+                    "duration": "15s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Passive: Drones may be deployed on melee tiles, dealing single-target Arts damage.\nActive: Magallan and her drones gain +100 ASPD, and drones gain AoE attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "44",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Passive: Drones may be deployed on melee tiles, dealing single-target Arts damage.\nActive: Magallan and her drones gain +115 ASPD, and drones gain AoE attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "42",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Passive: Drones may be deployed on melee tiles, dealing single-target Arts damage.\nActive: Magallan and her drones gain +130 ASPD, and drones gain AoE attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "40",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Passive: Drones may be deployed on melee tiles, dealing single-target Arts damage.\nActive: Magallan and her drones gain +150 ASPD, and drones gain AoE attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "38",
+                    "duration": "15s"
+                }
+            ]
+        },
+        {
+            "name": "Armed Combat Module",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+            "types": [
+                "Auto Recovery",
+                "Manual Trigger",
+                "15 sec."
+            ],
+            "levels": [
+                {
+                    "level": "1",
+                    "effect": "Passive: Drones may be deployed on ranged tiles, dealing AoE physical damage.\nActive: Magallan and her drones gain +60% ATK, and increases the AoE of drones' attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "50",
+                    "duration": "15s"
+                },
+                {
+                    "level": "2",
+                    "effect": "Passive: Drones may be deployed on ranged tiles, dealing AoE physical damage.\nActive: Magallan and her drones gain +65% ATK, and increases the AoE of drones' attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "49",
+                    "duration": "15s"
+                },
+                {
+                    "level": "3",
+                    "effect": "Passive: Drones may be deployed on ranged tiles, dealing AoE physical damage.\nActive: Magallan and her drones gain +70% ATK, and increases the AoE of drones' attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "48",
+                    "duration": "15s"
+                },
+                {
+                    "level": "4",
+                    "effect": "Passive: Drones may be deployed on ranged tiles, dealing AoE physical damage.\nActive: Magallan and her drones gain +80% ATK, and increases the AoE of drones' attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "47",
+                    "duration": "15s"
+                },
+                {
+                    "level": "5",
+                    "effect": "Passive: Drones may be deployed on ranged tiles, dealing AoE physical damage.\nActive: Magallan and her drones gain +85% ATK, and increases the AoE of drones' attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "46",
+                    "duration": "15s"
+                },
+                {
+                    "level": "6",
+                    "effect": "Passive: Drones may be deployed on ranged tiles, dealing AoE physical damage.\nActive: Magallan and her drones gain +90% ATK, and increases the AoE of drones' attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "45",
+                    "duration": "15s"
+                },
+                {
+                    "level": "7",
+                    "effect": "Passive: Drones may be deployed on ranged tiles, dealing AoE physical damage.\nActive: Magallan and her drones gain +100% ATK, and increases the AoE of drones' attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "44",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M1",
+                    "effect": "Passive: Drones may be deployed on ranged tiles, dealing AoE physical damage.\nActive: Magallan and her drones gain +115% ATK, and increases the AoE of drones' attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "42",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M2",
+                    "effect": "Passive: Drones may be deployed on ranged tiles, dealing AoE physical damage.\nActive: Magallan and her drones gain +130% ATK, and increases the AoE of drones' attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "40",
+                    "duration": "15s"
+                },
+                {
+                    "level": "M3",
+                    "effect": "Passive: Drones may be deployed on ranged tiles, dealing AoE physical damage.\nActive: Magallan and her drones gain +150% ATK, and increases the AoE of drones' attacks. Retreats all drones after this effect ends.",
+                    "initial_sp": "25",
+                    "sp_cost": "38",
+                    "duration": "15s"
+                }
+            ]
+        }
+    ],
+    "skill_upgrade_costs": {
+        "2": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            }
+        ],
+        "3": [
+            {
+                "name": "Skill Summary - 1",
+                "quantity": "5"
+            },
+            {
+                "name": "Oriron Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Sugar Substitute",
+                "quantity": "4"
+            }
+        ],
+        "4": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Polyketon",
+                "quantity": "4"
+            }
+        ],
+        "5": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Device",
+                "quantity": "3"
+            },
+            {
+                "name": "Polyester",
+                "quantity": "3"
+            }
+        ],
+        "6": [
+            {
+                "name": "Skill Summary - 2",
+                "quantity": "8"
+            },
+            {
+                "name": "Grindstone",
+                "quantity": "5"
+            }
+        ],
+        "7": [
+            {
+                "name": "Skill Summary - 3",
+                "quantity": "8"
+            },
+            {
+                "name": "RMA70-12",
+                "quantity": "3"
+            },
+            {
+                "name": "Polyester Pack",
+                "quantity": "5"
+            }
+        ]
+    },
+    "mastery_costs": {
+        "Skill1": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "RMA70-24",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Manganese Ore",
+                        "quantity": "5"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Grindstone",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "8"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "RMA70-12",
+                        "quantity": "5"
+                    }
+                ]
+            }
+        },
+        "Skill2": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Orirock Concentration",
+                        "quantity": "10"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Oriron Block",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Sugar Lump",
+                        "quantity": "7"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "12"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "4"
+                    },
+                    {
+                        "name": "Polyester Lump",
+                        "quantity": "7"
+                    }
+                ]
+            }
+        },
+        "Skill3": {
+            "masteries": {
+                "M1": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "Polymerization Preparation",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Manganese Trihydrate",
+                        "quantity": "6"
+                    }
+                ],
+                "M2": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Keton Colloid",
+                        "quantity": "5"
+                    }
+                ],
+                "M3": [
+                    {
+                        "name": "Skill Summary - 3",
+                        "quantity": "15"
+                    },
+                    {
+                        "name": "D32 Steel",
+                        "quantity": "6"
+                    },
+                    {
+                        "name": "Optimized Device",
+                        "quantity": "4"
+                    }
+                ]
+            }
+        }
+    },
+    "talents": [
+        {
+            "name": "Support Drone - Soaring Dragon",
+            "elite_levels": [
+                {
+                    "level": "Base",
+                    "description": "Can use up to 3 drones that do not block (max 3 deployed at once). Drones' effect changes based upon Skill."
+                },
+                {
+                    "level": "Elite 1",
+                    "description": "Can use up to 4 drones that do not block (max 3 deployed at once). Drones' effect changes based upon Skill."
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Can use up to 5 drones that do not block (max 3 deployed at once). Drones' effect changes based upon Skill."
+                }
+            ]
+        },
+        {
+            "name": "Optical Refraction Accessories",
+            "elite_levels": [
+                {
+                    "level": "Elite 1",
+                    "description": "Drones gain Invisibility for 12 seconds after deployment (cannot be targeted by enemy ranged attacks)"
+                },
+                {
+                    "level": "Elite 2",
+                    "description": "Drones gain Invisibility for 20 seconds after deployment (cannot be targeted by enemy ranged attacks)"
+                }
+            ],
+            "potential_upgrades": [
+                {
+                    "level": "Potential 5",
+                    "description": "Drones gain Invisibility for 14 (+2) seconds after deployment (cannot be targeted by enemy ranged attacks)"
+                },
+                {
+                    "level": "Potential 5",
+                    "description": "Drones gain Invisibility for 22 (+2) seconds after deployment (cannot be targeted by enemy ranged attacks)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Ebenholz",
+  "overview": "",
+  "gameplay": "",
+  "pros": [
+    "Very high ATK – the highest of all Casters",
+    "Periodically stores attacks when not attacking, which are released in a burst on the next attack",
+    "Desolate Echoes automatically summons Shadows of the Past in open, deployable tiles within Ebenholz's attack range, which deals Arts damage to enemies who trigger them and pulls them towards its position",
+    "Dynamics increase the damage dealt by stored attacks and allows one additional attack exclusively used against elites/bosses to be stored",
+    "Sound of Silence is an excellent option against elites and bosses, especially those lacking RES",
+    "Appoggiatura deals an additional instance of Arts damage when attacking lone enemies"
+  ],
+  "cons": [
+    "Higher than average DP cost",
+    "High attack interval",
+    "Requires tactical knowledge, timing and micromanagement to utilize effectively, especially if using Sound of Silence to specifically eliminate Elite and Boss enemies",
+    "Quickening Presto reduces the damage dealt on each hit and narrows Ebenholz's range to the frontal tiles, requiring proper placement to be effective",
+    "Desolate Echoes' activation is counted as an attack, which expends the stored attacks in the process, and the Shadows of the Past have limited duration",
+    "Ebenholz only attacks elite and boss enemies while Sound of Silence is active, but the skill can be deactivated anytime so he can attack normally. It can be ironically used to force him to stop attacking and charge dices to empower his next attack, when no elite or boss enemies are in his attack range",
+    "Requires Mastery and Modules to be effective, especially if being built as a boss killer"
+  ],
+  "url": "https://arknights.fandom.com/wiki/Ebenholz/Overview"
+}
