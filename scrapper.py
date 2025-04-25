@@ -893,3 +893,134 @@ def process_operator(driver, operator_name, clean_before_run=True):
             driver = create_driver()
         
         return driver, False
+
+# Main execution code
+if __name__ == "__main__":
+    try:
+        chrome_check = subprocess.run(['which', 'google-chrome'], capture_output=True, text=True)
+        if not chrome_check.stdout:
+            print("Chrome not found. Installing Chrome dependencies for WSL...")
+            subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "pip", "webdriver-manager", "selenium"])
+            print("You may need to install Chrome in WSL with: sudo apt update && sudo apt install -y wget unzip fonts-liberation libasound2 libatk-bridge2.0-0 libatk1.0-0 libatspi2.0-0 libcairo2 libcups2 libcurl3-gnutls libdrm2 libgbm1 libgtk-3-0 libnspr4 libnss3 libpango-1.0-0 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 xdg-utils && wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo dpkg -i google-chrome-stable_current_amd64.deb && sudo apt-get -f install")
+        else:
+            print("Chrome found.")
+    except Exception as e:
+        print(f"Error checking Chrome installation: {e}")
+
+    os.environ['WDM_LOG_LEVEL'] = '0'
+    os.environ['WDM_PROGRESS_BAR'] = '0'
+
+    # Initialize the central WebDriver
+    driver = None
+    try:
+        # Create the initial WebDriver
+        driver = create_driver()
+        if not driver:
+            print("Failed to create WebDriver. Exiting.")
+            sys.exit(1)
+        
+        # Detect Chrome version
+        try:
+            chrome_version_cmd = subprocess.run(['google-chrome', '--version'], capture_output=True, text=True)
+            chrome_version = chrome_version_cmd.stdout.strip()
+            print(f"Detected Chrome version: {chrome_version}")
+        except:
+            print("Could not detect Chrome version. Make sure Chrome is installed.")
+        
+        # Scrape the list of 6-star operators
+        url = "https://arknights.fandom.com/wiki/Operator/6-star"
+        driver.get(url)
+        time.sleep(3)
+        
+        operator_elements = driver.find_elements(By.XPATH, '/html/body/div[4]/div[4]/div[2]/main/div[3]/div/div[1]/div/div/table/tbody/tr/td[2]/a')
+        
+        operator_names = [element.text for element in operator_elements if element.text]
+        
+        print("6-Star Operators:")
+        for name in operator_names:
+            print(name)
+            
+        print(f"\nTotal 6-star operators found: {len(operator_names)}")
+        
+        # Give the user choices for processing
+        print("\nChoose an option:")
+        print("1. Process a specific operator (by name)")
+        print("2. Process all operators")
+        print("3. Process only the first operator (for testing)")
+        print("4. Clean all operator files and exit")
+        
+        choice = input("Enter your choice (1-4): ").strip()
+        
+        if choice == '1':
+            # Process specific operator
+            specific_name = input("Enter the operator name: ").strip()
+            clean_option = input("Remove existing data before processing? (y/n, default: y): ").strip().lower()
+            clean_before_run = clean_option != 'n'
+            
+            if specific_name in operator_names:
+                driver, _ = process_operator(driver, specific_name, clean_before_run)
+            else:
+                print(f"Operator '{specific_name}' not found in the list of 6-star operators.")
+                similar_names = [name for name in operator_names if specific_name.lower() in name.lower()]
+                if similar_names:
+                    print("Did you mean one of these?")
+                    for name in similar_names:
+                        print(f"- {name}")
+                    confirmation = input(f"Process {similar_names[0]}? (y/n): ").strip().lower()
+                    if confirmation == 'y':
+                        driver, _ = process_operator(driver, similar_names[0], clean_before_run)
+        
+        elif choice == '2':
+            # Process all operators
+            clean_option = input("Remove all existing data before processing? (y/n, default: y): ").strip().lower()
+            if clean_option != 'n':
+                cleanup_operator_files()  # Clean all files before batch processing
+                
+            for operator_name in operator_names:
+                try:
+                    # We've already cleaned everything, so don't clean individual files
+                    driver, success = process_operator(driver, operator_name, clean_before_run=False)
+                    
+                    # If driver is None, we need to create a new one
+                    if not driver:
+                        print("Creating new WebDriver for next operator...")
+                        driver = create_driver()
+                        if not driver:
+                            print("Failed to create WebDriver. Exiting batch processing.")
+                            break
+                            
+                except Exception as e:
+                    print(f"Critical error processing {operator_name}: {e}")
+                    if driver:
+                        try:
+                            driver.quit()
+                        except:
+                            pass
+                    
+                    print("Attempting to recreate WebDriver before continuing...")
+                    driver = create_driver()
+                    if not driver:
+                        print("Failed to recreate WebDriver. Exiting batch processing.")
+                        break
+        
+        elif choice == '3':
+            # Process only the first operator (for testing)
+            test_operator = operator_names[0]
+            clean_option = input("Remove existing data before processing? (y/n, default: y): ").strip().lower()
+            clean_before_run = clean_option != 'n'
+            driver, _ = process_operator(driver, test_operator, clean_before_run)
+        
+        elif choice == '4':
+            # Just clean all files and exit
+            cleanup_operator_files()
+            print("All operator files have been removed. Exiting...")
+    
+    except Exception as e:
+        print(f"Error in main execution: {e}")
+    
+    finally:
+        if driver:
+            try:
+                driver.quit()
+            except:
+                print("Error while closing WebDriver")
