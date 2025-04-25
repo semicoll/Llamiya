@@ -7,6 +7,84 @@ import random
 import shutil
 import importlib.util
 import sys
+import subprocess
+import time
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+
+def get_operator_names():
+    """
+    Uses Selenium to scrape operator names from the Arknights Wiki.
+    
+    Returns:
+        list: List of operator names
+    """
+    print("Setting up Chrome for web scraping...")
+    
+    # Ensure Chrome is installed
+    try:
+        chrome_check = subprocess.run(['which', 'google-chrome'], capture_output=True, text=True)
+        if not chrome_check.stdout:
+            print("Chrome not found. You may need to install Chrome in WSL.")
+            print("Run: sudo apt update && sudo apt install -y wget unzip fonts-liberation libasound2 libatk-bridge2.0-0 libatk1.0-0 libatspi2.0-0 libcairo2 libcups2 libcurl3-gnutls libdrm2 libgbm1 libgtk-3-0 libnspr4 libnss3 libpango-1.0-0 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 xdg-utils && wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo dpkg -i google-chrome-stable_current_amd64.deb && sudo apt-get -f install")
+            return []
+    except Exception as e:
+        print(f"Error checking Chrome installation: {e}")
+        return []
+
+    # Set up Chrome options
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--window-size=1920x1080")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+
+    # Suppress webdriver-manager logs
+    os.environ['WDM_LOG_LEVEL'] = '0'
+    os.environ['WDM_PROGRESS_BAR'] = '0'
+
+    operator_names = []
+    
+    try:
+        # Initialize the WebDriver
+        driver_path = ChromeDriverManager().install()
+        print(f"Driver installed at: {driver_path}")
+        
+        # Make sure the driver is executable
+        os.chmod(driver_path, 0o755)
+        
+        driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options)
+        
+        # URL to scrape
+        url = "https://arknights.fandom.com/wiki/Operator/6-star"
+        
+        print(f"Scraping operator names from {url}...")
+        
+        # Navigate to the page
+        driver.get(url)
+        time.sleep(3)  # Wait for page to load
+        
+        # Find all operator name elements using the XPath
+        operator_elements = driver.find_elements(By.XPATH, 
+                                                '/html/body/div[4]/div[4]/div[2]/main/div[3]/div/div[1]/div/div/table/tbody/tr/td[2]/a')
+        
+        # Extract the text (operator names) into a list
+        operator_names = [element.text for element in operator_elements if element.text]
+        
+        print(f"Found {len(operator_names)} operators.")
+        
+    except Exception as e:
+        print(f"Error during web scraping: {e}")
+    finally:
+        # Close the browser
+        if 'driver' in locals():
+            driver.quit()
+    
+    return operator_names
 
 def extract_operator_data(operator_name):
     """
@@ -137,9 +215,10 @@ if __name__ == "__main__":
     print("1. Extract data for a specific operator")
     print("2. Extract data for all operators")
     print("3. Extract data for a random operator (for testing)")
-    print("4. Exit")
+    print("4. Scrape operator names from the wiki")
+    print("5. Exit")
     
-    choice = input("\nEnter your choice (1-4): ")
+    choice = input("\nEnter your choice (1-5): ")
     
     if choice == "1":
         operator = input("Enter operator name (e.g., 'Aak'): ")
@@ -169,76 +248,42 @@ if __name__ == "__main__":
                 section_choice = input("\nEnter another section name (or 'all' for all sections, 'exit' to quit): ")
     
     elif choice == "2":
-        # Try to import operator_names from scrapper.py
-        try:
-            # Check if scrapper.py exists
-            scrapper_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "scrapper.py")
-            if os.path.exists(scrapper_path):
-                # Load the scrapper module
-                spec = importlib.util.spec_from_file_location("scrapper", scrapper_path)
-                scrapper = importlib.util.module_from_spec(spec)
-                sys.modules["scrapper"] = scrapper
-                spec.loader.exec_module(scrapper)
-                
-                # Check if operator_names is available
-                if hasattr(scrapper, "operator_names") and scrapper.operator_names:
-                    print(f"Found {len(scrapper.operator_names)} operators from the scrapper module.")
-                    use_scrapper_list = input("Use this list? (y/n): ").lower() == 'y'
-                    
-                    if use_scrapper_list:
-                        operators = scrapper.operator_names
-                    else:
-                        # Fall back to file input
-                        operators_file = input("Enter path to operators list file (one operator per line): ")
-                        with open(operators_file, 'r') as f:
-                            operators = [line.strip() for line in f if line.strip()]
-                else:
-                    print("No operator names found in the scrapper module.")
-                    operators_file = input("Enter path to operators list file (one operator per line): ")
-                    with open(operators_file, 'r') as f:
-                        operators = [line.strip() for line in f if line.strip()]
-            else:
-                # Fall back to file input
-                print("Scrapper module not found.")
+        # Get operators list - either from scraping or file input
+        use_scraping = input("Scrape operator names from the wiki? (y/n): ").lower() == 'y'
+        
+        if use_scraping:
+            operators = get_operator_names()
+            if not operators:
+                print("Failed to scrape operator names. Please provide a file with operator names.")
                 operators_file = input("Enter path to operators list file (one operator per line): ")
                 with open(operators_file, 'r') as f:
                     operators = [line.strip() for line in f if line.strip()]
-                
-            print(f"Found {len(operators)} operators in the list.")
-            overwrite = input("Overwrite existing data? (y/n): ").lower() == 'y'
+        else:
+            operators_file = input("Enter path to operators list file (one operator per line): ")
+            with open(operators_file, 'r') as f:
+                operators = [line.strip() for line in f if line.strip()]
             
-            successful = 0
-            for i, operator in enumerate(operators, 1):
-                print(f"\n[{i}/{len(operators)}] Processing {operator}...")
-                if process_operator(operator, overwrite, display_preview=False):
-                    successful += 1
-            
-            print(f"\nProcessed {successful} out of {len(operators)} operators successfully.")
-            
-        except FileNotFoundError as e:
-            print(f"Error: File not found - {e}")
-        except Exception as e:
-            print(f"Error processing operators list: {str(e)}")
+        print(f"Found {len(operators)} operators in the list.")
+        overwrite = input("Overwrite existing data? (y/n): ").lower() == 'y'
+        
+        successful = 0
+        for i, operator in enumerate(operators, 1):
+            print(f"\n[{i}/{len(operators)}] Processing {operator}...")
+            if process_operator(operator, overwrite, display_preview=False):
+                successful += 1
+        
+        print(f"\nProcessed {successful} out of {len(operators)} operators successfully.")
     
     elif choice == "3":
-        # Try to import operator_names from scrapper for more diverse testing
+        # Try to get operators from scraping for more diverse testing
         try:
-            scrapper_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "scrapper.py")
-            if os.path.exists(scrapper_path):
-                spec = importlib.util.spec_from_file_location("scrapper", scrapper_path)
-                scrapper = importlib.util.module_from_spec(spec)
-                sys.modules["scrapper"] = scrapper
-                spec.loader.exec_module(scrapper)
-                
-                if hasattr(scrapper, "operator_names") and scrapper.operator_names:
-                    test_operators = scrapper.operator_names[:20]  # Use first 20 operators
-                    print("Using operators from scrapper module for random selection.")
-                else:
-                    # Fallback list
-                    test_operators = ["Aak", "Exusiai", "SilverAsh", "Eyjafjalla", "Blaze", "Chen", "Bagpipe"]
-            else:
+            test_operators = get_operator_names()
+            if not test_operators:
                 # Fallback list
                 test_operators = ["Aak", "Exusiai", "SilverAsh", "Eyjafjalla", "Blaze", "Chen", "Bagpipe"]
+            else:
+                test_operators = test_operators[:20]  # Use first 20 operators
+                print("Using scraped operators for random selection.")
         except Exception:
             # Fallback list
             test_operators = ["Aak", "Exusiai", "SilverAsh", "Eyjafjalla", "Blaze", "Chen", "Bagpipe"]
@@ -250,6 +295,27 @@ if __name__ == "__main__":
         process_operator(operator, overwrite)
     
     elif choice == "4":
+        print("Scraping operator names from the wiki...")
+        operator_names = get_operator_names()
+        
+        if operator_names:
+            print("\nOperator Names:")
+            for i, name in enumerate(operator_names, 1):
+                print(f"{i}. {name}")
+            print(f"\nTotal operators found: {len(operator_names)}")
+            
+            # Ask if user wants to save the list
+            save_list = input("Save this list to a file? (y/n): ").lower() == 'y'
+            if save_list:
+                file_path = input("Enter file path to save (default: ./operator_names.txt): ") or "./operator_names.txt"
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    for name in operator_names:
+                        f.write(f"{name}\n")
+                print(f"Operator names saved to {file_path}")
+        else:
+            print("Failed to scrape operator names.")
+    
+    elif choice == "5":
         print("Exiting...")
     
     else:
