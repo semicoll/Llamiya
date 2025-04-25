@@ -256,7 +256,7 @@ def choose_operator():
     Let the user choose an operator from a list
     
     Returns:
-        str: The chosen operator name
+        str: The chosen operator name or special command
     """
     print("Fetching operator list...")
     operators = get_operator_list()
@@ -284,12 +284,27 @@ def choose_operator():
         if current_page < total_pages:
             print("n - Next page")
         print("s - Search for an operator")
+        print("a - All operators")
+        print("r - Random operator")
         print("q - Quit")
         
         choice = input("\nEnter a number to select an operator, or an option: ").strip().lower()
         
         if choice == 'q':
             sys.exit(0)
+        elif choice == 'a':
+            return "ALL_OPERATORS"
+        elif choice == 'r':
+            import random
+            random_op = random.choice(operators)
+            print(f"Randomly selected: {random_op}")
+            return random_op
+        elif choice.isdigit():
+            idx = int(choice)
+            if 1 <= idx <= len(operators):
+                return operators[idx - 1]
+            else:
+                print("Invalid selection. Please try again.")
         elif choice == 'p' and current_page > 1:
             current_page -= 1
         elif choice == 'n' and current_page < total_pages:
@@ -309,21 +324,66 @@ def choose_operator():
             search_choice = input("\nEnter a number to select an operator, or any other key to return: ")
             if search_choice.isdigit() and 1 <= int(search_choice) <= len(matches):
                 return matches[int(search_choice) - 1]
-        elif choice.isdigit():
-            idx = int(choice)
-            if 1 <= idx <= len(operators):
-                return operators[idx - 1]
-            else:
-                print("Invalid selection. Please try again.")
         else:
             print("Invalid choice. Please try again.")
 
+def process_all_operators():
+    """
+    Process all operators: extract data and save to JSON
+    
+    Returns:
+        int: Number of successfully processed operators
+    """
+    operators = get_operator_list()
+    
+    if not operators:
+        print("Failed to get operator list.")
+        return 0
+    
+    print(f"Found {len(operators)} operators. Beginning to process...")
+    
+    successful = 0
+    failed = []
+    
+    for i, operator_name in enumerate(operators, 1):
+        print(f"\n[{i}/{len(operators)}] Processing {operator_name}...")
+        
+        operator_data = scrape_operator_overview(operator_name)
+        
+        if operator_data:
+            save_to_json(operator_data, operator_name)
+            successful += 1
+        else:
+            print(f"Failed to process {operator_name}")
+            failed.append(operator_name)
+    
+    print(f"\nProcessed {successful} out of {len(operators)} operators successfully.")
+    
+    if failed:
+        print(f"Failed operators ({len(failed)}):")
+        for op in failed:
+            print(f"- {op}")
+    
+    return successful
+
 def main():
+    print("Arknights Operator Overview Extractor")
+    print("=====================================")
+    
     if len(sys.argv) < 2:
         print("No operator name provided as argument.")
-        operator_name = choose_operator()
+        operator_choice = choose_operator()
+        
+        if operator_choice == "ALL_OPERATORS":
+            process_all_operators()
+            return
+        else:
+            operator_name = operator_choice
     else:
         operator_name = sys.argv[1]
+        if operator_name.lower() == "all":
+            process_all_operators()
+            return
     
     print(f"Scraping overview for {operator_name}...")
     
