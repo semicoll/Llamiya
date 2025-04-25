@@ -230,35 +230,116 @@ def bulk_scrape_operator_dialogues(rarity="6-star"):
 
 # Add to the main block to support command-line scraping
 if __name__ == "__main__":
-    import sys
+    import os
+    import random
     
-    if len(sys.argv) > 1:
-        if sys.argv[1] == "--scrape-six-stars":
-            # Scrape all 6-star operators
-            operators = scrape_six_star_operators()
-            print(f"Found {len(operators)} 6-star operators:")
-            for op in operators:
-                print(f"- {op}")
-        elif sys.argv[1] == "--get-dialogue" and len(sys.argv) > 2:
-            # Get dialogue for a specific operator
-            operator_name = sys.argv[2]
-            dialogue = get_operator_dialogue(operator_name)
-            print(json.dumps(dialogue, indent=2, ensure_ascii=False))
-        elif sys.argv[1] == "--bulk-scrape":
-            # Bulk scrape all 6-star operator dialogues
-            result = bulk_scrape_operator_dialogues()
-            output_file = "six_star_dialogues.json"
-            with open(output_file, "w", encoding="utf-8") as f:
-                json.dump(result, f, indent=2, ensure_ascii=False)
-            print(f"Saved dialogues to {output_file}")
+    print("Arknights Operator Data Extractor")
+    print("=================================")
+    print("1. Extract data for a specific operator")
+    print("2. Extract data for all operators")
+    print("3. Extract data for a random operator (for testing)")
+    print("4. Scrape operator names from the wiki")
+    print("5. Exit")
+    
+    choice = input("\nEnter your choice (1-5): ")
+    
+    if choice == "1":
+        operator = input("Enter operator name (e.g., 'Aak'): ")
+        overwrite = input("Overwrite existing data? (y/n): ").lower() == 'y'
+        
+        success = process_operator(operator, overwrite)
+        
+        if success:
+            print("\nWould you like to see the full content of a specific section?")
+            section_choice = input("Enter section name (or 'all' for all sections, 'exit' to quit): ")
+            
+            data = extract_operator_data(operator)
+            while section_choice.lower() not in ['exit', 'quit', 'q']:
+                if section_choice.lower() == 'all':
+                    for section, content in data.items():
+                        print(f"\n{section.replace('_', ' ')}:")
+                        print("-" * len(section) + "---")
+                        print(content)
+                        print()
+                elif section_choice in data:
+                    print(f"\n{section_choice.replace('_', ' ')}:")
+                    print("-" * len(section_choice) + "---")
+                    print(data[section_choice])
+                else:
+                    print(f"Section '{section_choice}' not found.")
+                    
+                section_choice = input("\nEnter another section name (or 'all' for all sections, 'exit' to quit): ")
+    
+    elif choice == "2":
+        # Get operators list - either from scraping or file input
+        use_scraping = input("Scrape operator names from the wiki? (y/n): ").lower() == 'y'
+        
+        if use_scraping:
+            operators = get_operator_names()
+            if not operators:
+                print("Failed to scrape operator names. Please provide a file with operator names.")
+                operators_file = input("Enter path to operators list file (one operator per line): ")
+                with open(operators_file, 'r') as f:
+                    operators = [line.strip() for line in f if line.strip()]
         else:
-            # Original functionality
-            html_content = sys.argv[1]
-            operator_code = sys.argv[2] if len(sys.argv) > 2 else "unknown"
-            print(extract_dialogue_from_wiki_html(html_content, operator_code))
+            operators_file = input("Enter path to operators list file (one operator per line): ")
+            with open(operators_file, 'r') as f:
+                operators = [line.strip() for line in f if line.strip()]
+            
+        print(f"Found {len(operators)} operators in the list.")
+        overwrite = input("Overwrite existing data? (y/n): ").lower() == 'y'
+        
+        successful = 0
+        for i, operator in enumerate(operators, 1):
+            print(f"\n[{i}/{len(operators)}] Processing {operator}...")
+            if process_operator(operator, overwrite, display_preview=False):
+                successful += 1
+        
+        print(f"\nProcessed {successful} out of {len(operators)} operators successfully.")
+    
+    elif choice == "3":
+        # Try to get operators from scraping for more diverse testing
+        try:
+            test_operators = get_operator_names()
+            if not test_operators:
+                # Fallback list
+                test_operators = ["Aak", "Exusiai", "SilverAsh", "Eyjafjalla", "Blaze", "Chen", "Bagpipe"]
+            else:
+                test_operators = test_operators[:20]  # Use first 20 operators
+                print("Using scraped operators for random selection.")
+        except Exception:
+            # Fallback list
+            test_operators = ["Aak", "Exusiai", "SilverAsh", "Eyjafjalla", "Blaze", "Chen", "Bagpipe"]
+        
+        operator = random.choice(test_operators)
+        print(f"Randomly selected operator: {operator}")
+        
+        overwrite = input("Overwrite existing data? (y/n): ").lower() == 'y'
+        process_operator(operator, overwrite)
+    
+    elif choice == "4":
+        print("Scraping operator names from the wiki...")
+        operator_names = get_operator_names()
+        
+        if operator_names:
+            print("\nOperator Names:")
+            for i, name in enumerate(operator_names, 1):
+                print(f"{i}. {name}")
+            print(f"\nTotal operators found: {len(operator_names)}")
+            
+            # Ask if user wants to save the list
+            save_list = input("Save this list to a file? (y/n): ").lower() == 'y'
+            if save_list:
+                file_path = input("Enter file path to save (default: ./operator_names.txt): ") or "./operator_names.txt"
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    for name in operator_names:
+                        f.write(f"{name}\n")
+                print(f"Operator names saved to {file_path}")
+        else:
+            print("Failed to scrape operator names.")
+    
+    elif choice == "5":
+        print("Exiting...")
+    
     else:
-        print("Usage options:")
-        print("1. python dialogue.py <html_content> <operator_code>")
-        print("2. python dialogue.py --scrape-six-stars")
-        print("3. python dialogue.py --get-dialogue <operator_name>")
-        print("4. python dialogue.py --bulk-scrape")
+        print("Invalid choice. Exiting...")
