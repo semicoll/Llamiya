@@ -633,7 +633,7 @@ def extract_talents_with_selenium(driver, operator_name):
             file_path = os.path.join(output_dir, f"{operator_name}.json")
             
             if os.path.exists(file_path):
-                with open(file_file, "r", encoding="utf-8") as json_file:
+                with open(file_path, "r", encoding="utf-8") as json_file:
                     operator_data = json.load(json_file)
             else:
                 operator_data = {}
@@ -652,6 +652,26 @@ def extract_talents_with_selenium(driver, operator_name):
     
     return talents_data
 
+def process_operator(driver, operator_name):
+    """Process a single operator with all extraction functions"""
+    print(f"\nProcessing operator: {operator_name}")
+    
+    try:
+        # Extract data using the central driver
+        operator_info(driver, operator_name)
+        extract_and_write_stats_with_selenium(driver, operator_name)
+        extract_potential_with_selenium(driver, operator_name)
+        extract_promotion_with_selenium(driver, operator_name)
+        extract_skills_with_selenium(driver, operator_name)
+        extract_skill_upgrade_costs(driver, operator_name)
+        extract_talents_with_selenium(driver, operator_name)
+        
+        print(f"Completed processing {operator_name}")
+        return True
+    except Exception as e:
+        print(f"Error processing {operator_name}: {e}")
+        return False
+
 # Main execution code
 if __name__ == "__main__":
     try:
@@ -660,6 +680,8 @@ if __name__ == "__main__":
             print("Chrome not found. Installing Chrome dependencies for WSL...")
             subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "pip", "webdriver-manager", "selenium"])
             print("You may need to install Chrome in WSL with: sudo apt update && sudo apt install -y wget unzip fonts-liberation libasound2 libatk-bridge2.0-0 libatk1.0-0 libatspi2.0-0 libcairo2 libcups2 libcurl3-gnutls libdrm2 libgbm1 libgtk-3-0 libnspr4 libnss3 libpango-1.0-0 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 xdg-utils && wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo dpkg -i google-chrome-stable_current_amd64.deb && sudo apt-get -f install")
+        else:
+            print("Chrome found.")
     except Exception as e:
         print(f"Error checking Chrome installation: {e}")
 
@@ -747,25 +769,3 @@ if __name__ == "__main__":
     finally:
         if driver:
             driver.quit()
-
-
-def process_operator(driver, operator_name):
-    """Process a single operator with all extraction functions"""
-    print(f"\nProcessing operator: {operator_name}")
-    
-    try:
-        # Extract data using the central driver
-        operator_info(driver, operator_name)
-        extract_and_write_stats_with_selenium(driver, operator_name)
-        extract_potential_with_selenium(driver, operator_name)
-        extract_promotion_with_selenium(driver, operator_name)
-        extract_skills_with_selenium(driver, operator_name)
-        extract_skill_upgrade_costs(driver, operator_name)
-        extract_talents_with_selenium(driver, operator_name)
-        
-        print(f"Completed processing {operator_name}")
-        return True
-    except Exception as e:
-        print(f"Error processing {operator_name}: {e}")
-        return False
-
