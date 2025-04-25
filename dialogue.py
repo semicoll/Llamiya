@@ -3,6 +3,8 @@ import json
 from bs4 import BeautifulSoup
 from html import unescape
 import requests
+import os
+import random
 
 def parse_dialogue_table(html_content):
     """
@@ -228,11 +230,92 @@ def bulk_scrape_operator_dialogues(rarity="6-star"):
     
     return result
 
+def process_operator(operator_name, overwrite=False, display_preview=True):
+    """
+    Process dialogue data for a specific operator and save it to a file.
+    
+    Args:
+        operator_name (str): Name of the operator
+        overwrite (bool): Whether to overwrite existing data
+        display_preview (bool): Whether to display a preview of the data
+        
+    Returns:
+        bool: True if successful, False otherwise
+    """
+    try:
+        output_file = f"{operator_name.lower().replace(' ', '_')}_dialogue.json"
+        
+        # Check if file already exists
+        if not overwrite and os.path.exists(output_file):
+            print(f"File {output_file} already exists. Skipping...")
+            return True
+            
+        print(f"Fetching dialogue data for {operator_name}...")
+        dialogue_data = get_operator_dialogue(operator_name)
+        
+        if not dialogue_data.get('dialogue'):
+            print(f"No dialogue data found for {operator_name}.")
+            return False
+            
+        # Save data to file
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(dialogue_data, f, indent=2, ensure_ascii=False)
+            
+        print(f"Dialogue data saved to {output_file}")
+        
+        # Display preview if requested
+        if display_preview:
+            print("\nPreview of dialogue data:")
+            dialogue = dialogue_data.get('dialogue', {})
+            keys = list(dialogue.keys())
+            
+            # Show the first 3 dialogue entries as a preview
+            for i, key in enumerate(keys[:3]):
+                print(f"\n{dialogue[key]['id']}:")
+                print(f"  {dialogue[key]['text'][:100]}..." if len(dialogue[key]['text']) > 100 else f"  {dialogue[key]['text']}")
+                
+            if len(keys) > 3:
+                print(f"\n... and {len(keys) - 3} more dialogue entries.")
+                
+        return True
+    except Exception as e:
+        print(f"Error processing {operator_name}: {e}")
+        return False
+
+def extract_operator_data(operator_name):
+    """
+    Extract dialogue data for a specific operator.
+    
+    Args:
+        operator_name (str): Name of the operator
+        
+    Returns:
+        dict: Dialogue data organized by sections
+    """
+    try:
+        dialogue_data = get_operator_dialogue(operator_name)
+        return dialogue_data.get('dialogue', {})
+    except Exception as e:
+        print(f"Error extracting data for {operator_name}: {e}")
+        return {}
+
+def get_operator_names(rarity=None):
+    """
+    Get a list of operator names from the wiki.
+    
+    Args:
+        rarity (str, optional): Rarity filter (e.g., "6-star")
+        
+    Returns:
+        list: List of operator names
+    """
+    if rarity == "6-star" or rarity is None:
+        return scrape_six_star_operators()
+    # In the future, we could add support for other rarities
+    return []
+
 # Add to the main block to support command-line scraping
 if __name__ == "__main__":
-    import os
-    import random
-    
     print("Arknights Operator Data Extractor")
     print("=================================")
     print("1. Extract data for a specific operator")
