@@ -1,0 +1,410 @@
+{
+  "operator": "Schwarz",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I made an itinerary. You can confirm with me anytime.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-001.ogg",
+        "CN": "Schwarz-001-CN.ogg",
+        "EN": "Schwarz-001-EN.ogg",
+        "KR": "Schwarz-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "When it's time to shed blood, do not send LadyCeylonto do it, send someone who lives amongst the shadows.",
+      "links": [
+        {
+          "text": "Ceylon",
+          "href": "/wiki/Ceylon"
+        }
+      ],
+      "audio": {
+        "JP": "Schwarz-002.ogg",
+        "CN": "Schwarz-002-CN.ogg",
+        "EN": "Schwarz-002-EN.ogg",
+        "KR": "Schwarz-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "I won't tell you any of Lady Ceylon's secrets. Of course, I won't tell anyone your secrets either.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-003.ogg",
+        "CN": "Schwarz-003-CN.ogg",
+        "EN": "Schwarz-003-EN.ogg",
+        "KR": "Schwarz-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "I'm a bodyguard and it's my duty to protect you,Doctor, not to be your chat buddy. If you want to talk, find someone else and stop turning to me like Lady Ceylon does.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Schwarz-004.ogg",
+        "CN": "Schwarz-004-CN.ogg",
+        "EN": "Schwarz-004-EN.ogg",
+        "KR": "Schwarz-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "My expertise? Killing and protecting people. Oh, and making tea. Don't be so shocked. After all, Lady Ceylon is... Anyway, I'm good at that.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-005.ogg",
+        "CN": "Schwarz-005-CN.ogg",
+        "EN": "Schwarz-005-EN.ogg",
+        "KR": "Schwarz-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Based on the danger involved in the missions to date, Doctor, I believe, in addition to my protection, you should learn self-defense. Otherwise, even I can't guarantee your safety.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-006.ogg",
+        "CN": "Schwarz-006-CN.ogg",
+        "EN": "Schwarz-006-EN.ogg",
+        "KR": "Schwarz-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "There's no turning back once you got blood on your hands, Doctor. I don't want you to go down that road, so leave the dirty stuff to me.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-007.ogg",
+        "CN": "Schwarz-007-CN.ogg",
+        "EN": "Schwarz-007-EN.ogg",
+        "KR": "Schwarz-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "You want to hear my revenge story? You won't be able to sleep at night, Doctor. But I do have this strange urge to tell you. Why don't we hit the bar, because it's a long story…",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-008.ogg",
+        "CN": "Schwarz-008-CN.ogg",
+        "EN": "Schwarz-008-EN.ogg",
+        "KR": "Schwarz-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Sinners always get what they deserve, I know that. But let's say I'd be more than just a killer had I met Lady Ceylon and you sooner. It's still not too late for me? Do you really mean that, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-009.ogg",
+        "CN": "Schwarz-009-CN.ogg",
+        "EN": "Schwarz-009-EN.ogg",
+        "KR": "Schwarz-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Falls asleep just like that? Can't keep a guard up at all, just like her.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-010.ogg",
+        "CN": "Schwarz-010-CN.ogg",
+        "EN": "Schwarz-010-EN.ogg",
+        "KR": "Schwarz-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I'm 'Schwarz, Lady Ceylon's personal bodyguard, here to joinRhodes Islandwith her. If at all possible, please send me with her on any missions.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Schwarz-011.ogg",
+        "CN": "Schwarz-011-CN.ogg",
+        "EN": "Schwarz-011-EN.ogg",
+        "KR": "Schwarz-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Rhodes Island is teeming with monsters. I can only hope to learn to battle like them.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-012.ogg",
+        "CN": "Schwarz-012-CN.ogg",
+        "EN": "Schwarz-012-EN.ogg",
+        "KR": "Schwarz-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Now I understand why Rhodes Island wanted me. You're looking for something a hundred times crazier than anything I ever did.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-013.ogg",
+        "CN": "Schwarz-013-CN.ogg",
+        "EN": "Schwarz-013-EN.ogg",
+        "KR": "Schwarz-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Reawaken my past? Sounds good. Maybe you can absolve the evil we did in battle. Please, cleanse me.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-014.ogg",
+        "CN": "Schwarz-014-CN.ogg",
+        "EN": "Schwarz-014-EN.ogg",
+        "KR": "Schwarz-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Mission? Got it.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-015.ogg",
+        "CN": "Schwarz-015-CN.ogg",
+        "EN": "Schwarz-015-EN.ogg",
+        "KR": "Schwarz-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Listen up.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-016.ogg",
+        "CN": "Schwarz-016-CN.ogg",
+        "EN": "Schwarz-016-EN.ogg",
+        "KR": "Schwarz-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Let's go.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-017.ogg",
+        "CN": "Schwarz-017-CN.ogg",
+        "EN": "Schwarz-017-EN.ogg",
+        "KR": "Schwarz-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Kill them all.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-018.ogg",
+        "CN": "Schwarz-018-CN.ogg",
+        "EN": "Schwarz-018-EN.ogg",
+        "KR": "Schwarz-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Where am I needed?",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-019.ogg",
+        "CN": "Schwarz-019-CN.ogg",
+        "EN": "Schwarz-019-EN.ogg",
+        "KR": "Schwarz-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Here.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-020.ogg",
+        "CN": "Schwarz-020-CN.ogg",
+        "EN": "Schwarz-020-EN.ogg",
+        "KR": "Schwarz-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "This is a good spot.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-021.ogg",
+        "CN": "Schwarz-021-CN.ogg",
+        "EN": "Schwarz-021-EN.ogg",
+        "KR": "Schwarz-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "They won't get away.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-022.ogg",
+        "CN": "Schwarz-022-CN.ogg",
+        "EN": "Schwarz-022-EN.ogg",
+        "KR": "Schwarz-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "I see you...",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-023.ogg",
+        "CN": "Schwarz-023-CN.ogg",
+        "EN": "Schwarz-023-EN.ogg",
+        "KR": "Schwarz-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Too obvious.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-024.ogg",
+        "CN": "Schwarz-024-CN.ogg",
+        "EN": "Schwarz-024-EN.ogg",
+        "KR": "Schwarz-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Is that all?",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-025.ogg",
+        "CN": "Schwarz-025-CN.ogg",
+        "EN": "Schwarz-025-EN.ogg",
+        "KR": "Schwarz-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Lady Ceylon may be merciful, but I am not.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-026.ogg",
+        "CN": "Schwarz-026-CN.ogg",
+        "EN": "Schwarz-026-EN.ogg",
+        "KR": "Schwarz-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "You should lead this dangerous mission from someplace as far away from the battlefield as possible, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-027.ogg",
+        "CN": "Schwarz-027-CN.ogg",
+        "EN": "Schwarz-027-EN.ogg",
+        "KR": "Schwarz-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "We got everyone, per your order.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-028.ogg",
+        "CN": "Schwarz-028-CN.ogg",
+        "EN": "Schwarz-028-EN.ogg",
+        "KR": "Schwarz-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "The perimeter is secured. What's next?",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-029.ogg",
+        "CN": "Schwarz-029-CN.ogg",
+        "EN": "Schwarz-029-EN.ogg",
+        "KR": "Schwarz-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Come, Doctor, I'll ensure your safety.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-030.ogg",
+        "CN": "Schwarz-030-CN.ogg",
+        "EN": "Schwarz-030-EN.ogg",
+        "KR": "Schwarz-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Patrol? Got it.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-031.ogg",
+        "CN": "Schwarz-031-CN.ogg",
+        "EN": "Schwarz-031-EN.ogg",
+        "KR": "Schwarz-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Watch out for accidental discharge, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-032.ogg",
+        "CN": "Schwarz-032-CN.ogg",
+        "EN": "Schwarz-032-EN.ogg",
+        "KR": "Schwarz-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Anything wrong, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-033.ogg",
+        "CN": "Schwarz-033-CN.ogg",
+        "EN": "Schwarz-033-EN.ogg",
+        "KR": "Schwarz-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Don't let your guard down, even on base, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Schwarz-034.ogg",
+        "CN": "Schwarz-034-CN.ogg",
+        "EN": "Schwarz-034-EN.ogg",
+        "KR": "Schwarz-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Schwarz-035.ogg",
+        "CN": "Schwarz-035-CN.ogg",
+        "EN": "Schwarz-035-EN.ogg",
+        "KR": "Schwarz-035-KR.ogg"
+      }
+    }
+  }
+}

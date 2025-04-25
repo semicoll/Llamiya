@@ -1,0 +1,433 @@
+{
+  "operator": "Blaze",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I'm telling you, I'm no good with paperwork. Are you sure you want me here in the office? I'd be better in the field; wouldn't you be happy too if I brought back some good results?",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-001.ogg",
+        "CN": "Blaze-001-CN.ogg",
+        "EN": "Blaze-001-EN.ogg",
+        "KR": "Blaze-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "I fight for theInfected. Anyone with eyes can clearly see our struggle, but too many people simply don't give a damn about our lives. But I do, a whole lot of 'em too. Got a lot ofOperatorshere counting on me, and I don't plan to fall short of their expectations.",
+      "links": [
+        {
+          "text": "Infected",
+          "href": "/wiki/Infected"
+        },
+        {
+          "text": "Operators",
+          "href": "/wiki/Operator"
+        }
+      ],
+      "audio": {
+        "JP": "Blaze-002.ogg",
+        "CN": "Blaze-002-CN.ogg",
+        "EN": "Blaze-002-EN.ogg",
+        "KR": "Blaze-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "You'd think I'm only working forRhodes Islandbecause I have nowhere better to be, right? Hardly. Put another way, I can't think of a better place to be than here. The pay's good, the medical treatment is cutting edge, and we've even got a cute little rabbit. How do you beat that?",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Blaze-003.ogg",
+        "CN": "Blaze-003-CN.ogg",
+        "EN": "Blaze-003-EN.ogg",
+        "KR": "Blaze-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "As one of Rhodes Island's core attackers, I have neither the firepower to blast open the battlefield with myArts, nor the combat skills to take down a whole group of enemies by myself. But combine the two things I'm good at, and the effect is immediate. I suppose that's what a chemical reaction looks like.",
+      "links": [
+        {
+          "text": "Arts",
+          "href": "/wiki/Arts"
+        }
+      ],
+      "audio": {
+        "JP": "Blaze-004.ogg",
+        "CN": "Blaze-004-CN.ogg",
+        "EN": "Blaze-004-EN.ogg",
+        "KR": "Blaze-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Amiyais one of the most talented warriors I've ever met. Her judgment is clear in any situation, and her Arts even terrify me when I see them. Doesn't it make you wonder how she got that kind of power at such a young age? Really. I wish she didn't.",
+      "links": [
+        {
+          "text": "Amiya",
+          "href": "/wiki/Amiya"
+        }
+      ],
+      "audio": {
+        "JP": "Blaze-005.ogg",
+        "CN": "Blaze-005-CN.ogg",
+        "EN": "Blaze-005-EN.ogg",
+        "KR": "Blaze-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "If you need my help, no need to be shy - just spit it out! Put your faith in me, and I put my faith in you. You command, I fight, simple as that! Right now, we're the best partners in Rhodes Island! Oh, but don't tell Amiya I said that just now.",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-006.ogg",
+        "CN": "Blaze-006-CN.ogg",
+        "EN": "Blaze-006-EN.ogg",
+        "KR": "Blaze-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Before I even met you, many people told me about who you were before you lost your memories. Of course, it seems that you are no longer the same person they described, so should I treat you as two different people? The past you, and now, the current you. Haha!",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-007.ogg",
+        "CN": "Blaze-007-CN.ogg",
+        "EN": "Blaze-007-EN.ogg",
+        "KR": "Blaze-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Dr.Kal'tsitsaid that one day, you will truly shoulder the responsibility that Rhodes Island has placed upon you. Dr. Kal'tsit saved my life, and I trusted her; She also told me to confirm what kind of person you are with my own eyes. I will, as long asOripathyhas not taken my life.",
+      "links": [
+        {
+          "text": "Kal'tsit",
+          "href": "/wiki/Kal%27tsit"
+        },
+        {
+          "text": "Oripathy",
+          "href": "/wiki/Oripathy"
+        }
+      ],
+      "audio": {
+        "JP": "Blaze-008.ogg",
+        "CN": "Blaze-008-CN.ogg",
+        "EN": "Blaze-008-EN.ogg",
+        "KR": "Blaze-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Ah,Doctor, pass me the towel. Mhm, just finished today's training. I can't stay combat-ready if I don't get at least six hours of training in each day. All right, I've kept you waiting long enough. Where are we going this time? If that's the plan, I trust you'll cover the bill?",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Blaze-009.ogg",
+        "CN": "Blaze-009-CN.ogg",
+        "EN": "Blaze-009-EN.ogg",
+        "KR": "Blaze-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Would I cause some misunderstanding if I carried the Doctor to the bedroom? Maybe I should just leave things as they are…",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-010.ogg",
+        "CN": "Blaze-010-CN.ogg",
+        "EN": "Blaze-010-EN.ogg",
+        "KR": "Blaze-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Rhodes Island Operator, Blaze, reporting in. Here, this is the authorization letter that Dr. Kal'tsit has already signed, so you can directly dispatch me. All righty, Doctor, let's show the other squads what we're capable of!",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-011.ogg",
+        "CN": "Blaze-011-CN.ogg",
+        "EN": "Blaze-011-EN.ogg",
+        "KR": "Blaze-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "I've seen many battles like this, but tougher times may be waiting for us ahead.",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-012.ogg",
+        "CN": "Blaze-012-CN.ogg",
+        "EN": "Blaze-012-EN.ogg",
+        "KR": "Blaze-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Hah, don't you feel the air getting a bit hotter? No? Eh, gotta turn things up another notch then. And here I was trying to get you fired up…",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-013.ogg",
+        "CN": "Blaze-013-CN.ogg",
+        "EN": "Blaze-013-EN.ogg",
+        "KR": "Blaze-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Amiya, Dr. Kal'tsit, and now you as you currently are. The Operators of Rhodes Island have placed their trust in all of you, because you didn't give up on any of them. Fighting for the Infected is just, Doctor. Our fight is worth it.",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-014.ogg",
+        "CN": "Blaze-014-CN.ogg",
+        "EN": "Blaze-014-EN.ogg",
+        "KR": "Blaze-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "You gonna fight? Count me in!",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-015.ogg",
+        "CN": "Blaze-015-CN.ogg",
+        "EN": "Blaze-015-EN.ogg",
+        "KR": "Blaze-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Uhh, the orders were uh, to get rid of all the enemies. See, I got this!",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-016.ogg",
+        "CN": "Blaze-016-CN.ogg",
+        "EN": "Blaze-016-EN.ogg",
+        "KR": "Blaze-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "As an assault operator, I have high standards, so you'd better keep up!",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-017.ogg",
+        "CN": "Blaze-017-CN.ogg",
+        "EN": "Blaze-017-EN.ogg",
+        "KR": "Blaze-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "It gets a little violent, but I like cutting steel and taking apart bunkers!",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-018.ogg",
+        "CN": "Blaze-018-CN.ogg",
+        "EN": "Blaze-018-EN.ogg",
+        "KR": "Blaze-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "It wasn't easy learning high-temperature gas dynamics!",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-019.ogg",
+        "CN": "Blaze-019-CN.ogg",
+        "EN": "Blaze-019-EN.ogg",
+        "KR": "Blaze-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Let me show you what the other elite operators taught me about swinging a chainsaw!",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-020.ogg",
+        "CN": "Blaze-020-CN.ogg",
+        "EN": "Blaze-020-EN.ogg",
+        "KR": "Blaze-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "It's not hot enough here.",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-021.ogg",
+        "CN": "Blaze-021-CN.ogg",
+        "EN": "Blaze-021-EN.ogg",
+        "KR": "Blaze-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Do you hear the roar of this chainsaw?",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-022.ogg",
+        "CN": "Blaze-022-CN.ogg",
+        "EN": "Blaze-022-EN.ogg",
+        "KR": "Blaze-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Don't worry if you see a little bit of fire somewhere, that's just a side effect!",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-023.ogg",
+        "CN": "Blaze-023-CN.ogg",
+        "EN": "Blaze-023-EN.ogg",
+        "KR": "Blaze-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Surrender now if you don't want to get sawed in half!",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-024.ogg",
+        "CN": "Blaze-024-CN.ogg",
+        "EN": "Blaze-024-EN.ogg",
+        "KR": "Blaze-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "My blood's only going to make this place hotter!",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-025.ogg",
+        "CN": "Blaze-025-CN.ogg",
+        "EN": "Blaze-025-EN.ogg",
+        "KR": "Blaze-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Fresh blood permeates my weapon, and spreads through the entire battlefield!",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-026.ogg",
+        "CN": "Blaze-026-CN.ogg",
+        "EN": "Blaze-026-EN.ogg",
+        "KR": "Blaze-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "No sacrifice is meaningless, and no victory comes without a cost.",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-027.ogg",
+        "CN": "Blaze-027-CN.ogg",
+        "EN": "Blaze-027-EN.ogg",
+        "KR": "Blaze-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "The rights of the Infected, will only be secured through the hands of the Infected.",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-028.ogg",
+        "CN": "Blaze-028-CN.ogg",
+        "EN": "Blaze-028-EN.ogg",
+        "KR": "Blaze-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Let's work harder next time. We can always do better, right?",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-029.ogg",
+        "CN": "Blaze-029-CN.ogg",
+        "EN": "Blaze-029-EN.ogg",
+        "KR": "Blaze-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Unfortunately, looks like luck wasn't on our side.",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-030.ogg",
+        "CN": "Blaze-030-CN.ogg",
+        "EN": "Blaze-030-EN.ogg",
+        "KR": "Blaze-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Did Rhodes Island get any new facilities this time?",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-031.ogg",
+        "CN": "Blaze-031-CN.ogg",
+        "EN": "Blaze-031-EN.ogg",
+        "KR": "Blaze-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "C-calm down!",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-032.ogg",
+        "CN": "Blaze-032-CN.ogg",
+        "EN": "Blaze-032-EN.ogg",
+        "KR": "Blaze-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "It's too hot! I'm melting!",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-033.ogg",
+        "CN": "Blaze-033-CN.ogg",
+        "EN": "Blaze-033-EN.ogg",
+        "KR": "Blaze-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor, when are we heading out on our mission?",
+      "links": [],
+      "audio": {
+        "JP": "Blaze-034.ogg",
+        "CN": "Blaze-034-CN.ogg",
+        "EN": "Blaze-034-EN.ogg",
+        "KR": "Blaze-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Blaze-035.ogg",
+        "CN": "Blaze-035-CN.ogg",
+        "EN": "Blaze-035-EN.ogg",
+        "KR": "Blaze-035-KR.ogg"
+      }
+    }
+  }
+}

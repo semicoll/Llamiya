@@ -1,0 +1,420 @@
+{
+  "operator": "Rosa",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "It is an honor to serve you,Doctor.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Rosa-001.ogg",
+        "CN": "Rosa-001-CN.ogg",
+        "EN": "Rosa-001-EN.ogg",
+        "KR": "Rosa-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "I was once naive enough to think I could have anything I wanted. Now I know that while it is true for most things, it is not for others. Those I can never get, not on my own.",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-002.ogg",
+        "CN": "Rosa-002-CN.ogg",
+        "EN": "Rosa-002-EN.ogg",
+        "KR": "Rosa-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Any work you might have, I hope you will let me try. Don't worry, after what I've been through, the dignity of a noblewoman is the least of my worries. Now I am just likeZimaand the girls, an ordinary student under protection.",
+      "links": [
+        {
+          "text": "Zima",
+          "href": "/wiki/Zima"
+        }
+      ],
+      "audio": {
+        "JP": "Rosa-003.ogg",
+        "CN": "Rosa-003-CN.ogg",
+        "EN": "Rosa-003-EN.ogg",
+        "KR": "Rosa-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Doctor, if you would like to know more aboutChernobog, I may be able to provide a unique perspective. I was only a student, but you know, the Student Council President does interact with society at large, in some ways.",
+      "links": [
+        {
+          "text": "Chernobog",
+          "href": "/wiki/Chernobog"
+        }
+      ],
+      "audio": {
+        "JP": "Rosa-004.ogg",
+        "CN": "Rosa-004-CN.ogg",
+        "EN": "Rosa-004-EN.ogg",
+        "KR": "Rosa-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "People likeIstina, who forgo the opiate that is entertainment in pursuit of greater knowledge, are quite rare. Even at a noble school like I attended. If she had been my classmate back then... No, it's no use thinking about that now.",
+      "links": [
+        {
+          "text": "Istina",
+          "href": "/wiki/Istina"
+        }
+      ],
+      "audio": {
+        "JP": "Rosa-005.ogg",
+        "CN": "Rosa-005-CN.ogg",
+        "EN": "Rosa-005-EN.ogg",
+        "KR": "Rosa-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "To hate the world on account of a tragedy is as shortsighted as loving the world over a comedy—Is it? Doctor, have you already decided how to handle all that you will soon face? And how should I? I’m still unsure.",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-006.ogg",
+        "CN": "Rosa-006-CN.ogg",
+        "EN": "Rosa-006-EN.ogg",
+        "KR": "Rosa-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Doctor, I have a favor to ask of you. Would you please look after Zima and the girls... specifically their mental health? They look like they're adjusting well, but I know they’re not. Even I, occasionally, think back to those times...",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-007.ogg",
+        "CN": "Rosa-007-CN.ogg",
+        "EN": "Rosa-007-EN.ogg",
+        "KR": "Rosa-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Doctor, I wonder if you could ever understand? I was a victim, at times, I know. And at times, I found myself on the other side. I... I can never forgive myself for that.",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-008.ogg",
+        "CN": "Rosa-008-CN.ogg",
+        "EN": "Rosa-008-EN.ogg",
+        "KR": "Rosa-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Doctor, is it easier to forget, when you’re fully grown? When I come of age, will I be able to forgive myself? Will becoming as mature as you allow me to finally deal with the misery in my heart?",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-009.ogg",
+        "CN": "Rosa-009-CN.ogg",
+        "EN": "Rosa-009-EN.ogg",
+        "KR": "Rosa-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "The Doctor is asleep... kind of cute, isn’t it?",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-010.ogg",
+        "CN": "Rosa-010-CN.ogg",
+        "EN": "Rosa-010-EN.ogg",
+        "KR": "Rosa-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Hello, Doctor. Allow me to once again express my gratitude toRhodes Islandfor taking in me and my friends. I've had enough of a break working in Logistics, and I’d like to do as Zima and the girls do.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Rosa-011.ogg",
+        "CN": "Rosa-011-CN.ogg",
+        "EN": "Rosa-011-EN.ogg",
+        "KR": "Rosa-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "I too must prepare for the battlefield...",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-012.ogg",
+        "CN": "Rosa-012-CN.ogg",
+        "EN": "Rosa-012-EN.ogg",
+        "KR": "Rosa-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "It seems my experience in student government is paying dividends in my work life. How delightful.",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-013.ogg",
+        "CN": "Rosa-013-CN.ogg",
+        "EN": "Rosa-013-EN.ogg",
+        "KR": "Rosa-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "There is still much I don't understand about what I am doing, about my future, about myself, and about so much more. But I am young. I still have time to think. Don't I, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-014.ogg",
+        "CN": "Rosa-014-CN.ogg",
+        "EN": "Rosa-014-EN.ogg",
+        "KR": "Rosa-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Let us put my training to the test.",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-015.ogg",
+        "CN": "Rosa-015-CN.ogg",
+        "EN": "Rosa-015-EN.ogg",
+        "KR": "Rosa-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I will do all I can.",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-016.ogg",
+        "CN": "Rosa-016-CN.ogg",
+        "EN": "Rosa-016-EN.ogg",
+        "KR": "Rosa-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Comrades, let us move out.",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-017.ogg",
+        "CN": "Rosa-017-CN.ogg",
+        "EN": "Rosa-017-EN.ogg",
+        "KR": "Rosa-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Comrades, let us keep to the plan.",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-018.ogg",
+        "CN": "Rosa-018-CN.ogg",
+        "EN": "Rosa-018-EN.ogg",
+        "KR": "Rosa-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "I will.",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-019.ogg",
+        "CN": "Rosa-019-CN.ogg",
+        "EN": "Rosa-019-EN.ogg",
+        "KR": "Rosa-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Is it my turn?",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-020.ogg",
+        "CN": "Rosa-020-CN.ogg",
+        "EN": "Rosa-020-EN.ogg",
+        "KR": "Rosa-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Stay calm, relax…",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-021.ogg",
+        "CN": "Rosa-021-CN.ogg",
+        "EN": "Rosa-021-EN.ogg",
+        "KR": "Rosa-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "First, remember the combat manual…",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-022.ogg",
+        "CN": "Rosa-022-CN.ogg",
+        "EN": "Rosa-022-EN.ogg",
+        "KR": "Rosa-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Ready, aim... FIRE!",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-023.ogg",
+        "CN": "Rosa-023-CN.ogg",
+        "EN": "Rosa-023-EN.ogg",
+        "KR": "Rosa-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Huh? A misfire? Eek!",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-024.ogg",
+        "CN": "Rosa-024-CN.ogg",
+        "EN": "Rosa-024-EN.ogg",
+        "KR": "Rosa-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Rosa, believe in yourself. You can do it!",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-025.ogg",
+        "CN": "Rosa-025-CN.ogg",
+        "EN": "Rosa-025-EN.ogg",
+        "KR": "Rosa-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "This is nothing personal...",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-026.ogg",
+        "CN": "Rosa-026-CN.ogg",
+        "EN": "Rosa-026-EN.ogg",
+        "KR": "Rosa-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Doctor, we did it...! Oh, um, ahem, truly a delightful victory!",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-027.ogg",
+        "CN": "Rosa-027-CN.ogg",
+        "EN": "Rosa-027-EN.ogg",
+        "KR": "Rosa-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "I hope I've met Doctor's expectations.",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-028.ogg",
+        "CN": "Rosa-028-CN.ogg",
+        "EN": "Rosa-028-EN.ogg",
+        "KR": "Rosa-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "My apologies, Doctor. If only I had tried harder...",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-029.ogg",
+        "CN": "Rosa-029-CN.ogg",
+        "EN": "Rosa-029-EN.ogg",
+        "KR": "Rosa-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "We must review this carefully after we get back...",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-030.ogg",
+        "CN": "Rosa-030-CN.ogg",
+        "EN": "Rosa-030-EN.ogg",
+        "KR": "Rosa-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "I wonder if there's anywhere quite like the salon?",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-031.ogg",
+        "CN": "Rosa-031-CN.ogg",
+        "EN": "Rosa-031-EN.ogg",
+        "KR": "Rosa-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Huh?!",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-032.ogg",
+        "CN": "Rosa-032-CN.ogg",
+        "EN": "Rosa-032-EN.ogg",
+        "KR": "Rosa-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Another lovely day today.",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-033.ogg",
+        "CN": "Rosa-033-CN.ogg",
+        "EN": "Rosa-033-EN.ogg",
+        "KR": "Rosa-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor, it's great to see you.",
+      "links": [],
+      "audio": {
+        "JP": "Rosa-034.ogg",
+        "CN": "Rosa-034-CN.ogg",
+        "EN": "Rosa-034-EN.ogg",
+        "KR": "Rosa-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Rosa-035.ogg",
+        "CN": "Rosa-035-CN.ogg",
+        "EN": "Rosa-035-EN.ogg",
+        "KR": "Rosa-035-KR.ogg"
+      }
+    }
+  }
+}

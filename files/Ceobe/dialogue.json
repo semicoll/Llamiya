@@ -1,0 +1,410 @@
+{
+  "operator": "Ceobe",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Hm? What should I do? Just put this stack of papers into this box?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-001.ogg",
+        "CN": "Ceobe-001-CN.ogg",
+        "EN": "Ceobe-001-EN.ogg",
+        "KR": "Ceobe-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Doctor, are you working? Can I watch? Great! Sofa, here I come~",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-002.ogg",
+        "CN": "Ceobe-002-CN.ogg",
+        "EN": "Ceobe-002-EN.ogg",
+        "KR": "Ceobe-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "I'm super strong. Forget one bad guy, I can take on a hundred at once. Uhh, maybe a hundred is a bit much... But ninety-nine is no problem! Mhm!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-003.ogg",
+        "CN": "Ceobe-003-CN.ogg",
+        "EN": "Ceobe-003-EN.ogg",
+        "KR": "Ceobe-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "I found a bunch of these little bottle things in some room, and the sauce inside tasted pretty good. Is it spicy? Yeah, seems to be a little hot, but it's also really tasty. Want some, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-004.ogg",
+        "CN": "Ceobe-004-CN.ogg",
+        "EN": "Ceobe-004-EN.ogg",
+        "KR": "Ceobe-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "My den is right here. Doctor's den is above my head, andVulcan's is to my left... Okay, got it! Repeat it? Mm, sure. My den is above my head, Doctor's is to my left, and Vulcan's is right here...",
+      "links": [
+        {
+          "text": "Vulcan",
+          "href": "/wiki/Vulcan"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-005.ogg",
+        "CN": "Ceobe-005-CN.ogg",
+        "EN": "Ceobe-005-EN.ogg",
+        "KR": "Ceobe-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "So this is where I started from? Oh, oh, then where did I go before you caught me? And where did you catch me? Can you find it all on this map?!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-006.ogg",
+        "CN": "Ceobe-006-CN.ogg",
+        "EN": "Ceobe-006-EN.ogg",
+        "KR": "Ceobe-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "So hungry... My tummy's been grumbling for so long. Can we head to the cafeteria?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-007.ogg",
+        "CN": "Ceobe-007-CN.ogg",
+        "EN": "Ceobe-007-EN.ogg",
+        "KR": "Ceobe-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "I don't know much about theseArts, but when other people try to use my weapons, they can't make all those cool sparkly things happen. But don't worry, as long as I'm here, the bad guys won't be able to hurt you. I know who the bad guys are.",
+      "links": [
+        {
+          "text": "Arts",
+          "href": "/wiki/Arts"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-008.ogg",
+        "CN": "Ceobe-008-CN.ogg",
+        "EN": "Ceobe-008-EN.ogg",
+        "KR": "Ceobe-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "There's a whole bunch of bad guys out there, and my friends won't always be around. That's why the more weapons I have, the more power I have. Isn't that right? Hey, can you stuff another hammer back there? And a javelin too, those are super useful! Hm? Don't say no to me!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-009.ogg",
+        "CN": "Ceobe-009-CN.ogg",
+        "EN": "Ceobe-009-EN.ogg",
+        "KR": "Ceobe-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Doctor's snoring sure sounds funny.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-010.ogg",
+        "CN": "Ceobe-010-CN.ogg",
+        "EN": "Ceobe-010-EN.ogg",
+        "KR": "Ceobe-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "You seem like you're a pretty nice person. \"Doctor,\" was it? My name is Ceobe, but if that's too hard to say, you can just call me Kay! I'll be in your care!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-011.ogg",
+        "CN": "Ceobe-011-CN.ogg",
+        "EN": "Ceobe-011-EN.ogg",
+        "KR": "Ceobe-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "I'm watching! I really am!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-012.ogg",
+        "CN": "Ceobe-012-CN.ogg",
+        "EN": "Ceobe-012-EN.ogg",
+        "KR": "Ceobe-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "This little button is for me? Do I look good wearing it?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-013.ogg",
+        "CN": "Ceobe-013-CN.ogg",
+        "EN": "Ceobe-013-EN.ogg",
+        "KR": "Ceobe-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "One's not enough, two gets the job done, and three is for safety. As long as I bring the right weapons for the job, I'll take out the bad guys as they come.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-014.ogg",
+        "CN": "Ceobe-014-CN.ogg",
+        "EN": "Ceobe-014-EN.ogg",
+        "KR": "Ceobe-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Doctor, I'm all ears.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-015.ogg",
+        "CN": "Ceobe-015-CN.ogg",
+        "EN": "Ceobe-015-EN.ogg",
+        "KR": "Ceobe-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Lead? What's a lead?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-016.ogg",
+        "CN": "Ceobe-016-CN.ogg",
+        "EN": "Ceobe-016-EN.ogg",
+        "KR": "Ceobe-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "I wonder if there's gonna be anything tasty when I get back~",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-017.ogg",
+        "CN": "Ceobe-017-CN.ogg",
+        "EN": "Ceobe-017-EN.ogg",
+        "KR": "Ceobe-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Phew... All righty!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-018.ogg",
+        "CN": "Ceobe-018-CN.ogg",
+        "EN": "Ceobe-018-EN.ogg",
+        "KR": "Ceobe-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Hmm?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-019.ogg",
+        "CN": "Ceobe-019-CN.ogg",
+        "EN": "Ceobe-019-EN.ogg",
+        "KR": "Ceobe-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Loud and clear!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-020.ogg",
+        "CN": "Ceobe-020-CN.ogg",
+        "EN": "Ceobe-020-EN.ogg",
+        "KR": "Ceobe-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Leave it to me!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-021.ogg",
+        "CN": "Ceobe-021-CN.ogg",
+        "EN": "Ceobe-021-EN.ogg",
+        "KR": "Ceobe-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "See you later!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-022.ogg",
+        "CN": "Ceobe-022-CN.ogg",
+        "EN": "Ceobe-022-EN.ogg",
+        "KR": "Ceobe-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Haah!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-023.ogg",
+        "CN": "Ceobe-023-CN.ogg",
+        "EN": "Ceobe-023-EN.ogg",
+        "KR": "Ceobe-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Gooooooo!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-024.ogg",
+        "CN": "Ceobe-024-CN.ogg",
+        "EN": "Ceobe-024-EN.ogg",
+        "KR": "Ceobe-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Dadadadada!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-025.ogg",
+        "CN": "Ceobe-025-CN.ogg",
+        "EN": "Ceobe-025-EN.ogg",
+        "KR": "Ceobe-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Prey should stay still!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-026.ogg",
+        "CN": "Ceobe-026-CN.ogg",
+        "EN": "Ceobe-026-EN.ogg",
+        "KR": "Ceobe-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "With your brains, my job is super easy! You're the best, Doctor!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-027.ogg",
+        "CN": "Ceobe-027-CN.ogg",
+        "EN": "Ceobe-027-EN.ogg",
+        "KR": "Ceobe-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "All that's needed is a bang, bang! And that takes care of them!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-028.ogg",
+        "CN": "Ceobe-028-CN.ogg",
+        "EN": "Ceobe-028-EN.ogg",
+        "KR": "Ceobe-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Are you hurt? Do you need help?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-029.ogg",
+        "CN": "Ceobe-029-CN.ogg",
+        "EN": "Ceobe-029-EN.ogg",
+        "KR": "Ceobe-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Hurry, run! We won't be able to get away if we don't hurry up!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-030.ogg",
+        "CN": "Ceobe-030-CN.ogg",
+        "EN": "Ceobe-030-EN.ogg",
+        "KR": "Ceobe-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "This fluffy thing is gonna feel absolutely amazing~",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-031.ogg",
+        "CN": "Ceobe-031-CN.ogg",
+        "EN": "Ceobe-031-EN.ogg",
+        "KR": "Ceobe-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "I'll bite you!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-032.ogg",
+        "CN": "Ceobe-032-CN.ogg",
+        "EN": "Ceobe-032-EN.ogg",
+        "KR": "Ceobe-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Hey, can you take me with you?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-033.ogg",
+        "CN": "Ceobe-033-CN.ogg",
+        "EN": "Ceobe-033-EN.ogg",
+        "KR": "Ceobe-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Good morning, Doctor! Mhm, that's a proper greeting, right?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-034.ogg",
+        "CN": "Ceobe-034-CN.ogg",
+        "EN": "Ceobe-034-EN.ogg",
+        "KR": "Ceobe-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ceobe-035.ogg",
+        "CN": "Ceobe-035-CN.ogg",
+        "EN": "Ceobe-035-EN.ogg",
+        "KR": "Ceobe-035-KR.ogg"
+      }
+    }
+  }
+}

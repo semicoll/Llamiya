@@ -1,0 +1,467 @@
+{
+  "operator": "Ch'en the Holungday",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "You're not the type to sit around the office. It's easier to guard you if I dress more casually.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-001.ogg",
+        "CN": "Ch%27en_the_Holungday-001-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-001-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "I won't doubtRhodes Islandanymore.Yourcause,Amiyaand Dr.Kal'tsit, and all the other operators here are worthy of my respect.",
+      "links": [
+        {
+          "text": "I won't doubt",
+          "href": "/wiki/Episode_04"
+        },
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        },
+        {
+          "text": "Your",
+          "href": "/wiki/Doctor"
+        },
+        {
+          "text": "Amiya",
+          "href": "/wiki/Amiya"
+        },
+        {
+          "text": "Kal'tsit",
+          "href": "/wiki/Kal%27tsit"
+        }
+      ],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-002.ogg",
+        "CN": "Ch%27en_the_Holungday-002-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-002-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "The way operators are supposed to see things and deal with problems is nothing I've known before. It'll take some time to get used to this.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-003.ogg",
+        "CN": "Ch%27en_the_Holungday-003-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-003-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "I heard from Amiyawhat you went through inSiesta. Sounds like you had a tough holiday. What about me? It was terrible. Maybe not terrible. That's all I can say.",
+      "links": [
+        {
+          "text": "what you went through in",
+          "href": "/wiki/Heart_of_Surging_Flame"
+        },
+        {
+          "text": "Siesta",
+          "href": "/wiki/Siesta"
+        }
+      ],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-004.ogg",
+        "CN": "Ch%27en_the_Holungday-004-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-004-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "My roots are inLungmen. That will never change. The world I knew there will stay with me wheresoever I go.",
+      "links": [
+        {
+          "text": "Lungmen",
+          "href": "/wiki/Lungmen"
+        }
+      ],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-005.ogg",
+        "CN": "Ch%27en_the_Holungday-005-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-005-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "When I left Lungmen, I thought there was an answer to find, but now I get it. There's no such thing as answers, only actions and results.",
+      "links": [
+        {
+          "text": "When I left Lungmen",
+          "href": "/wiki/Episode_07"
+        }
+      ],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-006.ogg",
+        "CN": "Ch%27en_the_Holungday-006-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-006-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Doctor, it's been a while since I left Lungmen and came on board as a Rhodes Island operator. It's about time you treat me as an operator too. It's hard for me to do anything if you are always on your toes around me.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-007.ogg",
+        "CN": "Ch%27en_the_Holungday-007-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-007-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "I've got a lot of people relying on me, and I used to take that trust for granted. It may be harder than ten sets of advanced training every day, but I'll be sure to not betray that trust.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-008.ogg",
+        "CN": "Ch%27en_the_Holungday-008-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-008-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "The events inChernobogandmy experiences inDossolesboth proved one thing–Whether fighting or saving, I must first understand my target. I need to broaden my horizons and open my eyes, Doctor.",
+      "links": [
+        {
+          "text": "The events in",
+          "href": "/wiki/Episode_08"
+        },
+        {
+          "text": "Chernobog",
+          "href": "/wiki/Chernobog"
+        },
+        {
+          "text": "my experiences in",
+          "href": "/wiki/Dossoles_Holiday"
+        },
+        {
+          "text": "Dossoles",
+          "href": "/wiki/Dossoles"
+        }
+      ],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-009.ogg",
+        "CN": "Ch%27en_the_Holungday-009-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-009-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Asleep again... You've done a lot of work already, so I'll let you have ten minutes.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-010.ogg",
+        "CN": "Ch%27en_the_Holungday-010-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-010-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Ch'en, reporting back in from my holiday in Dossoles. I have a lot of reports to write about my trip, so I'm just passing by to say hello, Doctor. Let me know if you've got something. Now that the holiday's over, everything's back to normal.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-011.ogg",
+        "CN": "Ch%27en_the_Holungday-011-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-011-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "There is always someone out there who's better than us.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-012.ogg",
+        "CN": "Ch%27en_the_Holungday-012-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-012-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "You're giving me a promotion as aSniperoperator? No problem. I'm sure I can set a fine example.",
+      "links": [
+        {
+          "text": "Sniper",
+          "href": "/wiki/Sniper"
+        }
+      ],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-013.ogg",
+        "CN": "Ch%27en_the_Holungday-013-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-013-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "To tell you the truth, I never thought my shooting would get to this level. I'm more used to fighting with a sword still, but shooting is indeed more convenient in certain scenarios.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-014.ogg",
+        "CN": "Ch%27en_the_Holungday-014-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-014-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Sau dou.[note 1]",
+      "links": [
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-015.ogg",
+        "CN": "Ch%27en_the_Holungday-015-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-015-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "No need to fret. I'll take care of it all.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-016.ogg",
+        "CN": "Ch%27en_the_Holungday-016-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-016-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Buck up and get ready for battle!",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-017.ogg",
+        "CN": "Ch%27en_the_Holungday-017-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-017-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Are you all ready? Let's go, then!",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-018.ogg",
+        "CN": "Ch%27en_the_Holungday-018-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-018-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Enemy spotted.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-019.ogg",
+        "CN": "Ch%27en_the_Holungday-019-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-019-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Ch'en here. Ready at a moment's notice.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-020.ogg",
+        "CN": "Ch%27en_the_Holungday-020-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-020-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "I will take care of this place.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-021.ogg",
+        "CN": "Ch%27en_the_Holungday-021-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-021-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Great spot.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-022.ogg",
+        "CN": "Ch%27en_the_Holungday-022-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-022-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Hmph!",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-023.ogg",
+        "CN": "Ch%27en_the_Holungday-023-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-023-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Don't let them get away!",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-024.ogg",
+        "CN": "Ch%27en_the_Holungday-024-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-024-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Laying suppressive fire!",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-025.ogg",
+        "CN": "Ch%27en_the_Holungday-025-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-025-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Time is limited.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-026.ogg",
+        "CN": "Ch%27en_the_Holungday-026-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-026-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Pure evil and a little torment is nothing to be afraid of. But there's never anything pure there, that's what's terrifying.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-027.ogg",
+        "CN": "Ch%27en_the_Holungday-027-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-027-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "That was some beautiful teamwork. Great work, everyone.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-028.ogg",
+        "CN": "Ch%27en_the_Holungday-028-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-028-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Help the wounded, and if you got any strength left, I need a few of you to stand guard with me.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-029.ogg",
+        "CN": "Ch%27en_the_Holungday-029-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-029-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Stay calm and fall back! I'll bring up the rear!",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-030.ogg",
+        "CN": "Ch%27en_the_Holungday-030-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-030-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Hm? Another new room? Engineering's doing a good job.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-031.ogg",
+        "CN": "Ch%27en_the_Holungday-031-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-031-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "You never learn, do you, Doctor?",
+      "links": [
+        {
+          "text": "You never learn, do you, Doctor?",
+          "href": "/wiki/Ch%27en/Dialogue"
+        }
+      ],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-032.ogg",
+        "CN": "Ch%27en_the_Holungday-032-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-032-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor, do you have a field operation next? I'll come with you.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-033.ogg",
+        "CN": "Ch%27en_the_Holungday-033-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-033-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor, you seem well.",
+      "links": [],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-034.ogg",
+        "CN": "Ch%27en_the_Holungday-034-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-034-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Ch%27en_the_Holungday-035.ogg",
+        "CN": "Ch%27en_the_Holungday-035-CN.ogg",
+        "EN": "Ch%27en_the_Holungday-035-EN.ogg",
+        "KR": "Ch%27en_the_Holungday-035-KR.ogg"
+      }
+    }
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "operator": "Suzuran",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Do you need any help,Doctor? Then, I'll do my homework later...",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Suzuran-001.ogg",
+        "CN": "Suzuran-001-CN.ogg",
+        "EN": "Suzuran-001-EN.ogg",
+        "KR": "Suzuran-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "You'd like to know more about my tails? Well, after I came toRhodes Island, I realized that I have more tails than the otherVulposisters here, and I don't know who I should talk to about it... But, the people my dad worked with all had a lot of tails... How strange.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        },
+        {
+          "text": "Vulpo",
+          "href": "/wiki/Vulpo"
+        }
+      ],
+      "audio": {
+        "JP": "Suzuran-002.ogg",
+        "CN": "Suzuran-002-CN.ogg",
+        "EN": "Suzuran-002-EN.ogg",
+        "KR": "Suzuran-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Upset? Thank you for your concern, Doctor. Everyone treats me well, so I can't be too needy, but... the beds here at Rhodes Island are a bit small, and it's hard to manage all my tails when I'm trying to sleep at night; And, someone's always watering the potted plants I've been growing, but they don't need that much attention.",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-003.ogg",
+        "CN": "Suzuran-003-CN.ogg",
+        "EN": "Suzuran-003-EN.ogg",
+        "KR": "Suzuran-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Big sisterAmiyais really amazing. She always has so many ideas that I haven't thought of, and she's a great role model. But, she's also just like me. She's not an adult yet, so she'll sometimes feel lost and confused. Doctor, you should spend more time with her.",
+      "links": [
+        {
+          "text": "Amiya",
+          "href": "/wiki/Amiya"
+        }
+      ],
+      "audio": {
+        "JP": "Suzuran-004.ogg",
+        "CN": "Suzuran-004-CN.ogg",
+        "EN": "Suzuran-004-EN.ogg",
+        "KR": "Suzuran-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "That first time I took a really long ride fromHigashitoSiracusa, I was so surprised! I never knew that other places could look so different! Even though right now I can only stay behind my mentors, and not all my memories are rosy, I still really love my life right now. Mhm!",
+      "links": [
+        {
+          "text": "Higashi",
+          "href": "/wiki/Higashi"
+        },
+        {
+          "text": "Siracusa",
+          "href": "/wiki/Siracusa"
+        }
+      ],
+      "audio": {
+        "JP": "Suzuran-005.ogg",
+        "CN": "Suzuran-005-CN.ogg",
+        "EN": "Suzuran-005-EN.ogg",
+        "KR": "Suzuran-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "The flame that my dad conjured was very beautiful. Of course it was fire, but it looked like crystal. After I came to Rhodes Island, I realized that it was the power my dad used to protect others. I can use what he taught me to help my mentors here! So, I'll continue to do my best!",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-006.ogg",
+        "CN": "Suzuran-006-CN.ogg",
+        "EN": "Suzuran-006-EN.ogg",
+        "KR": "Suzuran-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Since my arm was injured, my mom has rarely let me go out. I don't blame her though, and I'm even more worried about how she's going to deal with those bad people. That's why I should live the best life I can right now, so she doesn't have to worry about anything, right? As long as she stays calm, she's super strong!",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-007.ogg",
+        "CN": "Suzuran-007-CN.ogg",
+        "EN": "Suzuran-007-EN.ogg",
+        "KR": "Suzuran-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Although I haven't been an operator for very long, I know that what we're doing is very difficult, right? Even though my mentors are always chatting and laughing, they're also hiding their thoughts and feelings. If I can become a bit stronger, will I be able to help them share their troubles?",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-008.ogg",
+        "CN": "Suzuran-008-CN.ogg",
+        "EN": "Suzuran-008-EN.ogg",
+        "KR": "Suzuran-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Doctor, you... lost your memories? Really? Dr.Kal'tsitonly just told me about this today... Um, you should rest for the day. You also need some time to think about this, right? Just leave the rest of the work to me and, um, go spend some time with Amiya! Hehe!",
+      "links": [
+        {
+          "text": "Kal'tsit",
+          "href": "/wiki/Kal%27tsit"
+        }
+      ],
+      "audio": {
+        "JP": "Suzuran-009.ogg",
+        "CN": "Suzuran-009-CN.ogg",
+        "EN": "Suzuran-009-EN.ogg",
+        "KR": "Suzuran-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "You'll catch a cold like this. I'll need to find a blanket...",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-010.ogg",
+        "CN": "Suzuran-010-CN.ogg",
+        "EN": "Suzuran-010-EN.ogg",
+        "KR": "Suzuran-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Rhodes Island Operator, Lisa... Ah, I mean, Suzuran! Operator Suzuran! It's the code name I chose for myself. Starting today, I'm officially an operator, so I'll be in your care!",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-011.ogg",
+        "CN": "Suzuran-011-CN.ogg",
+        "EN": "Suzuran-011-EN.ogg",
+        "KR": "Suzuran-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "S-so this is how my mentors fight... They seem so powerful...",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-012.ogg",
+        "CN": "Suzuran-012-CN.ogg",
+        "EN": "Suzuran-012-EN.ogg",
+        "KR": "Suzuran-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Doctor, earlier today, Dr. Kal'tsit praised me... Um, a promotion? Not just praise? Eh?",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-013.ogg",
+        "CN": "Suzuran-013-CN.ogg",
+        "EN": "Suzuran-013-EN.ogg",
+        "KR": "Suzuran-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Look, Doctor! Look at myOriginium Arts! I've been working so hard on this! Now I'll be able to go to more places with my mentors, see more things, and help more people, right?",
+      "links": [
+        {
+          "text": "Originium Arts",
+          "href": "/wiki/Originium_Arts"
+        }
+      ],
+      "audio": {
+        "JP": "Suzuran-014.ogg",
+        "CN": "Suzuran-014-CN.ogg",
+        "EN": "Suzuran-014-EN.ogg",
+        "KR": "Suzuran-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "I'll make sure to work hard and make good use of this opportunity!",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-015.ogg",
+        "CN": "Suzuran-015-CN.ogg",
+        "EN": "Suzuran-015-EN.ogg",
+        "KR": "Suzuran-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Eh, I'll be leading my mentors? O-okay, leave it to me! As the captain, I mustn't be too weak!",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-016.ogg",
+        "CN": "Suzuran-016-CN.ogg",
+        "EN": "Suzuran-016-EN.ogg",
+        "KR": "Suzuran-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Operation, start.",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-017.ogg",
+        "CN": "Suzuran-017-CN.ogg",
+        "EN": "Suzuran-017-EN.ogg",
+        "KR": "Suzuran-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "The enemy appeared! Um, can't we persuade them to give up?",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-018.ogg",
+        "CN": "Suzuran-018-CN.ogg",
+        "EN": "Suzuran-018-EN.ogg",
+        "KR": "Suzuran-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Ah, okay!",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-019.ogg",
+        "CN": "Suzuran-019-CN.ogg",
+        "EN": "Suzuran-019-EN.ogg",
+        "KR": "Suzuran-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Doctor, your orders please!",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-020.ogg",
+        "CN": "Suzuran-020-CN.ogg",
+        "EN": "Suzuran-020-EN.ogg",
+        "KR": "Suzuran-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Don't be nervous, don't be nervous.",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-021.ogg",
+        "CN": "Suzuran-021-CN.ogg",
+        "EN": "Suzuran-021-EN.ogg",
+        "KR": "Suzuran-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "We can all do this! Mm!",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-022.ogg",
+        "CN": "Suzuran-022-CN.ogg",
+        "EN": "Suzuran-022-EN.ogg",
+        "KR": "Suzuran-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "B-be careful!",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-023.ogg",
+        "CN": "Suzuran-023-CN.ogg",
+        "EN": "Suzuran-023-EN.ogg",
+        "KR": "Suzuran-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Is everyone okay? Everyone's safe, right?",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-024.ogg",
+        "CN": "Suzuran-024-CN.ogg",
+        "EN": "Suzuran-024-EN.ogg",
+        "KR": "Suzuran-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Hang in there!",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-025.ogg",
+        "CN": "Suzuran-025-CN.ogg",
+        "EN": "Suzuran-025-EN.ogg",
+        "KR": "Suzuran-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Please hold on!",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-026.ogg",
+        "CN": "Suzuran-026-CN.ogg",
+        "EN": "Suzuran-026-EN.ogg",
+        "KR": "Suzuran-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "So this is the actual battlefield that my mentors faced... Doctor, I think we can do even better. I'll work harder.",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-027.ogg",
+        "CN": "Suzuran-027-CN.ogg",
+        "EN": "Suzuran-027-EN.ogg",
+        "KR": "Suzuran-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Doctor, did I do a good job? I didn't hold the others back, right? Really? Thank goodness...",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-028.ogg",
+        "CN": "Suzuran-028-CN.ogg",
+        "EN": "Suzuran-028-EN.ogg",
+        "KR": "Suzuran-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Doctor, are you okay? Is there anyone who's injured? I, I'll go take care of them!",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-029.ogg",
+        "CN": "Suzuran-029-CN.ogg",
+        "EN": "Suzuran-029-EN.ogg",
+        "KR": "Suzuran-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Sorry, it's my fault I didn't work hard enough...",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-030.ogg",
+        "CN": "Suzuran-030-CN.ogg",
+        "EN": "Suzuran-030-EN.ogg",
+        "KR": "Suzuran-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "I've lived here for a long time, so I won't get lost.",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-031.ogg",
+        "CN": "Suzuran-031-CN.ogg",
+        "EN": "Suzuran-031-EN.ogg",
+        "KR": "Suzuran-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Nooo!",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-032.ogg",
+        "CN": "Suzuran-032-CN.ogg",
+        "EN": "Suzuran-032-EN.ogg",
+        "KR": "Suzuran-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor? Oh, would you like some mini cakes? I was planning to take these to everyone in the Medical Department, but you also work very hard... so please help yourself!",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-033.ogg",
+        "CN": "Suzuran-033-CN.ogg",
+        "EN": "Suzuran-033-EN.ogg",
+        "KR": "Suzuran-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Good work, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Suzuran-034.ogg",
+        "CN": "Suzuran-034-CN.ogg",
+        "EN": "Suzuran-034-EN.ogg",
+        "KR": "Suzuran-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Suzuran-035.ogg",
+        "CN": "Suzuran-035-CN.ogg",
+        "EN": "Suzuran-035-EN.ogg",
+        "KR": "Suzuran-035-KR.ogg"
+      }
+    }
+  }
+}

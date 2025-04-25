@@ -1,0 +1,423 @@
+{
+  "operator": "Pallas",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Become an assistant? If the job is similar to that of a priestess of the Hall of the Twelve Heroes, I shall be fine.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-001.ogg",
+        "CN": "Pallas-001-CN.ogg",
+        "EN": "Pallas-001-EN.ogg",
+        "KR": "Pallas-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Ugh... Ehem, I must not drink, drink so much next time... Ah,Dr. {nickname}. Why do you sway, so much in your movement today?",
+      "links": [
+        {
+          "text": "Dr. {nickname}",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Pallas-002.ogg",
+        "CN": "Pallas-002-CN.ogg",
+        "EN": "Pallas-002-EN.ogg",
+        "KR": "Pallas-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "The city is a grand sight during the festivals. Theatrical performances, sparkling wine, sports competitions... To be frank, I have even once participated in amateur Formula Chariot racing. That chariot was not cheap. I wonder if its fate was being inherited, or if it was simply abandoned after I left.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-003.ogg",
+        "CN": "Pallas-003-CN.ogg",
+        "EN": "Pallas-003-EN.ogg",
+        "KR": "Pallas-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "To think that there were so many like-minded comrades inRhodes Island. Yes, poetry! War! Freedom! To gather the people's strength from within the torrent of history, and fight to change this world. How exhilarating! These tragic yet extraordinary stories should be immortalized and passed down forevermore.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Pallas-004.ogg",
+        "CN": "Pallas-004-CN.ogg",
+        "EN": "Pallas-004-EN.ogg",
+        "KR": "Pallas-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "After contractingOripathy, I moved to a small village at the border of Minos. There was a small ongoing war against theSargonincursions... In the end, theMinoanswere victorious. However, rather than the so-called reality, I would rather wish that it spreads slowly as a story.",
+      "links": [
+        {
+          "text": "Oripathy",
+          "href": "/wiki/Oripathy"
+        },
+        {
+          "text": "Sargon",
+          "href": "/wiki/Sargon"
+        },
+        {
+          "text": "Minoans",
+          "href": "/wiki/Minos"
+        }
+      ],
+      "audio": {
+        "JP": "Pallas-005.ogg",
+        "CN": "Pallas-005-CN.ogg",
+        "EN": "Pallas-005-EN.ogg",
+        "KR": "Pallas-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Simply light the flames of resistance, and it shall burn hot and fierce. Just pass on the story of the 'Goddess of War' to those that dearly wish for liberation! All that I have, is but this infected body of mine, and this unchanging faith.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-006.ogg",
+        "CN": "Pallas-006-CN.ogg",
+        "EN": "Pallas-006-EN.ogg",
+        "KR": "Pallas-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Is that so.Vulcan, once the champion of weapon forging, is here? This is great news indeed! This weapon in my hand has confounded many a smith, and I have had great difficulty in getting it repaired. Look upon this signature, which belongs to her... Oh? I shouldn't mention it?",
+      "links": [
+        {
+          "text": "Vulcan",
+          "href": "/wiki/Vulcan"
+        }
+      ],
+      "audio": {
+        "JP": "Pallas-007.ogg",
+        "CN": "Pallas-007-CN.ogg",
+        "EN": "Pallas-007-EN.ogg",
+        "KR": "Pallas-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "The stories of Minoan heroes... There exist both comedies and tragedies alike. However, the noblest part of the Twelve Heroes is that——Without exception, each and every one of them returned to a simple, ordinary life.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-008.ogg",
+        "CN": "Pallas-008-CN.ogg",
+        "EN": "Pallas-008-EN.ogg",
+        "KR": "Pallas-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "To be oppressed for so long that one becomes numb to it is a most pitiable thing. A heart without hope will not burn with the fires of rage. I would never wish for anyone to face cruelty, but those who aspire to become a warrior must possess a bit of hope, a little spark and a timely opportunity.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-009.ogg",
+        "CN": "Pallas-009-CN.ogg",
+        "EN": "Pallas-009-EN.ogg",
+        "KR": "Pallas-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "I am used to thinking while standing upright. From time to time, I am suddenly poked, simply to check if I have fallen asleep on my feet.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-010.ogg",
+        "CN": "Pallas-010-CN.ogg",
+        "EN": "Pallas-010-EN.ogg",
+        "KR": "Pallas-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I am the Minoan priestess, Pallas. I shall be convalescing at Rhodes Island for a time... Be that as it may, I hope to enjoy my share of alcohol and theatre, and I yearn even more for battle.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-011.ogg",
+        "CN": "Pallas-011-CN.ogg",
+        "EN": "Pallas-011-EN.ogg",
+        "KR": "Pallas-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "To be able to record the acts of the warriors in battle with such realism, what a great convenience it is.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-012.ogg",
+        "CN": "Pallas-012-CN.ogg",
+        "EN": "Pallas-012-EN.ogg",
+        "KR": "Pallas-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Abandoning glory, the hero decided to return to normal life, but could not, due to Oripathy infection? No... It should not be so...",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-013.ogg",
+        "CN": "Pallas-013-CN.ogg",
+        "EN": "Pallas-013-EN.ogg",
+        "KR": "Pallas-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "I am... a believer chasing after the will of the heroes. My weapon shall remain ever sharp and free of rust, to be employed against the forces of injustice and cruelty. My humility shall not be forgotten, and it will remind me of my mission to save others.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-014.ogg",
+        "CN": "Pallas-014-CN.ogg",
+        "EN": "Pallas-014-EN.ogg",
+        "KR": "Pallas-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Heroes who promise victory, I shall receive your blessings.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-015.ogg",
+        "CN": "Pallas-015-CN.ogg",
+        "EN": "Pallas-015-EN.ogg",
+        "KR": "Pallas-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I am with you, o great warriors, to fight by your side.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-016.ogg",
+        "CN": "Pallas-016-CN.ogg",
+        "EN": "Pallas-016-EN.ogg",
+        "KR": "Pallas-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "The next time you turn your head, it shall be us returning with victory in hand.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-017.ogg",
+        "CN": "Pallas-017-CN.ogg",
+        "EN": "Pallas-017-EN.ogg",
+        "KR": "Pallas-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Fear not, for we shall claim victory over these reckless fellows!",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-018.ogg",
+        "CN": "Pallas-018-CN.ogg",
+        "EN": "Pallas-018-EN.ogg",
+        "KR": "Pallas-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Rejoice!",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-019.ogg",
+        "CN": "Pallas-019-CN.ogg",
+        "EN": "Pallas-019-EN.ogg",
+        "KR": "Pallas-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Come––",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-020.ogg",
+        "CN": "Pallas-020-CN.ogg",
+        "EN": "Pallas-020-EN.ogg",
+        "KR": "Pallas-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "There is no room for regret.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-021.ogg",
+        "CN": "Pallas-021-CN.ogg",
+        "EN": "Pallas-021-EN.ogg",
+        "KR": "Pallas-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "We need not retreat.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-022.ogg",
+        "CN": "Pallas-022-CN.ogg",
+        "EN": "Pallas-022-EN.ogg",
+        "KR": "Pallas-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "O' heroes, for this greatest faith of ours, please stand on our side.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-023.ogg",
+        "CN": "Pallas-023-CN.ogg",
+        "EN": "Pallas-023-EN.ogg",
+        "KR": "Pallas-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Tremble, in the face of true bravery.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-024.ogg",
+        "CN": "Pallas-024-CN.ogg",
+        "EN": "Pallas-024-EN.ogg",
+        "KR": "Pallas-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Weep, for that worthless faith of yours.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-025.ogg",
+        "CN": "Pallas-025-CN.ogg",
+        "EN": "Pallas-025-EN.ogg",
+        "KR": "Pallas-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "You shall kneel here.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-026.ogg",
+        "CN": "Pallas-026-CN.ogg",
+        "EN": "Pallas-026-EN.ogg",
+        "KR": "Pallas-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Have we done it...? I feel only the greatest honor and joy.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-027.ogg",
+        "CN": "Pallas-027-CN.ogg",
+        "EN": "Pallas-027-EN.ogg",
+        "KR": "Pallas-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Turn about, o heroes. We have achieved a perfect victory, and it is now time to return and enjoy the fruits of our labors.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-028.ogg",
+        "CN": "Pallas-028-CN.ogg",
+        "EN": "Pallas-028-EN.ogg",
+        "KR": "Pallas-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Listen well, the laments have ceased. This calm heralds the arrival of peace and joy.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-029.ogg",
+        "CN": "Pallas-029-CN.ogg",
+        "EN": "Pallas-029-EN.ogg",
+        "KR": "Pallas-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Even though the wars of humanity have no end in sight... At this moment, we have protected our dignity. Leave. Keep your heads held high.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-030.ogg",
+        "CN": "Pallas-030-CN.ogg",
+        "EN": "Pallas-030-EN.ogg",
+        "KR": "Pallas-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "My horns are a danger to furniture. I shall be vigilant.",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-031.ogg",
+        "CN": "Pallas-031-CN.ogg",
+        "EN": "Pallas-031-EN.ogg",
+        "KR": "Pallas-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "What would you do, should you possess wisdom and strength?",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-032.ogg",
+        "CN": "Pallas-032-CN.ogg",
+        "EN": "Pallas-032-EN.ogg",
+        "KR": "Pallas-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Shall we go and enjoy ourselves at the Minoan-themed multimedia room event?",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-033.ogg",
+        "CN": "Pallas-033-CN.ogg",
+        "EN": "Pallas-033-EN.ogg",
+        "KR": "Pallas-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Are you rested, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "Pallas-034.ogg",
+        "CN": "Pallas-034-CN.ogg",
+        "EN": "Pallas-034-EN.ogg",
+        "KR": "Pallas-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Pallas-035.ogg",
+        "CN": "Pallas-035-CN.ogg",
+        "EN": "Pallas-035-EN.ogg",
+        "KR": "Pallas-035-KR.ogg"
+      }
+    }
+  }
+}

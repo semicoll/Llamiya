@@ -1,0 +1,474 @@
+{
+  "operator": "Texas the Omertosa",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I'm your bodyguard again, just like old times,Doctor. And it's not just a job, it's a reunion. That's something worth cherishing.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Texas_the_Omertosa-001.ogg",
+        "CN": "Texas_the_Omertosa-001-CN.ogg",
+        "EN": "Texas_the_Omertosa-001-EN.ogg",
+        "KR": "Texas_the_Omertosa-001-KR.ogg",
+        "IT": "Texas_the_Omertosa-001-IT.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "How does it feel to be back inSiracusa? Not great. It's for wise guys and famiglie, not me. I'm only staying long enough to cut ties with the past. After I'm done washing my hands of the whole business, I'm heading back toLungmento pick up the girls, and then going out for a nice drive.",
+      "links": [
+        {
+          "text": "Siracusa",
+          "href": "/wiki/Siracusa"
+        },
+        {
+          "text": "Lungmen",
+          "href": "/wiki/Lungmen"
+        }
+      ],
+      "audio": {
+        "JP": "Texas_the_Omertosa-002.ogg",
+        "CN": "Texas_the_Omertosa-002-CN.ogg",
+        "EN": "Texas_the_Omertosa-002-EN.ogg",
+        "KR": "Texas_the_Omertosa-002-KR.ogg",
+        "IT": "Texas_the_Omertosa-002-IT.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "I didn't want to getPenguin Logisticsinvolved, but it was a relief to see them in Siracusa. My noisy friends, that life of freedom... Looking back now, staying with them in Lungmen was the best decision I ever made. Just, don't tell them I said that.",
+      "links": [
+        {
+          "text": "Penguin Logistics",
+          "href": "/wiki/Penguin_Logistics"
+        }
+      ],
+      "audio": {
+        "JP": "Texas_the_Omertosa-003.ogg",
+        "CN": "Texas_the_Omertosa-003-CN.ogg",
+        "EN": "Texas_the_Omertosa-003-EN.ogg",
+        "KR": "Texas_the_Omertosa-003-KR.ogg",
+        "IT": "Texas_the_Omertosa-003-IT.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Sometimes I hear Siracusans talking about the downfall of Famiglia Texas. No two versions of the story are the same. Most are pretty dull, and some make for interesting fairytales, but in the end, they're all pretty embellished. The real story is... I just got exhausted, and decided to leave.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-004.ogg",
+        "CN": "Texas_the_Omertosa-004-CN.ogg",
+        "EN": "Texas_the_Omertosa-004-EN.ogg",
+        "KR": "Texas_the_Omertosa-004-KR.ogg",
+        "IT": "Texas_the_Omertosa-004-IT.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Ever noticed how even the rain here stains the walls outside? Dirty rainwater can't wash anything clean. And that's Siracusa. Siracusans might be used to it, but I'm not.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-005.ogg",
+        "CN": "Texas_the_Omertosa-005-CN.ogg",
+        "EN": "Texas_the_Omertosa-005-EN.ogg",
+        "KR": "Texas_the_Omertosa-005-KR.ogg",
+        "IT": "Texas_the_Omertosa-005-IT.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "I've got no interest in joining Greyhall. The dons sit in their chairs, acting all high and mighty, hiding their plans. I decided to confrontSignora Siciliabecause she thinks she can tame everyone, and that's one thing I can't stand.",
+      "links": [
+        {
+          "text": "Signora Sicilia",
+          "href": "/wiki/Signora_Sicilia"
+        }
+      ],
+      "audio": {
+        "JP": "Texas_the_Omertosa-006.ogg",
+        "CN": "Texas_the_Omertosa-006-CN.ogg",
+        "EN": "Texas_the_Omertosa-006-EN.ogg",
+        "KR": "Texas_the_Omertosa-006-KR.ogg",
+        "IT": "Texas_the_Omertosa-006-IT.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "I sawLapplandin Siracusa. Oh, you haven't seen her in a while? Not like she needs anyone worrying about her. If she's over me now, she'll find something else to cut. As for the score we haven't settled, I say it doesn't matter. We'll meet again soon enough.",
+      "links": [
+        {
+          "text": "Lappland",
+          "href": "/wiki/Lappland"
+        }
+      ],
+      "audio": {
+        "JP": "Texas_the_Omertosa-007.ogg",
+        "CN": "Texas_the_Omertosa-007-CN.ogg",
+        "EN": "Texas_the_Omertosa-007-EN.ogg",
+        "KR": "Texas_the_Omertosa-007-KR.ogg",
+        "IT": "Texas_the_Omertosa-007-IT.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "I was born inColumbia, but my grandfather wanted me to become a proper mafiosa and sent me to Siracusa to learn the trade. But to this day I don't understand why the people here like macaroni so much? I used to go to this little place for macaroni myself, but it closed down a long time ago. The owner died in a back alley.",
+      "links": [
+        {
+          "text": "Columbia",
+          "href": "/wiki/Columbia"
+        }
+      ],
+      "audio": {
+        "JP": "Texas_the_Omertosa-008.ogg",
+        "CN": "Texas_the_Omertosa-008-CN.ogg",
+        "EN": "Texas_the_Omertosa-008-EN.ogg",
+        "KR": "Texas_the_Omertosa-008-KR.ogg",
+        "IT": "Texas_the_Omertosa-008-IT.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "In Siracusa, there were a whole lot of people trying to guess what I'd do. It wasn't that complicated. I was there to do what I had to do, and help those who deserved help. Doctor, all I ask is that we continue to get along just like we used to. This relationship, built on real trust, is hard to find there.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-009.ogg",
+        "CN": "Texas_the_Omertosa-009-CN.ogg",
+        "EN": "Texas_the_Omertosa-009-EN.ogg",
+        "KR": "Texas_the_Omertosa-009-KR.ogg",
+        "IT": "Texas_the_Omertosa-009-IT.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "It's quiet here. No hitmen haunting the shadows, no wolves waiting in the alleys.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-010.ogg",
+        "CN": "Texas_the_Omertosa-010-CN.ogg",
+        "EN": "Texas_the_Omertosa-010-EN.ogg",
+        "KR": "Texas_the_Omertosa-010-KR.ogg",
+        "IT": "Texas_the_Omertosa-010-IT.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "We meet again, Doctor. The Siracusan rainy season always gets my tail wet, so I prefer the climate here. Don't worry,Exusiaiand the girls will keep taking care of the deliveries, but I'll handle any jobs assigned to me personally.",
+      "links": [
+        {
+          "text": "Exusiai",
+          "href": "/wiki/Exusiai"
+        }
+      ],
+      "audio": {
+        "JP": "Texas_the_Omertosa-011.ogg",
+        "CN": "Texas_the_Omertosa-011-CN.ogg",
+        "EN": "Texas_the_Omertosa-011-EN.ogg",
+        "KR": "Texas_the_Omertosa-011-KR.ogg",
+        "IT": "Texas_the_Omertosa-011-IT.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Thanks. Doesn't seem much different from your average delivery run in Lungmen.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-012.ogg",
+        "CN": "Texas_the_Omertosa-012-CN.ogg",
+        "EN": "Texas_the_Omertosa-012-EN.ogg",
+        "KR": "Texas_the_Omertosa-012-KR.ogg",
+        "IT": "Texas_the_Omertosa-012-IT.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "I'm not helping you for the money, Doctor. But still, go ahead and send my salary over to Penguin Logistics as usual. I'll pick it up fromEmperor.",
+      "links": [
+        {
+          "text": "Emperor",
+          "href": "/wiki/Emperor"
+        }
+      ],
+      "audio": {
+        "JP": "Texas_the_Omertosa-013.ogg",
+        "CN": "Texas_the_Omertosa-013-CN.ogg",
+        "EN": "Texas_the_Omertosa-013-EN.ogg",
+        "KR": "Texas_the_Omertosa-013-KR.ogg",
+        "IT": "Texas_the_Omertosa-013-IT.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "I still have a lot to take care of before I can enjoy a peaceful life, and if the only way to shake the past is to smash it to pieces, then that's exactly what I'll do. Simple as that.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-014.ogg",
+        "CN": "Texas_the_Omertosa-014-CN.ogg",
+        "EN": "Texas_the_Omertosa-014-EN.ogg",
+        "KR": "Texas_the_Omertosa-014-KR.ogg",
+        "IT": "Texas_the_Omertosa-014-IT.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Order confirmed, crystal clear.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-015.ogg",
+        "CN": "Texas_the_Omertosa-015-CN.ogg",
+        "EN": "Texas_the_Omertosa-015-EN.ogg",
+        "KR": "Texas_the_Omertosa-015-KR.ogg",
+        "IT": "Texas_the_Omertosa-015-IT.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Alright. Try to keep up. Let me know if you can't.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-016.ogg",
+        "CN": "Texas_the_Omertosa-016-CN.ogg",
+        "EN": "Texas_the_Omertosa-016-EN.ogg",
+        "KR": "Texas_the_Omertosa-016-KR.ogg",
+        "IT": "Texas_the_Omertosa-016-IT.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "No need to make a scene.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-017.ogg",
+        "CN": "Texas_the_Omertosa-017-CN.ogg",
+        "EN": "Texas_the_Omertosa-017-EN.ogg",
+        "KR": "Texas_the_Omertosa-017-KR.ogg",
+        "IT": "Texas_the_Omertosa-017-IT.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Don't leave bloodstains. They're hard to clean.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-018.ogg",
+        "CN": "Texas_the_Omertosa-018-CN.ogg",
+        "EN": "Texas_the_Omertosa-018-EN.ogg",
+        "KR": "Texas_the_Omertosa-018-KR.ogg",
+        "IT": "Texas_the_Omertosa-018-IT.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Moving to designated location.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-019.ogg",
+        "CN": "Texas_the_Omertosa-019-CN.ogg",
+        "EN": "Texas_the_Omertosa-019-EN.ogg",
+        "KR": "Texas_the_Omertosa-019-KR.ogg",
+        "IT": "Texas_the_Omertosa-019-IT.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Need speed to succeed.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-020.ogg",
+        "CN": "Texas_the_Omertosa-020-CN.ogg",
+        "EN": "Texas_the_Omertosa-020-EN.ogg",
+        "KR": "Texas_the_Omertosa-020-KR.ogg",
+        "IT": "Texas_the_Omertosa-020-IT.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Got a problem that needs solving?",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-021.ogg",
+        "CN": "Texas_the_Omertosa-021-CN.ogg",
+        "EN": "Texas_the_Omertosa-021-EN.ogg",
+        "KR": "Texas_the_Omertosa-021-KR.ogg",
+        "IT": "Texas_the_Omertosa-021-IT.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "I see them. I'll be right back.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-022.ogg",
+        "CN": "Texas_the_Omertosa-022-CN.ogg",
+        "EN": "Texas_the_Omertosa-022-EN.ogg",
+        "KR": "Texas_the_Omertosa-022-KR.ogg",
+        "IT": "Texas_the_Omertosa-022-IT.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Bad luck, you ran into me.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-023.ogg",
+        "CN": "Texas_the_Omertosa-023-CN.ogg",
+        "EN": "Texas_the_Omertosa-023-EN.ogg",
+        "KR": "Texas_the_Omertosa-023-KR.ogg",
+        "IT": "Texas_the_Omertosa-023-IT.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "You saw nothing.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-024.ogg",
+        "CN": "Texas_the_Omertosa-024-CN.ogg",
+        "EN": "Texas_the_Omertosa-024-EN.ogg",
+        "KR": "Texas_the_Omertosa-024-KR.ogg",
+        "IT": "Texas_the_Omertosa-024-IT.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Pass on your last words? No.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-025.ogg",
+        "CN": "Texas_the_Omertosa-025-CN.ogg",
+        "EN": "Texas_the_Omertosa-025-EN.ogg",
+        "KR": "Texas_the_Omertosa-025-KR.ogg",
+        "IT": "Texas_the_Omertosa-025-IT.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "This will keep you quiet.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-026.ogg",
+        "CN": "Texas_the_Omertosa-026-CN.ogg",
+        "EN": "Texas_the_Omertosa-026-EN.ogg",
+        "KR": "Texas_the_Omertosa-026-KR.ogg",
+        "IT": "Texas_the_Omertosa-026-IT.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "The only way to solve a problem is to clear all the obstacles in the way, no matter what they might be and keep moving.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-027.ogg",
+        "CN": "Texas_the_Omertosa-027-CN.ogg",
+        "EN": "Texas_the_Omertosa-027-EN.ogg",
+        "KR": "Texas_the_Omertosa-027-KR.ogg",
+        "IT": "Texas_the_Omertosa-027-IT.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "A battle without an explosion or cheering makes me feel a little uneasy. Let's head back. A drink? Maybe next time.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-028.ogg",
+        "CN": "Texas_the_Omertosa-028-CN.ogg",
+        "EN": "Texas_the_Omertosa-028-EN.ogg",
+        "KR": "Texas_the_Omertosa-028-KR.ogg",
+        "IT": "Texas_the_Omertosa-028-IT.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "There's still more to clean. When's our next sweep?",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-029.ogg",
+        "CN": "Texas_the_Omertosa-029-CN.ogg",
+        "EN": "Texas_the_Omertosa-029-EN.ogg",
+        "KR": "Texas_the_Omertosa-029-KR.ogg",
+        "IT": "Texas_the_Omertosa-029-IT.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "I can take out a few more. You go ahead and retreat.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-030.ogg",
+        "CN": "Texas_the_Omertosa-030-CN.ogg",
+        "EN": "Texas_the_Omertosa-030-EN.ogg",
+        "KR": "Texas_the_Omertosa-030-KR.ogg",
+        "IT": "Texas_the_Omertosa-030-IT.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "This place reminds me of Lungmen. It's quiet. Doesn't have the constant pitter patter of the rain.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-031.ogg",
+        "CN": "Texas_the_Omertosa-031-CN.ogg",
+        "EN": "Texas_the_Omertosa-031-EN.ogg",
+        "KR": "Texas_the_Omertosa-031-KR.ogg",
+        "IT": "Texas_the_Omertosa-031-IT.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Hey. Stop it.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-032.ogg",
+        "CN": "Texas_the_Omertosa-032-CN.ogg",
+        "EN": "Texas_the_Omertosa-032-EN.ogg",
+        "KR": "Texas_the_Omertosa-032-KR.ogg",
+        "IT": "Texas_the_Omertosa-032-IT.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor, where's the hair dryer? I'd like to dry my tail.",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-033.ogg",
+        "CN": "Texas_the_Omertosa-033-CN.ogg",
+        "EN": "Texas_the_Omertosa-033-EN.ogg",
+        "KR": "Texas_the_Omertosa-033-KR.ogg",
+        "IT": "Texas_the_Omertosa-033-IT.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Great, this place is the same as it ever was. Morning. Got any new plans?",
+      "links": [],
+      "audio": {
+        "JP": "Texas_the_Omertosa-034.ogg",
+        "CN": "Texas_the_Omertosa-034-CN.ogg",
+        "EN": "Texas_the_Omertosa-034-EN.ogg",
+        "KR": "Texas_the_Omertosa-034-KR.ogg",
+        "IT": "Texas_the_Omertosa-034-IT.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Texas_the_Omertosa-035.ogg",
+        "CN": "Texas_the_Omertosa-035-CN.ogg",
+        "EN": "Texas_the_Omertosa-035-EN.ogg",
+        "KR": "Texas_the_Omertosa-035-KR.ogg",
+        "IT": "Texas_the_Omertosa-035-IT.ogg"
+      }
+    }
+  }
+}

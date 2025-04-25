@@ -1,0 +1,538 @@
+{
+  "operator": "Młynar",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "If you've thought it through, I have no qualms with it. Please let me know when the documents are due.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-001.ogg",
+        "CN": "M%C5%82ynar-001-CN.ogg",
+        "EN": "M%C5%82ynar-001-EN.ogg",
+        "KR": "M%C5%82ynar-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "...Please, go ahead. It's okay. Reading the paper is just an unhelpful habit I picked up in theGrand Knight Territory, but one can learn much more from a day's trip outside the city than a hundred papers can teach... It's true thatthe Nearl nameoften shows up in the headlines, but there's no need to pay that any mind.",
+      "links": [
+        {
+          "text": "Grand Knight Territory",
+          "href": "/wiki/Kawalerielki"
+        },
+        {
+          "text": "the Nearl name",
+          "href": "/wiki/House_Nearl"
+        }
+      ],
+      "audio": {
+        "JP": "M%C5%82ynar-002.ogg",
+        "CN": "M%C5%82ynar-002-CN.ogg",
+        "EN": "M%C5%82ynar-002-EN.ogg",
+        "KR": "M%C5%82ynar-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "I'm afraid I can't adviseRhodes Islandon its affairs inKazimierz. I may have spent a decade in that tower, but only as an unambitious nobody. I'm in no position to express my views on theGeneral Chamber of Commerce. The sword...? Yes, I know how to use one, and I've always used the same one.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        },
+        {
+          "text": "Kazimierz",
+          "href": "/wiki/Kazimierz"
+        },
+        {
+          "text": "General Chamber of Commerce",
+          "href": "/wiki/Kazimierz_General_Chamber_of_Commerce"
+        }
+      ],
+      "audio": {
+        "JP": "M%C5%82ynar-003.ogg",
+        "CN": "M%C5%82ynar-003-CN.ogg",
+        "EN": "M%C5%82ynar-003-EN.ogg",
+        "KR": "M%C5%82ynar-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "No need to haveMariacome see me. She's not a child anymore, and ought to make her own decisions, lest she embarrass her parents. A knight should temper themselves through travel, and no matter what she does under Rhodes Island's wing, she must always be responsible for her own actions.",
+      "links": [
+        {
+          "text": "Maria",
+          "href": "/wiki/Blemishine"
+        }
+      ],
+      "audio": {
+        "JP": "M%C5%82ynar-004.ogg",
+        "CN": "M%C5%82ynar-004-CN.ogg",
+        "EN": "M%C5%82ynar-004-EN.ogg",
+        "KR": "M%C5%82ynar-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Leithanien's conspiracies... Nothing more than trifles that happened years ago. It doesn't change the fact that I'm an ordinary citizen, nor does it change anything else. To Kazimierzians, stars and heroes come and go. The success they enjoy is only that which they are permitted.",
+      "links": [
+        {
+          "text": "Leithanien",
+          "href": "/wiki/Leithanien"
+        }
+      ],
+      "audio": {
+        "JP": "M%C5%82ynar-005.ogg",
+        "CN": "M%C5%82ynar-005-CN.ogg",
+        "EN": "M%C5%82ynar-005-EN.ogg",
+        "KR": "M%C5%82ynar-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "SeemsMargaretkept the titleshe earned from that charade. Hmph, so she still sees her actions as a victory, after squandering the Nearls' glory in those cheap commercial performances... MyOriginium Arts? Niestety (Alas)[note 1]I can nary illuminate a thing.",
+      "links": [
+        {
+          "text": "Margaret",
+          "href": "/wiki/Nearl"
+        },
+        {
+          "text": "kept the title",
+          "href": "/wiki/Nearl_the_Radiant_Knight"
+        },
+        {
+          "text": "she earned from that charade",
+          "href": "/wiki/Near_Light/Synopsis"
+        },
+        {
+          "text": "Originium Arts",
+          "href": "/wiki/Originium_Arts"
+        },
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {
+        "JP": "M%C5%82ynar-006.ogg",
+        "CN": "M%C5%82ynar-006-CN.ogg",
+        "EN": "M%C5%82ynar-006-EN.ogg",
+        "KR": "M%C5%82ynar-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "No need to teach me how to get along with theInfected...You should be aware of my time spent living among the refugees...? The Infected, the disabled, the bankrupt, the famished and poor... they're all the same in the ways that matter. The most honorable thing they can hope to achieve is climbing out of their tent in the settlement before their final moments arrive.",
+      "links": [
+        {
+          "text": "Infected",
+          "href": "/wiki/Infected"
+        }
+      ],
+      "audio": {
+        "JP": "M%C5%82ynar-007.ogg",
+        "CN": "M%C5%82ynar-007-CN.ogg",
+        "EN": "M%C5%82ynar-007-EN.ogg",
+        "KR": "M%C5%82ynar-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "You, too, encourage the others to throw themselves at a cause that will yield no results. Those who attempt to walk through fire in the dark night will only find themselves immolated. That said, you don't need my advice, given the path you so obstinately walk alone.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-008.ogg",
+        "CN": "M%C5%82ynar-008-CN.ogg",
+        "EN": "M%C5%82ynar-008-EN.ogg",
+        "KR": "M%C5%82ynar-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "In the first two years after they left the Grand Knight Territory, the campaign knights would often bring me their letters. By the time the last one arrived, Maria was already old enough to understand its gist... Whether the letters were written beforehand makes no difference to me, but given the weight of their lives and deaths, they wouldn't have disappeared without so much as a peep.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-009.ogg",
+        "CN": "M%C5%82ynar-009-CN.ogg",
+        "EN": "M%C5%82ynar-009-EN.ogg",
+        "KR": "M%C5%82ynar-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Pustkowie bez światła...(A wilderness without light...)[note 2]",
+      "links": [
+        {
+          "text": "[note 2]",
+          "href": "#cite_note-2"
+        }
+      ],
+      "audio": {
+        "JP": "M%C5%82ynar-010.ogg",
+        "CN": "M%C5%82ynar-010-CN.ogg",
+        "EN": "M%C5%82ynar-010-EN.ogg",
+        "KR": "M%C5%82ynar-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Młynar Nearl. Per our contract's provisions, I shall assist Rhodes Island with its operations in Kazimierz. ...You already knew my name. I'm neither a knight, nor do I have a title.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-011.ogg",
+        "CN": "M%C5%82ynar-011-CN.ogg",
+        "EN": "M%C5%82ynar-011-EN.ogg",
+        "KR": "M%C5%82ynar-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Mądry Kazimierzanin po szkodzie...(A Kazimierzian is smart after the damage is done...)[note 3]",
+      "links": [
+        {
+          "text": "[note 3]",
+          "href": "#cite_note-3"
+        }
+      ],
+      "audio": {
+        "JP": "M%C5%82ynar-012.ogg",
+        "CN": "M%C5%82ynar-012-CN.ogg",
+        "EN": "M%C5%82ynar-012-EN.ogg",
+        "KR": "M%C5%82ynar-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "I appreciate your appraisal, if you consider such ordinary performance worthy of promotion.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-013.ogg",
+        "CN": "M%C5%82ynar-013-CN.ogg",
+        "EN": "M%C5%82ynar-013-EN.ogg",
+        "KR": "M%C5%82ynar-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Titles and positions are both meaningless. The knights of the Nearl family do not require recognition to walk their paths. Even in modern Kazimierz, where every path leads to darkness.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-014.ogg",
+        "CN": "M%C5%82ynar-014-CN.ogg",
+        "EN": "M%C5%82ynar-014-EN.ogg",
+        "KR": "M%C5%82ynar-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Man has forgotten true struggle... as well as those who require it to survive.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-015.ogg",
+        "CN": "M%C5%82ynar-015-CN.ogg",
+        "EN": "M%C5%82ynar-015-EN.ogg",
+        "KR": "M%C5%82ynar-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "...Follow me.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-016.ogg",
+        "CN": "M%C5%82ynar-016-CN.ogg",
+        "EN": "M%C5%82ynar-016-EN.ogg",
+        "KR": "M%C5%82ynar-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Sand, dust, and blood. Most fail to imagine the sight of their admixture.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-017.ogg",
+        "CN": "M%C5%82ynar-017-CN.ogg",
+        "EN": "M%C5%82ynar-017-EN.ogg",
+        "KR": "M%C5%82ynar-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "To think they are unaware of their own shame...",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-018.ogg",
+        "CN": "M%C5%82ynar-018-CN.ogg",
+        "EN": "M%C5%82ynar-018-EN.ogg",
+        "KR": "M%C5%82ynar-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "I'm fully prepared.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-019.ogg",
+        "CN": "M%C5%82ynar-019-CN.ogg",
+        "EN": "M%C5%82ynar-019-EN.ogg",
+        "KR": "M%C5%82ynar-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Hm.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-020.ogg",
+        "CN": "M%C5%82ynar-020-CN.ogg",
+        "EN": "M%C5%82ynar-020-EN.ogg",
+        "KR": "M%C5%82ynar-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "These so-called foes... not even worth drawing my sword.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-021.ogg",
+        "CN": "M%C5%82ynar-021-CN.ogg",
+        "EN": "M%C5%82ynar-021-EN.ogg",
+        "KR": "M%C5%82ynar-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Just like the old days?... No.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-022.ogg",
+        "CN": "M%C5%82ynar-022-CN.ogg",
+        "EN": "M%C5%82ynar-022-EN.ogg",
+        "KR": "M%C5%82ynar-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "This won't hurt your eyes.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-023.ogg",
+        "CN": "M%C5%82ynar-023-CN.ogg",
+        "EN": "M%C5%82ynar-023-EN.ogg",
+        "KR": "M%C5%82ynar-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "How very tiring.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-024.ogg",
+        "CN": "M%C5%82ynar-024-CN.ogg",
+        "EN": "M%C5%82ynar-024-EN.ogg",
+        "KR": "M%C5%82ynar-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Pada deszcz.(It rains.)[note 4]",
+      "links": [
+        {
+          "text": "[note 4]",
+          "href": "#cite_note-4"
+        }
+      ],
+      "audio": {
+        "JP": "M%C5%82ynar-025.ogg",
+        "CN": "M%C5%82ynar-025-CN.ogg",
+        "EN": "M%C5%82ynar-025-EN.ogg",
+        "KR": "M%C5%82ynar-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "That sigh... still haunts my mind.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-026.ogg",
+        "CN": "M%C5%82ynar-026-CN.ogg",
+        "EN": "M%C5%82ynar-026-EN.ogg",
+        "KR": "M%C5%82ynar-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "You still have full confidence in everything... With these people's fate in your hand, you still believe there will be a happy ending.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-027.ogg",
+        "CN": "M%C5%82ynar-027-CN.ogg",
+        "EN": "M%C5%82ynar-027-EN.ogg",
+        "KR": "M%C5%82ynar-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "If you have no other work for me, I shall take my leave.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-028.ogg",
+        "CN": "M%C5%82ynar-028-CN.ogg",
+        "EN": "M%C5%82ynar-028-EN.ogg",
+        "KR": "M%C5%82ynar-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Deserters... they always have somewhere to hide, among their like-minded brethren.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-029.ogg",
+        "CN": "M%C5%82ynar-029-CN.ogg",
+        "EN": "M%C5%82ynar-029-EN.ogg",
+        "KR": "M%C5%82ynar-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Mark my words, there will be battles you cannot win. Have you considered the consequences of those inevitable failures?",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-030.ogg",
+        "CN": "M%C5%82ynar-030-CN.ogg",
+        "EN": "M%C5%82ynar-030-EN.ogg",
+        "KR": "M%C5%82ynar-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "You... accommodate quite a few people here.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-031.ogg",
+        "CN": "M%C5%82ynar-031-CN.ogg",
+        "EN": "M%C5%82ynar-031-EN.ogg",
+        "KR": "M%C5%82ynar-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "...I believe I've made a suggestion regarding this matter?",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-032.ogg",
+        "CN": "M%C5%82ynar-032-CN.ogg",
+        "EN": "M%C5%82ynar-032-EN.ogg",
+        "KR": "M%C5%82ynar-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Kazimierz's knight novels... Hmph... The Grand Knight Territory no longer has room for such fantasies.",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-033.ogg",
+        "CN": "M%C5%82ynar-033-CN.ogg",
+        "EN": "M%C5%82ynar-033-EN.ogg",
+        "KR": "M%C5%82ynar-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Good day... \"Doktor.\"",
+      "links": [],
+      "audio": {
+        "JP": "M%C5%82ynar-034.ogg",
+        "CN": "M%C5%82ynar-034-CN.ogg",
+        "EN": "M%C5%82ynar-034-EN.ogg",
+        "KR": "M%C5%82ynar-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "M%C5%82ynar-035.ogg",
+        "CN": "M%C5%82ynar-035-CN.ogg",
+        "EN": "M%C5%82ynar-035-EN.ogg",
+        "KR": "M%C5%82ynar-035-KR.ogg"
+      }
+    },
+    "daily_task_missions_1": {
+      "id": "Daily Task missions #1",
+      "text": "Please take a look at the collaborative matters between our two companies. If you have any questions or concerns, I'll report them as soon as possible.",
+      "links": [],
+      "audio": {}
+    },
+    "daily_task_missions_2": {
+      "id": "Daily Task missions #2",
+      "text": "If you don't have any other questions, then I will take my leave. There are still other company meetings for me to attend to.",
+      "links": [],
+      "audio": {}
+    },
+    "daily_task_missions_3": {
+      "id": "Daily Task missions #3",
+      "text": "The way you treat theInfected... Ah, don't worry about it.",
+      "links": [
+        {
+          "text": "Infected",
+          "href": "/wiki/Infected"
+        }
+      ],
+      "audio": {}
+    },
+    "daily_task_missions_4": {
+      "id": "Daily Task missions #4",
+      "text": "Pardon me for not answering any questions related to my family. It's not work-related.",
+      "links": [],
+      "audio": {}
+    },
+    "daily_task_missions_5": {
+      "id": "Daily Task missions #5",
+      "text": "Head to work, do my job, get off work, go home.My life isn't so different from that of any ordinary person inKazimierz.",
+      "links": [
+        {
+          "text": "Head to work, do my job, get off work, go home.",
+          "href": "https://en.wikipedia.org/wiki/Salaryman"
+        },
+        {
+          "text": "Kazimierz",
+          "href": "/wiki/Kazimierz"
+        }
+      ],
+      "audio": {}
+    },
+    "daily_task_missions_6": {
+      "id": "Daily Task missions #6",
+      "text": "I, Młynar Nearl, am contactingRhodes Islandon behalf of our company. This is my business card – please have a look.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {}
+    },
+    "daily_task_missions_7": {
+      "id": "Daily Task missions #7",
+      "text": "Toland?No, I didn't know him particularly well.",
+      "links": [
+        {
+          "text": "Toland",
+          "href": "/wiki/Toland_Cash"
+        },
+        {
+          "text": "No, I didn't know him particularly well.",
+          "href": "/wiki/Toland_Cash/Quotes"
+        }
+      ],
+      "audio": {}
+    }
+  }
+}

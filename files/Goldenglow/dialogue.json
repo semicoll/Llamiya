@@ -1,0 +1,414 @@
+{
+  "operator": "Goldenglow",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Am I really going to be helpful? Um... alright, if you say so...",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-001.ogg",
+        "CN": "Goldenglow-001-CN.ogg",
+        "EN": "Goldenglow-001-EN.ogg",
+        "KR": "Goldenglow-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Hmm... your hair is close to coming out of your hood. If you've got the time, remember to give it a trim.",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-002.ogg",
+        "CN": "Goldenglow-002-CN.ogg",
+        "EN": "Goldenglow-002-EN.ogg",
+        "KR": "Goldenglow-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "I can't use anything like a compass. No matter what I do, they all end up pointing at me. *Sigh*... I had no clue as a child, so I tried to use them to find my way home... Now that I think about it, I'm lucky I have a sense of direction.",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-003.ogg",
+        "CN": "Goldenglow-003-CN.ogg",
+        "EN": "Goldenglow-003-EN.ogg",
+        "KR": "Goldenglow-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "You wanna touch my ears? Of course, touch them however you want... but people usually only do it a tiny bit. Why? Heheh, you'll find out if you try, won't you?",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-004.ogg",
+        "CN": "Goldenglow-004-CN.ogg",
+        "EN": "Goldenglow-004-EN.ogg",
+        "KR": "Goldenglow-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "MyArtsare... how do I put it? They affect a lot of things, but because they don't have a form, it's hard to grasp them properly... if I can get a handle on their nature some day, I might be able to live a normal life.",
+      "links": [
+        {
+          "text": "Arts",
+          "href": "/wiki/Arts"
+        }
+      ],
+      "audio": {
+        "JP": "Goldenglow-005.ogg",
+        "CN": "Goldenglow-005-CN.ogg",
+        "EN": "Goldenglow-005-EN.ogg",
+        "KR": "Goldenglow-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Static electric pulse theory says... okay, okay, I see. I just need to apply my Arts Unit, and start the antistatic equipment up, and that should... Yagh! That's not working at all. Where did I mess it up...? Here? Alright, once more.",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-006.ogg",
+        "CN": "Goldenglow-006-CN.ogg",
+        "EN": "Goldenglow-006-EN.ogg",
+        "KR": "Goldenglow-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Welcome~! Oh,Doctor! You finally decided to get your hair sorted, then? Good, sit down. Today, I'll be your... That's right, it's a salon in here, you're not imagining things. Um, don't go! This is my speciality, trust me, please! You won't regret this, I guarantee!",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Goldenglow-007.ogg",
+        "CN": "Goldenglow-007-CN.ogg",
+        "EN": "Goldenglow-007-EN.ogg",
+        "KR": "Goldenglow-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "My dad told me I should pick up another craft in addition to Originium Arts, so this is what I went with. It turns out the only hair I can't fix is my own... Okay! How's that? Are there any bits you want fixed? None? Heheh, I thought as much. Alright, I'm finished for the day, then.",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-008.ogg",
+        "CN": "Goldenglow-008-CN.ogg",
+        "EN": "Goldenglow-008-EN.ogg",
+        "KR": "Goldenglow-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Before I gotInfected, I was actually in really good shape. I got second place in a cross-country race! Once myOripathy's a bit better, I want to start training again, and carry the gold medal back. Can I ask you to present it to me, Doctor? Heheh, then it's a promise.",
+      "links": [
+        {
+          "text": "Infected",
+          "href": "/wiki/Infected"
+        },
+        {
+          "text": "Oripathy",
+          "href": "/wiki/Oripathy"
+        }
+      ],
+      "audio": {
+        "JP": "Goldenglow-009.ogg",
+        "CN": "Goldenglow-009-CN.ogg",
+        "EN": "Goldenglow-009-EN.ogg",
+        "KR": "Goldenglow-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "The circuit's grounded... okay, now my hair shouldn't poof out. I'll have a break while the Doctor's asleep.",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-010.ogg",
+        "CN": "Goldenglow-010-CN.ogg",
+        "EN": "Goldenglow-010-EN.ogg",
+        "KR": "Goldenglow-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Finally made it here... nice to meet you, Doctor. I'm a new Operator onboard, Goldenglow. I look forward to working under you.",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-011.ogg",
+        "CN": "Goldenglow-011-CN.ogg",
+        "EN": "Goldenglow-011-EN.ogg",
+        "KR": "Goldenglow-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Mmgh... it still doesn't really make sense. Maybe I should visit my Instructor and see if she can help.",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-012.ogg",
+        "CN": "Goldenglow-012-CN.ogg",
+        "EN": "Goldenglow-012-EN.ogg",
+        "KR": "Goldenglow-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "There's no tingling feeling, is there? If not, we should be fine. Okay! I'll accept this medal from you graciously, Doctor. Thank you!",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-013.ogg",
+        "CN": "Goldenglow-013-CN.ogg",
+        "EN": "Goldenglow-013-EN.ogg",
+        "KR": "Goldenglow-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Doctor! Stay away from here! I just need a—a-are you alright?! Are you hurt anywhere? I took all the protective measures, didn't I? Why...",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-014.ogg",
+        "CN": "Goldenglow-014-CN.ogg",
+        "EN": "Goldenglow-014-EN.ogg",
+        "KR": "Goldenglow-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Is there really a use for me on the front?",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-015.ogg",
+        "CN": "Goldenglow-015-CN.ogg",
+        "EN": "Goldenglow-015-EN.ogg",
+        "KR": "Goldenglow-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Doctor, are you sure I should be the captain?",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-016.ogg",
+        "CN": "Goldenglow-016-CN.ogg",
+        "EN": "Goldenglow-016-EN.ogg",
+        "KR": "Goldenglow-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "I've got this, I've got this. I can do this!",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-017.ogg",
+        "CN": "Goldenglow-017-CN.ogg",
+        "EN": "Goldenglow-017-EN.ogg",
+        "KR": "Goldenglow-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "There's enemies?!",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-018.ogg",
+        "CN": "Goldenglow-018-CN.ogg",
+        "EN": "Goldenglow-018-EN.ogg",
+        "KR": "Goldenglow-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "I'm so tense...",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-019.ogg",
+        "CN": "Goldenglow-019-CN.ogg",
+        "EN": "Goldenglow-019-EN.ogg",
+        "KR": "Goldenglow-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Can I really do it?",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-020.ogg",
+        "CN": "Goldenglow-020-CN.ogg",
+        "EN": "Goldenglow-020-EN.ogg",
+        "KR": "Goldenglow-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Now's the time to help everyone out.",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-021.ogg",
+        "CN": "Goldenglow-021-CN.ogg",
+        "EN": "Goldenglow-021-EN.ogg",
+        "KR": "Goldenglow-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "I'll do my best!",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-022.ogg",
+        "CN": "Goldenglow-022-CN.ogg",
+        "EN": "Goldenglow-022-EN.ogg",
+        "KR": "Goldenglow-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Get away from me, please!",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-023.ogg",
+        "CN": "Goldenglow-023-CN.ogg",
+        "EN": "Goldenglow-023-EN.ogg",
+        "KR": "Goldenglow-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Stay back!",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-024.ogg",
+        "CN": "Goldenglow-024-CN.ogg",
+        "EN": "Goldenglow-024-EN.ogg",
+        "KR": "Goldenglow-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Yaah!",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-025.ogg",
+        "CN": "Goldenglow-025-CN.ogg",
+        "EN": "Goldenglow-025-EN.ogg",
+        "KR": "Goldenglow-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Keep a good distance–there!",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-026.ogg",
+        "CN": "Goldenglow-026-CN.ogg",
+        "EN": "Goldenglow-026-EN.ogg",
+        "KR": "Goldenglow-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Huh? Oh–no, it's nothing! Let's get going!",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-027.ogg",
+        "CN": "Goldenglow-027-CN.ogg",
+        "EN": "Goldenglow-027-EN.ogg",
+        "KR": "Goldenglow-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "I managed to help a little, didn't I? Heheh.",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-028.ogg",
+        "CN": "Goldenglow-028-CN.ogg",
+        "EN": "Goldenglow-028-EN.ogg",
+        "KR": "Goldenglow-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Phew, we're finally saved. Are you hurt?",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-029.ogg",
+        "CN": "Goldenglow-029-CN.ogg",
+        "EN": "Goldenglow-029-EN.ogg",
+        "KR": "Goldenglow-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "We were so, so close...",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-030.ogg",
+        "CN": "Goldenglow-030-CN.ogg",
+        "EN": "Goldenglow-030-EN.ogg",
+        "KR": "Goldenglow-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "I need to keep away from the electronics...",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-031.ogg",
+        "CN": "Goldenglow-031-CN.ogg",
+        "EN": "Goldenglow-031-EN.ogg",
+        "KR": "Goldenglow-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Yaah!",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-032.ogg",
+        "CN": "Goldenglow-032-CN.ogg",
+        "EN": "Goldenglow-032-EN.ogg",
+        "KR": "Goldenglow-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Could you help me comb my hair down? Thank you so much, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-033.ogg",
+        "CN": "Goldenglow-033-CN.ogg",
+        "EN": "Goldenglow-033-EN.ogg",
+        "KR": "Goldenglow-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Hope you have another good day today.",
+      "links": [],
+      "audio": {
+        "JP": "Goldenglow-034.ogg",
+        "CN": "Goldenglow-034-CN.ogg",
+        "EN": "Goldenglow-034-EN.ogg",
+        "KR": "Goldenglow-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Goldenglow-035.ogg",
+        "CN": "Goldenglow-035-CN.ogg",
+        "EN": "Goldenglow-035-EN.ogg",
+        "KR": "Goldenglow-035-KR.ogg"
+      }
+    }
+  }
+}

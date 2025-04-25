@@ -1,0 +1,244 @@
+{
+  "operator": "Ash",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Brace yourselves.",
+      "links": [],
+      "audio": {}
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "The most important thing my safta[note 1]taught me was that life shouldn't have too many taboos.",
+      "links": [
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {}
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Focus on the work at hand and don't jump to any conclusions.",
+      "links": [],
+      "audio": {}
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Tachanka'staught me a thing or two about how to build defenses.",
+      "links": [
+        {
+          "text": "Tachanka's",
+          "href": "/wiki/Tachanka"
+        }
+      ],
+      "audio": {}
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "I have some questions,Doctor. I hope you can answer them for me.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {}
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Overcoming obstacles and breaking down barriers makes a lot of things easier.",
+      "links": [],
+      "audio": {}
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "I'm willing to try, as long as the reward is commensurate to the risk.",
+      "links": [],
+      "audio": {}
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "You think I'm strict, huh? I'll take that as a compliment.",
+      "links": [],
+      "audio": {}
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Do me a favor. You worry about the strategy and let me worry about the tactics.",
+      "links": [],
+      "audio": {}
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Time's up, Doc.",
+      "links": [],
+      "audio": {}
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "RainbowOperator, codename Ash. I have my authorization and I'm ready for assignment.",
+      "links": [
+        {
+          "text": "Rainbow",
+          "href": "/wiki/Team_Rainbow"
+        },
+        {
+          "text": "Operator",
+          "href": "/wiki/Operator"
+        }
+      ],
+      "audio": {}
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "The more we can learn about their attack patterns, the better off we'll be.",
+      "links": [],
+      "audio": {}
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "You have my respect, Doc.",
+      "links": [],
+      "audio": {}
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "You can't really understand a conflict until you've been on both sides.",
+      "links": [],
+      "audio": {}
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "It's ready.",
+      "links": [],
+      "audio": {}
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Let's get our heads in the game.",
+      "links": [],
+      "audio": {}
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Let's show them what we can do.",
+      "links": [],
+      "audio": {}
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Targets detected.",
+      "links": [],
+      "audio": {}
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "I'm all stocked up.",
+      "links": [],
+      "audio": {}
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Ready to go!",
+      "links": [],
+      "audio": {}
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Move!",
+      "links": [],
+      "audio": {}
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Let's go!",
+      "links": [],
+      "audio": {}
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Watch for the blast.",
+      "links": [],
+      "audio": {}
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Stay clear of the blast.",
+      "links": [],
+      "audio": {}
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Get clear!",
+      "links": [],
+      "audio": {}
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Target spotted!",
+      "links": [],
+      "audio": {}
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "That worked out better than I expected.",
+      "links": [],
+      "audio": {}
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "No more than usual.",
+      "links": [],
+      "audio": {}
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "We knew the risks. We still have to see this through.",
+      "links": [],
+      "audio": {}
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "We have to go.",
+      "links": [],
+      "audio": {}
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "This is the place.",
+      "links": [],
+      "audio": {}
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Well?",
+      "links": [],
+      "audio": {}
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "We need to talk.",
+      "links": [],
+      "audio": {}
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "I'm with you.",
+      "links": [],
+      "audio": {}
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {}
+    }
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "operator": "Aak",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Oh yeah,my dude, when you're callin' my name to get my attention, don't forget to stress the K at the end. Or else I might assume you're stammering or somethin'.",
+      "links": [
+        {
+          "text": "my dude",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Aak-001.ogg",
+        "CN": "Aak-001-CN.ogg",
+        "EN": "Aak-001-EN.ogg",
+        "KR": "Aak-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Whoa, whoa, hold up! Is thatvampire ladynone other than \"Mr. Blood\"?! Man, we've still not settled that medical score we had a while back, and this is the perfect opportunity! I'll have to set up my experiment equipment later... Heheheheh!",
+      "links": [
+        {
+          "text": "vampire lady",
+          "href": "/wiki/Warfarin"
+        }
+      ],
+      "audio": {
+        "JP": "Aak-002.ogg",
+        "CN": "Aak-002-CN.ogg",
+        "EN": "Aak-002-EN.ogg",
+        "KR": "Aak-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Lemme guess, Hung's still tellin' you to watch out around me, ain't he? Oh, just to \"look after me,\" huh? Yeah, that sounds like him all right. But listen, my dude, I know your type. You're like me and just wanna do whatever you want, right? Then you can just ignore that guy and we can do whatever fun stuff we want instead.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-003.ogg",
+        "CN": "Aak-003-CN.ogg",
+        "EN": "Aak-003-EN.ogg",
+        "KR": "Aak-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Yeah, I develop new drugs, do surgery, and nurture bacteria cultures, but those are all just fun hobbies to me. And don't call me a doctor, you got no reason to. I don't go 'round saving people's lives, y'know, I just \"save\" people by teaching them the value of their lives. All I can really do is prevent 'em from dying.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-004.ogg",
+        "CN": "Aak-004-CN.ogg",
+        "EN": "Aak-004-EN.ogg",
+        "KR": "Aak-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "The medical department guys are askin' for me? Tell 'em to stop. I don't dig those oh-so-professional physicians. They firmly believe that being a doctor's this noble job and are content with just saving lives... And everything comes crashing down when that faith of theirs is shattered. I've seen that happen time and time again. Honestly, it's kinda sad.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-005.ogg",
+        "CN": "Aak-005-CN.ogg",
+        "EN": "Aak-005-EN.ogg",
+        "KR": "Aak-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Rhodes Islandis pretty decent, or more accurately, it's just what I'd hoped. People are dyin' in the world right as we speak. There are doctors cooped up in labs, only workin' to cure diseases rather than prevent 'em. Hardly anyone gets it, but you people actually do. Keep up the good stuff!",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Aak-006.ogg",
+        "CN": "Aak-006-CN.ogg",
+        "EN": "Aak-006-EN.ogg",
+        "KR": "Aak-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Me, a sociopath? You got it all wrong, my dude. Everyone's got their own hardships to deal with, and I know that. Nobody wants to suffer, but what's the point of medicine if the bastards causing suffering are still around? Is medicine gonna save those people who're being murdered? Doctors in suits are not the saviors that Terra needs, my dude.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-007.ogg",
+        "CN": "Aak-007-CN.ogg",
+        "EN": "Aak-007-EN.ogg",
+        "KR": "Aak-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "My pops was an amazing doctor, and he was all about saving people's lives. But his colleagues laughed at him, shunned him, and framed him for malpractice, and that's how he wound up racing down a nasty new path in life. But y'know, stuff like that ain't so unusual, really. I'll admit though, what happened to him really changed my own life.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-008.ogg",
+        "CN": "Aak-008-CN.ogg",
+        "EN": "Aak-008-EN.ogg",
+        "KR": "Aak-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "HaveWaai FuandHungleft? Really? Aight, I'm gonna hang out in your office for a while then. Y'know, if anyone can make the world a better place, it's gotta be people like them. You, meanwhile... Well, who knows, maybe you can be my right hand?",
+      "links": [
+        {
+          "text": "Waai Fu",
+          "href": "/wiki/Waai_Fu"
+        },
+        {
+          "text": "Hung",
+          "href": "/wiki/Hung"
+        }
+      ],
+      "audio": {
+        "JP": "Aak-009.ogg",
+        "CN": "Aak-009-CN.ogg",
+        "EN": "Aak-009-EN.ogg",
+        "KR": "Aak-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "What's up? Feelin' tired? Then how about testing this new compound I made? Free of charge, of course!",
+      "links": [],
+      "audio": {
+        "JP": "Aak-010.ogg",
+        "CN": "Aak-010-CN.ogg",
+        "EN": "Aak-010-EN.ogg",
+        "KR": "Aak-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "So you're the Doctor, eh? Nice to meet'cha. My name's Aak. That's right, two A's with a K. Anyway, I'm here 'cause someone at the agency said Rhodes Island needed me. I'm just askin' to make sure here, but does the phrase \"medical mishap\" put you off?",
+      "links": [],
+      "audio": {
+        "JP": "Aak-011.ogg",
+        "CN": "Aak-011-CN.ogg",
+        "EN": "Aak-011-EN.ogg",
+        "KR": "Aak-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Huh... Does this mean I might get involved in combat scenarios like this? Surely not, right?",
+      "links": [],
+      "audio": {
+        "JP": "Aak-012.ogg",
+        "CN": "Aak-012-CN.ogg",
+        "EN": "Aak-012-EN.ogg",
+        "KR": "Aak-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Apromotion? That's almost too good to be true, man. Those agency guys really HAVE been exploiting me all along!",
+      "links": [
+        {
+          "text": "promotion",
+          "href": "/wiki/Promotion"
+        }
+      ],
+      "audio": {
+        "JP": "Aak-013.ogg",
+        "CN": "Aak-013-CN.ogg",
+        "EN": "Aak-013-EN.ogg",
+        "KR": "Aak-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Honestly, I dunno if I'm helpful or not. The way I see it, you've gotta be nice to be helpful, and I'm not blind to how people perceive me. But in any case, if you ever get sick, I've got you covered.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-014.ogg",
+        "CN": "Aak-014-CN.ogg",
+        "EN": "Aak-014-EN.ogg",
+        "KR": "Aak-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "We goin' on a mission? Let's do it.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-015.ogg",
+        "CN": "Aak-015-CN.ogg",
+        "EN": "Aak-015-EN.ogg",
+        "KR": "Aak-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "All right, team, gimme your thoughts on my new meds after this is done.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-016.ogg",
+        "CN": "Aak-016-CN.ogg",
+        "EN": "Aak-016-EN.ogg",
+        "KR": "Aak-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Once I start an operation, there's no stoppin' it.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-017.ogg",
+        "CN": "Aak-017-CN.ogg",
+        "EN": "Aak-017-EN.ogg",
+        "KR": "Aak-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Simmer down, guys. With me on your team, none of you's gonna die even if you want to.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-018.ogg",
+        "CN": "Aak-018-CN.ogg",
+        "EN": "Aak-018-EN.ogg",
+        "KR": "Aak-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "My treatment is not for the squeamish!",
+      "links": [],
+      "audio": {
+        "JP": "Aak-019.ogg",
+        "CN": "Aak-019-CN.ogg",
+        "EN": "Aak-019-EN.ogg",
+        "KR": "Aak-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "The battlefield ain't for me, but I can't pass up on some fun treatment.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-020.ogg",
+        "CN": "Aak-020-CN.ogg",
+        "EN": "Aak-020-EN.ogg",
+        "KR": "Aak-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Time for a clinical test of my new meds.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-021.ogg",
+        "CN": "Aak-021-CN.ogg",
+        "EN": "Aak-021-EN.ogg",
+        "KR": "Aak-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "You've gotta dose in moderation, 'else it's gonna hurt when you really need it.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-022.ogg",
+        "CN": "Aak-022-CN.ogg",
+        "EN": "Aak-022-EN.ogg",
+        "KR": "Aak-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "All lives are equal... With the exception of yours!",
+      "links": [],
+      "audio": {
+        "JP": "Aak-023.ogg",
+        "CN": "Aak-023-CN.ogg",
+        "EN": "Aak-023-EN.ogg",
+        "KR": "Aak-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Try my meds and you'll see how crazy they are.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-024.ogg",
+        "CN": "Aak-024-CN.ogg",
+        "EN": "Aak-024-EN.ogg",
+        "KR": "Aak-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Looks like my meds have the ability to reform bad guys!",
+      "links": [],
+      "audio": {
+        "JP": "Aak-025.ogg",
+        "CN": "Aak-025-CN.ogg",
+        "EN": "Aak-025-EN.ogg",
+        "KR": "Aak-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Medicine is like Pandora's box: once you open it, there's no goin' back!",
+      "links": [],
+      "audio": {
+        "JP": "Aak-026.ogg",
+        "CN": "Aak-026-CN.ogg",
+        "EN": "Aak-026-EN.ogg",
+        "KR": "Aak-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "I doubt I can make the world a better place on my own. But with your talent, we can at least stop it from gettin' any worse.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-027.ogg",
+        "CN": "Aak-027-CN.ogg",
+        "EN": "Aak-027-EN.ogg",
+        "KR": "Aak-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Capturing our enemies and experimenting on 'em doesn't violate any ethics as long as nobody catches us doin' it. Relaaax.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-028.ogg",
+        "CN": "Aak-028-CN.ogg",
+        "EN": "Aak-028-EN.ogg",
+        "KR": "Aak-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Aren't you a real humanitarian, just letting 'em get away like that?",
+      "links": [],
+      "audio": {
+        "JP": "Aak-029.ogg",
+        "CN": "Aak-029-CN.ogg",
+        "EN": "Aak-029-EN.ogg",
+        "KR": "Aak-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Don't worry, my dude. I can fix any injury as long as the patient's still breathing.",
+      "links": [],
+      "audio": {
+        "JP": "Aak-030.ogg",
+        "CN": "Aak-030-CN.ogg",
+        "EN": "Aak-030-EN.ogg",
+        "KR": "Aak-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Let's see here, which of these rooms is my new lab?",
+      "links": [],
+      "audio": {
+        "JP": "Aak-031.ogg",
+        "CN": "Aak-031-CN.ogg",
+        "EN": "Aak-031-EN.ogg",
+        "KR": "Aak-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Yeah, what?",
+      "links": [],
+      "audio": {
+        "JP": "Aak-032.ogg",
+        "CN": "Aak-032-CN.ogg",
+        "EN": "Aak-032-EN.ogg",
+        "KR": "Aak-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Yo, my dude! Found any new experiment samples for me?",
+      "links": [],
+      "audio": {
+        "JP": "Aak-033.ogg",
+        "CN": "Aak-033-CN.ogg",
+        "EN": "Aak-033-EN.ogg",
+        "KR": "Aak-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Hey, my dude. What's cookin'?",
+      "links": [],
+      "audio": {
+        "JP": "Aak-034.ogg",
+        "CN": "Aak-034-CN.ogg",
+        "EN": "Aak-034-EN.ogg",
+        "KR": "Aak-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Aak-035.ogg",
+        "CN": "Aak-035-CN.ogg",
+        "EN": "Aak-035-EN.ogg",
+        "KR": "Aak-035-KR.ogg"
+      }
+    }
+  }
+}

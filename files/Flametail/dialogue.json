@@ -1,0 +1,481 @@
+{
+  "operator": "Flametail",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Hm? Sure you don't need my help,Doctor? Got something interesting, maybe?",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Flametail-001.ogg",
+        "CN": "Flametail-001-CN.ogg",
+        "EN": "Flametail-001-EN.ogg",
+        "KR": "Flametail-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "D'ja know how wild it is, as aKazimierzKnight, to see a \"company\" actually trying so hard to treatInfected? It's a mind-melter, trust me. Yeah, seriously.Justynastill keeps wondering at me howRhodes Islandturns a profit.",
+      "links": [
+        {
+          "text": "Kazimierz",
+          "href": "/wiki/Kazimierz"
+        },
+        {
+          "text": "Infected",
+          "href": "/wiki/Infected"
+        },
+        {
+          "text": "Justyna",
+          "href": "/wiki/Fartooth"
+        },
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Flametail-002.ogg",
+        "CN": "Flametail-002-CN.ogg",
+        "EN": "Flametail-002-EN.ogg",
+        "KR": "Flametail-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Doctor, question? Can I take a look atOperatorNearl's battle records? Uh, no, I'm just a little curious–yeah? Thanks, Doctor! Let's see, uh... oh, man, the one withIwona. Maybe I oughta be telling her to keep it reined in...",
+      "links": [
+        {
+          "text": "Operator",
+          "href": "/wiki/Operator"
+        },
+        {
+          "text": "Nearl",
+          "href": "/wiki/Nearl"
+        },
+        {
+          "text": "Iwona",
+          "href": "/wiki/Wild_Mane"
+        }
+      ],
+      "audio": {
+        "JP": "Flametail-003.ogg",
+        "CN": "Flametail-003-CN.ogg",
+        "EN": "Flametail-003-EN.ogg",
+        "KR": "Flametail-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Ashleyand me? We met throughthe Major. Something told me \"this Knight's got something going on,\" so I went over after just to give her a shout. Jeez, thinking about it, I've got a talent for scouting, don't I?",
+      "links": [
+        {
+          "text": "Ashley",
+          "href": "/wiki/Ashlock"
+        },
+        {
+          "text": "the Major",
+          "href": "/wiki/Kazimierz_Major"
+        }
+      ],
+      "audio": {
+        "JP": "Flametail-004.ogg",
+        "CN": "Flametail-004-CN.ogg",
+        "EN": "Flametail-004-EN.ogg",
+        "KR": "Flametail-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "\"Platinum,\"huh. I know what happened with her after, but still. No plans to be her friend. Y'know, before, we said theArmorless Union, the General Chamber of Commerce, were our greatest enemies. But to be real... ahaha, it's the whole age we live in we're dissenting against.",
+      "links": [
+        {
+          "text": "\"Platinum,\"",
+          "href": "/wiki/Platinum"
+        },
+        {
+          "text": "Armorless Union",
+          "href": "/wiki/Armorless_Union"
+        }
+      ],
+      "audio": {
+        "JP": "Flametail-005.ogg",
+        "CN": "Flametail-005-CN.ogg",
+        "EN": "Flametail-005-EN.ogg",
+        "KR": "Flametail-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "The titans we call cities rumble forth, neon lights the sky, car engines stand for what were summer bug chirps... and too much gets tossed away, flattened undertread. It gets me, all those people... that's no proper ending for their lives. Infected or not, we all oughta be searching for a new way forward.",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-006.ogg",
+        "CN": "Flametail-006-CN.ogg",
+        "EN": "Flametail-006-EN.ogg",
+        "KR": "Flametail-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Doctor! Heard fromGravelandAmiya, you faced off with the Armorless Union during the Major? And you're the one who sniffed out the Area 0 plot? How'd you–wait, hold on, lemme bring a chair over, and some snacks while I'm at it. Alright, Teach! Take it away!",
+      "links": [
+        {
+          "text": "Gravel",
+          "href": "/wiki/Gravel"
+        },
+        {
+          "text": "Amiya",
+          "href": "/wiki/Amiya"
+        }
+      ],
+      "audio": {
+        "JP": "Flametail-007.ogg",
+        "CN": "Flametail-007-CN.ogg",
+        "EN": "Flametail-007-EN.ogg",
+        "KR": "Flametail-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Before I met Ashley, I honestly figured I'd be fine if I just kept living. But now, with Justyna, Iwona,Maria–andthe Radiant Knight... I'm prepared to fight alongside them. Throw that life of mine out there for them. It's why I fight on.",
+      "links": [
+        {
+          "text": "Maria",
+          "href": "/wiki/Blemishine"
+        },
+        {
+          "text": "the Radiant Knight",
+          "href": "/wiki/Nearl_the_Radiant_Knight"
+        }
+      ],
+      "audio": {
+        "JP": "Flametail-008.ogg",
+        "CN": "Flametail-008-CN.ogg",
+        "EN": "Flametail-008-EN.ogg",
+        "KR": "Flametail-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Maybe, one day. When the whole Knight thing vanishes and everyone figures out deep inside just what a knight was. Maybe then, Kazimierz can be peaceful in the truest sense. She argued that to me, the Radiant Knight, and it's got me thinking I'd like to take in more. More sights, further out. Maybe there's... more I should be doing, y'know.",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-009.ogg",
+        "CN": "Flametail-009-CN.ogg",
+        "EN": "Flametail-009-EN.ogg",
+        "KR": "Flametail-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "You relax, Doctor. *sigh* Man, wonder what Ashley and the others are up to right now.",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-010.ogg",
+        "CN": "Flametail-010-CN.ogg",
+        "EN": "Flametail-010-EN.ogg",
+        "KR": "Flametail-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Pinus Sylvestris KnightclubLeader, the Flametail Knight, Sona! You're the Doctor? Mmm, well, you're kinda not like I imagined, but hey. I'm under your wing from here on out, Doctor!",
+      "links": [
+        {
+          "text": "Pinus Sylvestris Knightclub",
+          "href": "/wiki/Pinus_Sylvestris"
+        }
+      ],
+      "audio": {
+        "JP": "Flametail-011.ogg",
+        "CN": "Flametail-011-CN.ogg",
+        "EN": "Flametail-011-EN.ogg",
+        "KR": "Flametail-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Huh. The stuff you watch for real combat's pretty crazy different from the Major.",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-012.ogg",
+        "CN": "Flametail-012-CN.ogg",
+        "EN": "Flametail-012-EN.ogg",
+        "KR": "Flametail-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "It's a first for me, getting promoted without commercials or camera flashes. Pinus Sylvestris Knightclub Leader, the Flametail Knight, Sona! Continuing the stride!",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-013.ogg",
+        "CN": "Flametail-013-CN.ogg",
+        "EN": "Flametail-013-EN.ogg",
+        "KR": "Flametail-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Used to worry how an ever-heartless fight would lead us all down a messed-up way, but now... heheh, I guess ideals are something you oughta have. Aren't they, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-014.ogg",
+        "CN": "Flametail-014-CN.ogg",
+        "EN": "Flametail-014-EN.ogg",
+        "KR": "Flametail-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Ashley not gonna come with?",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-015.ogg",
+        "CN": "Flametail-015-CN.ogg",
+        "EN": "Flametail-015-EN.ogg",
+        "KR": "Flametail-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "\"Flametail\" Sona, spearheading and rolling out!",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-016.ogg",
+        "CN": "Flametail-016-CN.ogg",
+        "EN": "Flametail-016-EN.ogg",
+        "KR": "Flametail-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Live up to duty!",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-017.ogg",
+        "CN": "Flametail-017-CN.ogg",
+        "EN": "Flametail-017-EN.ogg",
+        "KR": "Flametail-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Enemy spotted. Be real nice if they entered single file like the Knights do, though.",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-018.ogg",
+        "CN": "Flametail-018-CN.ogg",
+        "EN": "Flametail-018-EN.ogg",
+        "KR": "Flametail-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Any instructions for me?",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-019.ogg",
+        "CN": "Flametail-019-CN.ogg",
+        "EN": "Flametail-019-EN.ogg",
+        "KR": "Flametail-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Feels fresh every time, someone giving me orders.",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-020.ogg",
+        "CN": "Flametail-020-CN.ogg",
+        "EN": "Flametail-020-EN.ogg",
+        "KR": "Flametail-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Can your eyes keep up?",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-021.ogg",
+        "CN": "Flametail-021-CN.ogg",
+        "EN": "Flametail-021-EN.ogg",
+        "KR": "Flametail-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "A new challenge, huh? Heh.",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-022.ogg",
+        "CN": "Flametail-022-CN.ogg",
+        "EN": "Flametail-022-EN.ogg",
+        "KR": "Flametail-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "C'mon, let's pick up the pace.",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-023.ogg",
+        "CN": "Flametail-023-CN.ogg",
+        "EN": "Flametail-023-EN.ogg",
+        "KR": "Flametail-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Haha, losing sight?",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-024.ogg",
+        "CN": "Flametail-024-CN.ogg",
+        "EN": "Flametail-024-EN.ogg",
+        "KR": "Flametail-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Doesn't feel good, does it? When your target vanishes from sight?",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-025.ogg",
+        "CN": "Flametail-025-CN.ogg",
+        "EN": "Flametail-025-EN.ogg",
+        "KR": "Flametail-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "\"Tail like a shooting star,\" that's what they say.",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-026.ogg",
+        "CN": "Flametail-026-CN.ogg",
+        "EN": "Flametail-026-EN.ogg",
+        "KR": "Flametail-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Maybethe world'll give us a choice in the end, but right now, we can only choose to fight to the last. Because we're Knights, because we're Infected. Because we're alive.",
+      "links": [
+        {
+          "text": "the world",
+          "href": "/wiki/Terra"
+        }
+      ],
+      "audio": {
+        "JP": "Flametail-027.ogg",
+        "CN": "Flametail-027-CN.ogg",
+        "EN": "Flametail-027-EN.ogg",
+        "KR": "Flametail-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "We've won a hell of a lot of times before, Doctor. Here and now, though, we're struggling for our own destiny, our own future. That's the real fight, isn't it?",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-028.ogg",
+        "CN": "Flametail-028-CN.ogg",
+        "EN": "Flametail-028-EN.ogg",
+        "KR": "Flametail-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "This sure as hell isn't a competition, Doctor. Letting them off easy's not gonna win the crowd over, y'know?",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-029.ogg",
+        "CN": "Flametail-029-CN.ogg",
+        "EN": "Flametail-029-EN.ogg",
+        "KR": "Flametail-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Everyone, retreat! Let me hold the rear! I'm fine, I'm fine! Got a great juking track record.",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-030.ogg",
+        "CN": "Flametail-030-CN.ogg",
+        "EN": "Flametail-030-EN.ogg",
+        "KR": "Flametail-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Wow, this sure beatsthe Grand Knight Territorysewers. Guesstimating a couple hundred times better?",
+      "links": [
+        {
+          "text": "the Grand Knight Territory",
+          "href": "/wiki/Kawalerielki"
+        }
+      ],
+      "audio": {
+        "JP": "Flametail-031.ogg",
+        "CN": "Flametail-031-CN.ogg",
+        "EN": "Flametail-031-EN.ogg",
+        "KR": "Flametail-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Hyah!? What the hell?",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-032.ogg",
+        "CN": "Flametail-032-CN.ogg",
+        "EN": "Flametail-032-EN.ogg",
+        "KR": "Flametail-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "You're wondering how I usually dress? Mm, uhh... ahaha...",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-033.ogg",
+        "CN": "Flametail-033-CN.ogg",
+        "EN": "Flametail-033-EN.ogg",
+        "KR": "Flametail-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Morning to you, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Flametail-034.ogg",
+        "CN": "Flametail-034-CN.ogg",
+        "EN": "Flametail-034-EN.ogg",
+        "KR": "Flametail-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Flametail-035.ogg",
+        "CN": "Flametail-035-CN.ogg",
+        "EN": "Flametail-035-EN.ogg",
+        "KR": "Flametail-035-KR.ogg"
+      }
+    }
+  }
+}

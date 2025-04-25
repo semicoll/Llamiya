@@ -1,0 +1,442 @@
+{
+  "operator": "Bagpipe",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Assistant? You mean that job where I just stand next to people? I've seen that in the army as well. Wait, I also have to do paperwork? And assess combat data? And compile a report?! Th-that sounds hectic!",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-001.ogg",
+        "CN": "Bagpipe-001-CN.ogg",
+        "EN": "Bagpipe-001-EN.ogg",
+        "KR": "Bagpipe-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Back in school,Chenchenalways had a pissed off look on her face. But that's just the kind of girl she is. She made a lot of enemies at first, but later on, there wasn't a single person who could take their eyes off her! But y'know, bandagin' her wounds, cookin' for her, teamin' up with her squad and whatnot... I had to look after her quite a lot, and that was no easy feat...",
+      "links": [
+        {
+          "text": "Chenchen",
+          "href": "/wiki/Ch%27en"
+        }
+      ],
+      "audio": {
+        "JP": "Bagpipe-002.ogg",
+        "CN": "Bagpipe-002-CN.ogg",
+        "EN": "Bagpipe-002-EN.ogg",
+        "KR": "Bagpipe-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "I'm real good at operatin' all sorts of equipment! Wheat threshers, tractors, tillers, I'm good with all that stuff. Hm? PDAs, LED screens, and wireless systems? I'm not too good with that stuff... Woah, I barely just touched it... Why's it goin' up in smoke?!",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-003.ogg",
+        "CN": "Bagpipe-003-CN.ogg",
+        "EN": "Bagpipe-003-EN.ogg",
+        "KR": "Bagpipe-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Did you not get a good supper in yesterday? I don't wanna hear your old \"work, work, work\" routine! If your body gives out on you, you won't be able to get a thing done. Tell me what you'd like, and I'll make it for you! Ah, I won't be able to make anything too complicated though.",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-004.ogg",
+        "CN": "Bagpipe-004-CN.ogg",
+        "EN": "Bagpipe-004-EN.ogg",
+        "KR": "Bagpipe-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "TheRhodes Islandship is just... so much better thanVictoria'swarships by I don't know how many times. There's even sunlight, wheat fields, and packs of beasts... Doctor, why don't we try growin' something, like potatoes? I know all about growin' potatoes!",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        },
+        {
+          "text": "Victoria's",
+          "href": "/wiki/Victoria"
+        }
+      ],
+      "audio": {
+        "JP": "Bagpipe-005.ogg",
+        "CN": "Bagpipe-005-CN.ogg",
+        "EN": "Bagpipe-005-EN.ogg",
+        "KR": "Bagpipe-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Where do you think someone's hometown ends? Is it the house farthest away from the tractors, or where the land meets the sky? Or is it the red and blue bars that are constantly being redrawn on the map? After so many battles... I sometimes suddenly forget what my hometown looks like.",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-006.ogg",
+        "CN": "Bagpipe-006-CN.ogg",
+        "EN": "Bagpipe-006-EN.ogg",
+        "KR": "Bagpipe-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "I know I've seen her before, that girl calledReed. But she looks so lonely and pitiful now... Is she really the same terrifyin' person I once knew? How strange. I should go ask her... I can't talk to her? Huh? Why not?!",
+      "links": [
+        {
+          "text": "Reed",
+          "href": "/wiki/Reed"
+        }
+      ],
+      "audio": {
+        "JP": "Bagpipe-007.ogg",
+        "CN": "Bagpipe-007-CN.ogg",
+        "EN": "Bagpipe-007-EN.ogg",
+        "KR": "Bagpipe-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "My mum is part of the reason I ended up goin' to military school in the first place. I blame her for sayin' stuff like \"Vouivrewomen must keep gettin' stronger.\" ...Sounds like I was just bein' stubborn, right? Lookin' back, there's no need to try to be as strong as my mum. Hey, wouldn't you say I'm cuter this way?",
+      "links": [
+        {
+          "text": "Vouivre",
+          "href": "/wiki/Vouivre"
+        }
+      ],
+      "audio": {
+        "JP": "Bagpipe-008.ogg",
+        "CN": "Bagpipe-008-CN.ogg",
+        "EN": "Bagpipe-008-EN.ogg",
+        "KR": "Bagpipe-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "When I was still in the army, I once came across aghost-like squadron. They haunted the darkness of Victoria, and most of the people who witnessed 'em went missin'. I have a duty to expose 'em, and that's why I've been runnin' all over the world. Oh, you don't need to step in. Don't you have your own stuff to worry about?",
+      "links": [
+        {
+          "text": "ghost-like squadron",
+          "href": "/wiki/Dublinn"
+        }
+      ],
+      "audio": {
+        "JP": "Bagpipe-009.ogg",
+        "CN": "Bagpipe-009-CN.ogg",
+        "EN": "Bagpipe-009-EN.ogg",
+        "KR": "Bagpipe-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Ah! You're slackin' off again! How nice, but if you're gonna nap, wouldn't it be better to throw yourself atop a pile of hay? Mm, just thinkin' about it is makin' me sleepy too... It should be fine if I go rest for a while, right?",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-010.ogg",
+        "CN": "Bagpipe-010-CN.ogg",
+        "EN": "Bagpipe-010-EN.ogg",
+        "KR": "Bagpipe-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Hey there! You're theDoctor, right? Superintendent Ch'en from Lungmen said I'd be able to find some helpers here! I need to sign my name here first? Um... Baaag... pipe. All right! Huh? I need to \"become anOperator\" first? \"Full-time room and board?\" The heck is that?!",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        },
+        {
+          "text": "Operator",
+          "href": "/wiki/Operator"
+        }
+      ],
+      "audio": {
+        "JP": "Bagpipe-011.ogg",
+        "CN": "Bagpipe-011-CN.ogg",
+        "EN": "Bagpipe-011-EN.ogg",
+        "KR": "Bagpipe-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Woah, you folks here at Rhodes Island sure can fight!",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-012.ogg",
+        "CN": "Bagpipe-012-CN.ogg",
+        "EN": "Bagpipe-012-EN.ogg",
+        "KR": "Bagpipe-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "A promotion? Hm... can't tell you if I like it or not. For soldiers, more responsibilities means more battles, and a greater risk of mistakes.",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-013.ogg",
+        "CN": "Bagpipe-013-CN.ogg",
+        "EN": "Bagpipe-013-EN.ogg",
+        "KR": "Bagpipe-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Joining Rhodes Island has been a good thing for me.Oripathyand theInfectedmay seem scary at first, but runnin' away from these problems won't solve anything, right? Thank you, I've also understood what I need to do.",
+      "links": [
+        {
+          "text": "Oripathy",
+          "href": "/wiki/Oripathy"
+        },
+        {
+          "text": "Infected",
+          "href": "/wiki/Infected"
+        }
+      ],
+      "audio": {
+        "JP": "Bagpipe-014.ogg",
+        "CN": "Bagpipe-014-CN.ogg",
+        "EN": "Bagpipe-014-EN.ogg",
+        "KR": "Bagpipe-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Stand at attention!",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-015.ogg",
+        "CN": "Bagpipe-015-CN.ogg",
+        "EN": "Bagpipe-015-EN.ogg",
+        "KR": "Bagpipe-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I'll lead the team and execute the operation plan right away!",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-016.ogg",
+        "CN": "Bagpipe-016-CN.ogg",
+        "EN": "Bagpipe-016-EN.ogg",
+        "KR": "Bagpipe-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Follow the orders, and move out immediately!",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-017.ogg",
+        "CN": "Bagpipe-017-CN.ogg",
+        "EN": "Bagpipe-017-EN.ogg",
+        "KR": "Bagpipe-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Everyone, spread out!",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-018.ogg",
+        "CN": "Bagpipe-018-CN.ogg",
+        "EN": "Bagpipe-018-EN.ogg",
+        "KR": "Bagpipe-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Your orders?",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-019.ogg",
+        "CN": "Bagpipe-019-CN.ogg",
+        "EN": "Bagpipe-019-EN.ogg",
+        "KR": "Bagpipe-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Awaiting your orders.",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-020.ogg",
+        "CN": "Bagpipe-020-CN.ogg",
+        "EN": "Bagpipe-020-EN.ogg",
+        "KR": "Bagpipe-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Forward!",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-021.ogg",
+        "CN": "Bagpipe-021-CN.ogg",
+        "EN": "Bagpipe-021-EN.ogg",
+        "KR": "Bagpipe-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "My spear and I hail from Victoria!",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-022.ogg",
+        "CN": "Bagpipe-022-CN.ogg",
+        "EN": "Bagpipe-022-EN.ogg",
+        "KR": "Bagpipe-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "\"Tactics sharpen the mind!\"",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-023.ogg",
+        "CN": "Bagpipe-023-CN.ogg",
+        "EN": "Bagpipe-023-EN.ogg",
+        "KR": "Bagpipe-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "\"Discipline strengthens the will!\"",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-024.ogg",
+        "CN": "Bagpipe-024-CN.ogg",
+        "EN": "Bagpipe-024-EN.ogg",
+        "KR": "Bagpipe-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "\"Bravery shall overcome evil!\"",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-025.ogg",
+        "CN": "Bagpipe-025-CN.ogg",
+        "EN": "Bagpipe-025-EN.ogg",
+        "KR": "Bagpipe-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "\"Benevolence shall save lives!\"",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-026.ogg",
+        "CN": "Bagpipe-026-CN.ogg",
+        "EN": "Bagpipe-026-EN.ogg",
+        "KR": "Bagpipe-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "I've seen more serious matters, both in school and in the military.",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-027.ogg",
+        "CN": "Bagpipe-027-CN.ogg",
+        "EN": "Bagpipe-027-EN.ogg",
+        "KR": "Bagpipe-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Phew... I've managed to live up to the reputation of this uniform once more.",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-028.ogg",
+        "CN": "Bagpipe-028-CN.ogg",
+        "EN": "Bagpipe-028-EN.ogg",
+        "KR": "Bagpipe-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "The enemy is getting away! Everyone, please be careful when givin' chase!",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-029.ogg",
+        "CN": "Bagpipe-029-CN.ogg",
+        "EN": "Bagpipe-029-EN.ogg",
+        "KR": "Bagpipe-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "You go on ahead!",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-030.ogg",
+        "CN": "Bagpipe-030-CN.ogg",
+        "EN": "Bagpipe-030-EN.ogg",
+        "KR": "Bagpipe-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "How do I get to the greenhouse?",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-031.ogg",
+        "CN": "Bagpipe-031-CN.ogg",
+        "EN": "Bagpipe-031-EN.ogg",
+        "KR": "Bagpipe-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Oh, hey?",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-032.ogg",
+        "CN": "Bagpipe-032-CN.ogg",
+        "EN": "Bagpipe-032-EN.ogg",
+        "KR": "Bagpipe-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Wanna go on a picnic? Just the two of us!",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-033.ogg",
+        "CN": "Bagpipe-033-CN.ogg",
+        "EN": "Bagpipe-033-EN.ogg",
+        "KR": "Bagpipe-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor, wanna go farming together?",
+      "links": [],
+      "audio": {
+        "JP": "Bagpipe-034.ogg",
+        "CN": "Bagpipe-034-CN.ogg",
+        "EN": "Bagpipe-034-EN.ogg",
+        "KR": "Bagpipe-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Bagpipe-035.ogg",
+        "CN": "Bagpipe-035-CN.ogg",
+        "EN": "Bagpipe-035-EN.ogg",
+        "KR": "Bagpipe-035-KR.ogg"
+      }
+    }
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "operator": "Gladiia",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Please leave for the moment. I will not permit any disturbance as I work. I appreciate your understanding.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-001.ogg",
+        "CN": "Gladiia-001-CN.ogg",
+        "EN": "Gladiia-001-EN.ogg",
+        "KR": "Gladiia-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "I wish to avoid unnecessary headaches. On that point, we stand together. Given your rich experience, I am certain you are already well aware, but even when it is not their intention to do so, humans tend to lead themselves to their destruction. That said, until the time the others are fully prepared, it doesn't matter how much you rack your brains about the sea. It's all but futile.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-002.ogg",
+        "CN": "Gladiia-002-CN.ogg",
+        "EN": "Gladiia-002-EN.ogg",
+        "KR": "Gladiia-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Could you let your operators know to never touch my body or my weapons after combat? It would make me feel bad if anyone complained about any burns.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-003.ogg",
+        "CN": "Gladiia-003-CN.ogg",
+        "EN": "Gladiia-003-EN.ogg",
+        "KR": "Gladiia-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "I sound a little too polite...? I'm not yet familiar with the language used on the land. Besides... and this is my only my own opinion, you wouldn't want to see me impolite, would you?",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-004.ogg",
+        "CN": "Gladiia-004-CN.ogg",
+        "EN": "Gladiia-004-EN.ogg",
+        "KR": "Gladiia-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "AsAbyssal Hunters, we must fulfill our responsibilities. To abandon the sacrifices of the past would be an unforgivable act of betrayal. That being said, how many Hunters can I still save other thanSpecterandSkadi? Even if I save another Hunter who survived, the fear may have crushed them whole long ago. It would only be dragging out their agony.",
+      "links": [
+        {
+          "text": "Abyssal Hunters",
+          "href": "/wiki/Abyssal_Hunters"
+        },
+        {
+          "text": "Specter",
+          "href": "/wiki/Specter"
+        },
+        {
+          "text": "Skadi",
+          "href": "/wiki/Skadi"
+        }
+      ],
+      "audio": {
+        "JP": "Gladiia-005.ogg",
+        "CN": "Gladiia-005-CN.ogg",
+        "EN": "Gladiia-005-EN.ogg",
+        "KR": "Gladiia-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Do you like to sing? What about dancing? How about a dance with me, then? It doesn't matter if you don't know the steps. I will teach you. Songs, art, music... You must never forget these things. These expressions are proof that all those who stand beneath that sky full of stars once lived. That's how they take form and live on. Come, let's dance.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-006.ogg",
+        "CN": "Gladiia-006-CN.ogg",
+        "EN": "Gladiia-006-EN.ogg",
+        "KR": "Gladiia-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Kal'tsit implored me to seek your help, but I don't completely trust you yet. Your technology is primitive compared toÆgir, and your mental state is even more problematic... Many of you are fearful and cowardly. I cannot begin to imagine you people taking on\"that.\"",
+      "links": [
+        {
+          "text": "Ægir",
+          "href": "/wiki/Aegir_(country)"
+        },
+        {
+          "text": "\"that.\"",
+          "href": "/wiki/Seaborn"
+        }
+      ],
+      "audio": {
+        "JP": "Gladiia-007.ogg",
+        "CN": "Gladiia-007-CN.ogg",
+        "EN": "Gladiia-007-EN.ogg",
+        "KR": "Gladiia-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "The air here is dry. Fighting on land sometimes leaves me feeling dry. This is better than being surrounded by the dead bodies of my comrades, however... when the sea was filled to the brim with shreds of their bodies. Their deaths get etched onto your brain, and the stench of their rotting bodies will fill your mouth each and every time you open it. Even so, we must never hang our heads.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-008.ogg",
+        "CN": "Gladiia-008-CN.ogg",
+        "EN": "Gladiia-008-EN.ogg",
+        "KR": "Gladiia-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "We are not of the same race. Do you think we can form an alliance in spite of that? Kal'tsit is far older than me, and I cannot begin to imagine the burden she carries, but they are all things that you must face one day... You need to get stronger. You need to not fear loss. I will watch you by your side.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-009.ogg",
+        "CN": "Gladiia-009-CN.ogg",
+        "EN": "Gladiia-009-EN.ogg",
+        "KR": "Gladiia-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Hmph...",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-010.ogg",
+        "CN": "Gladiia-010-CN.ogg",
+        "EN": "Gladiia-010-EN.ogg",
+        "KR": "Gladiia-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Dr. {nickname}. I am Gladiia, the officer in charge ofRhodes Island'sÆgir affairs. We will have many opportunities to collaborate in the future, but please see me as an outsider. I am not worthy of your trust yet.",
+      "links": [
+        {
+          "text": "Dr. {nickname}",
+          "href": "/wiki/Doctor"
+        },
+        {
+          "text": "Rhodes Island's",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Gladiia-011.ogg",
+        "CN": "Gladiia-011-CN.ogg",
+        "EN": "Gladiia-011-EN.ogg",
+        "KR": "Gladiia-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "I see. Your tactics and equipment match your kind's development progress.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-012.ogg",
+        "CN": "Gladiia-012-CN.ogg",
+        "EN": "Gladiia-012-EN.ogg",
+        "KR": "Gladiia-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "A new contract? I appreciate your recognition, but I already have many important missions assigned to me. It will be a while until I get to these new missions from you. I apologize for the inconvenience.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-013.ogg",
+        "CN": "Gladiia-013-CN.ogg",
+        "EN": "Gladiia-013-EN.ogg",
+        "KR": "Gladiia-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "War. The concept of victory doesn't exist in a war that revolves around the continuance of a race. The only conclusion it can lead to is the destruction of all other races under the night sky. We Abyssal Hunters put our lives on the line to fend off and delay this fate. Always, unrelenting, and without any regrets.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-014.ogg",
+        "CN": "Gladiia-014-CN.ogg",
+        "EN": "Gladiia-014-EN.ogg",
+        "KR": "Gladiia-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "As your squadron's aide, I will participate in your trainings.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-015.ogg",
+        "CN": "Gladiia-015-CN.ogg",
+        "EN": "Gladiia-015-EN.ogg",
+        "KR": "Gladiia-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "It seems this won't be a difficult battle. Allow me to use this as an opportunity to train your operators' hunting abilities.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-016.ogg",
+        "CN": "Gladiia-016-CN.ogg",
+        "EN": "Gladiia-016-EN.ogg",
+        "KR": "Gladiia-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "You are as slow as though you are bogged down in mud, but don't let it get to you. I will slow down and wait.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-017.ogg",
+        "CN": "Gladiia-017-CN.ogg",
+        "EN": "Gladiia-017-EN.ogg",
+        "KR": "Gladiia-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Considering the level of this battle, allow me to save my strength.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-018.ogg",
+        "CN": "Gladiia-018-CN.ogg",
+        "EN": "Gladiia-018-EN.ogg",
+        "KR": "Gladiia-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Please, go ahead.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-019.ogg",
+        "CN": "Gladiia-019-CN.ogg",
+        "EN": "Gladiia-019-EN.ogg",
+        "KR": "Gladiia-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "As you wish.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-020.ogg",
+        "CN": "Gladiia-020-CN.ogg",
+        "EN": "Gladiia-020-EN.ogg",
+        "KR": "Gladiia-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Who's the prey?",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-021.ogg",
+        "CN": "Gladiia-021-CN.ogg",
+        "EN": "Gladiia-021-EN.ogg",
+        "KR": "Gladiia-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "I'll take care of it right away.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-022.ogg",
+        "CN": "Gladiia-022-CN.ogg",
+        "EN": "Gladiia-022-EN.ogg",
+        "KR": "Gladiia-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Be careful. The currents here will swallow the weak whole.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-023.ogg",
+        "CN": "Gladiia-023-CN.ogg",
+        "EN": "Gladiia-023-EN.ogg",
+        "KR": "Gladiia-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Have you asked for my permission before you tried to run away from me, my dear prey?",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-024.ogg",
+        "CN": "Gladiia-024-CN.ogg",
+        "EN": "Gladiia-024-EN.ogg",
+        "KR": "Gladiia-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "It won't take even half a second. This lance will pierce your heart.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-025.ogg",
+        "CN": "Gladiia-025-CN.ogg",
+        "EN": "Gladiia-025-EN.ogg",
+        "KR": "Gladiia-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "That's enough playtime with toys.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-026.ogg",
+        "CN": "Gladiia-026-CN.ogg",
+        "EN": "Gladiia-026-EN.ogg",
+        "KR": "Gladiia-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Live. That's the only rule you must follow.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-027.ogg",
+        "CN": "Gladiia-027-CN.ogg",
+        "EN": "Gladiia-027-EN.ogg",
+        "KR": "Gladiia-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "An archetypical victory. One day, you will be able to defeat all feeble creatures that come your way.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-028.ogg",
+        "CN": "Gladiia-028-CN.ogg",
+        "EN": "Gladiia-028-EN.ogg",
+        "KR": "Gladiia-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "If the preys that got away have no means to share information, then you still have a chance to live.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-029.ogg",
+        "CN": "Gladiia-029-CN.ogg",
+        "EN": "Gladiia-029-EN.ogg",
+        "KR": "Gladiia-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "How mediocre.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-030.ogg",
+        "CN": "Gladiia-030-CN.ogg",
+        "EN": "Gladiia-030-EN.ogg",
+        "KR": "Gladiia-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "I appreciate the sentiment, but I'm perhaps more comfortable staying in my own little cramped dwelling.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-031.ogg",
+        "CN": "Gladiia-031-CN.ogg",
+        "EN": "Gladiia-031-EN.ogg",
+        "KR": "Gladiia-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Please, respect the land's etiquette, Doctor, or perhaps discourtesy is more your thing?",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-032.ogg",
+        "CN": "Gladiia-032-CN.ogg",
+        "EN": "Gladiia-032-EN.ogg",
+        "KR": "Gladiia-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Best be careful. My kind are all monsters in nature.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-033.ogg",
+        "CN": "Gladiia-033-CN.ogg",
+        "EN": "Gladiia-033-EN.ogg",
+        "KR": "Gladiia-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Hello, Dr. {nickname}.",
+      "links": [],
+      "audio": {
+        "JP": "Gladiia-034.ogg",
+        "CN": "Gladiia-034-CN.ogg",
+        "EN": "Gladiia-034-EN.ogg",
+        "KR": "Gladiia-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Gladiia-035.ogg",
+        "CN": "Gladiia-035-CN.ogg",
+        "EN": "Gladiia-035-EN.ogg",
+        "KR": "Gladiia-035-KR.ogg"
+      }
+    }
+  }
+}

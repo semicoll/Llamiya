@@ -1,0 +1,429 @@
+{
+  "operator": "Eyjafjalla",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Professor, I've finished all my Catastrophe studies notes. Do you have any more I could read?",
+      "links": [
+        {
+          "text": "Professor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-001.ogg",
+        "CN": "Eyjafjalla-001-CN.ogg",
+        "EN": "Eyjafjalla-001-EN.ogg",
+        "KR": "Eyjafjalla-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Huh? What? Why do I call you 'Professor'? Well, you're an expert onCatastrophestudies, so you're like a professor, right? Aren't we all supposed to address our superiors with respect?",
+      "links": [
+        {
+          "text": "Catastrophe",
+          "href": "/wiki/Catastrophe"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-002.ogg",
+        "CN": "Eyjafjalla-002-CN.ogg",
+        "EN": "Eyjafjalla-002-EN.ogg",
+        "KR": "Eyjafjalla-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Pardon me? Please say that again? Oh, you're wondering why I'm hard of hearing? Well, I got infected with Oripathy back when I was doing research near a volcano...",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-003.ogg",
+        "CN": "Eyjafjalla-003-CN.ogg",
+        "EN": "Eyjafjalla-003-EN.ogg",
+        "KR": "Eyjafjalla-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Besides completing the tasks you give me, I have to go to Dr.Kal'tsitregularly for checkups. The doctor said my symptoms are pretty serious...",
+      "links": [
+        {
+          "text": "Kal'tsit",
+          "href": "/wiki/Kal%27tsit"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-004.ogg",
+        "CN": "Eyjafjalla-004-CN.ogg",
+        "EN": "Eyjafjalla-004-EN.ogg",
+        "KR": "Eyjafjalla-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "I have to work hard to finish the research my parents began! I want to prove that their work was meaningful, and that it could maybe even change the world!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-005.ogg",
+        "CN": "Eyjafjalla-005-CN.ogg",
+        "EN": "Eyjafjalla-005-EN.ogg",
+        "KR": "Eyjafjalla-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "My parents... they've passed on. A pyroclastic flow hit them when they were conducting studies near a volcano... I have to pick up where they left off and finish their research, no matter what!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-006.ogg",
+        "CN": "Eyjafjalla-006-CN.ogg",
+        "EN": "Eyjafjalla-006-EN.ogg",
+        "KR": "Eyjafjalla-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "My playmates? I'm pretty friendly withMousseand some others, so I don't feel lonely at all! If possible, I'd love to start a book club with them too. Could we hold our club meetings in your office, Professor?",
+      "links": [
+        {
+          "text": "My playmates",
+          "href": "/wiki/Dolly"
+        },
+        {
+          "text": "Mousse",
+          "href": "/wiki/Mousse"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-007.ogg",
+        "CN": "Eyjafjalla-007-CN.ogg",
+        "EN": "Eyjafjalla-007-EN.ogg",
+        "KR": "Eyjafjalla-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Dr. Kal'tsit told me... I'm losing not only my sense of hearing, but my sense of sight too. …Well, what else might this disease do to me?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-008.ogg",
+        "CN": "Eyjafjalla-008-CN.ogg",
+        "EN": "Eyjafjalla-008-EN.ogg",
+        "KR": "Eyjafjalla-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "How could I tell you were behind me? Because I could feel your warmth! My eyesight and hearing aren't as sharp as they once were, but my other senses are still the same. Can't bring me down this easily, you know!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-009.ogg",
+        "CN": "Eyjafjalla-009-CN.ogg",
+        "EN": "Eyjafjalla-009-EN.ogg",
+        "KR": "Eyjafjalla-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Professor! Oh... You're asleep...?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-010.ogg",
+        "CN": "Eyjafjalla-010-CN.ogg",
+        "EN": "Eyjafjalla-010-EN.ogg",
+        "KR": "Eyjafjalla-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I'm Eyjafjalla. My career before joiningRhodes Islandwas in the field of volcanology. I'm a bit hard of hearing due to my Oripathy. I just hope I won't be a burden to you, Professor.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-011.ogg",
+        "CN": "Eyjafjalla-011-CN.ogg",
+        "EN": "Eyjafjalla-011-EN.ogg",
+        "KR": "Eyjafjalla-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Please teach me all you can, Professor.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-012.ogg",
+        "CN": "Eyjafjalla-012-CN.ogg",
+        "EN": "Eyjafjalla-012-EN.ogg",
+        "KR": "Eyjafjalla-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Promotion? Really? I'm so happy to have your approval, Professor!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-013.ogg",
+        "CN": "Eyjafjalla-013-CN.ogg",
+        "EN": "Eyjafjalla-013-EN.ogg",
+        "KR": "Eyjafjalla-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "My mother gave me these little lambs. They're cute, aren't they? Huh? They're scorching hot? Be careful! You have to put on oven mittens before touching them!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-014.ogg",
+        "CN": "Eyjafjalla-014-CN.ogg",
+        "EN": "Eyjafjalla-014-EN.ogg",
+        "KR": "Eyjafjalla-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Understood, Professor.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-015.ogg",
+        "CN": "Eyjafjalla-015-CN.ogg",
+        "EN": "Eyjafjalla-015-EN.ogg",
+        "KR": "Eyjafjalla-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Don't forget to prepare emergency supplies as well as weapons!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-016.ogg",
+        "CN": "Eyjafjalla-016-CN.ogg",
+        "EN": "Eyjafjalla-016-EN.ogg",
+        "KR": "Eyjafjalla-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "We can take care of ourselves, Professor. You just focus on giving orders.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-017.ogg",
+        "CN": "Eyjafjalla-017-CN.ogg",
+        "EN": "Eyjafjalla-017-EN.ogg",
+        "KR": "Eyjafjalla-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Stay safe, everyone.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-018.ogg",
+        "CN": "Eyjafjalla-018-CN.ogg",
+        "EN": "Eyjafjalla-018-EN.ogg",
+        "KR": "Eyjafjalla-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Professor?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-019.ogg",
+        "CN": "Eyjafjalla-019-CN.ogg",
+        "EN": "Eyjafjalla-019-EN.ogg",
+        "KR": "Eyjafjalla-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Please give your orders, Professor.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-020.ogg",
+        "CN": "Eyjafjalla-020-CN.ogg",
+        "EN": "Eyjafjalla-020-EN.ogg",
+        "KR": "Eyjafjalla-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "I'll be careful.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-021.ogg",
+        "CN": "Eyjafjalla-021-CN.ogg",
+        "EN": "Eyjafjalla-021-EN.ogg",
+        "KR": "Eyjafjalla-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "All the best!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-022.ogg",
+        "CN": "Eyjafjalla-022-CN.ogg",
+        "EN": "Eyjafjalla-022-EN.ogg",
+        "KR": "Eyjafjalla-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Temperature is stable!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-023.ogg",
+        "CN": "Eyjafjalla-023-CN.ogg",
+        "EN": "Eyjafjalla-023-EN.ogg",
+        "KR": "Eyjafjalla-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "This may be a little hot...",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-024.ogg",
+        "CN": "Eyjafjalla-024-CN.ogg",
+        "EN": "Eyjafjalla-024-EN.ogg",
+        "KR": "Eyjafjalla-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Watch out for fires.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-025.ogg",
+        "CN": "Eyjafjalla-025-CN.ogg",
+        "EN": "Eyjafjalla-025-EN.ogg",
+        "KR": "Eyjafjalla-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "How's that?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-026.ogg",
+        "CN": "Eyjafjalla-026-CN.ogg",
+        "EN": "Eyjafjalla-026-EN.ogg",
+        "KR": "Eyjafjalla-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "I'm so glad you're safe, Professor...",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-027.ogg",
+        "CN": "Eyjafjalla-027-CN.ogg",
+        "EN": "Eyjafjalla-027-EN.ogg",
+        "KR": "Eyjafjalla-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Why mustour worldbe enveloped in strife?",
+      "links": [
+        {
+          "text": "our world",
+          "href": "/wiki/Terra"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-028.ogg",
+        "CN": "Eyjafjalla-028-CN.ogg",
+        "EN": "Eyjafjalla-028-EN.ogg",
+        "KR": "Eyjafjalla-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Is everyone okay? Anything I can do?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-029.ogg",
+        "CN": "Eyjafjalla-029-CN.ogg",
+        "EN": "Eyjafjalla-029-EN.ogg",
+        "KR": "Eyjafjalla-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Ow... It's... It's okay... I'm fine...",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-030.ogg",
+        "CN": "Eyjafjalla-030-CN.ogg",
+        "EN": "Eyjafjalla-030-EN.ogg",
+        "KR": "Eyjafjalla-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "This room makes me feel safe.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-031.ogg",
+        "CN": "Eyjafjalla-031-CN.ogg",
+        "EN": "Eyjafjalla-031-EN.ogg",
+        "KR": "Eyjafjalla-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Eek! You startled me, Professor!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-032.ogg",
+        "CN": "Eyjafjalla-032-CN.ogg",
+        "EN": "Eyjafjalla-032-EN.ogg",
+        "KR": "Eyjafjalla-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Thank you, Professor, for helping me become a stronger person.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-033.ogg",
+        "CN": "Eyjafjalla-033-CN.ogg",
+        "EN": "Eyjafjalla-033-EN.ogg",
+        "KR": "Eyjafjalla-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Good morning, Professor!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-034.ogg",
+        "CN": "Eyjafjalla-034-CN.ogg",
+        "EN": "Eyjafjalla-034-EN.ogg",
+        "KR": "Eyjafjalla-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Eyjafjalla-035.ogg",
+        "CN": "Eyjafjalla-035-CN.ogg",
+        "EN": "Eyjafjalla-035-EN.ogg",
+        "KR": "Eyjafjalla-035-KR.ogg"
+      }
+    }
+  }
+}

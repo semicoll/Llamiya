@@ -1,0 +1,436 @@
+{
+  "operator": "Lumen",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Hm? Am I able to be of help to you? I can't contribute anything towards your meticulous plans or lofty ideals, but if you wish me to attend you... that happens to be my specialty.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-001.ogg",
+        "CN": "Lumen-001-CN.ogg",
+        "EN": "Lumen-001-EN.ogg",
+        "KR": "Lumen-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Sitting for extended periods of time will cause muscular atrophy, and that's not going to help,Doctor. Come, I'll walk with you around the deck. I've also been wanting to hear about some ofRhodes Island's legends. No, sifting through the archives isn't as interesting as hearing it from you.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        },
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Lumen-002.ogg",
+        "CN": "Lumen-002-CN.ogg",
+        "EN": "Lumen-002-EN.ogg",
+        "KR": "Lumen-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "My grandfather was involved in the construction of that great lighthouse. But now, haha, all I do is stay behind in the church, tending to the sick and elderly... No, I'm not complaining about my job as a caregiver; seeing their smiles brings me great joy! It's just that...",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-003.ogg",
+        "CN": "Lumen-003-CN.ogg",
+        "EN": "Lumen-003-EN.ogg",
+        "KR": "Lumen-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Skadi,Gladiia, andSpecter... I never thought a day would come when I would stand on the same side as thoseÆgirgreats; I mean, I barely know anything about the Ægir... Huh? You're putting me on the same team as them? Please, have mercy on me...",
+      "links": [
+        {
+          "text": "Skadi",
+          "href": "/wiki/Skadi"
+        },
+        {
+          "text": "Gladiia",
+          "href": "/wiki/Gladiia"
+        },
+        {
+          "text": "Specter",
+          "href": "/wiki/Specter"
+        },
+        {
+          "text": "Ægir",
+          "href": "/wiki/Aegir_(race)"
+        }
+      ],
+      "audio": {
+        "JP": "Lumen-004.ogg",
+        "CN": "Lumen-004-CN.ogg",
+        "EN": "Lumen-004-EN.ogg",
+        "KR": "Lumen-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "That Inquisitorfought to the last breath for our sake. When I saw the light of his lantern pierce the darkness, I suddenly realized: they are all fighting for our future. And though I might not be as strong as them, I don't wish to remain a bystander. I want to stand with them.",
+      "links": [
+        {
+          "text": "That Inquisitor",
+          "href": "/wiki/Dario"
+        }
+      ],
+      "audio": {
+        "JP": "Lumen-005.ogg",
+        "CN": "Lumen-005-CN.ogg",
+        "EN": "Lumen-005-EN.ogg",
+        "KR": "Lumen-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Achieving great things is not easy for me, but even facing life itself is not a trivial task. Doctor, don't worry, I won't give up. The ideal I pursue... lies in all Rhodes Islanders.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-006.ogg",
+        "CN": "Lumen-006-CN.ogg",
+        "EN": "Lumen-006-EN.ogg",
+        "KR": "Lumen-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "For usIberians, our relationship with the \"sea\" is a complicated one. The sea symbolizes terror and danger, while also holding nostalgia for a bygone era. But even as the great vessels of Iberia sink before our eyes, we... we require a bit of change.",
+      "links": [
+        {
+          "text": "Iberians",
+          "href": "/wiki/Iberia"
+        }
+      ],
+      "audio": {
+        "JP": "Lumen-007.ogg",
+        "CN": "Lumen-007-CN.ogg",
+        "EN": "Lumen-007-EN.ogg",
+        "KR": "Lumen-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Caregivers have to respond to all sorts of different situations. Some people are difficult to deal with, but the gratitude we receive makes it worth it. Doctor, all that you do, day in and day out, must be for a very similar pursuit, right? You know the joy of being able to make a difference.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-008.ogg",
+        "CN": "Lumen-008-CN.ogg",
+        "EN": "Lumen-008-EN.ogg",
+        "KR": "Lumen-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Working in the Inquisition is difficult, and not everyone is as fair as LadyIrene... But, had I not experienced it, I never would've gotten to work with amazing people like you, right?",
+      "links": [
+        {
+          "text": "Irene",
+          "href": "/wiki/Irene"
+        }
+      ],
+      "audio": {
+        "JP": "Lumen-009.ogg",
+        "CN": "Lumen-009-CN.ogg",
+        "EN": "Lumen-009-EN.ogg",
+        "KR": "Lumen-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Doctor, Doctor? You're going to catch a cold if you fall asleep like this... Let me fetch you a blanket. Is it alright if I dim the lights for you a bit?",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-010.ogg",
+        "CN": "Lumen-010-CN.ogg",
+        "EN": "Lumen-010-EN.ogg",
+        "KR": "Lumen-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "So you're... the Doctor? Pleased to meet you. My codename is \"Lumen,\" and I will now be serving as a Rhodes Island Operator. Even if I can only bring you a thin filament of light, I will give all my strength.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-011.ogg",
+        "CN": "Lumen-011-CN.ogg",
+        "EN": "Lumen-011-EN.ogg",
+        "KR": "Lumen-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Do we... really have to face such terrifying things?",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-012.ogg",
+        "CN": "Lumen-012-CN.ogg",
+        "EN": "Lumen-012-EN.ogg",
+        "KR": "Lumen-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "No, I can't accept this. I've just been doing my job, nothing worthy of a promotion. Please, you don't need to look so dejected. Fine, I'll take it!",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-013.ogg",
+        "CN": "Lumen-013-CN.ogg",
+        "EN": "Lumen-013-EN.ogg",
+        "KR": "Lumen-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "I'm just an ordinary person, and it takes a huge amount of effort to even keep up with the others. However, if you really need what little I can offer... then I will be there for you at any time.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-014.ogg",
+        "CN": "Lumen-014-CN.ogg",
+        "EN": "Lumen-014-EN.ogg",
+        "KR": "Lumen-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Don't worry, Doctor. I'll catch up to the others.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-015.ogg",
+        "CN": "Lumen-015-CN.ogg",
+        "EN": "Lumen-015-EN.ogg",
+        "KR": "Lumen-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Me, squad leader? Umm... Can you give me a few minutes to sort things out in my head?",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-016.ogg",
+        "CN": "Lumen-016-CN.ogg",
+        "EN": "Lumen-016-EN.ogg",
+        "KR": "Lumen-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Looks like it's too late for second thoughts. Time to move out.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-017.ogg",
+        "CN": "Lumen-017-CN.ogg",
+        "EN": "Lumen-017-EN.ogg",
+        "KR": "Lumen-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "I'll do my best to keep everyone safe!",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-018.ogg",
+        "CN": "Lumen-018-CN.ogg",
+        "EN": "Lumen-018-EN.ogg",
+        "KR": "Lumen-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "At your disposal.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-019.ogg",
+        "CN": "Lumen-019-CN.ogg",
+        "EN": "Lumen-019-EN.ogg",
+        "KR": "Lumen-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "As long as I can help.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-020.ogg",
+        "CN": "Lumen-020-CN.ogg",
+        "EN": "Lumen-020-EN.ogg",
+        "KR": "Lumen-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "I can handle this!",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-021.ogg",
+        "CN": "Lumen-021-CN.ogg",
+        "EN": "Lumen-021-EN.ogg",
+        "KR": "Lumen-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "It's fine, as long as I can muster up the courage!",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-022.ogg",
+        "CN": "Lumen-022-CN.ogg",
+        "EN": "Lumen-022-EN.ogg",
+        "KR": "Lumen-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Don't worry, I'm here with you.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-023.ogg",
+        "CN": "Lumen-023-CN.ogg",
+        "EN": "Lumen-023-EN.ogg",
+        "KR": "Lumen-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "You can do this. Here, the first step is a deep breath.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-024.ogg",
+        "CN": "Lumen-024-CN.ogg",
+        "EN": "Lumen-024-EN.ogg",
+        "KR": "Lumen-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Hang in there, the treatment will be done in no time!",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-025.ogg",
+        "CN": "Lumen-025-CN.ogg",
+        "EN": "Lumen-025-EN.ogg",
+        "KR": "Lumen-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Please stay calm. It's a bit tricky, but as long as you give me some time...",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-026.ogg",
+        "CN": "Lumen-026-CN.ogg",
+        "EN": "Lumen-026-EN.ogg",
+        "KR": "Lumen-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Dr.{nickname}, that you've shown me such a great project, let me become a part of it, and even had me stand by your side, means the world to me.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-027.ogg",
+        "CN": "Lumen-027-CN.ogg",
+        "EN": "Lumen-027-EN.ogg",
+        "KR": "Lumen-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "We did it, Doctor! Even though this was a small victory, the day will come when these small rays of light will grow numerous enough to dispel the darkness.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-028.ogg",
+        "CN": "Lumen-028-CN.ogg",
+        "EN": "Lumen-028-EN.ogg",
+        "KR": "Lumen-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Enough frowning, Doctor, it's bad for your health. If everything always went according to plan, what would motivate us to work harder and better ourselves?",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-029.ogg",
+        "CN": "Lumen-029-CN.ogg",
+        "EN": "Lumen-029-EN.ogg",
+        "KR": "Lumen-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Doctor, please evacuate! If I can hold the line and buy you a future, then I...",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-030.ogg",
+        "CN": "Lumen-030-CN.ogg",
+        "EN": "Lumen-030-EN.ogg",
+        "KR": "Lumen-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Rhodes Island is a beautiful ship, but sadly... I cannot feel the breath of the sea breeze.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-031.ogg",
+        "CN": "Lumen-031-CN.ogg",
+        "EN": "Lumen-031-EN.ogg",
+        "KR": "Lumen-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Do you need a hand?",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-032.ogg",
+        "CN": "Lumen-032-CN.ogg",
+        "EN": "Lumen-032-EN.ogg",
+        "KR": "Lumen-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "The thing I enjoy most is looking out the window at the surrounding scenery, relaxing away my afternoon. Want to join me, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-033.ogg",
+        "CN": "Lumen-033-CN.ogg",
+        "EN": "Lumen-033-EN.ogg",
+        "KR": "Lumen-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor, need me to give you a shoulder massage? I'm pretty well-known for my PT skills.",
+      "links": [],
+      "audio": {
+        "JP": "Lumen-034.ogg",
+        "CN": "Lumen-034-CN.ogg",
+        "EN": "Lumen-034-EN.ogg",
+        "KR": "Lumen-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Lumen-035.ogg",
+        "CN": "Lumen-035-CN.ogg",
+        "EN": "Lumen-035-EN.ogg",
+        "KR": "Lumen-035-KR.ogg"
+      }
+    }
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "operator": "Nightingale",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I apologize... It's my job to attend to you, but my body simply won't move like I want it to...",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-001.ogg",
+        "CN": "Nightingale-001-CN.ogg",
+        "EN": "Nightingale-001-EN.ogg",
+        "KR": "Nightingale-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "I breathed in someOriginiumtoxin once... it damaged my memory and the nervous system in my lower extremities... at least that was what Dr.Kal'tsittold me. So I often wonder... what was my life like before then?",
+      "links": [
+        {
+          "text": "Originium",
+          "href": "/wiki/Originium"
+        },
+        {
+          "text": "Kal'tsit",
+          "href": "/wiki/Kal%27tsit"
+        }
+      ],
+      "audio": {
+        "JP": "Nightingale-002.ogg",
+        "CN": "Nightingale-002-CN.ogg",
+        "EN": "Nightingale-002-EN.ogg",
+        "KR": "Nightingale-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "This little blue bird often comes over and chats with me. Sometimes, I dream about turning into a bird myself... flying free in the skies, without a care...",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-003.ogg",
+        "CN": "Nightingale-003-CN.ogg",
+        "EN": "Nightingale-003-EN.ogg",
+        "KR": "Nightingale-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Once upon a time, I was imprisoned in an empty room. The only time I ever saw someone else was when they needed my healing powers...",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-004.ogg",
+        "CN": "Nightingale-004-CN.ogg",
+        "EN": "Nightingale-004-EN.ogg",
+        "KR": "Nightingale-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "With this staff in my hand, I can heal people as much as I want. Is this... really an ability I was born with?",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-005.ogg",
+        "CN": "Nightingale-005-CN.ogg",
+        "EN": "Nightingale-005-EN.ogg",
+        "KR": "Nightingale-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Shiningtold me that the sins we carry... the crime of starting the war, as Demons... will one day catch up to us and we will have to face our punishment. Those people who imprisoned me said the same thing. But...",
+      "links": [
+        {
+          "text": "Shining",
+          "href": "/wiki/Shining"
+        }
+      ],
+      "audio": {
+        "JP": "Nightingale-006.ogg",
+        "CN": "Nightingale-006-CN.ogg",
+        "EN": "Nightingale-006-EN.ogg",
+        "KR": "Nightingale-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Amiya... I feel a sense of deja vu whenever I see her. Perhaps we met sometime in the past?",
+      "links": [
+        {
+          "text": "Amiya",
+          "href": "/wiki/Amiya"
+        }
+      ],
+      "audio": {
+        "JP": "Nightingale-007.ogg",
+        "CN": "Nightingale-007-CN.ogg",
+        "EN": "Nightingale-007-EN.ogg",
+        "KR": "Nightingale-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "The memories I have are mere fragments. My people... Originium... my mission, the rebellion, the war... but tell me, why are you in one of my memories too?",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-008.ogg",
+        "CN": "Nightingale-008-CN.ogg",
+        "EN": "Nightingale-008-EN.ogg",
+        "KR": "Nightingale-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Why am I like this? Why did I have to become what I am?Doctor, will you help me find the answers?",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Nightingale-009.ogg",
+        "CN": "Nightingale-009-CN.ogg",
+        "EN": "Nightingale-009-EN.ogg",
+        "KR": "Nightingale-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Do you too dream of flying freely through the skies like a bird?",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-010.ogg",
+        "CN": "Nightingale-010-CN.ogg",
+        "EN": "Nightingale-010-EN.ogg",
+        "KR": "Nightingale-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Liz... that's my real name. Everything else is a just cloudy, indistinct memories...",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-011.ogg",
+        "CN": "Nightingale-011-CN.ogg",
+        "EN": "Nightingale-011-EN.ogg",
+        "KR": "Nightingale-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Why is there a need for me to grow stronger?",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-012.ogg",
+        "CN": "Nightingale-012-CN.ogg",
+        "EN": "Nightingale-012-EN.ogg",
+        "KR": "Nightingale-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "A promotion? I see. It sounds like something to rejoice over. But... I apologize, I don't feel any joy within me...",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-013.ogg",
+        "CN": "Nightingale-013-CN.ogg",
+        "EN": "Nightingale-013-EN.ogg",
+        "KR": "Nightingale-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Thank you for personally informing me of my promotion, Doctor. But... to me, it doesn't matter as much as the story of the world outside that this little bird is telling me right now.",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-014.ogg",
+        "CN": "Nightingale-014-CN.ogg",
+        "EN": "Nightingale-014-EN.ogg",
+        "KR": "Nightingale-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Is this the rendezvous point?",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-015.ogg",
+        "CN": "Nightingale-015-CN.ogg",
+        "EN": "Nightingale-015-EN.ogg",
+        "KR": "Nightingale-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I shall do anything you command me to.",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-016.ogg",
+        "CN": "Nightingale-016-CN.ogg",
+        "EN": "Nightingale-016-EN.ogg",
+        "KR": "Nightingale-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "I need only do as the manual said, yes?",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-017.ogg",
+        "CN": "Nightingale-017-CN.ogg",
+        "EN": "Nightingale-017-EN.ogg",
+        "KR": "Nightingale-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "The battlefield... a place where lives are taken...",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-018.ogg",
+        "CN": "Nightingale-018-CN.ogg",
+        "EN": "Nightingale-018-EN.ogg",
+        "KR": "Nightingale-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Doctor...",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-019.ogg",
+        "CN": "Nightingale-019-CN.ogg",
+        "EN": "Nightingale-019-EN.ogg",
+        "KR": "Nightingale-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Who will you choose?",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-020.ogg",
+        "CN": "Nightingale-020-CN.ogg",
+        "EN": "Nightingale-020-EN.ogg",
+        "KR": "Nightingale-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "This is... the battlefield...",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-021.ogg",
+        "CN": "Nightingale-021-CN.ogg",
+        "EN": "Nightingale-021-EN.ogg",
+        "KR": "Nightingale-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "It's not my wish to take lives.",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-022.ogg",
+        "CN": "Nightingale-022-CN.ogg",
+        "EN": "Nightingale-022-EN.ogg",
+        "KR": "Nightingale-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "My power is all yours now.",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-023.ogg",
+        "CN": "Nightingale-023-CN.ogg",
+        "EN": "Nightingale-023-EN.ogg",
+        "KR": "Nightingale-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Soar!",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-024.ogg",
+        "CN": "Nightingale-024-CN.ogg",
+        "EN": "Nightingale-024-EN.ogg",
+        "KR": "Nightingale-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "I will not harm you.",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-025.ogg",
+        "CN": "Nightingale-025-CN.ogg",
+        "EN": "Nightingale-025-EN.ogg",
+        "KR": "Nightingale-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "I shall protect you.",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-026.ogg",
+        "CN": "Nightingale-026-CN.ogg",
+        "EN": "Nightingale-026-EN.ogg",
+        "KR": "Nightingale-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "No matter how difficult the battle gets, I...",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-027.ogg",
+        "CN": "Nightingale-027-CN.ogg",
+        "EN": "Nightingale-027-EN.ogg",
+        "KR": "Nightingale-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "To fight to the very end... that's our destiny.",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-028.ogg",
+        "CN": "Nightingale-028-CN.ogg",
+        "EN": "Nightingale-028-EN.ogg",
+        "KR": "Nightingale-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Perhaps they've already escaped the cage called fate...",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-029.ogg",
+        "CN": "Nightingale-029-CN.ogg",
+        "EN": "Nightingale-029-EN.ogg",
+        "KR": "Nightingale-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Is this how despair feels?",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-030.ogg",
+        "CN": "Nightingale-030-CN.ogg",
+        "EN": "Nightingale-030-EN.ogg",
+        "KR": "Nightingale-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Rooms... They too are a type of cage.",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-031.ogg",
+        "CN": "Nightingale-031-CN.ogg",
+        "EN": "Nightingale-031-EN.ogg",
+        "KR": "Nightingale-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Yes? What is it?",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-032.ogg",
+        "CN": "Nightingale-032-CN.ogg",
+        "EN": "Nightingale-032-EN.ogg",
+        "KR": "Nightingale-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor... is this... what is known as \"intimacy\"?",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-033.ogg",
+        "CN": "Nightingale-033-CN.ogg",
+        "EN": "Nightingale-033-EN.ogg",
+        "KR": "Nightingale-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Greetings, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Nightingale-034.ogg",
+        "CN": "Nightingale-034-CN.ogg",
+        "EN": "Nightingale-034-EN.ogg",
+        "KR": "Nightingale-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Nightingale-035.ogg",
+        "CN": "Nightingale-035-CN.ogg",
+        "EN": "Nightingale-035-EN.ogg",
+        "KR": "Nightingale-035-KR.ogg"
+      }
+    }
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "operator": "Saileach",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "File organization is one of my fortes! Uhh... What are these? Data charts and theory analyses...? Seem very complicated, unlike the romance novels I read. Doctor, have you read anyVictorianliterature? Just between the two of us, I share my name with the protagonist from my favorite work.",
+      "links": [
+        {
+          "text": "Victorian",
+          "href": "/wiki/Victoria"
+        }
+      ],
+      "audio": {
+        "JP": "Saileach-001.ogg",
+        "CN": "Saileach-001-CN.ogg",
+        "EN": "Saileach-001-EN.ogg",
+        "KR": "Saileach-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "I used to believe theInfectedwould understand if I smiled at them, but now I understand... Before I smile, I should first understand their suffering, and that goes for all those who are oppressed.",
+      "links": [
+        {
+          "text": "Infected",
+          "href": "/wiki/Infected"
+        }
+      ],
+      "audio": {
+        "JP": "Saileach-002.ogg",
+        "CN": "Saileach-002-CN.ogg",
+        "EN": "Saileach-002-EN.ogg",
+        "KR": "Saileach-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Now that I've talked toAmiyaand theDoctor, I can understand why she, an elite operator... and the rest ofRhodes Islandmade that choice.",
+      "links": [
+        {
+          "text": "Amiya",
+          "href": "/wiki/Amiya"
+        },
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        },
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Saileach-003.ogg",
+        "CN": "Saileach-003-CN.ogg",
+        "EN": "Saileach-003-EN.ogg",
+        "KR": "Saileach-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "It's a little embarrassing to say... but I really admireBagpipe. It doesn't matterwhat she has been through, she takes pride in the fact she was once a Victorian soldier. Oh, please don't get the wrong idea. I still love Victoria, and it is this love that drove me to leave my homeland.",
+      "links": [
+        {
+          "text": "Bagpipe",
+          "href": "/wiki/Bagpipe"
+        },
+        {
+          "text": "what she has been through",
+          "href": "/wiki/Episode_09"
+        }
+      ],
+      "audio": {
+        "JP": "Saileach-004.ogg",
+        "CN": "Saileach-004-CN.ogg",
+        "EN": "Saileach-004-EN.ogg",
+        "KR": "Saileach-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "It wasn't easy to lose theDublinns. I talked to the girl calledReedafterwards, but it doesn't seem she remembers me. I suppose... that's a good thing for her. Should we get the chance, I would love to have a chat with her about poetry and novels. Oh, and it would be lovely if we became friends.",
+      "links": [
+        {
+          "text": "Dublinns",
+          "href": "/wiki/Dublinn"
+        },
+        {
+          "text": "Reed",
+          "href": "/wiki/Reed"
+        }
+      ],
+      "audio": {
+        "JP": "Saileach-005.ogg",
+        "CN": "Saileach-005-CN.ogg",
+        "EN": "Saileach-005-EN.ogg",
+        "KR": "Saileach-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "I have every step ofTrooping the Colourmemorized by heart, but I still have a long way to go to truly carry the banner's weight and find the way forward.",
+      "links": [
+        {
+          "text": "Trooping the Colour",
+          "href": "https://en.wikipedia.org/wiki/Trooping_the_Colour"
+        }
+      ],
+      "audio": {
+        "JP": "Saileach-006.ogg",
+        "CN": "Saileach-006-CN.ogg",
+        "EN": "Saileach-006-EN.ogg",
+        "KR": "Saileach-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "It takes a little time to care for my hair. I know merely keeping up appearances isn't enough, but I see this as part of living diligently. Doctor, your hair's kind of messy. Would you like me to fix it for you?",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-007.ogg",
+        "CN": "Saileach-007-CN.ogg",
+        "EN": "Saileach-007-EN.ogg",
+        "KR": "Saileach-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "If the day comes that youmustfacethosecountlessfearsomeenemies, make sure you stand by my side.",
+      "links": [
+        {
+          "text": "must",
+          "href": "/wiki/Theresis"
+        },
+        {
+          "text": "face",
+          "href": "/wiki/Kashchey"
+        },
+        {
+          "text": "those",
+          "href": "/wiki/Witch_King"
+        },
+        {
+          "text": "countless",
+          "href": "/wiki/Sui"
+        },
+        {
+          "text": "fearsome",
+          "href": "/wiki/Collapsal"
+        },
+        {
+          "text": "enemies",
+          "href": "/wiki/Seaborn"
+        }
+      ],
+      "audio": {
+        "JP": "Saileach-008.ogg",
+        "CN": "Saileach-008-CN.ogg",
+        "EN": "Saileach-008-EN.ogg",
+        "KR": "Saileach-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Doctor... if we had met before that incident, I'm sure I would've found myself relying on your help. But I can't well wait forever for someone to tell me what righteousness is. At the very least, on this journey we walk together, I wish to be an ally you can count on.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-009.ogg",
+        "CN": "Saileach-009-CN.ogg",
+        "EN": "Saileach-009-EN.ogg",
+        "KR": "Saileach-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Doctor, when I see you lounging here, it reminds me of the days I spent lazing around in the Rhodes Island offices... the sunshine, the card games, and everyone... Ahh... It really brings back memories.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-010.ogg",
+        "CN": "Saileach-010-CN.ogg",
+        "EN": "Saileach-010-EN.ogg",
+        "KR": "Saileach-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "You must be Rhodes Island's commander? Operator Saileach, reporting in!",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-011.ogg",
+        "CN": "Saileach-011-CN.ogg",
+        "EN": "Saileach-011-EN.ogg",
+        "KR": "Saileach-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Oh, could you stop for a moment, please? I would like to take notes.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-012.ogg",
+        "CN": "Saileach-012-CN.ogg",
+        "EN": "Saileach-012-EN.ogg",
+        "KR": "Saileach-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "I was... disappointed in them. And so I threw away all the ribbons and medals I'd ever earned. But Rhodes Island is different. Thank you, Doctor. I accept this award.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-013.ogg",
+        "CN": "Saileach-013-CN.ogg",
+        "EN": "Saileach-013-EN.ogg",
+        "KR": "Saileach-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Even now, the blinding light that fended off the darkness still shines in my dreams, though I am still far, far away from her.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-014.ogg",
+        "CN": "Saileach-014-CN.ogg",
+        "EN": "Saileach-014-EN.ogg",
+        "KR": "Saileach-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "May my banner protect all those who are innocent before my eyes.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-015.ogg",
+        "CN": "Saileach-015-CN.ogg",
+        "EN": "Saileach-015-EN.ogg",
+        "KR": "Saileach-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "My friends, as long as we stand together, there will be no evil we can't overcome!",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-016.ogg",
+        "CN": "Saileach-016-CN.ogg",
+        "EN": "Saileach-016-EN.ogg",
+        "KR": "Saileach-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Follow me. Forward!",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-017.ogg",
+        "CN": "Saileach-017-CN.ogg",
+        "EN": "Saileach-017-EN.ogg",
+        "KR": "Saileach-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "If battle is unavoidable, I will not allow my weaknesses to go unchecked.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-018.ogg",
+        "CN": "Saileach-018-CN.ogg",
+        "EN": "Saileach-018-EN.ogg",
+        "KR": "Saileach-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Phew... I'm ready.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-019.ogg",
+        "CN": "Saileach-019-CN.ogg",
+        "EN": "Saileach-019-EN.ogg",
+        "KR": "Saileach-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Your orders, please.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-020.ogg",
+        "CN": "Saileach-020-CN.ogg",
+        "EN": "Saileach-020-EN.ogg",
+        "KR": "Saileach-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "It's my duty to stand here.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-021.ogg",
+        "CN": "Saileach-021-CN.ogg",
+        "EN": "Saileach-021-EN.ogg",
+        "KR": "Saileach-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "I will not back down.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-022.ogg",
+        "CN": "Saileach-022-CN.ogg",
+        "EN": "Saileach-022-EN.ogg",
+        "KR": "Saileach-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Can you hear the children's cries?",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-023.ogg",
+        "CN": "Saileach-023-CN.ogg",
+        "EN": "Saileach-023-EN.ogg",
+        "KR": "Saileach-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Can you feel the cities crumbling away?",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-024.ogg",
+        "CN": "Saileach-024-CN.ogg",
+        "EN": "Saileach-024-EN.ogg",
+        "KR": "Saileach-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Those who plot against you are laughing, and you've never noticed.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-025.ogg",
+        "CN": "Saileach-025-CN.ogg",
+        "EN": "Saileach-025-EN.ogg",
+        "KR": "Saileach-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Could you ever imagine... those around you would be your friends no longer, and the place you called home would never again be your homeland?",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-026.ogg",
+        "CN": "Saileach-026-CN.ogg",
+        "EN": "Saileach-026-EN.ogg",
+        "KR": "Saileach-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "I simply want to defend the people's right to live, and it doesn't matter if they are Victorians or Infected.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-027.ogg",
+        "CN": "Saileach-027-CN.ogg",
+        "EN": "Saileach-027-EN.ogg",
+        "KR": "Saileach-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "You showed me that even weeds struggling to grow in the ruins can stand tall. Thank you.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-028.ogg",
+        "CN": "Saileach-028-CN.ogg",
+        "EN": "Saileach-028-EN.ogg",
+        "KR": "Saileach-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "I can only hope they will come to understand their injustice.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-029.ogg",
+        "CN": "Saileach-029-CN.ogg",
+        "EN": "Saileach-029-EN.ogg",
+        "KR": "Saileach-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Doctor, this time, I'll stay. Hurry and take the others to safety.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-030.ogg",
+        "CN": "Saileach-030-CN.ogg",
+        "EN": "Saileach-030-EN.ogg",
+        "KR": "Saileach-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Phew... I reckon it won't be easy to slack off once I become an actual staff member here?",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-031.ogg",
+        "CN": "Saileach-031-CN.ogg",
+        "EN": "Saileach-031-EN.ogg",
+        "KR": "Saileach-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Eh? Oh, hello!",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-032.ogg",
+        "CN": "Saileach-032-CN.ogg",
+        "EN": "Saileach-032-EN.ogg",
+        "KR": "Saileach-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Are you tired? I've baked some scones. Please, sit down, have some tea, and tell me what's on your mind.",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-033.ogg",
+        "CN": "Saileach-033-CN.ogg",
+        "EN": "Saileach-033-EN.ogg",
+        "KR": "Saileach-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Hey, Doctor, you look cheerful as always!",
+      "links": [],
+      "audio": {
+        "JP": "Saileach-034.ogg",
+        "CN": "Saileach-034-CN.ogg",
+        "EN": "Saileach-034-EN.ogg",
+        "KR": "Saileach-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Saileach-035.ogg",
+        "CN": "Saileach-035-CN.ogg",
+        "EN": "Saileach-035-EN.ogg",
+        "KR": "Saileach-035-KR.ogg"
+      }
+    }
+  }
+}

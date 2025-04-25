@@ -1,0 +1,427 @@
+{
+  "operator": "Eunectes",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Anything you need help with, Boss? Good.",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-001.ogg",
+        "CN": "Eunectes-001-CN.ogg",
+        "EN": "Eunectes-001-EN.ogg",
+        "KR": "Eunectes-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "We aren't allowed to sleep on the ground here? I'll put up a tent in the hallway, then... that won't do either? Why not? At my tribe, we'd just sleep wherever we were when we got tired.",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-002.ogg",
+        "CN": "Eunectes-002-CN.ogg",
+        "EN": "Eunectes-002-EN.ogg",
+        "KR": "Eunectes-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Doctor, why was my application to room withLancet-2rejected? Because she's a robot? You're mistaken. The two of us are sisters now. She's my big sister, and I'm her little sister.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        },
+        {
+          "text": "Lancet-2",
+          "href": "/wiki/Lancet-2"
+        }
+      ],
+      "audio": {
+        "JP": "Eunectes-003.ogg",
+        "CN": "Eunectes-003-CN.ogg",
+        "EN": "Eunectes-003-EN.ogg",
+        "KR": "Eunectes-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Doctor, are medics outside always likeGavial? When she gives me myOripathycheckups, it always feels like she's just trying to beat me up... That's why we always end up fighting each other as soon as my tolerance runs out.",
+      "links": [
+        {
+          "text": "Gavial",
+          "href": "/wiki/Gavial"
+        },
+        {
+          "text": "Oripathy",
+          "href": "/wiki/Oripathy"
+        }
+      ],
+      "audio": {
+        "JP": "Eunectes-004.ogg",
+        "CN": "Eunectes-004-CN.ogg",
+        "EN": "Eunectes-004-EN.ogg",
+        "KR": "Eunectes-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "TheBig Priest[sic]? Yeah, he didn't come with me, but he did say he'd come visit from time to time. Speaking of which, does he even know whereRhodes Islandis...?",
+      "links": [
+        {
+          "text": "Big Priest",
+          "href": "/wiki/High_Priest"
+        },
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Eunectes-005.ogg",
+        "CN": "Eunectes-005-CN.ogg",
+        "EN": "Eunectes-005-EN.ogg",
+        "KR": "Eunectes-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Before, my dream was to build a gigantic robot like the nomadic cities. Now, my dream is not only to build a gigantic robot like the nomadic cities, but one that can talk too. MasterClosurehas already promised to teach me the best of the best about machineries.",
+      "links": [
+        {
+          "text": "Closure",
+          "href": "/wiki/Closure"
+        }
+      ],
+      "audio": {
+        "JP": "Eunectes-006.ogg",
+        "CN": "Eunectes-006-CN.ogg",
+        "EN": "Eunectes-006-EN.ogg",
+        "KR": "Eunectes-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "...Oh, I get it now. So, just like \"Great Chieftain\", \"Doctor\" is a title we use to honor people who are knowledgeable. So that means everyone will start calling me Dr. Zumama once I learn everything I can here, right? Oh, they won't?",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-007.ogg",
+        "CN": "Eunectes-007-CN.ogg",
+        "EN": "Eunectes-007-EN.ogg",
+        "KR": "Eunectes-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Doctor, I was hoping you could accompany me back to Sargon when you have time to teach me how to go about all sorts of things there. But you look busy... In that case, may I ask Lancet-2 to accompany me? Otherwise, Master Closure is fine.",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-008.ogg",
+        "CN": "Eunectes-008-CN.ogg",
+        "EN": "Eunectes-008-EN.ogg",
+        "KR": "Eunectes-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "People outside are always worried about things that don't matter and fighting over them. It's so strange. You too, Doctor. You always look like you're giving yourself a hard time over everything. Here, take this wrench. Let's build some machines together. I'm sure you'll enjoy seeing a machine in the works getting bigger and greater bit by bit.",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-009.ogg",
+        "CN": "Eunectes-009-CN.ogg",
+        "EN": "Eunectes-009-EN.ogg",
+        "KR": "Eunectes-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "I'm starting to get a bit tired myself, watching the Doctor sleeping... *yawn*...",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-010.ogg",
+        "CN": "Eunectes-010-CN.ogg",
+        "EN": "Eunectes-010-EN.ogg",
+        "KR": "Eunectes-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I passed all the exams, so that means I can stay here, right? I want to learn how to build a talking robot like Lancet-2... Oh, codename? My name is Zumama. Can't I use that as my codename?",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-011.ogg",
+        "CN": "Eunectes-011-CN.ogg",
+        "EN": "Eunectes-011-EN.ogg",
+        "KR": "Eunectes-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "To think there's someone who could go up against Gavial on an equal footing...",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-012.ogg",
+        "CN": "Eunectes-012-CN.ogg",
+        "EN": "Eunectes-012-EN.ogg",
+        "KR": "Eunectes-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "A promotion? Is that something like going from a fighter to a warrior? ...In that case, we must celebrate. I think I'll have a barbeque with Lancet-2 on the bridge tonight.",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-013.ogg",
+        "CN": "Eunectes-013-CN.ogg",
+        "EN": "Eunectes-013-EN.ogg",
+        "KR": "Eunectes-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "The High Priest told me before it's a vast, big world out here. He sounded kind of heartbroken when he said that. I didn't understand why at the time, but I'm starting to understand after having spent so much time here. The world being so vast, might not necessarily be a good thing.",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-014.ogg",
+        "CN": "Eunectes-014-CN.ogg",
+        "EN": "Eunectes-014-EN.ogg",
+        "KR": "Eunectes-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Is it time to hunt?",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-015.ogg",
+        "CN": "Eunectes-015-CN.ogg",
+        "EN": "Eunectes-015-EN.ogg",
+        "KR": "Eunectes-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "What are we hunting?",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-016.ogg",
+        "CN": "Eunectes-016-CN.ogg",
+        "EN": "Eunectes-016-EN.ogg",
+        "KR": "Eunectes-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Are you coming too, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-017.ogg",
+        "CN": "Eunectes-017-CN.ogg",
+        "EN": "Eunectes-017-EN.ogg",
+        "KR": "Eunectes-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "I just need to take care of all of them, right?",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-018.ogg",
+        "CN": "Eunectes-018-CN.ogg",
+        "EN": "Eunectes-018-EN.ogg",
+        "KR": "Eunectes-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Ready to go anytime.",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-019.ogg",
+        "CN": "Eunectes-019-CN.ogg",
+        "EN": "Eunectes-019-EN.ogg",
+        "KR": "Eunectes-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "I'll go.",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-020.ogg",
+        "CN": "Eunectes-020-CN.ogg",
+        "EN": "Eunectes-020-EN.ogg",
+        "KR": "Eunectes-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "It'll be even more efficient if someone who can work with me comes along.",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-021.ogg",
+        "CN": "Eunectes-021-CN.ogg",
+        "EN": "Eunectes-021-EN.ogg",
+        "KR": "Eunectes-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Hold the fort? Easy.",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-022.ogg",
+        "CN": "Eunectes-022-CN.ogg",
+        "EN": "Eunectes-022-EN.ogg",
+        "KR": "Eunectes-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "You people are no match for Gavial!",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-023.ogg",
+        "CN": "Eunectes-023-CN.ogg",
+        "EN": "Eunectes-023-EN.ogg",
+        "KR": "Eunectes-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "I'm not all that weak either!",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-024.ogg",
+        "CN": "Eunectes-024-CN.ogg",
+        "EN": "Eunectes-024-EN.ogg",
+        "KR": "Eunectes-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "I'll give it my all no matter the prey!",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-025.ogg",
+        "CN": "Eunectes-025-CN.ogg",
+        "EN": "Eunectes-025-EN.ogg",
+        "KR": "Eunectes-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Got you!",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-026.ogg",
+        "CN": "Eunectes-026-CN.ogg",
+        "EN": "Eunectes-026-EN.ogg",
+        "KR": "Eunectes-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "What a great haul!",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-027.ogg",
+        "CN": "Eunectes-027-CN.ogg",
+        "EN": "Eunectes-027-EN.ogg",
+        "KR": "Eunectes-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Compared to Gavial, you've still got a ways to go.",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-028.ogg",
+        "CN": "Eunectes-028-CN.ogg",
+        "EN": "Eunectes-028-EN.ogg",
+        "KR": "Eunectes-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "I'll go after them.",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-029.ogg",
+        "CN": "Eunectes-029-CN.ogg",
+        "EN": "Eunectes-029-EN.ogg",
+        "KR": "Eunectes-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Don't worry about it. I've lost to Gavial too many times myself. It's nothing to be ashamed of.",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-030.ogg",
+        "CN": "Eunectes-030-CN.ogg",
+        "EN": "Eunectes-030-EN.ogg",
+        "KR": "Eunectes-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Where's Lancet-2?",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-031.ogg",
+        "CN": "Eunectes-031-CN.ogg",
+        "EN": "Eunectes-031-EN.ogg",
+        "KR": "Eunectes-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Yeah?",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-032.ogg",
+        "CN": "Eunectes-032-CN.ogg",
+        "EN": "Eunectes-032-EN.ogg",
+        "KR": "Eunectes-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "What do I need to do to become as educated as the Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-033.ogg",
+        "CN": "Eunectes-033-CN.ogg",
+        "EN": "Eunectes-033-EN.ogg",
+        "KR": "Eunectes-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor, good timing. There's something I wanted to ask you.",
+      "links": [],
+      "audio": {
+        "JP": "Eunectes-034.ogg",
+        "CN": "Eunectes-034-CN.ogg",
+        "EN": "Eunectes-034-EN.ogg",
+        "KR": "Eunectes-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Eunectes-035.ogg",
+        "CN": "Eunectes-035-CN.ogg",
+        "EN": "Eunectes-035-EN.ogg",
+        "KR": "Eunectes-035-KR.ogg"
+      }
+    }
+  }
+}

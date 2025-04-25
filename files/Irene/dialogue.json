@@ -1,0 +1,434 @@
+{
+  "operator": "Irene",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "All my tasks must relate to the sea orIberia. Huh? You have too much work? Okay, I'll make some time to help you out.",
+      "links": [
+        {
+          "text": "Iberia",
+          "href": "/wiki/Iberia"
+        }
+      ],
+      "audio": {
+        "JP": "Irene-001.ogg",
+        "CN": "Irene-001-CN.ogg",
+        "EN": "Irene-001-EN.ogg",
+        "KR": "Irene-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "I have to get back to my handcannon practice once I'm done with my work here.Rhodes Islandhas shooting lessons? No, I'll pass. An inquisitor's handcannon isn't your normal firearm. It's not better aim you need to fully master it. It's an indomitable will.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Irene-002.ogg",
+        "CN": "Irene-002-CN.ogg",
+        "EN": "Irene-002-EN.ogg",
+        "KR": "Irene-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "It's been bugging me, so I really have to ask. IsSkadilike that when she talks to you, too? Like... Does she always say only the bare minimum, nothing more? Huh? No? She's actually very sentimental? Wait, are we really talking about the sameÆgir?",
+      "links": [
+        {
+          "text": "Skadi",
+          "href": "/wiki/Skadi"
+        },
+        {
+          "text": "Ægir",
+          "href": "/wiki/Aegir_(race)"
+        }
+      ],
+      "audio": {
+        "JP": "Irene-003.ogg",
+        "CN": "Irene-003-CN.ogg",
+        "EN": "Irene-003-EN.ogg",
+        "KR": "Irene-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "I make the other Iberian Operators nervous? To fear the Inquisition is to fear the law. Isn't that only natural? Unless... Some of our Ægirs have their reasons to dodge my gaze. I'll make it clear now. I can't promise I won't fight them.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-004.ogg",
+        "CN": "Irene-004-CN.ogg",
+        "EN": "Irene-004-EN.ogg",
+        "KR": "Irene-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "\"For Iberia's prosperity, for Iberia's defense, and for Iberia's orderliness and integrity, I shall raise my sword and my light!\"–I may not be an Inquisitor anymore, but I know very well that my duty remains the same.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-005.ogg",
+        "CN": "Irene-005-CN.ogg",
+        "EN": "Irene-005-EN.ogg",
+        "KR": "Irene-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "The scriptures tell us the light of an Inquisitor's lantern is the light of faith within our hearts. It wasn't until I saw my master's last ray of light that I truly understood what this means. When an Inquisitor lays down judgment, her ruling should be based not on law, but instead her own heart.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-006.ogg",
+        "CN": "Irene-006-CN.ogg",
+        "EN": "Irene-006-EN.ogg",
+        "KR": "Irene-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Um... Do you have any old Iberian records? Any that can still play? I brought my master's record player... I know it's silly to dwell in our past glory, but I really want to know what Iberians could have been.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-007.ogg",
+        "CN": "Irene-007-CN.ogg",
+        "EN": "Irene-007-EN.ogg",
+        "KR": "Irene-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "The truth felt like it swallowed me whole when it happened. Was I wavering? Crumbling? Despairing? No, I couldn't feel anything... until I killed anotherSea Terror. I finally realized that I fought only because I wanted to live. Isn't that just like Iberia today?",
+      "links": [
+        {
+          "text": "Sea Terror",
+          "href": "/wiki/Seaborn"
+        }
+      ],
+      "audio": {
+        "JP": "Irene-008.ogg",
+        "CN": "Irene-008-CN.ogg",
+        "EN": "Irene-008-EN.ogg",
+        "KR": "Irene-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "All I did was sprain my shoulder onmy last mission. The bite wound the mission before that's almost all healed up, too. Stop selling me short! I'm pretty jealous of those Ægir hunters power... Hmph forget it! When I get back... Um, you said I could go to the Rhodes Island ball. That's a promise, right?",
+      "links": [
+        {
+          "text": "my last mission",
+          "href": "/wiki/Stultifera_Navis/Synopsis"
+        }
+      ],
+      "audio": {
+        "JP": "Irene-009.ogg",
+        "CN": "Irene-009-CN.ogg",
+        "EN": "Irene-009-EN.ogg",
+        "KR": "Irene-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "We're still in deep water, and you managed to fall asleep in a blink of an eye? It makes me wonder if I should be jealous... Fine, you can have your rest for now. I'll be waiting here.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-010.ogg",
+        "CN": "Irene-010-CN.ogg",
+        "EN": "Irene-010-EN.ogg",
+        "KR": "Irene-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Irene, Inquisition Messenger of Iberia. Are you theDoctorof Rhodes Island? It seems the Ægir hunters really trust you... Do show me how special you are as we work together in the future.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Irene-011.ogg",
+        "CN": "Irene-011-CN.ogg",
+        "EN": "Irene-011-EN.ogg",
+        "KR": "Irene-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Hm... Are these all your operators? Is it just me or do some of them seem like an actual security risk? Alright, fine. I will try my best to focus on their combat techniques...",
+      "links": [],
+      "audio": {
+        "JP": "Irene-012.ogg",
+        "CN": "Irene-012-CN.ogg",
+        "EN": "Irene-012-EN.ogg",
+        "KR": "Irene-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "What I need is Rhodes Island's power, not a commendation. But... I mean... this ribbon looks nice... Okay, I'll take it.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-013.ogg",
+        "CN": "Irene-013-CN.ogg",
+        "EN": "Irene-013-EN.ogg",
+        "KR": "Irene-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "It doesn't matter if Iberia faces ferocious tides or heavy storms. I will never back down, and my blade will never waver again!",
+      "links": [],
+      "audio": {
+        "JP": "Irene-014.ogg",
+        "CN": "Irene-014-CN.ogg",
+        "EN": "Irene-014-EN.ogg",
+        "KR": "Irene-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Perfect. I've been very curious to see how Rhodes Island carries out its missions.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-015.ogg",
+        "CN": "Irene-015-CN.ogg",
+        "EN": "Irene-015-EN.ogg",
+        "KR": "Irene-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I thought it would be years before I could lead a team alone... I won't disgrace my master.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-016.ogg",
+        "CN": "Irene-016-CN.ogg",
+        "EN": "Irene-016-EN.ogg",
+        "KR": "Irene-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Follow my light. Watch out for the tides and mist.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-017.ogg",
+        "CN": "Irene-017-CN.ogg",
+        "EN": "Irene-017-EN.ogg",
+        "KR": "Irene-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "The most dangerous enemies are usually masters of disguise.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-018.ogg",
+        "CN": "Irene-018-CN.ogg",
+        "EN": "Irene-018-EN.ogg",
+        "KR": "Irene-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "See the light of my lantern? I'm right here.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-019.ogg",
+        "CN": "Irene-019-CN.ogg",
+        "EN": "Irene-019-EN.ogg",
+        "KR": "Irene-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Don't step into the shadows.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-020.ogg",
+        "CN": "Irene-020-CN.ogg",
+        "EN": "Irene-020-EN.ogg",
+        "KR": "Irene-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "My sword will respond the instant I spot the movement.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-021.ogg",
+        "CN": "Irene-021-CN.ogg",
+        "EN": "Irene-021-EN.ogg",
+        "KR": "Irene-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Locked and Loaded.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-022.ogg",
+        "CN": "Irene-022-CN.ogg",
+        "EN": "Irene-022-EN.ogg",
+        "KR": "Irene-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "My light will purge the vice!",
+      "links": [],
+      "audio": {
+        "JP": "Irene-023.ogg",
+        "CN": "Irene-023-CN.ogg",
+        "EN": "Irene-023-EN.ogg",
+        "KR": "Irene-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "My blade will cleave the tides!",
+      "links": [],
+      "audio": {
+        "JP": "Irene-024.ogg",
+        "CN": "Irene-024-CN.ogg",
+        "EN": "Irene-024-EN.ogg",
+        "KR": "Irene-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "My eyes will find the truth!",
+      "links": [],
+      "audio": {
+        "JP": "Irene-025.ogg",
+        "CN": "Irene-025-CN.ogg",
+        "EN": "Irene-025-EN.ogg",
+        "KR": "Irene-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "My heart will be the judge.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-026.ogg",
+        "CN": "Irene-026-CN.ogg",
+        "EN": "Irene-026-EN.ogg",
+        "KR": "Irene-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "The tide still comes in. We can't let our guard down yet. Hm...? I'm smiling? What? Is there a rule that you can't smile after a victory?",
+      "links": [],
+      "audio": {
+        "JP": "Irene-027.ogg",
+        "CN": "Irene-027-CN.ogg",
+        "EN": "Irene-027-EN.ogg",
+        "KR": "Irene-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Is this how you command the Ægir hunters too? Seems like the victory that the arrogant doctor promised might actually be plausible.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-028.ogg",
+        "CN": "Irene-028-CN.ogg",
+        "EN": "Irene-028-EN.ogg",
+        "KR": "Irene-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Letting even a single enemy slip by could crumble our line of defense! Date prisa,[note 1]give me the order! Let me eliminate the threat!",
+      "links": [
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {
+        "JP": "Irene-029.ogg",
+        "CN": "Irene-029-CN.ogg",
+        "EN": "Irene-029-EN.ogg",
+        "KR": "Irene-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "An Inquisitor must never yield in the face of evil! But I also made a promise to my master. I can't die here. Not yet.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-030.ogg",
+        "CN": "Irene-030-CN.ogg",
+        "EN": "Irene-030-EN.ogg",
+        "KR": "Irene-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "You have a pretty big ship here, but it's not nearly as roomy as an old Iberian flagship.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-031.ogg",
+        "CN": "Irene-031-CN.ogg",
+        "EN": "Irene-031-EN.ogg",
+        "KR": "Irene-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Sea Terror?! Oh, it's you.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-032.ogg",
+        "CN": "Irene-032-CN.ogg",
+        "EN": "Irene-032-EN.ogg",
+        "KR": "Irene-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Didn't you promise to show me around? If you were going to disappear the moment things got busy, you could've asked me to help.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-033.ogg",
+        "CN": "Irene-033-CN.ogg",
+        "EN": "Irene-033-EN.ogg",
+        "KR": "Irene-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor, there's new movement on the tides. We need to talk.",
+      "links": [],
+      "audio": {
+        "JP": "Irene-034.ogg",
+        "CN": "Irene-034-CN.ogg",
+        "EN": "Irene-034-EN.ogg",
+        "KR": "Irene-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Irene-035.ogg",
+        "CN": "Irene-035-CN.ogg",
+        "EN": "Irene-035-EN.ogg",
+        "KR": "Irene-035-KR.ogg"
+      }
+    }
+  }
+}

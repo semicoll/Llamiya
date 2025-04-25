@@ -1,0 +1,472 @@
+{
+  "operator": "Ebenholz",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I'll be your assistant today,Doctor... I will disclaim. I have absolutely no secretarial experience. Thus, so I'm not hindering you, I will be doing nothing at all.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Ebenholz-001.ogg",
+        "CN": "Ebenholz-001-CN.ogg",
+        "EN": "Ebenholz-001-EN.ogg",
+        "KR": "Ebenholz-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "You'd like to seeLeithanien, you say? Heh, it's a fine place.The Empressesregard their subjects like their own children, the healthy regard theInfectedas brethren, the faces of the people brim with blessing–lies? That's true, they are lies. Contemplate visiting Leithanien again once you can sit through the whole spiel with a straight face.",
+      "links": [
+        {
+          "text": "Leithanien",
+          "href": "/wiki/Leithanien"
+        },
+        {
+          "text": "The Empresses",
+          "href": "/wiki/Twin_Empresses"
+        },
+        {
+          "text": "Infected",
+          "href": "/wiki/Infected"
+        }
+      ],
+      "audio": {
+        "JP": "Ebenholz-002.ogg",
+        "CN": "Ebenholz-002-CN.ogg",
+        "EN": "Ebenholz-002-EN.ogg",
+        "KR": "Ebenholz-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Routine health inspections? Allow me a moment to ready my–hold on, isn'tHibiscusthe one on duty today? I'd rather avoid her if I can. I'm sure I needn't explain why... I'm not frightened of her! I'm just not quite prepared for–could you amend my timeslot? Vielen Dank![note 1]",
+      "links": [
+        {
+          "text": "Hibiscus",
+          "href": "/wiki/Hibiscus"
+        },
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {
+        "JP": "Ebenholz-003.ogg",
+        "CN": "Ebenholz-003-CN.ogg",
+        "EN": "Ebenholz-003-EN.ogg",
+        "KR": "Ebenholz-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Please relay to the Medical Department that my headaches and physical condition are no matter, and no cause for such alarm. There's nothing to examine–what? They're already expecting me? They've even made the consultation room available? I... You tell them that my headache has flared up and I'm not going anywhere–ugh.",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-004.ogg",
+        "CN": "Ebenholz-004-CN.ogg",
+        "EN": "Ebenholz-004-EN.ogg",
+        "KR": "Ebenholz-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Social etiquette of Leithanian nobles? Hah, it's an endless subject. Shaking off commoners, spreading rumors of other nobles behind their backs–not to go on, but it all demands a cheek I find slightly hard to conjure myself. You'd best consult an expert, not me.",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-005.ogg",
+        "CN": "Ebenholz-005-CN.ogg",
+        "EN": "Ebenholz-005-EN.ogg",
+        "KR": "Ebenholz-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "There'll always be a cohort eager to associate me with the previous Graf Urtica. I can't blame them though, I simply wish to live as a regular Infected. Abhorring inequality ... You say I'm faking to be common? Whatever you say. Even I am faking, I prefer to keep it that way till the very end.",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-006.ogg",
+        "CN": "Ebenholz-006-CN.ogg",
+        "EN": "Ebenholz-006-EN.ogg",
+        "KR": "Ebenholz-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "You noticed as much, Doctor? Indeed, I like to repeat what others have said in times of stress... it's the safest method I–no–Graf Urtica has of buying time to think. So long as he doesn't speak his own mind, he won't bear blame for what he says.",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-007.ogg",
+        "CN": "Ebenholz-007-CN.ogg",
+        "EN": "Ebenholz-007-EN.ogg",
+        "KR": "Ebenholz-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "It's Hibiscus on duty again–should I reschedule my examination? Nein,[note 2]never mind. I'm deeply grateful for your help in avoiding her days, but I can't hide forever. Even after so long, I still close my eyes and see the wretched misery of that concert... perhaps it's time I face it.",
+      "links": [
+        {
+          "text": "[note 2]",
+          "href": "#cite_note-2"
+        }
+      ],
+      "audio": {
+        "JP": "Ebenholz-008.ogg",
+        "CN": "Ebenholz-008-CN.ogg",
+        "EN": "Ebenholz-008-EN.ogg",
+        "KR": "Ebenholz-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Evening on the deck reminds me of the spiretop in Urtica–it had just as fine a breeze. I used to fantasize there how happy life must be, down on the ground. I only understood later that up there, freedom was the one thing stripped from me, while so many in the land had, save for freedom, nothing at all.",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-009.ogg",
+        "CN": "Ebenholz-009-CN.ogg",
+        "EN": "Ebenholz-009-EN.ogg",
+        "KR": "Ebenholz-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "No issue dozing off in this sort of place? Hmph, I suppose it's times like these when the assistant does the work. Nervensäge[note 3]–agh, I'm misspelling. Never mind, never mind. Let's find out what music's on the Doctor's headphones...",
+      "links": [
+        {
+          "text": "[note 3]",
+          "href": "#cite_note-3"
+        }
+      ],
+      "audio": {
+        "JP": "Ebenholz-010.ogg",
+        "CN": "Ebenholz-010-CN.ogg",
+        "EN": "Ebenholz-010-EN.ogg",
+        "KR": "Ebenholz-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I extend my sincere gratitude to you, Doctor ofRhodes Island. Thank you for sheltering an insignificant down-and-outer. If such mediocrity as even mine can benefit Rhodes Island's cause, then I couldn't be more relieved.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Ebenholz-011.ogg",
+        "CN": "Ebenholz-011-CN.ogg",
+        "EN": "Ebenholz-011-EN.ogg",
+        "KR": "Ebenholz-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "A very fascinating recording. Hm? I don't say that with irony. Nobody ever thought to buy video tapes for Graf Urtica save for himself, and he couldn't leave the spire.",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-012.ogg",
+        "CN": "Ebenholz-012-CN.ogg",
+        "EN": "Ebenholz-012-EN.ogg",
+        "KR": "Ebenholz-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Promotion? Allow me to decline. Nein, not for lack of necessity, but of knowledge of who is being recognized. Is it myself... or the Witch King's remnants lodging within me?",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-013.ogg",
+        "CN": "Ebenholz-013-CN.ogg",
+        "EN": "Ebenholz-013-EN.ogg",
+        "KR": "Ebenholz-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Graf Urtica fears his ego's engulfment by theWitch King, yet has to employ powers inherited from the tyrant. But now, he is dead. Now, I am first and foremost an operator of Rhodes Island, and only after that am I the Witch King's botched replica. That suffices for me–that suffices.",
+      "links": [
+        {
+          "text": "Witch King",
+          "href": "/wiki/Witch_King"
+        }
+      ],
+      "audio": {
+        "JP": "Ebenholz-014.ogg",
+        "CN": "Ebenholz-014-CN.ogg",
+        "EN": "Ebenholz-014-EN.ogg",
+        "KR": "Ebenholz-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "This power is not mine. However, Rhodes Island has need of it, so I will employ it to its fullest.",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-015.ogg",
+        "CN": "Ebenholz-015-CN.ogg",
+        "EN": "Ebenholz-015-EN.ogg",
+        "KR": "Ebenholz-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I hate it when I'm ordered around without rhyme or reason, but ordering others sits just as badly with me.",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-016.ogg",
+        "CN": "Ebenholz-016-CN.ogg",
+        "EN": "Ebenholz-016-EN.ogg",
+        "KR": "Ebenholz-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Prolonged casting makes my headaches flare up, and I even hallucinate if I'm unlucky. Let's make it a Blitzkrieg, shall we?",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-017.ogg",
+        "CN": "Ebenholz-017-CN.ogg",
+        "EN": "Ebenholz-017-EN.ogg",
+        "KR": "Ebenholz-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "I am at your command.",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-018.ogg",
+        "CN": "Ebenholz-018-CN.ogg",
+        "EN": "Ebenholz-018-EN.ogg",
+        "KR": "Ebenholz-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Stronger dynamics?",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-019.ogg",
+        "CN": "Ebenholz-019-CN.ogg",
+        "EN": "Ebenholz-019-EN.ogg",
+        "KR": "Ebenholz-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Faster tempo?",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-020.ogg",
+        "CN": "Ebenholz-020-CN.ogg",
+        "EN": "Ebenholz-020-EN.ogg",
+        "KR": "Ebenholz-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Careful of music on the battlefield, especially when you face a Leithanian.",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-021.ogg",
+        "CN": "Ebenholz-021-CN.ogg",
+        "EN": "Ebenholz-021-EN.ogg",
+        "KR": "Ebenholz-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "The performance will begin soon, but it seems our audience can't contain themselves?",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-022.ogg",
+        "CN": "Ebenholz-022-CN.ogg",
+        "EN": "Ebenholz-022-EN.ogg",
+        "KR": "Ebenholz-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "As graceful as drei viertel[note 4].",
+      "links": [
+        {
+          "text": "[note 4]",
+          "href": "#cite_note-4"
+        }
+      ],
+      "audio": {
+        "JP": "Ebenholz-023.ogg",
+        "CN": "Ebenholz-023-CN.ogg",
+        "EN": "Ebenholz-023-EN.ogg",
+        "KR": "Ebenholz-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "As startling as atritone.",
+      "links": [
+        {
+          "text": "tritone",
+          "href": "https://en.wikipedia.org/wiki/Tritone"
+        }
+      ],
+      "audio": {
+        "JP": "Ebenholz-024.ogg",
+        "CN": "Ebenholz-024-CN.ogg",
+        "EN": "Ebenholz-024-EN.ogg",
+        "KR": "Ebenholz-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "As doleful as a clarinet.",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-025.ogg",
+        "CN": "Ebenholz-025-CN.ogg",
+        "EN": "Ebenholz-025-EN.ogg",
+        "KR": "Ebenholz-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Gah! Hinfort aus meinem Kopf![note 5]",
+      "links": [
+        {
+          "text": "[note 5]",
+          "href": "#cite_note-5"
+        }
+      ],
+      "audio": {
+        "JP": "Ebenholz-026.ogg",
+        "CN": "Ebenholz-026-CN.ogg",
+        "EN": "Ebenholz-026-EN.ogg",
+        "KR": "Ebenholz-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "If you're lacking an appreciator to applaud and call for encore, then allow me to fill the role. Ausgezeichnet,[note 6]Doctor.",
+      "links": [
+        {
+          "text": "[note 6]",
+          "href": "#cite_note-6"
+        }
+      ],
+      "audio": {
+        "JP": "Ebenholz-027.ogg",
+        "CN": "Ebenholz-027-CN.ogg",
+        "EN": "Ebenholz-027-EN.ogg",
+        "KR": "Ebenholz-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Is it over? Sehr gut,[note 7]I need somewhere to rest for a moment before my headache gets any worse.",
+      "links": [
+        {
+          "text": "[note 7]",
+          "href": "#cite_note-7"
+        }
+      ],
+      "audio": {
+        "JP": "Ebenholz-028.ogg",
+        "CN": "Ebenholz-028-CN.ogg",
+        "EN": "Ebenholz-028-EN.ogg",
+        "KR": "Ebenholz-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "\"Eine ungenügende Leistung\"...[note 8]No, it's fine, it's just something I often heard not so long ago. You can ignore it.",
+      "links": [
+        {
+          "text": "[note 8]",
+          "href": "#cite_note-8"
+        }
+      ],
+      "audio": {
+        "JP": "Ebenholz-029.ogg",
+        "CN": "Ebenholz-029-CN.ogg",
+        "EN": "Ebenholz-029-EN.ogg",
+        "KR": "Ebenholz-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "We can hardly call this ending good. Are you the one who just got a headache, not me?",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-030.ogg",
+        "CN": "Ebenholz-030-CN.ogg",
+        "EN": "Ebenholz-030-EN.ogg",
+        "KR": "Ebenholz-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "This place might be far from a Leithanian spire, but I still prefer the feeling of standing on solid ground.",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-031.ogg",
+        "CN": "Ebenholz-031-CN.ogg",
+        "EN": "Ebenholz-031-EN.ogg",
+        "KR": "Ebenholz-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Agh, here it is aga–huh? It's you, Doctor? That wasn't the headache?",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-032.ogg",
+        "CN": "Ebenholz-032-CN.ogg",
+        "EN": "Ebenholz-032-EN.ogg",
+        "KR": "Ebenholz-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor, if you want to learn an instrument, I'd say ask someone else. A lot of my understanding has little to do with myself.",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-033.ogg",
+        "CN": "Ebenholz-033-CN.ogg",
+        "EN": "Ebenholz-033-EN.ogg",
+        "KR": "Ebenholz-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "How did you rest, Doctor? I used to love staying up myself, until one time I went a full night without closing my eyes, and had splitting headaches for a week after... It was a horrifying experience.",
+      "links": [],
+      "audio": {
+        "JP": "Ebenholz-034.ogg",
+        "CN": "Ebenholz-034-CN.ogg",
+        "EN": "Ebenholz-034-EN.ogg",
+        "KR": "Ebenholz-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Ebenholz-035.ogg",
+        "CN": "Ebenholz-035-CN.ogg",
+        "EN": "Ebenholz-035-EN.ogg",
+        "KR": "Ebenholz-035-KR.ogg"
+      }
+    }
+  }
+}

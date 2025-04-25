@@ -1,0 +1,432 @@
+{
+  "operator": "Kirin R Yato",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I'm to assist you? One moment, then. I'll go and change into more appropriate uniform... What? No need?",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-001.ogg",
+        "CN": "Kirin_R_Yato-001-CN.ogg",
+        "EN": "Kirin_R_Yato-001-EN.ogg",
+        "KR": "Kirin_R_Yato-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "I'll be honest, even now I'm not used to life with my mask off–it always feels like there's something missing from my face. Still, it seems I can operate freely in daylight now. Please, give me more daytime missions, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-002.ogg",
+        "CN": "Kirin_R_Yato-002-CN.ogg",
+        "EN": "Kirin_R_Yato-002-EN.ogg",
+        "KR": "Kirin_R_Yato-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "The combat style the Felynes have taught me is like nothing I've known before. Unbroken strings of attacks as a defense, swift evasive maneuvers, different styles combining to achieve completely differing effects... Even though I've been training day and night, I still can't say I've mastered it.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-003.ogg",
+        "CN": "Kirin_R_Yato-003-CN.ogg",
+        "EN": "Kirin_R_Yato-003-EN.ogg",
+        "KR": "Kirin_R_Yato-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "These clothes have your attention,Doctor? They confused me just as much when I first put them on–they have a startling defensive capacity, despite their obvious design. How it's achieved is completely beyond me.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Kirin_R_Yato-004.ogg",
+        "CN": "Kirin_R_Yato-004-CN.ogg",
+        "EN": "Kirin_R_Yato-004-EN.ogg",
+        "KR": "Kirin_R_Yato-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "There's a strange force in these dual blades. They attack with thunder, but without the use ofArts... Is it the materials that cause it? I was definitely more proficient with my old katana... but when it comes to protecting us all, I'll shy away from no weapon.",
+      "links": [
+        {
+          "text": "Arts",
+          "href": "/wiki/Arts"
+        }
+      ],
+      "audio": {
+        "JP": "Kirin_R_Yato-005.ogg",
+        "CN": "Kirin_R_Yato-005-CN.ogg",
+        "EN": "Kirin_R_Yato-005-EN.ogg",
+        "KR": "Kirin_R_Yato-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "The Felynesnever cease to mention monsters even more fearsome thanRathalos–the kind that could bring aboutCatastrophe-scale disasters with the flap of a wing. IfRhodes Islandever faced such a threat... no. After all we've been through, I wouldn't fear an enemy like that anymore.",
+      "links": [
+        {
+          "text": "The Felynes",
+          "href": "/wiki/Terra_Research_Commission"
+        },
+        {
+          "text": "Rathalos",
+          "href": "/wiki/Rathalos"
+        },
+        {
+          "text": "Catastrophe",
+          "href": "/wiki/Catastrophe"
+        },
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Kirin_R_Yato-006.ogg",
+        "CN": "Kirin_R_Yato-006-CN.ogg",
+        "EN": "Kirin_R_Yato-006-EN.ogg",
+        "KR": "Kirin_R_Yato-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Though I've changed my loadout and gained new skills, I'm still the same Yato you know. Just give the order, and I'll take on whatever role Rhodes Island needs of me, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-007.ogg",
+        "CN": "Kirin_R_Yato-007-CN.ogg",
+        "EN": "Kirin_R_Yato-007-EN.ogg",
+        "KR": "Kirin_R_Yato-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Noir Corne's always been this way, fussing over minor details, dragging down the mission. Still, I admit he's occasionally helpful... okay, a little more than occasionally. The point is, I don't hate him.",
+      "links": [
+        {
+          "text": "Noir Corne",
+          "href": "/wiki/Noir_Corne"
+        }
+      ],
+      "audio": {
+        "JP": "Kirin_R_Yato-008.ogg",
+        "CN": "Kirin_R_Yato-008-CN.ogg",
+        "EN": "Kirin_R_Yato-008-EN.ogg",
+        "KR": "Kirin_R_Yato-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Operators are often worried about the way I do things, wondering if I'm putting myself in harm's way. Honestly, the concern's unnecessary. Thinking too much on my situation would only slow me down, but when it comes to what my friends are going through, trust me, I will care.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-009.ogg",
+        "CN": "Kirin_R_Yato-009-CN.ogg",
+        "EN": "Kirin_R_Yato-009-EN.ogg",
+        "KR": "Kirin_R_Yato-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "It seems you need some rest, Doctor. You can try this, if you want. It's a Felyne blend of a remedial plant they call Sleep Herb and some kind of mushroom. I hear it works very well, sleep-wise.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-010.ogg",
+        "CN": "Kirin_R_Yato-010-CN.ogg",
+        "EN": "Kirin_R_Yato-010-EN.ogg",
+        "KR": "Kirin_R_Yato-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Hey, Doctor. That's right, it's me.Op Team A4Captain Yato, back and reporting in. As for where I got all this new equipment, you have the whole story from me in the mission debrief.",
+      "links": [
+        {
+          "text": "Op Team A4",
+          "href": "/wiki/Op_A4"
+        }
+      ],
+      "audio": {
+        "JP": "Kirin_R_Yato-011.ogg",
+        "CN": "Kirin_R_Yato-011-CN.ogg",
+        "EN": "Kirin_R_Yato-011-EN.ogg",
+        "KR": "Kirin_R_Yato-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Hold on, I had notes on the locale. Let me find them...",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-012.ogg",
+        "CN": "Kirin_R_Yato-012-CN.ogg",
+        "EN": "Kirin_R_Yato-012-EN.ogg",
+        "KR": "Kirin_R_Yato-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Whatever role I'm in, I'll bring everything I have.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-013.ogg",
+        "CN": "Kirin_R_Yato-013-CN.ogg",
+        "EN": "Kirin_R_Yato-013-EN.ogg",
+        "KR": "Kirin_R_Yato-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Another medal for me? I'd love to wear them, but I don't think this outfit has anywhere for them to go. Still, thank you, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-014.ogg",
+        "CN": "Kirin_R_Yato-014-CN.ogg",
+        "EN": "Kirin_R_Yato-014-EN.ogg",
+        "KR": "Kirin_R_Yato-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Leave it to me, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-015.ogg",
+        "CN": "Kirin_R_Yato-015-CN.ogg",
+        "EN": "Kirin_R_Yato-015-EN.ogg",
+        "KR": "Kirin_R_Yato-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Alright, it's in my hands now. The success of our mission is assured.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-016.ogg",
+        "CN": "Kirin_R_Yato-016-CN.ogg",
+        "EN": "Kirin_R_Yato-016-EN.ogg",
+        "KR": "Kirin_R_Yato-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Target confirmed. They won't know what hit them.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-017.ogg",
+        "CN": "Kirin_R_Yato-017-CN.ogg",
+        "EN": "Kirin_R_Yato-017-EN.ogg",
+        "KR": "Kirin_R_Yato-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Op Team A4 Yato in position.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-018.ogg",
+        "CN": "Kirin_R_Yato-018-CN.ogg",
+        "EN": "Kirin_R_Yato-018-EN.ogg",
+        "KR": "Kirin_R_Yato-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Standing by...",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-019.ogg",
+        "CN": "Kirin_R_Yato-019-CN.ogg",
+        "EN": "Kirin_R_Yato-019-EN.ogg",
+        "KR": "Kirin_R_Yato-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Finally, am I up?",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-020.ogg",
+        "CN": "Kirin_R_Yato-020-CN.ogg",
+        "EN": "Kirin_R_Yato-020-EN.ogg",
+        "KR": "Kirin_R_Yato-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Engaging.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-021.ogg",
+        "CN": "Kirin_R_Yato-021-CN.ogg",
+        "EN": "Kirin_R_Yato-021-EN.ogg",
+        "KR": "Kirin_R_Yato-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "So that's our target?",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-022.ogg",
+        "CN": "Kirin_R_Yato-022-CN.ogg",
+        "EN": "Kirin_R_Yato-022-EN.ogg",
+        "KR": "Kirin_R_Yato-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Hnf! Haah!",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-023.ogg",
+        "CN": "Kirin_R_Yato-023-CN.ogg",
+        "EN": "Kirin_R_Yato-023-EN.ogg",
+        "KR": "Kirin_R_Yato-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "That all you got?",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-024.ogg",
+        "CN": "Kirin_R_Yato-024-CN.ogg",
+        "EN": "Kirin_R_Yato-024-EN.ogg",
+        "KR": "Kirin_R_Yato-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Flurry!",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-025.ogg",
+        "CN": "Kirin_R_Yato-025-CN.ogg",
+        "EN": "Kirin_R_Yato-025-EN.ogg",
+        "KR": "Kirin_R_Yato-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Fight or flee, it's no use!",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-026.ogg",
+        "CN": "Kirin_R_Yato-026-CN.ogg",
+        "EN": "Kirin_R_Yato-026-EN.ogg",
+        "KR": "Kirin_R_Yato-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "We owe this victory to your fine command. I still have a long way to go.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-027.ogg",
+        "CN": "Kirin_R_Yato-027-CN.ogg",
+        "EN": "Kirin_R_Yato-027-EN.ogg",
+        "KR": "Kirin_R_Yato-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Take victory as a whetstone to hone the cutting edge.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-028.ogg",
+        "CN": "Kirin_R_Yato-028-CN.ogg",
+        "EN": "Kirin_R_Yato-028-EN.ogg",
+        "KR": "Kirin_R_Yato-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Was this your mercy? Understood.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-029.ogg",
+        "CN": "Kirin_R_Yato-029-CN.ogg",
+        "EN": "Kirin_R_Yato-029-EN.ogg",
+        "KR": "Kirin_R_Yato-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "This falls on me. You make a retreat, and grant me one more attempt.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-030.ogg",
+        "CN": "Kirin_R_Yato-030-CN.ogg",
+        "EN": "Kirin_R_Yato-030-EN.ogg",
+        "KR": "Kirin_R_Yato-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "I'd like more dangerous or challenging work, but if these are your orders, I'll gladly accept, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-031.ogg",
+        "CN": "Kirin_R_Yato-031-CN.ogg",
+        "EN": "Kirin_R_Yato-031-EN.ogg",
+        "KR": "Kirin_R_Yato-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "What is it, Doctor? Intrigued by the materials for this outfit?",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-032.ogg",
+        "CN": "Kirin_R_Yato-032-CN.ogg",
+        "EN": "Kirin_R_Yato-032-EN.ogg",
+        "KR": "Kirin_R_Yato-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Oh, hey, Doctor. I guess I'm not used to dropping the mask after all.",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-033.ogg",
+        "CN": "Kirin_R_Yato-033-CN.ogg",
+        "EN": "Kirin_R_Yato-033-EN.ogg",
+        "KR": "Kirin_R_Yato-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Hey, Doctor. You're the same as ever. I wonder if I'm any better than I used to be?",
+      "links": [],
+      "audio": {
+        "JP": "Kirin_R_Yato-034.ogg",
+        "CN": "Kirin_R_Yato-034-CN.ogg",
+        "EN": "Kirin_R_Yato-034-EN.ogg",
+        "KR": "Kirin_R_Yato-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Kirin_R_Yato-035.ogg",
+        "CN": "Kirin_R_Yato-035-CN.ogg",
+        "EN": "Kirin_R_Yato-035-EN.ogg",
+        "KR": "Kirin_R_Yato-035-KR.ogg"
+      }
+    }
+  }
+}

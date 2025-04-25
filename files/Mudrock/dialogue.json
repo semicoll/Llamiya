@@ -1,0 +1,455 @@
+{
+  "operator": "Mudrock",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Hm? Ah, this soil... it can murmur. It can dance. It is my friend.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-001.ogg",
+        "CN": "Mudrock-001-CN.ogg",
+        "EN": "Mudrock-001-EN.ogg",
+        "KR": "Mudrock-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "MissClosuretold me I shouldn't walk aboutRhodes Island\"fully equipped\"... but I'm not used to... revealing... myself. Sorry...",
+      "links": [
+        {
+          "text": "Closure",
+          "href": "/wiki/Closure"
+        },
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Mudrock-002.ogg",
+        "CN": "Mudrock-002-CN.ogg",
+        "EN": "Mudrock-002-EN.ogg",
+        "KR": "Mudrock-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Thank-you letters? Ah, from theSarkazworkers yesterday? My equipment and type ofArtsare a good match for physical work. Besides, their materials and fuel weren't featherweight. And they relied on the power of flesh and blood to ensure Rhodes Island sails smooth... it's incredible.",
+      "links": [
+        {
+          "text": "Sarkaz",
+          "href": "/wiki/Sarkaz"
+        },
+        {
+          "text": "Arts",
+          "href": "/wiki/Arts"
+        }
+      ],
+      "audio": {
+        "JP": "Mudrock-003.ogg",
+        "CN": "Mudrock-003-CN.ogg",
+        "EN": "Mudrock-003-EN.ogg",
+        "KR": "Mudrock-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "That elite operator... I thought I'd seen enough bizarre Originium Arts inLeithaniento write any wild fantasy. But the moment he pushed apart the fog with a wave of his hand, I understood, as a Sarkaz, he was young yet incredibly ancient.",
+      "links": [
+        {
+          "text": "That elite operator",
+          "href": "/wiki/Logos"
+        },
+        {
+          "text": "Leithanien",
+          "href": "/wiki/Leithanien"
+        }
+      ],
+      "audio": {
+        "JP": "Mudrock-004.ogg",
+        "CN": "Mudrock-004-CN.ogg",
+        "EN": "Mudrock-004-EN.ogg",
+        "KR": "Mudrock-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "I often think of the soldiers and companions that have left us. Sometimes, I have a sort of delusion that even now, I'm still fleeing...Doctor,have you been toKazdelbefore? That was where my journey started, and once, where I'd thought it would end.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        },
+        {
+          "text": "have you been to",
+          "href": "/wiki/Darknights_Memoir"
+        },
+        {
+          "text": "Kazdel",
+          "href": "/wiki/Kazdel"
+        }
+      ],
+      "audio": {
+        "JP": "Mudrock-005.ogg",
+        "CN": "Mudrock-005-CN.ogg",
+        "EN": "Mudrock-005-EN.ogg",
+        "KR": "Mudrock-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Dr.Kal'tsit, huh... She startled me, but she's reassuring in spades... One thing, though. Rhodes Island seems to get along well with another mercenary group, too. Could you tell me about them, Doctor? It's best I don't know? I see... then I think I can more or less guess who.",
+      "links": [
+        {
+          "text": "Kal'tsit",
+          "href": "/wiki/Kal%27tsit"
+        }
+      ],
+      "audio": {
+        "JP": "Mudrock-006.ogg",
+        "CN": "Mudrock-006-CN.ogg",
+        "EN": "Mudrock-006-EN.ogg",
+        "KR": "Mudrock-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "I became a Rhodes Island Operator so they could be treated properly, live on properly, and only then would those warriors... have died with meaning. But... since coming to Rhodes Island, I've seen clearly what I, myself, am truly fighting for. That was a first for me.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-007.ogg",
+        "CN": "Mudrock-007-CN.ogg",
+        "EN": "Mudrock-007-EN.ogg",
+        "KR": "Mudrock-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Me, alone, talking to a clay doll...? You're... you're telling you saw me? That was just a kind of ceremony... huh? So everyone already knew? Really? Then I'll be more careful next time, do it late when nobody's up... um, I shouldn't?",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-008.ogg",
+        "CN": "Mudrock-008-CN.ogg",
+        "EN": "Mudrock-008-EN.ogg",
+        "KR": "Mudrock-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "From Kazdel to Leithania, so many marks have been carved onto the suffering. The moment they had no choice but to fight, I realized I had nothing at all. How do you see me, Doctor? You trust me? Will that trust... allow me to live on?",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-009.ogg",
+        "CN": "Mudrock-009-CN.ogg",
+        "EN": "Mudrock-009-EN.ogg",
+        "KR": "Mudrock-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "...The person napping there is the Doctor. Remember that well. Our road together is sure to be long and far.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-010.ogg",
+        "CN": "Mudrock-010-CN.ogg",
+        "EN": "Mudrock-010-EN.ogg",
+        "KR": "Mudrock-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Sarkaz mercenary, Mudrock... You're the Doctor, then. Rhodes Island has saved me many times, and now, I'd like you to let me return the favor.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-011.ogg",
+        "CN": "Mudrock-011-CN.ogg",
+        "EN": "Mudrock-011-EN.ogg",
+        "KR": "Mudrock-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "I've had a taste of how Rhodes Island fights before, but, well, this still makes a great reference...",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-012.ogg",
+        "CN": "Mudrock-012-CN.ogg",
+        "EN": "Mudrock-012-EN.ogg",
+        "KR": "Mudrock-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "I used to be known asReunion, and then under the Mudrock Squad, and now... I've been promoted by my former enemy. Is this what they meant by \"life is a rollercoaster?\"",
+      "links": [
+        {
+          "text": "Reunion",
+          "href": "/wiki/Reunion"
+        }
+      ],
+      "audio": {
+        "JP": "Mudrock-013.ogg",
+        "CN": "Mudrock-013-CN.ogg",
+        "EN": "Mudrock-013-EN.ogg",
+        "KR": "Mudrock-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Hm? This seems fresh? I never take my helmet off in battle, after all... There's a lot of reasons why, but things have changed now. S... staying like this? If I have to...",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-014.ogg",
+        "CN": "Mudrock-014-CN.ogg",
+        "EN": "Mudrock-014-EN.ogg",
+        "KR": "Mudrock-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "I'm simply a Rhodes Island Operator, now. I'll obey your command.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-015.ogg",
+        "CN": "Mudrock-015-CN.ogg",
+        "EN": "Mudrock-015-EN.ogg",
+        "KR": "Mudrock-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "The captain... I don't like leading, but... I'm used to it.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-016.ogg",
+        "CN": "Mudrock-016-CN.ogg",
+        "EN": "Mudrock-016-EN.ogg",
+        "KR": "Mudrock-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "It's time to fight.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-017.ogg",
+        "CN": "Mudrock-017-CN.ogg",
+        "EN": "Mudrock-017-EN.ogg",
+        "KR": "Mudrock-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "The enemy...",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-018.ogg",
+        "CN": "Mudrock-018-CN.ogg",
+        "EN": "Mudrock-018-EN.ogg",
+        "KR": "Mudrock-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "The soil answers my will.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-019.ogg",
+        "CN": "Mudrock-019-CN.ogg",
+        "EN": "Mudrock-019-EN.ogg",
+        "KR": "Mudrock-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Speak. The rocks are listening.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-020.ogg",
+        "CN": "Mudrock-020-CN.ogg",
+        "EN": "Mudrock-020-EN.ogg",
+        "KR": "Mudrock-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Battlefield never changes.",
+      "links": [
+        {
+          "text": "Battlefield never changes.",
+          "href": "https://fallout.fandom.com/wiki/Fallout_intro"
+        }
+      ],
+      "audio": {
+        "JP": "Mudrock-021.ogg",
+        "CN": "Mudrock-021-CN.ogg",
+        "EN": "Mudrock-021-EN.ogg",
+        "KR": "Mudrock-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "I'll fight for myself.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-022.ogg",
+        "CN": "Mudrock-022-CN.ogg",
+        "EN": "Mudrock-022-EN.ogg",
+        "KR": "Mudrock-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "The land is as my friend.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-023.ogg",
+        "CN": "Mudrock-023-CN.ogg",
+        "EN": "Mudrock-023-EN.ogg",
+        "KR": "Mudrock-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Be as the mountains.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-024.ogg",
+        "CN": "Mudrock-024-CN.ogg",
+        "EN": "Mudrock-024-EN.ogg",
+        "KR": "Mudrock-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Heed my call.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-025.ogg",
+        "CN": "Mudrock-025-CN.ogg",
+        "EN": "Mudrock-025-EN.ogg",
+        "KR": "Mudrock-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Arise, great boulder.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-026.ogg",
+        "CN": "Mudrock-026-CN.ogg",
+        "EN": "Mudrock-026-EN.ogg",
+        "KR": "Mudrock-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Running is useless... resist it, even if you are not willing to resist. This is the only way I've come to know to face suffering.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-027.ogg",
+        "CN": "Mudrock-027-CN.ogg",
+        "EN": "Mudrock-027-EN.ogg",
+        "KR": "Mudrock-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "My friends are whispering their celebration. They cheer our victory, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-028.ogg",
+        "CN": "Mudrock-028-CN.ogg",
+        "EN": "Mudrock-028-EN.ogg",
+        "KR": "Mudrock-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Chase them... I'll watch over the battlefield with my friends' eyes.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-029.ogg",
+        "CN": "Mudrock-029-CN.ogg",
+        "EN": "Mudrock-029-EN.ogg",
+        "KR": "Mudrock-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "It's not the first I'vefled with my back to the enemy. If even more can live on this way... I'll cover your backs.",
+      "links": [
+        {
+          "text": "fled with my back to the enemy",
+          "href": "/wiki/Recollection"
+        }
+      ],
+      "audio": {
+        "JP": "Mudrock-030.ogg",
+        "CN": "Mudrock-030-CN.ogg",
+        "EN": "Mudrock-030-EN.ogg",
+        "KR": "Mudrock-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "The ceiling's... a little lower than I imagined.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-031.ogg",
+        "CN": "Mudrock-031-CN.ogg",
+        "EN": "Mudrock-031-EN.ogg",
+        "KR": "Mudrock-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "...Mm? Did you touch me just now?",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-032.ogg",
+        "CN": "Mudrock-032-CN.ogg",
+        "EN": "Mudrock-032-EN.ogg",
+        "KR": "Mudrock-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor? Could you stay with me for a bit? I'd like... to ask you a little about Kazdel. Ah, and my friends have missed you, too.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-033.ogg",
+        "CN": "Mudrock-033-CN.ogg",
+        "EN": "Mudrock-033-EN.ogg",
+        "KR": "Mudrock-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Hello, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Mudrock-034.ogg",
+        "CN": "Mudrock-034-CN.ogg",
+        "EN": "Mudrock-034-EN.ogg",
+        "KR": "Mudrock-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Mudrock-035.ogg",
+        "CN": "Mudrock-035-CN.ogg",
+        "EN": "Mudrock-035-EN.ogg",
+        "KR": "Mudrock-035-KR.ogg"
+      }
+    }
+  }
+}

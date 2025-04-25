@@ -1,0 +1,432 @@
+{
+  "operator": "Mostima",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Ahaha, aren't you the lucky one,Doctor? I don't have any work for the day, so I wouldn't mind keeping you company for a bit.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-001.ogg",
+        "CN": "Mostima-001-CN.ogg",
+        "EN": "Mostima-001-EN.ogg",
+        "KR": "Mostima-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "The marketplaces ofLungmen, the suburbs ofUrsus, the ancient ruins ofVictoria... Doctor, this world holds countless beautiful sights, but very few people will ever seek them out.",
+      "links": [
+        {
+          "text": "Lungmen",
+          "href": "/wiki/Lungmen"
+        },
+        {
+          "text": "Ursus",
+          "href": "/wiki/Ursus_(country)"
+        },
+        {
+          "text": "Victoria",
+          "href": "/wiki/Victoria"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-002.ogg",
+        "CN": "Mostima-002-CN.ogg",
+        "EN": "Mostima-002-EN.ogg",
+        "KR": "Mostima-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Doctor, do you want to hear a story of my journeys? In that case, I'd recommend preparing some fine tea cakes before we sit down. Otherwise, even the most fascinating tales will turn bland.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-003.ogg",
+        "CN": "Mostima-003-CN.ogg",
+        "EN": "Mostima-003-EN.ogg",
+        "KR": "Mostima-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "I've witnessed the rise and fall of many organizations, but so far,Rhodes Islandis the most interesting one I've seen. Will the epochs bend to your will, or finally swallow you whole? ...I'm dying to find out.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-004.ogg",
+        "CN": "Mostima-004-CN.ogg",
+        "EN": "Mostima-004-EN.ogg",
+        "KR": "Mostima-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Doctor, concerning our next destination, I have a few recommendations for where we can get some good food. Interested?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-005.ogg",
+        "CN": "Mostima-005-CN.ogg",
+        "EN": "Mostima-005-EN.ogg",
+        "KR": "Mostima-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Doctor, you seem to already know a thing or two about fallenangels. Unfortunately, I can't give you any more details than that. Even if I could share everything else with you one day, this would remain my solitary secret.",
+      "links": [
+        {
+          "text": "angels",
+          "href": "/wiki/Sankta"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-006.ogg",
+        "CN": "Mostima-006-CN.ogg",
+        "EN": "Mostima-006-EN.ogg",
+        "KR": "Mostima-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Doctor, you don't need to concern yourself with how to have a good relationship with me. For me, friends, family, and love... I have nothing against them, but I don't need them either. Heh, not like that's going to stop you from trying, right? Well, I don't really mind, so give it your best shot~",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-007.ogg",
+        "CN": "Mostima-007-CN.ogg",
+        "EN": "Mostima-007-EN.ogg",
+        "KR": "Mostima-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "I'm back... Huh? No way, Doctor, were you seriously waiting here for me the whole time? You even brought snacks... Hah, all right. If you're going to go this far, I guess I can't turn you down. As thanks, I'll tell you about something interesting that happened on a delivery run.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-008.ogg",
+        "CN": "Mostima-008-CN.ogg",
+        "EN": "Mostima-008-EN.ogg",
+        "KR": "Mostima-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "...I see now. When I thought of having a friend like you, the spark of joy I felt wasn't fake after all. Scrap what I said before, Doctor. Maybe I do need a bit of warmth in my life.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-009.ogg",
+        "CN": "Mostima-009-CN.ogg",
+        "EN": "Mostima-009-EN.ogg",
+        "KR": "Mostima-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Hehe... Sweet dreams, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-010.ogg",
+        "CN": "Mostima-010-CN.ogg",
+        "EN": "Mostima-010-EN.ogg",
+        "KR": "Mostima-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Hey there, Doctor. You might've heard fromEmperorthat I'm not bound by the contract betweenPenguin Logisticsand Rhodes Island, and can therefore act independently. Having that said, I'll probably be staying here anyway when I'm not busy, so I'll see you around~",
+      "links": [
+        {
+          "text": "Emperor",
+          "href": "/wiki/Emperor"
+        },
+        {
+          "text": "Penguin Logistics",
+          "href": "/wiki/Penguin_Logistics"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-011.ogg",
+        "CN": "Mostima-011-CN.ogg",
+        "EN": "Mostima-011-EN.ogg",
+        "KR": "Mostima-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Let me see how Rhodes Island fights.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-012.ogg",
+        "CN": "Mostima-012-CN.ogg",
+        "EN": "Mostima-012-EN.ogg",
+        "KR": "Mostima-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Doctor, relying on me isn't a very wise decision.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-013.ogg",
+        "CN": "Mostima-013-CN.ogg",
+        "EN": "Mostima-013-EN.ogg",
+        "KR": "Mostima-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Doctor, you really want to see me go all out? Just for the record, I'd like to ask – I won't have to worry about paying for the collateral damage after this, right?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-014.ogg",
+        "CN": "Mostima-014-CN.ogg",
+        "EN": "Mostima-014-EN.ogg",
+        "KR": "Mostima-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Okay~",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-015.ogg",
+        "CN": "Mostima-015-CN.ogg",
+        "EN": "Mostima-015-EN.ogg",
+        "KR": "Mostima-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Hmm... Sorry, but why don't we let everyone do their own thing?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-016.ogg",
+        "CN": "Mostima-016-CN.ogg",
+        "EN": "Mostima-016-EN.ogg",
+        "KR": "Mostima-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "If this is the place... I'll lead the way.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-017.ogg",
+        "CN": "Mostima-017-CN.ogg",
+        "EN": "Mostima-017-EN.ogg",
+        "KR": "Mostima-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Let's get this started.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-018.ogg",
+        "CN": "Mostima-018-CN.ogg",
+        "EN": "Mostima-018-EN.ogg",
+        "KR": "Mostima-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Hm?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-019.ogg",
+        "CN": "Mostima-019-CN.ogg",
+        "EN": "Mostima-019-EN.ogg",
+        "KR": "Mostima-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Heheh...",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-020.ogg",
+        "CN": "Mostima-020-CN.ogg",
+        "EN": "Mostima-020-EN.ogg",
+        "KR": "Mostima-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Nice weather out here.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-021.ogg",
+        "CN": "Mostima-021-CN.ogg",
+        "EN": "Mostima-021-EN.ogg",
+        "KR": "Mostima-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Not a bad view.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-022.ogg",
+        "CN": "Mostima-022-CN.ogg",
+        "EN": "Mostima-022-EN.ogg",
+        "KR": "Mostima-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Seventy percent-ish should do the trick.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-023.ogg",
+        "CN": "Mostima-023-CN.ogg",
+        "EN": "Mostima-023-EN.ogg",
+        "KR": "Mostima-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Isn't it about time to wrap things up?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-024.ogg",
+        "CN": "Mostima-024-CN.ogg",
+        "EN": "Mostima-024-EN.ogg",
+        "KR": "Mostima-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "I have nothing against you guys, but this is just a part of life.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-025.ogg",
+        "CN": "Mostima-025-CN.ogg",
+        "EN": "Mostima-025-EN.ogg",
+        "KR": "Mostima-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "What should we get to eat after this?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-026.ogg",
+        "CN": "Mostima-026-CN.ogg",
+        "EN": "Mostima-026-EN.ogg",
+        "KR": "Mostima-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Some thrill-seeking every now and then isn't half bad either.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-027.ogg",
+        "CN": "Mostima-027-CN.ogg",
+        "EN": "Mostima-027-EN.ogg",
+        "KR": "Mostima-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Hm? I thought I missed a few, but I guess that's a job well done.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-028.ogg",
+        "CN": "Mostima-028-CN.ogg",
+        "EN": "Mostima-028-EN.ogg",
+        "KR": "Mostima-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "For a transporter, the results of a battle don't really matter. Just surviving is enough of a victory.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-029.ogg",
+        "CN": "Mostima-029-CN.ogg",
+        "EN": "Mostima-029-EN.ogg",
+        "KR": "Mostima-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "I guess I don't get this whole \"teamwork\" thing after all...",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-030.ogg",
+        "CN": "Mostima-030-CN.ogg",
+        "EN": "Mostima-030-EN.ogg",
+        "KR": "Mostima-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Mind if I go wander around?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-031.ogg",
+        "CN": "Mostima-031-CN.ogg",
+        "EN": "Mostima-031-EN.ogg",
+        "KR": "Mostima-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Huh?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-032.ogg",
+        "CN": "Mostima-032-CN.ogg",
+        "EN": "Mostima-032-EN.ogg",
+        "KR": "Mostima-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Let's have a chat, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-033.ogg",
+        "CN": "Mostima-033-CN.ogg",
+        "EN": "Mostima-033-EN.ogg",
+        "KR": "Mostima-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "How's your day going, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-034.ogg",
+        "CN": "Mostima-034-CN.ogg",
+        "EN": "Mostima-034-EN.ogg",
+        "KR": "Mostima-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mostima-035.ogg",
+        "CN": "Mostima-035-CN.ogg",
+        "EN": "Mostima-035-EN.ogg",
+        "KR": "Mostima-035-KR.ogg"
+      }
+    }
+  }
+}

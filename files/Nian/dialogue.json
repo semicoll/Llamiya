@@ -1,0 +1,425 @@
+{
+  "operator": "Nian",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Man, I'm so bored... Might just go shopping... You know what, yeah, we're doing it! Come on, put your shoes on. Yeah, we're both going out, that's why I said \"we\"!",
+      "links": [],
+      "audio": {
+        "JP": "Nian-001.ogg",
+        "CN": "Nian-001-CN.ogg",
+        "EN": "Nian-001-EN.ogg",
+        "KR": "Nian-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "That lame look of yours is grinding my gears... Here, have a toy to lighten up. You're busy with work? Who cares about some boring-ass work? Just one thing: don't lose sight of this little doll, or else it'll vanish in the blink of an eye.",
+      "links": [],
+      "audio": {
+        "JP": "Nian-002.ogg",
+        "CN": "Nian-002-CN.ogg",
+        "EN": "Nian-002-EN.ogg",
+        "KR": "Nian-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Maaan, I'm so hungry... But as they say, gourmet food takes a gourmet cook to make. I've got a brother who's a great chef, and when our family all gets together, he can cook you something up in a jiffy if you just ask. Now that's what I call a good chef!Rhodes Island's food just tastes like crap compared to his.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Nian-003.ogg",
+        "CN": "Nian-003-CN.ogg",
+        "EN": "Nian-003-EN.ogg",
+        "KR": "Nian-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Lungmen's a pretty chill place, but their cuisine? It's just got no kick to it! How can they eat that flavorless baby food? Listen up: spice is a way of life. Once you taste a little pleasant pain and feel that explosion of heat on your tongue, you'll realize just what you've been missing out on all this time.",
+      "links": [
+        {
+          "text": "Lungmen",
+          "href": "/wiki/Lungmen"
+        }
+      ],
+      "audio": {
+        "JP": "Nian-004.ogg",
+        "CN": "Nian-004-CN.ogg",
+        "EN": "Nian-004-EN.ogg",
+        "KR": "Nian-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "My skills used to just be a regular part of my life, but as I'm easily influenced by my surroundings, I've wound up with a little penchant for getting into battles. I've grown used to the feeling of holding a weapon in my hand. Or rather, it just feels weird to NOT carry a weapon around. So it goes, I guess.",
+      "links": [],
+      "audio": {
+        "JP": "Nian-005.ogg",
+        "CN": "Nian-005-CN.ogg",
+        "EN": "Nian-005-EN.ogg",
+        "KR": "Nian-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Rituals get passed down through generations not 'cause they have any inherent meaning, but because people find their own meaning in them. A performance has its rewards, and a wish has its fulfillment. And when one of my favorite stories is involved, you bet your ass I'm gonna participate.",
+      "links": [],
+      "audio": {
+        "JP": "Nian-006.ogg",
+        "CN": "Nian-006-CN.ogg",
+        "EN": "Nian-006-EN.ogg",
+        "KR": "Nian-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "People out of touch with reality will end up crushed beneath its cruel boot, sooner or later. You'd think that's common freakin' sense, but I've got severalsiblingswho ignore reality for what it is. Their dull lives are only gonna get harder for 'em as time goes on.",
+      "links": [
+        {
+          "text": "siblings",
+          "href": "/wiki/Sui"
+        }
+      ],
+      "audio": {
+        "JP": "Nian-007.ogg",
+        "CN": "Nian-007-CN.ogg",
+        "EN": "Nian-007-EN.ogg",
+        "KR": "Nian-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Your dreams turn to a haze when you've lived as long as I have. But I've got better stuff to do than dream all day, and that's why l feel so alive. Sure, life is suffering, but seeing people carve something out for themselves is what I love. And as for you: think you got what it takes to be the anvil to my hammer?",
+      "links": [],
+      "audio": {
+        "JP": "Nian-008.ogg",
+        "CN": "Nian-008-CN.ogg",
+        "EN": "Nian-008-EN.ogg",
+        "KR": "Nian-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Blacksmithing may just be a regular old occupation, but it was also always a part of early civilization. I'll keep metallurgy well and alive, even if everything else dies out. That's the future I chose for myself long ago. And you, you've made important choices before, haven'tcha? Don't ever go back on them. Stay true to your word, and everything will work out.",
+      "links": [],
+      "audio": {
+        "JP": "Nian-009.ogg",
+        "CN": "Nian-009-CN.ogg",
+        "EN": "Nian-009-EN.ogg",
+        "KR": "Nian-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "You're sleeping AGAIN? Wake up, sunshine! We're going shopping! C'mon, hurry up!",
+      "links": [],
+      "audio": {
+        "JP": "Nian-010.ogg",
+        "CN": "Nian-010-CN.ogg",
+        "EN": "Nian-010-EN.ogg",
+        "KR": "Nian-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Anyone here? Heard from one of your guys that I can make a comfy living here! Something about free lodging and food, with plenty of free time left over... Hm? This area is for staff only? Don't be like that! You make it sound like I don't belong here!",
+      "links": [],
+      "audio": {
+        "JP": "Nian-011.ogg",
+        "CN": "Nian-011-CN.ogg",
+        "EN": "Nian-011-EN.ogg",
+        "KR": "Nian-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Huh? What good do you think this stuff's gonna do me? Skills like these are only useful to people who value them.",
+      "links": [],
+      "audio": {
+        "JP": "Nian-012.ogg",
+        "CN": "Nian-012-CN.ogg",
+        "EN": "Nian-012-EN.ogg",
+        "KR": "Nian-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Apromotion? That reminds me... I got something like that in the past once. Anyway, that's cool, I guess. You have my thanks!",
+      "links": [
+        {
+          "text": "promotion",
+          "href": "/wiki/Promotion"
+        }
+      ],
+      "audio": {
+        "JP": "Nian-013.ogg",
+        "CN": "Nian-013-CN.ogg",
+        "EN": "Nian-013-EN.ogg",
+        "KR": "Nian-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "People are like tools; you can classify 'em. And you, you're an interesting one... Or should I say \"unusual\"? I could forge you a good sword, but since you ain't gonna swing it, let alone fight in the first place, it'd just be a waste of metal.",
+      "links": [],
+      "audio": {
+        "JP": "Nian-014.ogg",
+        "CN": "Nian-014-CN.ogg",
+        "EN": "Nian-014-EN.ogg",
+        "KR": "Nian-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Guess one thing's never gonna change with time: swords will inevitably clash between people.",
+      "links": [],
+      "audio": {
+        "JP": "Nian-015.ogg",
+        "CN": "Nian-015-CN.ogg",
+        "EN": "Nian-015-EN.ogg",
+        "KR": "Nian-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Say what? Lead the team? Never led anyone before, but I guess I'll try.",
+      "links": [],
+      "audio": {
+        "JP": "Nian-016.ogg",
+        "CN": "Nian-016-CN.ogg",
+        "EN": "Nian-016-EN.ogg",
+        "KR": "Nian-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "A smith's gotta be ready to pay the debt owed by the weapons she forges.",
+      "links": [],
+      "audio": {
+        "JP": "Nian-017.ogg",
+        "CN": "Nian-017-CN.ogg",
+        "EN": "Nian-017-EN.ogg",
+        "KR": "Nian-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "My sword's gonna cleave your bodies and your values apart.",
+      "links": [],
+      "audio": {
+        "JP": "Nian-018.ogg",
+        "CN": "Nian-018-CN.ogg",
+        "EN": "Nian-018-EN.ogg",
+        "KR": "Nian-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Well, well, you got orders for me?",
+      "links": [],
+      "audio": {
+        "JP": "Nian-019.ogg",
+        "CN": "Nian-019-CN.ogg",
+        "EN": "Nian-019-EN.ogg",
+        "KR": "Nian-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "A knife, a life; weapons are the basis for society.",
+      "links": [],
+      "audio": {
+        "JP": "Nian-020.ogg",
+        "CN": "Nian-020-CN.ogg",
+        "EN": "Nian-020-EN.ogg",
+        "KR": "Nian-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "\"When 'tis a choice of life and death, why shouldst thou lay down thy arms?\"",
+      "links": [],
+      "audio": {
+        "JP": "Nian-021.ogg",
+        "CN": "Nian-021-CN.ogg",
+        "EN": "Nian-021-EN.ogg",
+        "KR": "Nian-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Let's just get this done with.",
+      "links": [],
+      "audio": {
+        "JP": "Nian-022.ogg",
+        "CN": "Nian-022-CN.ogg",
+        "EN": "Nian-022-EN.ogg",
+        "KR": "Nian-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "You dare strike my shield with your spear? That's gonna end with you in pieces!",
+      "links": [],
+      "audio": {
+        "JP": "Nian-023.ogg",
+        "CN": "Nian-023-CN.ogg",
+        "EN": "Nian-023-EN.ogg",
+        "KR": "Nian-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "My body burns at over 1,400 degrees!",
+      "links": [],
+      "audio": {
+        "JP": "Nian-024.ogg",
+        "CN": "Nian-024-CN.ogg",
+        "EN": "Nian-024-EN.ogg",
+        "KR": "Nian-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Even a virtuous king must, from time to time, look to the sword.",
+      "links": [
+        {
+          "text": "Even a virtuous king must, from time to time, look to the sword.",
+          "href": "https://zh.wikisource.org/wiki/%E5%A4%A9%E5%B7%A5%E9%96%8B%E7%89%A9/%E4%BD%B3%E5%85%B5%E7%AC%AC%E5%8D%81%E4%BA%94"
+        }
+      ],
+      "audio": {
+        "JP": "Nian-025.ogg",
+        "CN": "Nian-025-CN.ogg",
+        "EN": "Nian-025-EN.ogg",
+        "KR": "Nian-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Why do I gotta waste my precious time on the likes of you third-rate amateurs?",
+      "links": [],
+      "audio": {
+        "JP": "Nian-026.ogg",
+        "CN": "Nian-026-CN.ogg",
+        "EN": "Nian-026-EN.ogg",
+        "KR": "Nian-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Niiice! I see some faint promise in you!",
+      "links": [],
+      "audio": {
+        "JP": "Nian-027.ogg",
+        "CN": "Nian-027-CN.ogg",
+        "EN": "Nian-027-EN.ogg",
+        "KR": "Nian-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "These small fry ain't even close to quelling my hunger.",
+      "links": [],
+      "audio": {
+        "JP": "Nian-028.ogg",
+        "CN": "Nian-028-CN.ogg",
+        "EN": "Nian-028-EN.ogg",
+        "KR": "Nian-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Man, you sure messed up. What'd I tell you air bubbles weakening the iron?",
+      "links": [],
+      "audio": {
+        "JP": "Nian-029.ogg",
+        "CN": "Nian-029-CN.ogg",
+        "EN": "Nian-029-EN.ogg",
+        "KR": "Nian-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "We totally blew this one... If only these guys knew what I could do to them if I actually get serious.",
+      "links": [],
+      "audio": {
+        "JP": "Nian-030.ogg",
+        "CN": "Nian-030-CN.ogg",
+        "EN": "Nian-030-EN.ogg",
+        "KR": "Nian-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Mind if I do some redecorating in here?",
+      "links": [],
+      "audio": {
+        "JP": "Nian-031.ogg",
+        "CN": "Nian-031-CN.ogg",
+        "EN": "Nian-031-EN.ogg",
+        "KR": "Nian-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Dude! Stop it!",
+      "links": [],
+      "audio": {
+        "JP": "Nian-032.ogg",
+        "CN": "Nian-032-CN.ogg",
+        "EN": "Nian-032-EN.ogg",
+        "KR": "Nian-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Hey, stand still! I'm trying to redecorate the place!",
+      "links": [],
+      "audio": {
+        "JP": "Nian-033.ogg",
+        "CN": "Nian-033-CN.ogg",
+        "EN": "Nian-033-EN.ogg",
+        "KR": "Nian-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Yo,Doctor, you had lunch yet?",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Nian-034.ogg",
+        "CN": "Nian-034-CN.ogg",
+        "EN": "Nian-034-EN.ogg",
+        "KR": "Nian-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Nian-035.ogg",
+        "CN": "Nian-035-CN.ogg",
+        "EN": "Nian-035-EN.ogg",
+        "KR": "Nian-035-KR.ogg"
+      }
+    }
+  }
+}

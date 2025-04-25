@@ -1,0 +1,445 @@
+{
+  "operator": "Exusiai",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Leader! Give us something to do~",
+      "links": [
+        {
+          "text": "Leader",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-001.ogg",
+        "CN": "Exusiai-001-CN.ogg",
+        "EN": "Exusiai-001-EN.ogg",
+        "KR": "Exusiai-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Leader! Let's throw a party! We can play some hip-hop and eat apple pie! The best life is the party life!No party, no life!",
+      "links": [
+        {
+          "text": "No party, no life!",
+          "href": "https://en.wikipedia.org/wiki/No_Game_No_Life"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-002.ogg",
+        "CN": "Exusiai-002-CN.ogg",
+        "EN": "Exusiai-002-EN.ogg",
+        "KR": "Exusiai-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Locked and loaded, ready for action! What's the objective today, Leader?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-003.ogg",
+        "CN": "Exusiai-003-CN.ogg",
+        "EN": "Exusiai-003-EN.ogg",
+        "KR": "Exusiai-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Some people believe that money can buy everything. But this saying doesn't apply to me! If I want someone to rest in pieces, no amount of money can save them~",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-004.ogg",
+        "CN": "Exusiai-004-CN.ogg",
+        "EN": "Exusiai-004-EN.ogg",
+        "KR": "Exusiai-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "My first wish: to receive eight new guns!We angelsall have our own guns for defense, but owning just one gun is so lame, right?",
+      "links": [
+        {
+          "text": "We angels",
+          "href": "/wiki/Sankta"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-005.ogg",
+        "CN": "Exusiai-005-CN.ogg",
+        "EN": "Exusiai-005-EN.ogg",
+        "KR": "Exusiai-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "My second wish... find someone to help me turn offthis light over my head!",
+      "links": [
+        {
+          "text": "this light over my head",
+          "href": "/wiki/Fluorescent_Lamp"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-006.ogg",
+        "CN": "Exusiai-006-CN.ogg",
+        "EN": "Exusiai-006-EN.ogg",
+        "KR": "Exusiai-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "The only reasonTexascan live without a care and with all that swag is that she's got me watching over her. That's the obvious truth, right?",
+      "links": [
+        {
+          "text": "Texas",
+          "href": "/wiki/Texas"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-007.ogg",
+        "CN": "Exusiai-007-CN.ogg",
+        "EN": "Exusiai-007-EN.ogg",
+        "KR": "Exusiai-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "If you ever run intoan angel with black hornsoozing ominous vibes, please tell her for me: I've never forgotten her.",
+      "links": [
+        {
+          "text": "an angel with black horns",
+          "href": "/wiki/Mostima"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-008.ogg",
+        "CN": "Exusiai-008-CN.ogg",
+        "EN": "Exusiai-008-EN.ogg",
+        "KR": "Exusiai-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "UsPenguin Logisticsgirls ain't so bad, right? Wanna come be our boss? Ehehe, just kidding.",
+      "links": [
+        {
+          "text": "Penguin Logistics",
+          "href": "/wiki/Penguin_Logistics"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-009.ogg",
+        "CN": "Exusiai-009-CN.ogg",
+        "EN": "Exusiai-009-EN.ogg",
+        "KR": "Exusiai-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "...Lord, is this someone we gotta save too?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-010.ogg",
+        "CN": "Exusiai-010-CN.ogg",
+        "EN": "Exusiai-010-EN.ogg",
+        "KR": "Exusiai-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Our slogan is \"Long live the Penguin Empire\". Are you our client? You can call me Exusiai. I'm nothing like thatLupoice queen. I'm always down for some fun!",
+      "links": [
+        {
+          "text": "Lupo",
+          "href": "/wiki/Lupo"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-011.ogg",
+        "CN": "Exusiai-011-CN.ogg",
+        "EN": "Exusiai-011-EN.ogg",
+        "KR": "Exusiai-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "I'm lovin' this feeling!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-012.ogg",
+        "CN": "Exusiai-012-CN.ogg",
+        "EN": "Exusiai-012-EN.ogg",
+        "KR": "Exusiai-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Thanks for promoting me!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-013.ogg",
+        "CN": "Exusiai-013-CN.ogg",
+        "EN": "Exusiai-013-EN.ogg",
+        "KR": "Exusiai-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Leader... No, savior, I pledge to this gun in my hand to protect you until the very end of this world.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-014.ogg",
+        "CN": "Exusiai-014-CN.ogg",
+        "EN": "Exusiai-014-EN.ogg",
+        "KR": "Exusiai-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Squad combat? I'm very familiar with that.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-015.ogg",
+        "CN": "Exusiai-015-CN.ogg",
+        "EN": "Exusiai-015-EN.ogg",
+        "KR": "Exusiai-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "No one makes a better leader than me! You're very sensible.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-016.ogg",
+        "CN": "Exusiai-016-CN.ogg",
+        "EN": "Exusiai-016-EN.ogg",
+        "KR": "Exusiai-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Let's go! Take them all by storm!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-017.ogg",
+        "CN": "Exusiai-017-CN.ogg",
+        "EN": "Exusiai-017-EN.ogg",
+        "KR": "Exusiai-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "I already called dibs on the most lucrative real estate in Hell, and you guys all get a share. Rest easy!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-018.ogg",
+        "CN": "Exusiai-018-CN.ogg",
+        "EN": "Exusiai-018-EN.ogg",
+        "KR": "Exusiai-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "All right!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-019.ogg",
+        "CN": "Exusiai-019-CN.ogg",
+        "EN": "Exusiai-019-EN.ogg",
+        "KR": "Exusiai-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Is it my turn?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-020.ogg",
+        "CN": "Exusiai-020-CN.ogg",
+        "EN": "Exusiai-020-EN.ogg",
+        "KR": "Exusiai-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Follow me!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-021.ogg",
+        "CN": "Exusiai-021-CN.ogg",
+        "EN": "Exusiai-021-EN.ogg",
+        "KR": "Exusiai-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Let me create a diversion.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-022.ogg",
+        "CN": "Exusiai-022-CN.ogg",
+        "EN": "Exusiai-022-EN.ogg",
+        "KR": "Exusiai-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Heaven's will![note 1]",
+      "links": [
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-023.ogg",
+        "CN": "Exusiai-023-CN.ogg",
+        "EN": "Exusiai-023-EN.ogg",
+        "KR": "Exusiai-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Rock n' roll!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-024.ogg",
+        "CN": "Exusiai-024-CN.ogg",
+        "EN": "Exusiai-024-EN.ogg",
+        "KR": "Exusiai-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Barrage!",
+      "links": [
+        {
+          "text": "Barrage!",
+          "href": "https://en.wikipedia.org/wiki/Danmaku_subtitling"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-025.ogg",
+        "CN": "Exusiai-025-CN.ogg",
+        "EN": "Exusiai-025-EN.ogg",
+        "KR": "Exusiai-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Apple pie!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-026.ogg",
+        "CN": "Exusiai-026-CN.ogg",
+        "EN": "Exusiai-026-EN.ogg",
+        "KR": "Exusiai-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Wonderful! This is the chance of a lifetime. Charge on!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-027.ogg",
+        "CN": "Exusiai-027-CN.ogg",
+        "EN": "Exusiai-027-EN.ogg",
+        "KR": "Exusiai-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "May my hail of bullets bring you eternal peace.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-028.ogg",
+        "CN": "Exusiai-028-CN.ogg",
+        "EN": "Exusiai-028-EN.ogg",
+        "KR": "Exusiai-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "News of victory is the sweetest melody to my ears. All right, let's grab some drinks to celebrate when we get back!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-029.ogg",
+        "CN": "Exusiai-029-CN.ogg",
+        "EN": "Exusiai-029-EN.ogg",
+        "KR": "Exusiai-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Even a well-crafted gun will jam sometimes. Life is no different, so don't worry about it~",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-030.ogg",
+        "CN": "Exusiai-030-CN.ogg",
+        "EN": "Exusiai-030-EN.ogg",
+        "KR": "Exusiai-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "I like this place!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-031.ogg",
+        "CN": "Exusiai-031-CN.ogg",
+        "EN": "Exusiai-031-EN.ogg",
+        "KR": "Exusiai-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Oh!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-032.ogg",
+        "CN": "Exusiai-032-CN.ogg",
+        "EN": "Exusiai-032-EN.ogg",
+        "KR": "Exusiai-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Leader, wanna try out my weapon?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-033.ogg",
+        "CN": "Exusiai-033-CN.ogg",
+        "EN": "Exusiai-033-EN.ogg",
+        "KR": "Exusiai-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Hey, Leader!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-034.ogg",
+        "CN": "Exusiai-034-CN.ogg",
+        "EN": "Exusiai-034-EN.ogg",
+        "KR": "Exusiai-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Exusiai-035.ogg",
+        "CN": "Exusiai-035-CN.ogg",
+        "EN": "Exusiai-035-EN.ogg",
+        "KR": "Exusiai-035-KR.ogg"
+      }
+    }
+  }
+}

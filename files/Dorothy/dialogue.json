@@ -1,0 +1,436 @@
+{
+  "operator": "Dorothy",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I was an assistant for other researchers before I got my own lab... That being said, shall I begin your day with a cup of coffee?",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-001.ogg",
+        "CN": "Dorothy-001-CN.ogg",
+        "EN": "Dorothy-001-EN.ogg",
+        "KR": "Dorothy-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Doctor... Doctor who? Oh, it's your codename? Sorry. AtRhine Lab, calling for a \"Doctor\" usually gets a response from everyone in earshot. You must be very special toRhodes Island, Doctor.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        },
+        {
+          "text": "Rhine Lab",
+          "href": "/wiki/Rhine_Lab"
+        },
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Dorothy-002.ogg",
+        "CN": "Dorothy-002-CN.ogg",
+        "EN": "Dorothy-002-EN.ogg",
+        "KR": "Dorothy-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "The rumbling grapevine saysSariais at odds withControl. But I get the feeling they're both idealists, and those with a strong will tend to have an edge to them. I... am I any different? I hope you'll never see my edge.",
+      "links": [
+        {
+          "text": "Saria",
+          "href": "/wiki/Saria"
+        },
+        {
+          "text": "Control",
+          "href": "/wiki/Kristen_Wright"
+        }
+      ],
+      "audio": {
+        "JP": "Dorothy-003.ogg",
+        "CN": "Dorothy-003-CN.ogg",
+        "EN": "Dorothy-003-EN.ogg",
+        "KR": "Dorothy-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "You think scientists are weird? Yes, obsession may drive us to ignore certain other things, including social and ethical norms. Our jobs aside, though, we're all normal people at heart.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-004.ogg",
+        "CN": "Dorothy-004-CN.ogg",
+        "EN": "Dorothy-004-EN.ogg",
+        "KR": "Dorothy-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Research is like exploration; the further you go, the more dangerous it gets. But every step we take has a chance to change lives, which is why we keep going, even if death or public scorn await. We're kindred spirits, Doctor... And that is a fact.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-005.ogg",
+        "CN": "Dorothy-005-CN.ogg",
+        "EN": "Dorothy-005-EN.ogg",
+        "KR": "Dorothy-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "I made lots of friends in the world of science. They often discuss their dreams with me; some are not so good at expressing themselves, but I can guess. You say I've guessed wrong sometimes? Hm... perhaps. Maybe I should reflect...",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-006.ogg",
+        "CN": "Dorothy-006-CN.ogg",
+        "EN": "Dorothy-006-EN.ogg",
+        "KR": "Dorothy-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "It's getting cool outside. Remember to dress warm when you go into the field... *sneeze* I, er, forgot to do so myself. I often forget these things ifElenaisn't there to remind me. *Sneeze* Oh, thanks for the coat. That's so kind of you.",
+      "links": [
+        {
+          "text": "Elena",
+          "href": "/wiki/Astgenne"
+        }
+      ],
+      "audio": {
+        "JP": "Dorothy-007.ogg",
+        "CN": "Dorothy-007-CN.ogg",
+        "EN": "Dorothy-007-EN.ogg",
+        "KR": "Dorothy-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "I never thought of myself as a genius. I'm just fortunate. My father and other people in the Pioneer team saved the money to send me to school, while the government sponsorship also allowed me to pursue scientific research. I'm here today thanks to the help of many people. That's why I want to do my best to help others too.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-008.ogg",
+        "CN": "Dorothy-008-CN.ogg",
+        "EN": "Dorothy-008-EN.ogg",
+        "KR": "Dorothy-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Sometimes, I wake up in the middle of the night in the labs and feel... scared. Scared that people will end up abandoning me, even after all I've done, and even... with hatred in their hearts. What should I do? All I want is to bring them happiness. Can you help me, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-009.ogg",
+        "CN": "Dorothy-009-CN.ogg",
+        "EN": "Dorothy-009-EN.ogg",
+        "KR": "Dorothy-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "All work and no play makes it a sleepy day... We have so much in common, don't we... Let me turn up the temperature. Noise-canceling mode... Oh, seems your cabin isn't equipped with that...?",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-010.ogg",
+        "CN": "Dorothy-010-CN.ogg",
+        "EN": "Dorothy-010-EN.ogg",
+        "KR": "Dorothy-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Hello, I'm Dorothy, head of theOriginium ArtSection at Rhine Lab. Dr.Silencealready introduced me? Then it saves both of us the formalities. Please, just call me Dorothy.",
+      "links": [
+        {
+          "text": "Originium Art",
+          "href": "/wiki/Originium_Art"
+        },
+        {
+          "text": "Silence",
+          "href": "/wiki/Silence"
+        }
+      ],
+      "audio": {
+        "JP": "Dorothy-011.ogg",
+        "CN": "Dorothy-011-CN.ogg",
+        "EN": "Dorothy-011-EN.ogg",
+        "KR": "Dorothy-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Are these simulations or... hm, Rhodes Island feels different from how I imagined, but I understand.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-012.ogg",
+        "CN": "Dorothy-012-CN.ogg",
+        "EN": "Dorothy-012-EN.ogg",
+        "KR": "Dorothy-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "As a matter of fact, I was worried about not spending enough time on the Rhodes Island Landship... maybe I should apply to Kristen for another long-term cooperation project.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-013.ogg",
+        "CN": "Dorothy-013-CN.ogg",
+        "EN": "Dorothy-013-EN.ogg",
+        "KR": "Dorothy-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Doctor, how do you like my lab? I'm thinking about what equipment I should bring over.Mechanistsays my command of resonance might come in handy in obstacle removal and weapon development.",
+      "links": [
+        {
+          "text": "Mechanist",
+          "href": "/wiki/Mechanist"
+        }
+      ],
+      "audio": {
+        "JP": "Dorothy-014.ogg",
+        "CN": "Dorothy-014-CN.ogg",
+        "EN": "Dorothy-014-EN.ogg",
+        "KR": "Dorothy-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "What sights will the Doctor show us this time?",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-015.ogg",
+        "CN": "Dorothy-015-CN.ogg",
+        "EN": "Dorothy-015-EN.ogg",
+        "KR": "Dorothy-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Don't worry, I'll take care of the others.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-016.ogg",
+        "CN": "Dorothy-016-CN.ogg",
+        "EN": "Dorothy-016-EN.ogg",
+        "KR": "Dorothy-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "The battlefield is an extension of the laboratory.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-017.ogg",
+        "CN": "Dorothy-017-CN.ogg",
+        "EN": "Dorothy-017-EN.ogg",
+        "KR": "Dorothy-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Strayed, aren't you?",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-018.ogg",
+        "CN": "Dorothy-018-CN.ogg",
+        "EN": "Dorothy-018-EN.ogg",
+        "KR": "Dorothy-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Security systems online. Monitoring intruders.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-019.ogg",
+        "CN": "Dorothy-019-CN.ogg",
+        "EN": "Dorothy-019-EN.ogg",
+        "KR": "Dorothy-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Initiating environmental scan.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-020.ogg",
+        "CN": "Dorothy-020-CN.ogg",
+        "EN": "Dorothy-020-EN.ogg",
+        "KR": "Dorothy-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Do you need the traps activated?",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-021.ogg",
+        "CN": "Dorothy-021-CN.ogg",
+        "EN": "Dorothy-021-EN.ogg",
+        "KR": "Dorothy-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Terrain data collection complete.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-022.ogg",
+        "CN": "Dorothy-022-CN.ogg",
+        "EN": "Dorothy-022-EN.ogg",
+        "KR": "Dorothy-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "The sand will reshape the land.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-023.ogg",
+        "CN": "Dorothy-023-CN.ogg",
+        "EN": "Dorothy-023-EN.ogg",
+        "KR": "Dorothy-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "The slightest vibration can change the result.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-024.ogg",
+        "CN": "Dorothy-024-CN.ogg",
+        "EN": "Dorothy-024-EN.ogg",
+        "KR": "Dorothy-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Stay down, and you won't get hurt any worse.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-025.ogg",
+        "CN": "Dorothy-025-CN.ogg",
+        "EN": "Dorothy-025-EN.ogg",
+        "KR": "Dorothy-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "No, I won't let you take another step... I promised them.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-026.ogg",
+        "CN": "Dorothy-026-CN.ogg",
+        "EN": "Dorothy-026-EN.ogg",
+        "KR": "Dorothy-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Whether it's by your calculation or instinct... All I could say is, marvelous.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-027.ogg",
+        "CN": "Dorothy-027-CN.ogg",
+        "EN": "Dorothy-027-EN.ogg",
+        "KR": "Dorothy-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Your decisions were on the mark. Were you kissed by the goddess of truth? Can I touch your forehead? For good luck, you know, while I tackle my next experiment.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-028.ogg",
+        "CN": "Dorothy-028-CN.ogg",
+        "EN": "Dorothy-028-EN.ogg",
+        "KR": "Dorothy-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "70% of my experiments don't turn out the way I want them to. The answer lies in the next attempt, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-029.ogg",
+        "CN": "Dorothy-029-CN.ogg",
+        "EN": "Dorothy-029-EN.ogg",
+        "KR": "Dorothy-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "I won't let anyone hurt you! I'll take care of things here. Go, and never turn back...",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-030.ogg",
+        "CN": "Dorothy-030-CN.ogg",
+        "EN": "Dorothy-030-EN.ogg",
+        "KR": "Dorothy-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Rhodes Island is always so lively.",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-031.ogg",
+        "CN": "Dorothy-031-CN.ogg",
+        "EN": "Dorothy-031-EN.ogg",
+        "KR": "Dorothy-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Oh, it was you tugging at me? Thank goodness, I thought I skipped too many meals and was haullucinating...",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-032.ogg",
+        "CN": "Dorothy-032-CN.ogg",
+        "EN": "Dorothy-032-EN.ogg",
+        "KR": "Dorothy-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "What is it that keeps you staring at me, Doctor? Did you find an interesting problem to tackle?",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-033.ogg",
+        "CN": "Dorothy-033-CN.ogg",
+        "EN": "Dorothy-033-EN.ogg",
+        "KR": "Dorothy-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor, I was thinking about going out for a walk. Would you like to join me?",
+      "links": [],
+      "audio": {
+        "JP": "Dorothy-034.ogg",
+        "CN": "Dorothy-034-CN.ogg",
+        "EN": "Dorothy-034-EN.ogg",
+        "KR": "Dorothy-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Dorothy-035.ogg",
+        "CN": "Dorothy-035-CN.ogg",
+        "EN": "Dorothy-035-EN.ogg",
+        "KR": "Dorothy-035-KR.ogg"
+      }
+    }
+  }
+}

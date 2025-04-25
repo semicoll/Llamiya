@@ -1,0 +1,434 @@
+{
+  "operator": "Shining",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Greetings,Doctor... Is there anything you'd like to discuss?",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Shining-001.ogg",
+        "CN": "Shining-001-CN.ogg",
+        "EN": "Shining-001-EN.ogg",
+        "KR": "Shining-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "You look quite pale. You say your... chest hurts? Don't overwork yourself, please get some rest immediately. Don't be afraid, I'm right beside you. Everything is okay...",
+      "links": [],
+      "audio": {
+        "JP": "Shining-002.ogg",
+        "CN": "Shining-002-CN.ogg",
+        "EN": "Shining-002-EN.ogg",
+        "KR": "Shining-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "You've seen my healingArtssomewhere before? You must be imagining things. That's almost certainly the case...",
+      "links": [
+        {
+          "text": "Arts",
+          "href": "/wiki/Arts"
+        }
+      ],
+      "audio": {
+        "JP": "Shining-003.ogg",
+        "CN": "Shining-003-CN.ogg",
+        "EN": "Shining-003-EN.ogg",
+        "KR": "Shining-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "TheConfessor...? How do you know his name? Sorry, this is a topic I don't wish to discuss...",
+      "links": [
+        {
+          "text": "Confessor",
+          "href": "/wiki/Confessarius"
+        }
+      ],
+      "audio": {
+        "JP": "Shining-004.ogg",
+        "CN": "Shining-004-CN.ogg",
+        "EN": "Shining-004-EN.ogg",
+        "KR": "Shining-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "WeSarkazcombined our inherent Arts affinity with the power ofOriginiumto develop new healing Arts, which we've been using for quite some time to tend to refugees.",
+      "links": [
+        {
+          "text": "Sarkaz",
+          "href": "/wiki/Sarkaz"
+        },
+        {
+          "text": "Originium",
+          "href": "/wiki/Originium"
+        }
+      ],
+      "audio": {
+        "JP": "Shining-005.ogg",
+        "CN": "Shining-005-CN.ogg",
+        "EN": "Shining-005-EN.ogg",
+        "KR": "Shining-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Now? We have nothing left now. The war bereaved us of all hope.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-006.ogg",
+        "CN": "Shining-006-CN.ogg",
+        "EN": "Shining-006-EN.ogg",
+        "KR": "Shining-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "My relation withNearl? Certainly... She's a travel companion, and someone I trust with my own life.",
+      "links": [
+        {
+          "text": "Nearl",
+          "href": "/wiki/Nearl"
+        }
+      ],
+      "audio": {
+        "JP": "Shining-007.ogg",
+        "CN": "Shining-007-CN.ogg",
+        "EN": "Shining-007-EN.ogg",
+        "KR": "Shining-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "In order to bring salvation to those in pain, one must be ready to make the ultimate sacrifice. That's the kind of person Nearl is.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-008.ogg",
+        "CN": "Shining-008-CN.ogg",
+        "EN": "Shining-008-EN.ogg",
+        "KR": "Shining-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Once upon a time, I dedicated my life to following someone who shone so brightly in my eyes. A conspiracy took that person away from me, but this time... I'll make sure my light source continues to shine on forevermore. Even if I die...",
+      "links": [],
+      "audio": {
+        "JP": "Shining-009.ogg",
+        "CN": "Shining-009-CN.ogg",
+        "EN": "Shining-009-EN.ogg",
+        "KR": "Shining-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "...This silence reminds me of those days in my hometown.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-010.ogg",
+        "CN": "Shining-010-CN.ogg",
+        "EN": "Shining-010-EN.ogg",
+        "KR": "Shining-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I am Shining, roamingmedic. You say you've seen me before? Perhaps we've passed by each other during our journeys.",
+      "links": [
+        {
+          "text": "medic",
+          "href": "/wiki/Medic"
+        }
+      ],
+      "audio": {
+        "JP": "Shining-011.ogg",
+        "CN": "Shining-011-CN.ogg",
+        "EN": "Shining-011-EN.ogg",
+        "KR": "Shining-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Power that merely heals wounds... is not enough.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-012.ogg",
+        "CN": "Shining-012-CN.ogg",
+        "EN": "Shining-012-EN.ogg",
+        "KR": "Shining-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "I can't save everyone just by being a medic.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-013.ogg",
+        "CN": "Shining-013-CN.ogg",
+        "EN": "Shining-013-EN.ogg",
+        "KR": "Shining-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "That's right. I cannot be just a medic... I will live on as adefender. That's always been my goal. Doctor, please be a witness to this oath of mine.",
+      "links": [
+        {
+          "text": "defender",
+          "href": "/wiki/Defender"
+        }
+      ],
+      "audio": {
+        "JP": "Shining-014.ogg",
+        "CN": "Shining-014-CN.ogg",
+        "EN": "Shining-014-EN.ogg",
+        "KR": "Shining-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Are we heading into battle?",
+      "links": [],
+      "audio": {
+        "JP": "Shining-015.ogg",
+        "CN": "Shining-015-CN.ogg",
+        "EN": "Shining-015-EN.ogg",
+        "KR": "Shining-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "This is a battle for our own sakes, right?",
+      "links": [],
+      "audio": {
+        "JP": "Shining-016.ogg",
+        "CN": "Shining-016-CN.ogg",
+        "EN": "Shining-016-EN.ogg",
+        "KR": "Shining-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "War is inevitable.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-017.ogg",
+        "CN": "Shining-017-CN.ogg",
+        "EN": "Shining-017-EN.ogg",
+        "KR": "Shining-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "I hope this war will lead to salvation...",
+      "links": [],
+      "audio": {
+        "JP": "Shining-018.ogg",
+        "CN": "Shining-018-CN.ogg",
+        "EN": "Shining-018-EN.ogg",
+        "KR": "Shining-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Let's begin.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-019.ogg",
+        "CN": "Shining-019-CN.ogg",
+        "EN": "Shining-019-EN.ogg",
+        "KR": "Shining-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Yes, I'm listening.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-020.ogg",
+        "CN": "Shining-020-CN.ogg",
+        "EN": "Shining-020-EN.ogg",
+        "KR": "Shining-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Our choice is between prosperity or destruction.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-021.ogg",
+        "CN": "Shining-021-CN.ogg",
+        "EN": "Shining-021-EN.ogg",
+        "KR": "Shining-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "You won't suffer long.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-022.ogg",
+        "CN": "Shining-022-CN.ogg",
+        "EN": "Shining-022-EN.ogg",
+        "KR": "Shining-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "I will protect you.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-023.ogg",
+        "CN": "Shining-023-CN.ogg",
+        "EN": "Shining-023-EN.ogg",
+        "KR": "Shining-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Don't be afraid.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-024.ogg",
+        "CN": "Shining-024-CN.ogg",
+        "EN": "Shining-024-EN.ogg",
+        "KR": "Shining-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "I'm sad that I must do this...",
+      "links": [],
+      "audio": {
+        "JP": "Shining-025.ogg",
+        "CN": "Shining-025-CN.ogg",
+        "EN": "Shining-025-EN.ogg",
+        "KR": "Shining-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "I've never forgotten the pain.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-026.ogg",
+        "CN": "Shining-026-CN.ogg",
+        "EN": "Shining-026-EN.ogg",
+        "KR": "Shining-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "The stronger the enemy, the more motivated we are, and the higher our morale.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-027.ogg",
+        "CN": "Shining-027-CN.ogg",
+        "EN": "Shining-027-EN.ogg",
+        "KR": "Shining-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "No matter how many sins one commits, they all turn to ashes when their life ends.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-028.ogg",
+        "CN": "Shining-028-CN.ogg",
+        "EN": "Shining-028-EN.ogg",
+        "KR": "Shining-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Even if we return someday, there is no salvation for anyone here.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-029.ogg",
+        "CN": "Shining-029-CN.ogg",
+        "EN": "Shining-029-EN.ogg",
+        "KR": "Shining-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Victory and loss... these are mere insignificant moments in the endless cycle.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-030.ogg",
+        "CN": "Shining-030-CN.ogg",
+        "EN": "Shining-030-EN.ogg",
+        "KR": "Shining-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "I don't mind as long as I have a quiet place to be alone.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-031.ogg",
+        "CN": "Shining-031-CN.ogg",
+        "EN": "Shining-031-EN.ogg",
+        "KR": "Shining-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "What is it?",
+      "links": [],
+      "audio": {
+        "JP": "Shining-032.ogg",
+        "CN": "Shining-032-CN.ogg",
+        "EN": "Shining-032-EN.ogg",
+        "KR": "Shining-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "It's been a while since I've been this calm. I can even hear your heartbeat.",
+      "links": [],
+      "audio": {
+        "JP": "Shining-033.ogg",
+        "CN": "Shining-033-CN.ogg",
+        "EN": "Shining-033-EN.ogg",
+        "KR": "Shining-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "How are you feeling today, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "Shining-034.ogg",
+        "CN": "Shining-034-CN.ogg",
+        "EN": "Shining-034-EN.ogg",
+        "KR": "Shining-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Shining-035.ogg",
+        "CN": "Shining-035-CN.ogg",
+        "EN": "Shining-035-EN.ogg",
+        "KR": "Shining-035-KR.ogg"
+      }
+    }
+  }
+}

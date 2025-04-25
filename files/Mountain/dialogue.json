@@ -1,0 +1,424 @@
+{
+  "operator": "Mountain",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "It's a good thing to be alert,Doctor. Well, please continue with your work. Rest assured, I'm here to protect you.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-001.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-001-CN.ogg",
+        "EN": "Mountain-001-EN.ogg",
+        "KR": "Mountain-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "I've met plenty of people who claim to practice martial arts, but they are all just weaklings putting up a front. Not that girl,Waai Fu, however. She's an interesting one... and although she still has a ways to go, I look forward to fighting her once she grows up.",
+      "links": [
+        {
+          "text": "Waai Fu",
+          "href": "/wiki/Waai_Fu"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-002.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-002-CN.ogg",
+        "EN": "Mountain-002-EN.ogg",
+        "KR": "Mountain-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Rhodes Islanddoesn't have a cellar, you say? Now that won't do. Alcohol is indispensable. Not only is it something that can be savored and enjoyed, you can also drown your sorrows with it. So there you have it, Doctor. Get a cellar built. I dare say I know a thing or two about alcohol, should you need my assistance.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-003.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-003-CN.ogg",
+        "EN": "Mountain-003-EN.ogg",
+        "KR": "Mountain-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "I built a library back inMansfield, but most of the books I could get my hands on there wereColumbian. It gets boring after a while. The collection there simply doesn't hold a candle to what Rhodes Island has. The library here has a sizable collection of literature from other countries. It's marvelous.",
+      "links": [
+        {
+          "text": "Mansfield",
+          "href": "/wiki/Mansfield_State_Prison"
+        },
+        {
+          "text": "Columbian",
+          "href": "/wiki/Columbia"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-004.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-004-CN.ogg",
+        "EN": "Mountain-004-EN.ogg",
+        "KR": "Mountain-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "When you find yourself in the face of oppression, it is futile to even try to come up with countermeasures... I used to believe that, but I later realized that there's no power out there that's absolute. At the very least, I don't have that kind of power, and that's why I'll never look down on anything again, no matter how insignificant.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-005.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-005-CN.ogg",
+        "EN": "Mountain-005-EN.ogg",
+        "KR": "Mountain-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "I used to think that Rhodes Island was just another Mansfield, a prison of \"freedom.\" And you. You are me. You are a prisoner of freedom. You are the king. Yet now I know that's not the case. This is not a prison, and you are the friend of everyone here.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-006.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-006-CN.ogg",
+        "EN": "Mountain-006-EN.ogg",
+        "KR": "Mountain-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Are the ones over there fromRhine Lab? Don't worry. I don't really have a grudge about Rhine Lab itself, and they are my colleagues now. I wouldn't do anything that gives you a headache. It's just I may have something to ask them one of these days.",
+      "links": [
+        {
+          "text": "Rhine Lab",
+          "href": "/wiki/Rhine_Lab"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-007.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-007-CN.ogg",
+        "EN": "Mountain-007-EN.ogg",
+        "KR": "Mountain-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Doctor, do you have some time later? Let me take you out for a drink... Oh, it's nothing important. I merely have a few secrets that I'd really like to get off my chest. I haven't made a new friend for a long time, after all.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-008.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-008-CN.ogg",
+        "EN": "Mountain-008-EN.ogg",
+        "KR": "Mountain-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "You are a very good friend, Doctor. When I have everything sorted out, should I still be alive, do pay Mansfield a visit. That is my kingdom, and I am willing to share all that I have there with you.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-009.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-009-CN.ogg",
+        "EN": "Mountain-009-EN.ogg",
+        "KR": "Mountain-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "For you to fall asleep so defenselessly in the company of others... I can't tell if you are being trusting or negligent.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-010.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-010-CN.ogg",
+        "EN": "Mountain-010-EN.ogg",
+        "KR": "Mountain-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I owe Rhodes Island my life, so allow me to be completely honest, Doctor. I am going after a certain department within Rhine Lab. If you don't want your relationship with them ruined, now is the time to turn me away.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-011.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-011-CN.ogg",
+        "EN": "Mountain-011-EN.ogg",
+        "KR": "Mountain-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Battlefield experience, huh? Indeed, that's something that I don't have. Thank you, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-012.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-012-CN.ogg",
+        "EN": "Mountain-012-EN.ogg",
+        "KR": "Mountain-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Doctor, don't be afraid. I don't fight anyone undeserving of my rage.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-013.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-013-CN.ogg",
+        "EN": "Mountain-013-EN.ogg",
+        "KR": "Mountain-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Doctor, take a good look. That mask of composure, calm, and politeness is off. This is the truest you'll ever find me. Bloodthirsty, violent, and destructive. Look at me and be my friend.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-014.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-014-CN.ogg",
+        "EN": "Mountain-014-EN.ogg",
+        "KR": "Mountain-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Perfect. It's just about time to get a little exercise in.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-015.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-015-CN.ogg",
+        "EN": "Mountain-015-EN.ogg",
+        "KR": "Mountain-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I'm the leader, so follow my lead.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-016.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-016-CN.ogg",
+        "EN": "Mountain-016-EN.ogg",
+        "KR": "Mountain-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Let's go.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-017.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-017-CN.ogg",
+        "EN": "Mountain-017-EN.ogg",
+        "KR": "Mountain-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Never underestimate the enemy.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-018.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-018-CN.ogg",
+        "EN": "Mountain-018-EN.ogg",
+        "KR": "Mountain-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "I'm right here.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-019.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-019-CN.ogg",
+        "EN": "Mountain-019-EN.ogg",
+        "KR": "Mountain-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Where would you like me?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-020.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-020-CN.ogg",
+        "EN": "Mountain-020-EN.ogg",
+        "KR": "Mountain-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "I'll hold myself back.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-021.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-021-CN.ogg",
+        "EN": "Mountain-021-EN.ogg",
+        "KR": "Mountain-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "I won't let them go much further.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-022.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-022-CN.ogg",
+        "EN": "Mountain-022-EN.ogg",
+        "KR": "Mountain-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Face me!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-023.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-023-CN.ogg",
+        "EN": "Mountain-023-EN.ogg",
+        "KR": "Mountain-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Haven't had breakfast? Come with all you've got!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-024.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-024-CN.ogg",
+        "EN": "Mountain-024-EN.ogg",
+        "KR": "Mountain-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Bring it on, you scoundrels!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-025.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-025-CN.ogg",
+        "EN": "Mountain-025-EN.ogg",
+        "KR": "Mountain-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Warm-up's over!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-026.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-026-CN.ogg",
+        "EN": "Mountain-026-EN.ogg",
+        "KR": "Mountain-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "A precarious situation is the perfect opportunity to better ourselves, but we must also know our own limits.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-027.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-027-CN.ogg",
+        "EN": "Mountain-027-EN.ogg",
+        "KR": "Mountain-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Doctor, there is no need to put ourselves in the spotlight when the time's not right.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-028.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-028-CN.ogg",
+        "EN": "Mountain-028-EN.ogg",
+        "KR": "Mountain-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Unnecessary violence is just a way to blow off steam. I got myself under control a long time ago.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-029.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-029-CN.ogg",
+        "EN": "Mountain-029-EN.ogg",
+        "KR": "Mountain-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "As long as we're still alive, that's hardly a defeat.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-030.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-030-CN.ogg",
+        "EN": "Mountain-030-EN.ogg",
+        "KR": "Mountain-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "The ceiling here is a little low, isn't it?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-031.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-031-CN.ogg",
+        "EN": "Mountain-031-EN.ogg",
+        "KR": "Mountain-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Huh?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-032.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-032-CN.ogg",
+        "EN": "Mountain-032-EN.ogg",
+        "KR": "Mountain-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor, why don't we discuss these books?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-033.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-033-CN.ogg",
+        "EN": "Mountain-033-EN.ogg",
+        "KR": "Mountain-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Stay alert, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-034.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-034-CN.ogg",
+        "EN": "Mountain-034-EN.ogg",
+        "KR": "Mountain-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Mountain-035.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Mountain-035-CN.ogg",
+        "EN": "Mountain-035-EN.ogg",
+        "KR": "Mountain-035-KR.ogg"
+      }
+    }
+  }
+}

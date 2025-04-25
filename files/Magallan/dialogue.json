@@ -1,0 +1,441 @@
+{
+  "operator": "Magallan",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I will stay with you until the next expedition,Doctor. If you need me at your side, please do not be afraid to call upon me boldly!",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Magallan-001.ogg",
+        "CN": "Magallan-001-CN.ogg",
+        "EN": "Magallan-001-EN.ogg",
+        "KR": "Magallan-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Actually, I've known about you for a long time, Doctor! Well,MayerandMuMutold me all about you, so I had to come toRhodes Islandto see what you are like in person... Oh, I also brought a small present for you! Here!",
+      "links": [
+        {
+          "text": "Mayer",
+          "href": "/wiki/Mayer"
+        },
+        {
+          "text": "MuMu",
+          "href": "/wiki/Muelsyse"
+        },
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Magallan-002.ogg",
+        "CN": "Magallan-002-CN.ogg",
+        "EN": "Magallan-002-EN.ogg",
+        "KR": "Magallan-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "This one? This is the pendant of the GreatEmperorofPenguin Logistics. I used to see it many times when I went to Penguin Logistics. I always thought it was really cute. Every time, I used to rub it a whole lot! Doctor, you've never rubbed it before? You didn't dare? Why?!",
+      "links": [
+        {
+          "text": "Emperor",
+          "href": "/wiki/Emperor"
+        },
+        {
+          "text": "Penguin Logistics",
+          "href": "/wiki/Penguin_Logistics"
+        }
+      ],
+      "audio": {
+        "JP": "Magallan-003.ogg",
+        "CN": "Magallan-003-CN.ogg",
+        "EN": "Magallan-003-EN.ogg",
+        "KR": "Magallan-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "IsIffydoing better these days? When I leftRhine Lablast time, I was really worried about her condition...",
+      "links": [
+        {
+          "text": "Iffy",
+          "href": "/wiki/Ifrit"
+        },
+        {
+          "text": "Rhine Lab",
+          "href": "/wiki/Rhine_Lab"
+        }
+      ],
+      "audio": {
+        "JP": "Magallan-004.ogg",
+        "CN": "Magallan-004-CN.ogg",
+        "EN": "Magallan-004-EN.ogg",
+        "KR": "Magallan-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Has Mayer made anything new recently? I haven't worked on any new equipment for a long time so I should do some research with her. Oh right, Doctor, let me let you in on a secret on what happens when you disturb Mayer... Oh no! You've already been bitten before?",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-005.ogg",
+        "CN": "Magallan-005-CN.ogg",
+        "EN": "Magallan-005-EN.ogg",
+        "KR": "Magallan-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "My drone andMeeboo, Sisyphus and Kirkika, are not controlled the same way. There is no limit to the types of uses they can have. However, there is currently a new system under development and it will soon be ready. Hehe, I'm looking forward to it.",
+      "links": [
+        {
+          "text": "Meeboo",
+          "href": "/wiki/Robotter"
+        }
+      ],
+      "audio": {
+        "JP": "Magallan-006.ogg",
+        "CN": "Magallan-006-CN.ogg",
+        "EN": "Magallan-006-EN.ogg",
+        "KR": "Magallan-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "The Polar North? The dreams that are buried there are cold and cruel, but... in order to make my dreams a reality, I am willing to do anything it takes.",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-007.ogg",
+        "CN": "Magallan-007-CN.ogg",
+        "EN": "Magallan-007-EN.ogg",
+        "KR": "Magallan-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "\"The tiny gardner, and the tiny flower, growing under the tile with no one to care for it...\" This was Iffy's favorite story to read, perhaps due to how she can relate to it. However... she seems to have forgotten the book here. How odd.",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-008.ogg",
+        "CN": "Magallan-008-CN.ogg",
+        "EN": "Magallan-008-EN.ogg",
+        "KR": "Magallan-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "The Polar North...that place is both mysterious and beautiful. The towering cliffs, the lonely, snow-covered trees, and the source of the radiant snow all stretch to the end of the earth. Doctor, you should go with me. Let's head there together, okay?",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-009.ogg",
+        "CN": "Magallan-009-CN.ogg",
+        "EN": "Magallan-009-EN.ogg",
+        "KR": "Magallan-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Doctor? Doctor you can't! If you fall asleep, you'll freeze to death!",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-010.ogg",
+        "CN": "Magallan-010-CN.ogg",
+        "EN": "Magallan-010-EN.ogg",
+        "KR": "Magallan-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Rhine Lab Commissioner Magallan discovered a mysterous research ship? Woah, y-you're that doctor from Rhodes Island, Ahem... Would you like to join my expedition? It'll be very interesting!",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-011.ogg",
+        "CN": "Magallan-011-CN.ogg",
+        "EN": "Magallan-011-EN.ogg",
+        "KR": "Magallan-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "The efficiency has improved.",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-012.ogg",
+        "CN": "Magallan-012-CN.ogg",
+        "EN": "Magallan-012-EN.ogg",
+        "KR": "Magallan-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Update completed! Now the response speed of the device is twice as fast as before.",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-013.ogg",
+        "CN": "Magallan-013-CN.ogg",
+        "EN": "Magallan-013-EN.ogg",
+        "KR": "Magallan-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Doctor, if you want to see the results of my research, then I must also demonstrate my strength! Hehehe, just so you know, I'm very strong, so don't be scared!",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-014.ogg",
+        "CN": "Magallan-014-CN.ogg",
+        "EN": "Magallan-014-EN.ogg",
+        "KR": "Magallan-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Leave the exploration and support to me.",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-015.ogg",
+        "CN": "Magallan-015-CN.ogg",
+        "EN": "Magallan-015-EN.ogg",
+        "KR": "Magallan-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Everyone, maintain communication, over!",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-016.ogg",
+        "CN": "Magallan-016-CN.ogg",
+        "EN": "Magallan-016-EN.ogg",
+        "KR": "Magallan-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Need to calibrate the equipment...Done!",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-017.ogg",
+        "CN": "Magallan-017-CN.ogg",
+        "EN": "Magallan-017-EN.ogg",
+        "KR": "Magallan-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Once the drone is commissioned, it can take off at any time.",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-018.ogg",
+        "CN": "Magallan-018-CN.ogg",
+        "EN": "Magallan-018-EN.ogg",
+        "KR": "Magallan-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Sure!",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-019.ogg",
+        "CN": "Magallan-019-CN.ogg",
+        "EN": "Magallan-019-EN.ogg",
+        "KR": "Magallan-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Do you need my skills?",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-020.ogg",
+        "CN": "Magallan-020-CN.ogg",
+        "EN": "Magallan-020-EN.ogg",
+        "KR": "Magallan-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Time to start working!",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-021.ogg",
+        "CN": "Magallan-021-CN.ogg",
+        "EN": "Magallan-021-EN.ogg",
+        "KR": "Magallan-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "The equipment is working fine![note 1]",
+      "links": [
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {
+        "JP": "Magallan-022.ogg",
+        "CN": "Magallan-022-CN.ogg",
+        "EN": "Magallan-022-EN.ogg",
+        "KR": "Magallan-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Is the target marked? Ok, the drone is launched!",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-023.ogg",
+        "CN": "Magallan-023-CN.ogg",
+        "EN": "Magallan-023-EN.ogg",
+        "KR": "Magallan-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Now! Snow blindness is a terrible think[sic], you know!",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-024.ogg",
+        "CN": "Magallan-024-CN.ogg",
+        "EN": "Magallan-024-EN.ogg",
+        "KR": "Magallan-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "3......2......1!",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-025.ogg",
+        "CN": "Magallan-025-CN.ogg",
+        "EN": "Magallan-025-EN.ogg",
+        "KR": "Magallan-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "\"Bloom, my flowers!\"",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-026.ogg",
+        "CN": "Magallan-026-CN.ogg",
+        "EN": "Magallan-026-EN.ogg",
+        "KR": "Magallan-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Watch out, that's a blind spot! Huh, it's already over? As expected, Doctor, you're so reliable.",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-027.ogg",
+        "CN": "Magallan-027-CN.ogg",
+        "EN": "Magallan-027-EN.ogg",
+        "KR": "Magallan-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "There are no other hostile signals.",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-028.ogg",
+        "CN": "Magallan-028-CN.ogg",
+        "EN": "Magallan-028-EN.ogg",
+        "KR": "Magallan-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "There are still enemies nearby. Will you pursue them?",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-029.ogg",
+        "CN": "Magallan-029-CN.ogg",
+        "EN": "Magallan-029-EN.ogg",
+        "KR": "Magallan-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "We've been surrounded? Its my fault...",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-030.ogg",
+        "CN": "Magallan-030-CN.ogg",
+        "EN": "Magallan-030-EN.ogg",
+        "KR": "Magallan-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Huh? Th-there are even heated floors?! Ahh~ this is bliss~",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-031.ogg",
+        "CN": "Magallan-031-CN.ogg",
+        "EN": "Magallan-031-EN.ogg",
+        "KR": "Magallan-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Huh?",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-032.ogg",
+        "CN": "Magallan-032-CN.ogg",
+        "EN": "Magallan-032-EN.ogg",
+        "KR": "Magallan-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Lets go, Lets go! Ice skating is not that scary with me here.",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-033.ogg",
+        "CN": "Magallan-033-CN.ogg",
+        "EN": "Magallan-033-EN.ogg",
+        "KR": "Magallan-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Do you need something?",
+      "links": [],
+      "audio": {
+        "JP": "Magallan-034.ogg",
+        "CN": "Magallan-034-CN.ogg",
+        "EN": "Magallan-034-EN.ogg",
+        "KR": "Magallan-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Magallan-035.ogg",
+        "CN": "Magallan-035-CN.ogg",
+        "EN": "Magallan-035-EN.ogg",
+        "KR": "Magallan-035-KR.ogg"
+      }
+    }
+  }
+}

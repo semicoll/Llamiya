@@ -1,0 +1,418 @@
+{
+  "operator": "Mizuki",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Dr.Kal'tsittold me if you ever chose to place me at your side, it means you've decided to protect me. From the looks of things though,Doctor, I don't think you understand what that means? But I know she must've said it for a reason.",
+      "links": [
+        {
+          "text": "Kal'tsit",
+          "href": "/wiki/Kal%27tsit"
+        },
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Mizuki-001.ogg",
+        "CN": "Mizuki-001-CN.ogg",
+        "EN": "Mizuki-001-EN.ogg",
+        "KR": "Mizuki-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Fine dining, comics, games, and the people who created them, are all psalms laid out beneath the starry firmament. And my journey is to taste them all– and to eliminate anything that seeks to threaten them.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-002.ogg",
+        "CN": "Mizuki-002-CN.ogg",
+        "EN": "Mizuki-002-EN.ogg",
+        "KR": "Mizuki-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Ah, Doctor, you came at just the right time. Quick, come have a taste, I prepared this special sashimi dish using a special technique that best preserves the nutrients and vitality of the ingredients!",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-003.ogg",
+        "CN": "Mizuki-003-CN.ogg",
+        "EN": "Mizuki-003-EN.ogg",
+        "KR": "Mizuki-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "This one, huh? It's aclassic arcade gamefromHigashi, though it's kind of niche now. Want to give it a try, Doctor? Here, you move that yellow mouth around and try to eat as much stuff as you can. But until you've absorbed enough nutrients to become strong, you'll only be prey to others.",
+      "links": [
+        {
+          "text": "classic arcade game",
+          "href": "https://en.wikipedia.org/wiki/Pac-Man"
+        },
+        {
+          "text": "Higashi",
+          "href": "/wiki/Higashi"
+        }
+      ],
+      "audio": {
+        "JP": "Mizuki-004.ogg",
+        "CN": "Mizuki-004-CN.ogg",
+        "EN": "Mizuki-004-EN.ogg",
+        "KR": "Mizuki-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "A strong sense of justice? You have the wrong idea, Doctor. I'm personally not that concerned about bad guys, but for various reasons, the people here usually can't do much to them, right? In times like that, if there was some way to make those bad guys disappear... Nobody would lose sleep over that, right? It'd be a breath of fresh air, right?",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-005.ogg",
+        "CN": "Mizuki-005-CN.ogg",
+        "EN": "Mizuki-005-EN.ogg",
+        "KR": "Mizuki-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Though I don't really understand your rationale, Doctor, what you're basically saying is, only eliminate the people who you've designated as bad guys, right? Because you're a good person, Doctor. What if you were actually a bad guy? Don't say that, that'd be quite troublesome. There's no way I could...",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-006.ogg",
+        "CN": "Mizuki-006-CN.ogg",
+        "EN": "Mizuki-006-EN.ogg",
+        "KR": "Mizuki-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Sometimes, it feels like there's something on this ship... Familiar, yet also foreign. Gentle, yet also seemingly full of hostility. Doctor, it makes me rather uneasy...",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-007.ogg",
+        "CN": "Mizuki-007-CN.ogg",
+        "EN": "Mizuki-007-EN.ogg",
+        "KR": "Mizuki-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Doctor, what does it feel like to take charge of the lives of so many others with your own hands? If I was in your position, I'd feel very warm, maybe wouldn't even be able to resist trembling... Huh? I was talking about you as a commander, holding on to everyone's lifeline.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-008.ogg",
+        "CN": "Mizuki-008-CN.ogg",
+        "EN": "Mizuki-008-EN.ogg",
+        "KR": "Mizuki-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "I sometimes think, since the food we eat and the nutrients we absorb become a part of us, if we were to eat the same things and do the same things,would we gradually become the same? Doctor... can we?",
+      "links": [
+        {
+          "text": "would we gradually become the same",
+          "href": "/wiki/Seaborn#Overview"
+        }
+      ],
+      "audio": {
+        "JP": "Mizuki-009.ogg",
+        "CN": "Mizuki-009-CN.ogg",
+        "EN": "Mizuki-009-EN.ogg",
+        "KR": "Mizuki-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "It's time to take a little break, Doctor. Come here, lie down. I'll go grab a blanket.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-010.ogg",
+        "CN": "Mizuki-010-CN.ogg",
+        "EN": "Mizuki-010-EN.ogg",
+        "KR": "Mizuki-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Ah, hello there, Doctor. Dr. Kal'tsit tells me you're my commander from today on! It's too bad I don't count as an official operator, but as long as you need my help, I'll do whatever I can.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-011.ogg",
+        "CN": "Mizuki-011-CN.ogg",
+        "EN": "Mizuki-011-EN.ogg",
+        "KR": "Mizuki-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "I need to absorb and digest all this, right? I'll do my best.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-012.ogg",
+        "CN": "Mizuki-012-CN.ogg",
+        "EN": "Mizuki-012-EN.ogg",
+        "KR": "Mizuki-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "I got the nod? Does that mean I can go with you to more places and take care of more bad guys?",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-013.ogg",
+        "CN": "Mizuki-013-CN.ogg",
+        "EN": "Mizuki-013-EN.ogg",
+        "KR": "Mizuki-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "On one rainy day, I received an unexpected gift that changed me, but I was not taught how to face the future. Doctor, if it were you, would you have shown me the path yourself?",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-014.ogg",
+        "CN": "Mizuki-014-CN.ogg",
+        "EN": "Mizuki-014-EN.ogg",
+        "KR": "Mizuki-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "It'd be best to not expose myself to others, even my teammates? Mm, I'll do as you say, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-015.ogg",
+        "CN": "Mizuki-015-CN.ogg",
+        "EN": "Mizuki-015-EN.ogg",
+        "KR": "Mizuki-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I will protect you from the shadows, Doctor, as well as everyone else participating in the operation.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-016.ogg",
+        "CN": "Mizuki-016-CN.ogg",
+        "EN": "Mizuki-016-EN.ogg",
+        "KR": "Mizuki-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "The deployment plan and secret missions for this operation... Yes, flawless indeed.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-017.ogg",
+        "CN": "Mizuki-017-CN.ogg",
+        "EN": "Mizuki-017-EN.ogg",
+        "KR": "Mizuki-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "The enemies, huh. They don't look half bad.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-018.ogg",
+        "CN": "Mizuki-018-CN.ogg",
+        "EN": "Mizuki-018-EN.ogg",
+        "KR": "Mizuki-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Your orders are my beacon.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-019.ogg",
+        "CN": "Mizuki-019-CN.ogg",
+        "EN": "Mizuki-019-EN.ogg",
+        "KR": "Mizuki-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "I'm ready to go whenever~",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-020.ogg",
+        "CN": "Mizuki-020-CN.ogg",
+        "EN": "Mizuki-020-EN.ogg",
+        "KR": "Mizuki-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "You always help me find my place.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-021.ogg",
+        "CN": "Mizuki-021-CN.ogg",
+        "EN": "Mizuki-021-EN.ogg",
+        "KR": "Mizuki-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Weave the tapestry of your tactics boldly and without worry.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-022.ogg",
+        "CN": "Mizuki-022-CN.ogg",
+        "EN": "Mizuki-022-EN.ogg",
+        "KR": "Mizuki-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "A piece of cake.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-023.ogg",
+        "CN": "Mizuki-023-CN.ogg",
+        "EN": "Mizuki-023-EN.ogg",
+        "KR": "Mizuki-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Thanks for the treat.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-024.ogg",
+        "CN": "Mizuki-024-CN.ogg",
+        "EN": "Mizuki-024-EN.ogg",
+        "KR": "Mizuki-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "When did you delude yourself into thinking that these tentacles are mere illusions?",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-025.ogg",
+        "CN": "Mizuki-025-CN.ogg",
+        "EN": "Mizuki-025-EN.ogg",
+        "KR": "Mizuki-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Where there are people, there must be someone to cull the evildoers among them.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-026.ogg",
+        "CN": "Mizuki-026-CN.ogg",
+        "EN": "Mizuki-026-EN.ogg",
+        "KR": "Mizuki-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "What a tough nut to crack. It'll take some time to digest this battle.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-027.ogg",
+        "CN": "Mizuki-027-CN.ogg",
+        "EN": "Mizuki-027-EN.ogg",
+        "KR": "Mizuki-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "There are fewer bad guys out there now, and it's all thanks to you, Doctor!",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-028.ogg",
+        "CN": "Mizuki-028-CN.ogg",
+        "EN": "Mizuki-028-EN.ogg",
+        "KR": "Mizuki-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Hm? Doctor, why'd you let some bad guys through? I'll go clean them up for you.",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-029.ogg",
+        "CN": "Mizuki-029-CN.ogg",
+        "EN": "Mizuki-029-EN.ogg",
+        "KR": "Mizuki-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "If you want to cover everyone as they evacuate, I still have an idea... No, just saving everyone isn't good enough. Only by eliminating all the bad guys here...",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-030.ogg",
+        "CN": "Mizuki-030-CN.ogg",
+        "EN": "Mizuki-030-EN.ogg",
+        "KR": "Mizuki-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Shall I whip up something tasty to help everyone unwind?",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-031.ogg",
+        "CN": "Mizuki-031-CN.ogg",
+        "EN": "Mizuki-031-EN.ogg",
+        "KR": "Mizuki-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Hmm? What's up?",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-032.ogg",
+        "CN": "Mizuki-032-CN.ogg",
+        "EN": "Mizuki-032-EN.ogg",
+        "KR": "Mizuki-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Achoo! Ugh... Why does it feel like someone's looking right through me...",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-033.ogg",
+        "CN": "Mizuki-033-CN.ogg",
+        "EN": "Mizuki-033-EN.ogg",
+        "KR": "Mizuki-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Did you miss me, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "Mizuki-034.ogg",
+        "CN": "Mizuki-034-CN.ogg",
+        "EN": "Mizuki-034-EN.ogg",
+        "KR": "Mizuki-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Mizuki-035.ogg",
+        "CN": "Mizuki-035-CN.ogg",
+        "EN": "Mizuki-035-EN.ogg",
+        "KR": "Mizuki-035-KR.ogg"
+      }
+    }
+  }
+}

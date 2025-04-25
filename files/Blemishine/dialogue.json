@@ -1,0 +1,452 @@
+{
+  "operator": "Blemishine",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Though I wouldn't dare boast of my prowess with a sword orOriginium Arts... If you ever have any problems with equipment maintenance, you can come talk to me!",
+      "links": [
+        {
+          "text": "Originium Arts",
+          "href": "/wiki/Originium_Arts"
+        }
+      ],
+      "audio": {
+        "JP": "Blemishine-001.ogg",
+        "CN": "Blemishine-001-CN.ogg",
+        "EN": "Blemishine-001-EN.ogg",
+        "KR": "Blemishine-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Zofiais my distant aunt, as well as my swordsmanship instructor. It's thanks to her that I can survive in the knight sports scene, but my aunt sometimes– Gaah! I mean, my sister! Um,Doctor! Please don't tell her I let that slip, she's actually super sensitive about it!",
+      "links": [
+        {
+          "text": "Zofia",
+          "href": "/wiki/Whislash"
+        },
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Blemishine-002.ogg",
+        "CN": "Blemishine-002-CN.ogg",
+        "EN": "Blemishine-002-EN.ogg",
+        "KR": "Blemishine-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Doctor, to be honest, I'm a much better craftsman than I am a knight! Whether it's repairing an alarm clock or forging armor, I can help! That's why, Doctor! Can you please take me to seeVulcan'sandClosure'sworkshops? Pretty pleeease!",
+      "links": [
+        {
+          "text": "Vulcan's",
+          "href": "/wiki/Vulcan"
+        },
+        {
+          "text": "Closure's",
+          "href": "/wiki/Closure"
+        }
+      ],
+      "audio": {
+        "JP": "Blemishine-003.ogg",
+        "CN": "Blemishine-003-CN.ogg",
+        "EN": "Blemishine-003-EN.ogg",
+        "KR": "Blemishine-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "ThosetwoSarkazladies seem hard to talk to, but ifmy sistertrusts them so much, they must be pretty awesome. The Radiant Knight fighting alongside the Sarkaz for the sake of theInfected... Woahh, doesn't that sound like a breaking news headline?",
+      "links": [
+        {
+          "text": "Those",
+          "href": "/wiki/Nightingale"
+        },
+        {
+          "text": "two",
+          "href": "/wiki/Shining"
+        },
+        {
+          "text": "Sarkaz",
+          "href": "/wiki/Sarkaz"
+        },
+        {
+          "text": "my sister",
+          "href": "/wiki/Nearl"
+        },
+        {
+          "text": "Infected",
+          "href": "/wiki/Infected"
+        }
+      ],
+      "audio": {
+        "JP": "Blemishine-004.ogg",
+        "CN": "Blemishine-004-CN.ogg",
+        "EN": "Blemishine-004-EN.ogg",
+        "KR": "Blemishine-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "I actually never got an official title like my sister's \"Radiant Knight.\" \"Blemishine\" is the codename I chose for myself... But if I was to continue down the path of knighthood, maybe Blemishine wouldn't be a bad name.",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-005.ogg",
+        "CN": "Blemishine-005-CN.ogg",
+        "EN": "Blemishine-005-EN.ogg",
+        "KR": "Blemishine-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Kazimierz'sknight sports arenothing more than a huge commercial game, and we all eat out of its palm... I didn't realize it until after I came toRhodes Island, but Kazimierz's sickness might run deeper than the fact that we've strayed from our knightly traditions... much, much deeper.",
+      "links": [
+        {
+          "text": "Kazimierz's",
+          "href": "/wiki/Kazimierz"
+        },
+        {
+          "text": "nothing more than a huge commercial game",
+          "href": "/wiki/Kazimierz_Major"
+        },
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Blemishine-006.ogg",
+        "CN": "Blemishine-006-CN.ogg",
+        "EN": "Blemishine-006-EN.ogg",
+        "KR": "Blemishine-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Rhodes Island's operators are way more like the ancient knights in the novels than the competition knights. In fact, I've been pretty obsessed with these knight novels for a long time. Knights, enemies, adventures, and treasures. But anyone can get that stuff from knight sports, so they're not as big as they used to be.",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-007.ogg",
+        "CN": "Blemishine-007-CN.ogg",
+        "EN": "Blemishine-007-EN.ogg",
+        "KR": "Blemishine-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "When I first saw my sister after all this time, it was like she was a totally different person. Instead of that dazzling, blinding light she used to give off, she was more like the gentle sun, warm and stalwart. Did she change for Rhodes Island? Then I want to see for myself what my sister found here!",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-008.ogg",
+        "CN": "Blemishine-008-CN.ogg",
+        "EN": "Blemishine-008-EN.ogg",
+        "KR": "Blemishine-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "I couldn't become a real knight, but maybe that's why I was able to see the wider world. I might be seeing things a bit more clearly now. \"To be a knight is to be the noble light that illuminates the land.\" Doctor, you will bear witness to my resolve.",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-009.ogg",
+        "CN": "Blemishine-009-CN.ogg",
+        "EN": "Blemishine-009-EN.ogg",
+        "KR": "Blemishine-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Doctor? Huh, you fell asleep? I wonder if you also have dreams~",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-010.ogg",
+        "CN": "Blemishine-010-CN.ogg",
+        "EN": "Blemishine-010-EN.ogg",
+        "KR": "Blemishine-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Kazimierz knight, codename \"Blemishine.\" Hehe, I've heard all about you from my sister, Doctor. You can just call me Maria if you want~",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-011.ogg",
+        "CN": "Blemishine-011-CN.ogg",
+        "EN": "Blemishine-011-EN.ogg",
+        "KR": "Blemishine-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Wait, hold on... Ehhh? You can do it like that?",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-012.ogg",
+        "CN": "Blemishine-012-CN.ogg",
+        "EN": "Blemishine-012-EN.ogg",
+        "KR": "Blemishine-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "A promotion...? For the glory of the Nearl family, I'll continue to give it my all!",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-013.ogg",
+        "CN": "Blemishine-013-CN.ogg",
+        "EN": "Blemishine-013-EN.ogg",
+        "KR": "Blemishine-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "I just realized this, but it's all older folks around me, and don't really have any friends around to ask... So, Doctor? What do you think about this equipment I made for myself? Pretty cool, yeah? Does it look good on me?",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-014.ogg",
+        "CN": "Blemishine-014-CN.ogg",
+        "EN": "Blemishine-014-EN.ogg",
+        "KR": "Blemishine-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Blemishine will not disappoint!",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-015.ogg",
+        "CN": "Blemishine-015-CN.ogg",
+        "EN": "Blemishine-015-EN.ogg",
+        "KR": "Blemishine-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "S-squad leader? Me? But I don't have any experience with team battles...",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-016.ogg",
+        "CN": "Blemishine-016-CN.ogg",
+        "EN": "Blemishine-016-EN.ogg",
+        "KR": "Blemishine-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Leave the front to me!",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-017.ogg",
+        "CN": "Blemishine-017-CN.ogg",
+        "EN": "Blemishine-017-EN.ogg",
+        "KR": "Blemishine-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Our family motto is, \"fear neither hardship nor darkness!\"",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-018.ogg",
+        "CN": "Blemishine-018-CN.ogg",
+        "EN": "Blemishine-018-EN.ogg",
+        "KR": "Blemishine-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "All ready.",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-019.ogg",
+        "CN": "Blemishine-019-CN.ogg",
+        "EN": "Blemishine-019-EN.ogg",
+        "KR": "Blemishine-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Pray for the coming battle.",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-020.ogg",
+        "CN": "Blemishine-020-CN.ogg",
+        "EN": "Blemishine-020-EN.ogg",
+        "KR": "Blemishine-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "I'll never back down!",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-021.ogg",
+        "CN": "Blemishine-021-CN.ogg",
+        "EN": "Blemishine-021-EN.ogg",
+        "KR": "Blemishine-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "The light holds resolute here!",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-022.ogg",
+        "CN": "Blemishine-022-CN.ogg",
+        "EN": "Blemishine-022-EN.ogg",
+        "KR": "Blemishine-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Light, heed me!",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-023.ogg",
+        "CN": "Blemishine-023-CN.ogg",
+        "EN": "Blemishine-023-EN.ogg",
+        "KR": "Blemishine-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "I am here!",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-024.ogg",
+        "CN": "Blemishine-024-CN.ogg",
+        "EN": "Blemishine-024-EN.ogg",
+        "KR": "Blemishine-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Don't you worry!",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-025.ogg",
+        "CN": "Blemishine-025-CN.ogg",
+        "EN": "Blemishine-025-EN.ogg",
+        "KR": "Blemishine-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Repent!",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-026.ogg",
+        "CN": "Blemishine-026-CN.ogg",
+        "EN": "Blemishine-026-EN.ogg",
+        "KR": "Blemishine-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Small as it may be... our light persisted until the end!",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-027.ogg",
+        "CN": "Blemishine-027-CN.ogg",
+        "EN": "Blemishine-027-EN.ogg",
+        "KR": "Blemishine-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Each victory will become a light that illuminates the path forward. Good job, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-028.ogg",
+        "CN": "Blemishine-028-CN.ogg",
+        "EN": "Blemishine-028-EN.ogg",
+        "KR": "Blemishine-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "This... this isn't over yet!",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-029.ogg",
+        "CN": "Blemishine-029-CN.ogg",
+        "EN": "Blemishine-029-EN.ogg",
+        "KR": "Blemishine-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "I'll protect the wounded. Take the others and retreat, quickly!",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-030.ogg",
+        "CN": "Blemishine-030-CN.ogg",
+        "EN": "Blemishine-030-EN.ogg",
+        "KR": "Blemishine-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "So this is the inside of Rhodes Island... I'd sure love to see the schematics.",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-031.ogg",
+        "CN": "Blemishine-031-CN.ogg",
+        "EN": "Blemishine-031-EN.ogg",
+        "KR": "Blemishine-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "D-don't scare me like that...",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-032.ogg",
+        "CN": "Blemishine-032-CN.ogg",
+        "EN": "Blemishine-032-EN.ogg",
+        "KR": "Blemishine-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor! Shh! I snuck over here to hide from auntie Zofia. Hehe, let me take the day off!",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-033.ogg",
+        "CN": "Blemishine-033-CN.ogg",
+        "EN": "Blemishine-033-EN.ogg",
+        "KR": "Blemishine-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Oh, hey there, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Blemishine-034.ogg",
+        "CN": "Blemishine-034-CN.ogg",
+        "EN": "Blemishine-034-EN.ogg",
+        "KR": "Blemishine-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Blemishine-035.ogg",
+        "CN": "Blemishine-035-CN.ogg",
+        "EN": "Blemishine-035-EN.ogg",
+        "KR": "Blemishine-035-KR.ogg"
+      }
+    }
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "operator": "Skadi the Corrupting Heart",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "As I am now, will my presence inconvenience you? Will I remind you of the unbearable past? I... want you to allow me to remain at your side. When the time comes, we will leave this place together, okay?",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-001.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-001-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-001-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "You used to think that we could not survive if we completely left the sea? That's not the case.My kinand I will soon be able to swim through the air. In the end, even those places devoid of anything can become our ocean. We simply need to evolve, to continuously adapt.",
+      "links": [
+        {
+          "text": "My kin",
+          "href": "/wiki/Skadi%27s_Seaborn"
+        }
+      ],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-002.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-002-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-002-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "My former colleagueswished to slay me. They refused to face themselves, but I will not resent them. I could not hurt them, even if they rejected me so vehemently... attacked me. Everything I did was bringing them harm, no? My regrets died along with them.",
+      "links": [
+        {
+          "text": "My former colleagues",
+          "href": "/wiki/Abyssal_Hunters"
+        }
+      ],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-003.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-003-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-003-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "This box? This box contains my past... The fragments in it are all my past. Even these fragments can prove that I am not an empty shell... that I am not a ghost. Gradually, bit by bit, I have turned into what I am now.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-004.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-004-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-004-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Did the past you ever foresee a future like this,Dr. {nickname}? Even if the current you can only hate me. I do not fear your hatred, Doctor. If you desire, continue to hate me... while you are still able to hate.",
+      "links": [
+        {
+          "text": "Dr. {nickname}",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-005.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-005-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-005-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Your companions,Kal'tsitandAmiya, said that I could trust you in the end, but nobody can save others. I failed to save my colleagues, andyou failed to save them. We have both lost everything, but I regained my life and my future. This is unfair to you.",
+      "links": [
+        {
+          "text": "Kal'tsit",
+          "href": "/wiki/Kal%27tsit"
+        },
+        {
+          "text": "Amiya",
+          "href": "/wiki/Amiya"
+        },
+        {
+          "text": "you failed to save them",
+          "href": "/wiki/Mizuki_%26_Caerula_Arbor/Caerula_Recorder/Time-Carved_Steleforest#Age_of_the_Silence"
+        }
+      ],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-006.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-006-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-006-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "In the past, before I leftÆgir, my family was murdered. I always assumed it was the handiwork ofthe sea monsters, but... I never expected that it was all the doing of the Ægir. My blood kin and my songs are not scary at all. It is people who are scary.",
+      "links": [
+        {
+          "text": "Ægir",
+          "href": "/wiki/Aegir_(country)"
+        },
+        {
+          "text": "the sea monsters",
+          "href": "/wiki/Seaborn"
+        }
+      ],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-007.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-007-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-007-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "I once struggled, I once resisted. What good did it serve? The traces of weak lifeforms will eventually be drowned by the tide. You are my very last friend. Will you also be like them, meaninglessly rejecting the ocean even if it costs you everything? Do you wish to become the old me?",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-008.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-008-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-008-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Am I sick? Or am I still dreaming? I dreamt that the black sky was our ocean. When the others and I swam up, we did not feel ourselves sinking at all. Strange, so strange. Is this our future? Their faces are so blurry, they... They... No, no.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-009.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-009-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-009-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Dream... What kind of dream will you have? Where are you now? There... Is this also a dream?",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-010.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-010-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-010-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I am waiting for you, Dr. {nickname}. I've waited for you for too long, far too long, to the point that I have already forgotten why I am waiting for you here... But none of this is important anymore. It's not that important anymore.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-011.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-011-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-011-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "These things... I have seen them too many times. Nobody needs things like these anymore.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-012.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-012-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-012-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Are the restrictions of the past still necessary? Nothing is left except for you and me. If you are willing to come closer to me, we can cast those things aside... Become my blood kin, Dr. {nickname}.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-013.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-013-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-013-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "My sword has eroded, my former colleagues are no longer here, the liquid flowing through my body is no longer blood, but I am satisfied. I have become one with the ocean. Come with me – your true form is still waiting for you beneath the wave's depths.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-014.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-014-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-014-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Fight alongside the others? Who will we fight?",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-015.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-015-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-015-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "No more lives should be lost.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-016.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-016-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-016-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "What will it feel like... when they harm me with their weapons?",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-017.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-017-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-017-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Don't treat me as a calamity. I do not wish death upon anyone.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-018.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-018-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-018-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "What do you wish to do? I shall obey.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-019.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-019-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-019-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "No longer do I walk alone. My blood kin are walking with me.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-020.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-020-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-020-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Now then, please listen to the song of the distant sea...",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-021.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-021-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-021-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Don't worry. Everything will be fine.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-022.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-022-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-022-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "The air and the land... are all too dry.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-023.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-023-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-023-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "My song shall seep into your souls.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-024.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-024-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-024-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Follow me, follow me back to our eternal hometown.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-025.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-025-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-025-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Do not fear, my comrades... I will be there soon.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-026.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-026-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-026-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "They will become our blood kin. They no longer need to feel the suffering of aridity. Their prior existence was already too painful.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-027.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-027-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-027-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Is this how you will treat me? Is this the ending you also wish for me to have? If that is your desire, I can accept it.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-028.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-028-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-028-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Why must you flee? This futile struggle will only bring about more senseless terror.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-029.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-029-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-029-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Run away, Doctor... Run away, from here, from me... Run away.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-030.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-030-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-030-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Sooner or later, this place too will return to its primordial form.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-031.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-031-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-031-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "...Why am I still wearing this hat?",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-032.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-032-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-032-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "We cannot protect anything. We can only hope for a harmonious future.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-033.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-033-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-033-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor... Come to me.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-034.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-034-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-034-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Skadi_the_Corrupting_Heart-035.ogg",
+        "CN": "Skadi_the_Corrupting_Heart-035-CN.ogg",
+        "EN": "Skadi_the_Corrupting_Heart-035-EN.ogg",
+        "KR": "Skadi_the_Corrupting_Heart-035-KR.ogg"
+      }
+    }
+  }
+}

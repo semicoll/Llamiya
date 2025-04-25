@@ -1,0 +1,451 @@
+{
+  "operator": "Chongyue",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "You would like to be my \"kung fu recorder?\" The wayRhodes Islandtreats its guests truly moves me. It is no wonder my sisters love this place so much... I misunderstand?  No problem, I have no qualms with being your subordinate either.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Chongyue-001.ogg",
+        "CN": "Chongyue-001-CN.ogg",
+        "EN": "Chongyue-001-EN.ogg",
+        "KR": "Chongyue-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "\"Doctor.\" Your title reminds me of theYanesescholars. Experienced and knowledgeable, they see the forest for the trees. You feel like we've met before? It's true that after awakening from my dream of chaos, I have traveled to many places... Sadly, the more friends I make, the lonelier I feel. Perhaps we are alike in that respect.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        },
+        {
+          "text": "Yanese",
+          "href": "/wiki/Yan"
+        }
+      ],
+      "audio": {
+        "JP": "Chongyue-002.ogg",
+        "CN": "Chongyue-002-CN.ogg",
+        "EN": "Chongyue-002-EN.ogg",
+        "KR": "Chongyue-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "As you can see, I note down only my experiences and insights, rather than any specific kung fu moves. What really matters to the martial arts is \"Yi\" – your intent. If you let yourself be constrained by those gaudy forms, you will find it hard to break out of them. Take Dusk's paintings, for example. If I couldn't grasp the intent behind them, and sought to discuss techniques and styles with her, she would only shut the door on my face.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-003.ogg",
+        "CN": "Chongyue-003-CN.ogg",
+        "EN": "Chongyue-003-EN.ogg",
+        "KR": "Chongyue-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "I agreed to be a \"fight choreographer\" forNian's movie. It keeps her from making too much of a racket, or getting too lonely.Duskis timid, andLingis too fond of drink. I will look after them as well... We are far from a normal family. Nevertheless, we are siblings, and not the collective \"we\" as we are often called.",
+      "links": [
+        {
+          "text": "Nian",
+          "href": "/wiki/Nian"
+        },
+        {
+          "text": "Dusk",
+          "href": "/wiki/Dusk"
+        },
+        {
+          "text": "Ling",
+          "href": "/wiki/Ling"
+        }
+      ],
+      "audio": {
+        "JP": "Chongyue-004.ogg",
+        "CN": "Chongyue-004-CN.ogg",
+        "EN": "Chongyue-004-EN.ogg",
+        "KR": "Chongyue-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Death is a daily occurrence to warriors on campaign. But the real challenge they face, is preserving their humanity and morality after facing such morbidity, rather growing jaded and desensitized. Indeed, conflicts and mortality have been the way of these lands for eons. But onlythose giant, terrible creaturesare cold-hearted enough to think so.",
+      "links": [
+        {
+          "text": "those giant, terrible creatures",
+          "href": "/wiki/Feranmut"
+        }
+      ],
+      "audio": {
+        "JP": "Chongyue-005.ogg",
+        "CN": "Chongyue-005-CN.ogg",
+        "EN": "Chongyue-005-EN.ogg",
+        "KR": "Chongyue-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "The world is a vast place, and wonderful sceneries abound, yet man has limited strength and time. It is impossible to see all these sights, much less defend them. To those who practice the martial arts, all we can do is train day and night, from the depths of winter to the height of summer. It may sound like a clumsy and brutish method, but the result is giving every last drop you have, leaving no regrets.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-006.ogg",
+        "CN": "Chongyue-006-CN.ogg",
+        "EN": "Chongyue-006-EN.ogg",
+        "KR": "Chongyue-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "That sword is an unwanted possession that must not be cast away.Huai Tianpeikeeping it is an outcome that all concerned parties can accept. My duel with him, you ask? He trained for forty years, and landed a single heavy blow on me. But how many comings and goings of spring and autumn have I trained? All things considered, I was the one who lost.",
+      "links": [
+        {
+          "text": "Huai Tianpei",
+          "href": "/wiki/Huai_Tianpei"
+        }
+      ],
+      "audio": {
+        "JP": "Chongyue-007.ogg",
+        "CN": "Chongyue-007-CN.ogg",
+        "EN": "Chongyue-007-EN.ogg",
+        "KR": "Chongyue-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "\"Who am I\"... For this question, You need only gaze upon the water. Be it human, beast, mountains, foggy woods, or the reflection of the twin moons on the night sky, whatever it is you see, that is your answer. As for the distant, radically different future, whether we siblings will return to chaos and seek new answers, is an entirely different question.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-008.ogg",
+        "CN": "Chongyue-008-CN.ogg",
+        "EN": "Chongyue-008-EN.ogg",
+        "KR": "Chongyue-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "The scholars at court seek perfect answers in everything. The kung fu practitioners who wander injianghuseek revenge, status, glory, or a simple resolution. Their obsessions run deep, yet their time runs short. Often, they spend their whole lifetimes chasing a single ideal or undertaking... All those people, how woeful and pitiful, how respectable and regrettable.",
+      "links": [
+        {
+          "text": "jianghu",
+          "href": "https://en.wikipedia.org/wiki/Jianghu"
+        }
+      ],
+      "audio": {
+        "JP": "Chongyue-009.ogg",
+        "CN": "Chongyue-009-CN.ogg",
+        "EN": "Chongyue-009-EN.ogg",
+        "KR": "Chongyue-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "The spring comes and goes, leaving a lonely autumn.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-010.ogg",
+        "CN": "Chongyue-010-CN.ogg",
+        "EN": "Chongyue-010-EN.ogg",
+        "KR": "Chongyue-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Doctor, thank you kindly for taking care of my sisters. I hope you will excuse me for intruding upon Rhodes Island for a little while. Please call me \"Chongyue.\" It's a name given to me by... an old friend of mine.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-011.ogg",
+        "CN": "Chongyue-011-CN.ogg",
+        "EN": "Chongyue-011-EN.ogg",
+        "KR": "Chongyue-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "The colors that once embellished the autumn grass, hues long buried by war.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-012.ogg",
+        "CN": "Chongyue-012-CN.ogg",
+        "EN": "Chongyue-012-EN.ogg",
+        "KR": "Chongyue-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Often I think about those soldiers who traveled from all corners of GreatYantoYumen. They risked their lives in battle until death took them, or their age crept upon themselves... yet never for their own ends.",
+      "links": [
+        {
+          "text": "Yan",
+          "href": "/wiki/Yan"
+        },
+        {
+          "text": "Yumen",
+          "href": "/wiki/Yumen"
+        }
+      ],
+      "audio": {
+        "JP": "Chongyue-013.ogg",
+        "CN": "Chongyue-013-CN.ogg",
+        "EN": "Chongyue-013-EN.ogg",
+        "KR": "Chongyue-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Battles we have fought, death we have braved. Doctor, no need to say more.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-014.ogg",
+        "CN": "Chongyue-014-CN.ogg",
+        "EN": "Chongyue-014-EN.ogg",
+        "KR": "Chongyue-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Lit, quenched, then lit again... The signal fires never ever rest.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-015.ogg",
+        "CN": "Chongyue-015-CN.ogg",
+        "EN": "Chongyue-015-EN.ogg",
+        "KR": "Chongyue-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "In that case, Doctor, will you beat the drums for me as we sortie?",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-016.ogg",
+        "CN": "Chongyue-016-CN.ogg",
+        "EN": "Chongyue-016-EN.ogg",
+        "KR": "Chongyue-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "The sunset weaves a silken river. Heaven and earth bolster me upon departure.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-017.ogg",
+        "CN": "Chongyue-017-CN.ogg",
+        "EN": "Chongyue-017-EN.ogg",
+        "KR": "Chongyue-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Warriors from afar rest scarce, the armor they wear spurs them to march.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-018.ogg",
+        "CN": "Chongyue-018-CN.ogg",
+        "EN": "Chongyue-018-EN.ogg",
+        "KR": "Chongyue-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "One should spar from time to time.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-019.ogg",
+        "CN": "Chongyue-019-CN.ogg",
+        "EN": "Chongyue-019-EN.ogg",
+        "KR": "Chongyue-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "At your command.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-020.ogg",
+        "CN": "Chongyue-020-CN.ogg",
+        "EN": "Chongyue-020-EN.ogg",
+        "KR": "Chongyue-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Look at this spectacular sight. Alas, it is now a battlefield.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-021.ogg",
+        "CN": "Chongyue-021-CN.ogg",
+        "EN": "Chongyue-021-EN.ogg",
+        "KR": "Chongyue-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Many intellectuals must join a battle before penning a decent verse, including that sister of mine... This too is an opportunity.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-022.ogg",
+        "CN": "Chongyue-022-CN.ogg",
+        "EN": "Chongyue-022-EN.ogg",
+        "KR": "Chongyue-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Unsteady posture, wavering intent. Much to learn yet.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-023.ogg",
+        "CN": "Chongyue-023-CN.ogg",
+        "EN": "Chongyue-023-EN.ogg",
+        "KR": "Chongyue-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "A thousand moves in one breath!",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-024.ogg",
+        "CN": "Chongyue-024-CN.ogg",
+        "EN": "Chongyue-024-EN.ogg",
+        "KR": "Chongyue-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Strike, and sunder the tides cleft. Retract, and leave no peace bereft.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-025.ogg",
+        "CN": "Chongyue-025-CN.ogg",
+        "EN": "Chongyue-025-EN.ogg",
+        "KR": "Chongyue-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "After all this time, you still turn to war for solutions!",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-026.ogg",
+        "CN": "Chongyue-026-CN.ogg",
+        "EN": "Chongyue-026-EN.ogg",
+        "KR": "Chongyue-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "You calmly place your pieces to plot your victory... Doctor, aweiqiplayer like you is a truly rare sight.",
+      "links": [
+        {
+          "text": "weiqi",
+          "href": "https://en.wikipedia.org/wiki/Weiqi"
+        }
+      ],
+      "audio": {
+        "JP": "Chongyue-027.ogg",
+        "CN": "Chongyue-027-CN.ogg",
+        "EN": "Chongyue-027-EN.ogg",
+        "KR": "Chongyue-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "A thousand armies move at the beating of your war drums, with a handful of sand to clean the blood from one's armor... What a tremendous victory!",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-028.ogg",
+        "CN": "Chongyue-028-CN.ogg",
+        "EN": "Chongyue-028-EN.ogg",
+        "KR": "Chongyue-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "There is never a true victory in brandishing a sword and formulating a strategy, while looking for gains and losses is an even greater folly. So long as you leave no regrets, then all is well.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-029.ogg",
+        "CN": "Chongyue-029-CN.ogg",
+        "EN": "Chongyue-029-EN.ogg",
+        "KR": "Chongyue-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "All warriors must face defeat. Don't lose heart.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-030.ogg",
+        "CN": "Chongyue-030-CN.ogg",
+        "EN": "Chongyue-030-EN.ogg",
+        "KR": "Chongyue-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "This is much more comfortable than a military tent. Can I even manage a good night's sleep without the sound of drilling soldiers...?",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-031.ogg",
+        "CN": "Chongyue-031-CN.ogg",
+        "EN": "Chongyue-031-EN.ogg",
+        "KR": "Chongyue-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Doctor, have you figured out how to counter that move from yesterday?",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-032.ogg",
+        "CN": "Chongyue-032-CN.ogg",
+        "EN": "Chongyue-032-EN.ogg",
+        "KR": "Chongyue-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "The times are changing, and man along with them. So too does the scenery change.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-033.ogg",
+        "CN": "Chongyue-033-CN.ogg",
+        "EN": "Chongyue-033-EN.ogg",
+        "KR": "Chongyue-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor, I did not see you at this morning's training session.",
+      "links": [],
+      "audio": {
+        "JP": "Chongyue-034.ogg",
+        "CN": "Chongyue-034-CN.ogg",
+        "EN": "Chongyue-034-EN.ogg",
+        "KR": "Chongyue-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Chongyue-035.ogg",
+        "CN": "Chongyue-035-CN.ogg",
+        "EN": "Chongyue-035-EN.ogg",
+        "KR": "Chongyue-035-KR.ogg"
+      }
+    }
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "operator": "Gnosis",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I can spend some time discussing matters with you before my next experiment.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-001.ogg",
+        "CN": "Gnosis-001-CN.ogg",
+        "EN": "Gnosis-001-EN.ogg",
+        "KR": "Gnosis-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "You are spending far too much time outside the laboratory,Doctor. As a researcher, you must know this only hinders you from making great strides.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Gnosis-002.ogg",
+        "CN": "Gnosis-002-CN.ogg",
+        "EN": "Gnosis-002-EN.ogg",
+        "KR": "Gnosis-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "SilverAsh'ssisters? Yes, I've met them several times... Hm...? What more do you want me to say? I know nothing about those frolicsome, ever-changing creatures, and I certainly am not interested in them.",
+      "links": [
+        {
+          "text": "SilverAsh",
+          "href": "/wiki/SilverAsh"
+        },
+        {
+          "text": "sis",
+          "href": "/wiki/Cliffheart"
+        },
+        {
+          "text": "ters",
+          "href": "/wiki/Pramanix"
+        }
+      ],
+      "audio": {
+        "JP": "Gnosis-003.ogg",
+        "CN": "Gnosis-003-CN.ogg",
+        "EN": "Gnosis-003-EN.ogg",
+        "KR": "Gnosis-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "It is incredibly ignorant to simply write off the symptoms that arise uponOripathyinfection as a mere disease, and then to go on to think only about how to \"control\" and \"heal\" this disease. Don't tell me this is how you think as well.",
+      "links": [
+        {
+          "text": "Oripathy",
+          "href": "/wiki/Oripathy"
+        }
+      ],
+      "audio": {
+        "JP": "Gnosis-004.ogg",
+        "CN": "Gnosis-004-CN.ogg",
+        "EN": "Gnosis-004-EN.ogg",
+        "KR": "Gnosis-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Shining. I knew I would find her here... Hm? No, she is an excellent scholar, and we collaborated for a period of time until she disappeared one day. That's all.",
+      "links": [
+        {
+          "text": "Shining",
+          "href": "/wiki/Shining"
+        }
+      ],
+      "audio": {
+        "JP": "Gnosis-005.ogg",
+        "CN": "Gnosis-005-CN.ogg",
+        "EN": "Gnosis-005-EN.ogg",
+        "KR": "Gnosis-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "I am not working for SilverAsh; our objectives merely overlap. Of course, I won't deny what he is trying to achieve holds great significance for the future ofthe Snow Realm.",
+      "links": [
+        {
+          "text": "the Snow Realm",
+          "href": "/wiki/Kjerag"
+        }
+      ],
+      "audio": {
+        "JP": "Gnosis-006.ogg",
+        "CN": "Gnosis-006-CN.ogg",
+        "EN": "Gnosis-006-EN.ogg",
+        "KR": "Gnosis-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "The best way you can earn my trust is by showing me your true academic strengths, and it seems you've already realized as much, Doctor. I am not like SilverAsh. I am not interested in deeper emotional exchanges.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-007.ogg",
+        "CN": "Gnosis-007-CN.ogg",
+        "EN": "Gnosis-007-EN.ogg",
+        "KR": "Gnosis-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "If you understand SilverAsh well enough, you know he is not a callous man. From my point of view, he might even be a little indecisive... That, is your weakness too, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-008.ogg",
+        "CN": "Gnosis-008-CN.ogg",
+        "EN": "Gnosis-008-EN.ogg",
+        "KR": "Gnosis-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Much like SilverAsh's, your endeavors require the help of countless supporters. However, the more supporters you have, the more you have to worry about. Since you cannot disregard them, you should avoid getting entangled. That is my one and only piece of advice for you, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-009.ogg",
+        "CN": "Gnosis-009-CN.ogg",
+        "EN": "Gnosis-009-EN.ogg",
+        "KR": "Gnosis-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "It seems you are rather lax in maintaining your own health, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-010.ogg",
+        "CN": "Gnosis-010-CN.ogg",
+        "EN": "Gnosis-010-EN.ogg",
+        "KR": "Gnosis-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Pleasure to make finally make your acquaintance, Doctor ofRhodes Island. I've been eager to meet you ever sinceKarlanbegan its relationship with your company. You may call me Gnosis.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        },
+        {
+          "text": "Karlan",
+          "href": "/wiki/Karlan_Trade"
+        }
+      ],
+      "audio": {
+        "JP": "Gnosis-011.ogg",
+        "CN": "Gnosis-011-CN.ogg",
+        "EN": "Gnosis-011-EN.ogg",
+        "KR": "Gnosis-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "War is merely a means to an end. That said, if you claim there are more efficient ways, I'm happy to learn.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-012.ogg",
+        "CN": "Gnosis-012-CN.ogg",
+        "EN": "Gnosis-012-EN.ogg",
+        "KR": "Gnosis-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "I am far more interested in gaining access to Rhodes Island's databases than I am in a salary increase.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-013.ogg",
+        "CN": "Gnosis-013-CN.ogg",
+        "EN": "Gnosis-013-EN.ogg",
+        "KR": "Gnosis-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "If Rhodes Island is willing the cross the line, I am sure you will see results that far surpass what you are currently achieving... That said, with SilverAsh as an example, I do understand the reasons behind your convictions. Hmph, allow me to offer a helping hand, then.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-014.ogg",
+        "CN": "Gnosis-014-CN.ogg",
+        "EN": "Gnosis-014-EN.ogg",
+        "KR": "Gnosis-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "You're in luck. I just completed my experiment.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-015.ogg",
+        "CN": "Gnosis-015-CN.ogg",
+        "EN": "Gnosis-015-EN.ogg",
+        "KR": "Gnosis-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Fulfill your roles, and leave the rest to me.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-016.ogg",
+        "CN": "Gnosis-016-CN.ogg",
+        "EN": "Gnosis-016-EN.ogg",
+        "KR": "Gnosis-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "I can only hope this mission won't prove to be a waste of time.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-017.ogg",
+        "CN": "Gnosis-017-CN.ogg",
+        "EN": "Gnosis-017-EN.ogg",
+        "KR": "Gnosis-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Follow the plan.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-018.ogg",
+        "CN": "Gnosis-018-CN.ogg",
+        "EN": "Gnosis-018-EN.ogg",
+        "KR": "Gnosis-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Right.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-019.ogg",
+        "CN": "Gnosis-019-CN.ogg",
+        "EN": "Gnosis-019-EN.ogg",
+        "KR": "Gnosis-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "You disrupted my train of thought, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-020.ogg",
+        "CN": "Gnosis-020-CN.ogg",
+        "EN": "Gnosis-020-EN.ogg",
+        "KR": "Gnosis-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "A fine choice.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-021.ogg",
+        "CN": "Gnosis-021-CN.ogg",
+        "EN": "Gnosis-021-EN.ogg",
+        "KR": "Gnosis-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Let's put an end to this as soon as possible.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-022.ogg",
+        "CN": "Gnosis-022-CN.ogg",
+        "EN": "Gnosis-022-EN.ogg",
+        "KR": "Gnosis-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "As expected.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-023.ogg",
+        "CN": "Gnosis-023-CN.ogg",
+        "EN": "Gnosis-023-EN.ogg",
+        "KR": "Gnosis-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "I have an idea.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-024.ogg",
+        "CN": "Gnosis-024-CN.ogg",
+        "EN": "Gnosis-024-EN.ogg",
+        "KR": "Gnosis-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "What a ruckus.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-025.ogg",
+        "CN": "Gnosis-025-CN.ogg",
+        "EN": "Gnosis-025-EN.ogg",
+        "KR": "Gnosis-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Do not disrupt my thought process.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-026.ogg",
+        "CN": "Gnosis-026-CN.ogg",
+        "EN": "Gnosis-026-EN.ogg",
+        "KR": "Gnosis-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "I look forward to seeing such spectacular results from you in your research, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-027.ogg",
+        "CN": "Gnosis-027-CN.ogg",
+        "EN": "Gnosis-027-EN.ogg",
+        "KR": "Gnosis-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Having prepared appropriately, these results are unsurprising.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-028.ogg",
+        "CN": "Gnosis-028-CN.ogg",
+        "EN": "Gnosis-028-EN.ogg",
+        "KR": "Gnosis-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Sometimes, there is much to gain from the unexpected.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-029.ogg",
+        "CN": "Gnosis-029-CN.ogg",
+        "EN": "Gnosis-029-EN.ogg",
+        "KR": "Gnosis-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Were there too many variables outside our control...?",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-030.ogg",
+        "CN": "Gnosis-030-CN.ogg",
+        "EN": "Gnosis-030-EN.ogg",
+        "KR": "Gnosis-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Time to head to the lab.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-031.ogg",
+        "CN": "Gnosis-031-CN.ogg",
+        "EN": "Gnosis-031-EN.ogg",
+        "KR": "Gnosis-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Hey.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-032.ogg",
+        "CN": "Gnosis-032-CN.ogg",
+        "EN": "Gnosis-032-EN.ogg",
+        "KR": "Gnosis-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "I have an idea. Care to hear it?",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-033.ogg",
+        "CN": "Gnosis-033-CN.ogg",
+        "EN": "Gnosis-033-EN.ogg",
+        "KR": "Gnosis-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "You should spend your time more efficiently, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Gnosis-034.ogg",
+        "CN": "Gnosis-034-CN.ogg",
+        "EN": "Gnosis-034-EN.ogg",
+        "KR": "Gnosis-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Gnosis-035.ogg",
+        "CN": "Gnosis-035-CN.ogg",
+        "EN": "Gnosis-035-EN.ogg",
+        "KR": "Gnosis-035-KR.ogg"
+      }
+    }
+  }
+}

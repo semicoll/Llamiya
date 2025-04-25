@@ -1,0 +1,446 @@
+{
+  "operator": "Stainless",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Doctor, do you mind me tinkering with a few things here, or would that be too much noise? Just give me a tap on the back when you want to chat, of course.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Stainless-001.ogg",
+        "CN": "Stainless-001-CN.ogg",
+        "EN": "Stainless-001-EN.ogg",
+        "KR": "Stainless-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Doctor, I hear you've got a lot of books here. Could you lend me a few to read? They don't have to be on mechanical engineering, I'm plenty curious about stuff I don't know. Like this one, for instance, it's a beauty of a doorstopper... what was that? Don't touch? I-It's got a curse? Hold on, who put that on it?",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-002.ogg",
+        "CN": "Stainless-002-CN.ogg",
+        "EN": "Stainless-002-EN.ogg",
+        "KR": "Stainless-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "TheSarkazdeserve sympathy forwhat they've been through, butone mancan't steal another's home for the sake of his own. Peace will come toLondinium, and I hope, one day, every wanderer gets to build a homeland. It's whatRhodes Islandwants too, isn't it?",
+      "links": [
+        {
+          "text": "Sarkaz",
+          "href": "/wiki/Sarkaz"
+        },
+        {
+          "text": "what they've been through",
+          "href": "/wiki/Kazdel#Background"
+        },
+        {
+          "text": "one man",
+          "href": "/wiki/Theresis"
+        },
+        {
+          "text": "Londinium",
+          "href": "/wiki/Londinium"
+        },
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Stainless-003.ogg",
+        "CN": "Stainless-003-CN.ogg",
+        "EN": "Stainless-003-EN.ogg",
+        "KR": "Stainless-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "A lot of people'll say the lord nobles do nothing but cling onto the privilege and wealth they inherit, and never think to build on this land with their own hands. Me? I don't mind fighting side-by-side with nobles, just don't make me call them \"lord.\"",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-004.ogg",
+        "CN": "Stainless-004-CN.ogg",
+        "EN": "Stainless-004-EN.ogg",
+        "KR": "Stainless-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "I didn't used to believe things could ever really be dire. Not until an almighty enemy showed up to me, and stole my pals from me, one after the other. They all trusted me, and I failed them. Granny was right. \"Being smart isn't enough to fool death.\"",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-005.ogg",
+        "CN": "Stainless-005-CN.ogg",
+        "EN": "Stainless-005-EN.ogg",
+        "KR": "Stainless-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "I'm a big fan of red. It makes me think of fireplaces on freezing nights. And all the friends who've left us along the way... I'm telling you, their sacrifices meant something. Londinium will come back to us, back to our hands, and it'll be better than before.",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-006.ogg",
+        "CN": "Stainless-006-CN.ogg",
+        "EN": "Stainless-006-EN.ogg",
+        "KR": "Stainless-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Doctor, I find it easy to trust people, but don't take me for stupid. If you were just another lot of plotting schemers, I would've taken up arms with no hesitation. But you see, if I offer a shake when I meet someone, that's all the more likely I've got a new friend. Haha, I'm glad my bet paid off here.",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-007.ogg",
+        "CN": "Stainless-007-CN.ogg",
+        "EN": "Stainless-007-EN.ogg",
+        "KR": "Stainless-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "When we were on break, me and my work pals liked climbing up to the workshop ceiling. Thirty, forty-odd meters. We'd step out of the window and go jumping between buildings. Wind'd blow by with the smell of the factory heat and rust, stars'd squeeze down past the buildings and smile on me. I could feel my city in its warm embrace.",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-008.ogg",
+        "CN": "Stainless-008-CN.ogg",
+        "EN": "Stainless-008-EN.ogg",
+        "KR": "Stainless-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "*sigh* It's a beauty of a place at Rhodes. I almost want to apply to stay aboard. Shame I've still got all those people and all that work waiting for me in Londinium... Doctor, when it's clear skies once more at home, how about you let me be your guide again? What do you say?",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-009.ogg",
+        "CN": "Stainless-009-CN.ogg",
+        "EN": "Stainless-009-EN.ogg",
+        "KR": "Stainless-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Doctor, you must be bored out of your mind sitting at work all day. Want me to take you out for some exercise? Don't worry,no ziplines this time.",
+      "links": [
+        {
+          "text": "no ziplines this time",
+          "href": "/wiki/10-15/Story"
+        }
+      ],
+      "audio": {
+        "JP": "Stainless-010.ogg",
+        "CN": "Stainless-010-CN.ogg",
+        "EN": "Stainless-010-EN.ogg",
+        "KR": "Stainless-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Doctor, we've faced so much danger together. Do we still need this paperwork to stand for us being friends? Wait, you mean once I sign, I get to take any of Engineering's beauties apart? That's a promise, you hear? \"Stainless\"–done.",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-011.ogg",
+        "CN": "Stainless-011-CN.ogg",
+        "EN": "Stainless-011-EN.ogg",
+        "KR": "Stainless-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Cor, I suppose you really do make your logistics people fight too. Not that that's much of a problem... How about a little pay bump, eh?",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-012.ogg",
+        "CN": "Stainless-012-CN.ogg",
+        "EN": "Stainless-012-EN.ogg",
+        "KR": "Stainless-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "\"Top Engineering Operator?\" If I want to be Chief Engineer, I'm still a few steps away, aren't I? Haha, I'm just pulling your leg. I've got no plan to jockey forClosure's living.",
+      "links": [
+        {
+          "text": "Closure",
+          "href": "/wiki/Closure"
+        }
+      ],
+      "audio": {
+        "JP": "Stainless-013.ogg",
+        "CN": "Stainless-013-CN.ogg",
+        "EN": "Stainless-013-EN.ogg",
+        "KR": "Stainless-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "It's a luxury now, just having free time like this to work with my drill and spanner. Doctor, thank you. I'm all willing to take to the field for my homeland and freedom. But it's you and Rhodes Island that won back this moment of refuge for me.",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-014.ogg",
+        "CN": "Stainless-014-CN.ogg",
+        "EN": "Stainless-014-EN.ogg",
+        "KR": "Stainless-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Squad 11 ofSelf-Salvation Corp, joining up with Rhodes Island.",
+      "links": [
+        {
+          "text": "Self-Salvation Corp",
+          "href": "/wiki/Eartha"
+        }
+      ],
+      "audio": {
+        "JP": "Stainless-015.ogg",
+        "CN": "Stainless-015-CN.ogg",
+        "EN": "Stainless-015-EN.ogg",
+        "KR": "Stainless-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I'm a little nervous. Still, pressure's a good motivator, right?",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-016.ogg",
+        "CN": "Stainless-016-CN.ogg",
+        "EN": "Stainless-016-EN.ogg",
+        "KR": "Stainless-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Remember, everyone! Not one fewer when we come back!",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-017.ogg",
+        "CN": "Stainless-017-CN.ogg",
+        "EN": "Stainless-017-EN.ogg",
+        "KR": "Stainless-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Hello, everyone over there, you can breathe easy. What's the line? \"I'm just your average mechanic.\"",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-018.ogg",
+        "CN": "Stainless-018-CN.ogg",
+        "EN": "Stainless-018-EN.ogg",
+        "KR": "Stainless-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "About time for us to shine?",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-019.ogg",
+        "CN": "Stainless-019-CN.ogg",
+        "EN": "Stainless-019-EN.ogg",
+        "KR": "Stainless-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "I'll bring you back victory.",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-020.ogg",
+        "CN": "Stainless-020-CN.ogg",
+        "EN": "Stainless-020-EN.ogg",
+        "KR": "Stainless-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Picked a good place for me.",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-021.ogg",
+        "CN": "Stainless-021-CN.ogg",
+        "EN": "Stainless-021-EN.ogg",
+        "KR": "Stainless-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Down to work!",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-022.ogg",
+        "CN": "Stainless-022-CN.ogg",
+        "EN": "Stainless-022-EN.ogg",
+        "KR": "Stainless-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Swing your hammers!",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-023.ogg",
+        "CN": "Stainless-023-CN.ogg",
+        "EN": "Stainless-023-EN.ogg",
+        "KR": "Stainless-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Hold the barricades!",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-024.ogg",
+        "CN": "Stainless-024-CN.ogg",
+        "EN": "Stainless-024-EN.ogg",
+        "KR": "Stainless-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Drill through darkness!",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-025.ogg",
+        "CN": "Stainless-025-CN.ogg",
+        "EN": "Stainless-025-EN.ogg",
+        "KR": "Stainless-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Fight for Londinium! Victory to Londiniers!",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-026.ogg",
+        "CN": "Stainless-026-CN.ogg",
+        "EN": "Stainless-026-EN.ogg",
+        "KR": "Stainless-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "We'll come together, we'll fight all the way, for this city we stand on, until we fall.",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-027.ogg",
+        "CN": "Stainless-027-CN.ogg",
+        "EN": "Stainless-027-EN.ogg",
+        "KR": "Stainless-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Doctor, with you for company all the time, I start imagining I fight even better than the mercs. Don't you let me get too cocky. If Granny andRockrocksaw, they'd be knocking on my head with spanners.",
+      "links": [
+        {
+          "text": "Rockrock",
+          "href": "/wiki/Rockrock"
+        }
+      ],
+      "audio": {
+        "JP": "Stainless-028.ogg",
+        "CN": "Stainless-028-CN.ogg",
+        "EN": "Stainless-028-EN.ogg",
+        "KR": "Stainless-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Hah... haha, made it through another battle. Hard as nails, though. Don't look so glum, Doctor. I know it's back to the Commander for a tactical meeting, but how about a bite to eat before then?",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-029.ogg",
+        "CN": "Stainless-029-CN.ogg",
+        "EN": "Stainless-029-EN.ogg",
+        "KR": "Stainless-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Time to scram, Doctor. The zipline's ready. Give me your hand! It's only a win once you survive.",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-030.ogg",
+        "CN": "Stainless-030-CN.ogg",
+        "EN": "Stainless-030-EN.ogg",
+        "KR": "Stainless-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "So it wasn'tVictoriawith the best construction technology.",
+      "links": [
+        {
+          "text": "Victoria",
+          "href": "/wiki/Victoria"
+        }
+      ],
+      "audio": {
+        "JP": "Stainless-031.ogg",
+        "CN": "Stainless-031-CN.ogg",
+        "EN": "Stainless-031-EN.ogg",
+        "KR": "Stainless-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Watch it! Drill didn't hurt you, did it?",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-032.ogg",
+        "CN": "Stainless-032-CN.ogg",
+        "EN": "Stainless-032-EN.ogg",
+        "KR": "Stainless-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor, you always show up where I wasn't looking. I bet Rhodes Island has secret passages too, doesn't it?",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-033.ogg",
+        "CN": "Stainless-033-CN.ogg",
+        "EN": "Stainless-033-EN.ogg",
+        "KR": "Stainless-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor, I'm just back from patrol. Safe as houses all around! You can break for a bit longer. The tenser the state of things, the more you need a proper stretch now and then.",
+      "links": [],
+      "audio": {
+        "JP": "Stainless-034.ogg",
+        "CN": "Stainless-034-CN.ogg",
+        "EN": "Stainless-034-EN.ogg",
+        "KR": "Stainless-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Stainless-035.ogg",
+        "CN": "Stainless-035-CN.ogg",
+        "EN": "Stainless-035-EN.ogg",
+        "KR": "Stainless-035-KR.ogg"
+      }
+    }
+  }
+}

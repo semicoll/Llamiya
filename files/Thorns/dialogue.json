@@ -1,0 +1,409 @@
+{
+  "operator": "Thorns",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Before you start working, take some of this. Good. Now, for the duration of this drug, you won't be slacking off, right?",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-001.ogg",
+        "CN": "Thorns-001-CN.ogg",
+        "EN": "Thorns-001-EN.ogg",
+        "KR": "Thorns-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Separation and analysis of the extract are almost complete, next step is purification. Actual effect needs further testing... Huh? Why are you staring at my hair,Doctor? My hair... caught on fire? Don't worry about it. Wouldn't be the first time my experiment has failed, or the second.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Thorns-002.ogg",
+        "CN": "Thorns-002-CN.ogg",
+        "EN": "Thorns-002-EN.ogg",
+        "KR": "Thorns-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "The drugs I carry on me? They're not fatal, but it'd be best not to touch them.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-003.ogg",
+        "CN": "Thorns-003-CN.ogg",
+        "EN": "Thorns-003-EN.ogg",
+        "KR": "Thorns-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Always keep your mind running. Giving up on thought is tantamount on handing your keys to your enemies. I've been taught this many times, and just happened to think of it again.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-004.ogg",
+        "CN": "Thorns-004-CN.ogg",
+        "EN": "Thorns-004-EN.ogg",
+        "KR": "Thorns-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "My people originally had a completely different appearance. Our skin was as hard as a carapace, and our hair was as smooth as flowing water. However, the scorching sun and dry air have turned us into what we are today. You believed that? Sorry, I was just speaking gibberish just now.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-005.ogg",
+        "CN": "Thorns-005-CN.ogg",
+        "EN": "Thorns-005-EN.ogg",
+        "KR": "Thorns-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "If you are not a follower of theLateranoreligion, it is best not to go toIberia. Their so-called \"purest faith\" is rooted in that land, and the people there are so pious that even the Laterano people are ashamed of it. As for me? None of that concerns me in the slightest.",
+      "links": [
+        {
+          "text": "Laterano",
+          "href": "/wiki/Laterano"
+        },
+        {
+          "text": "Iberia",
+          "href": "/wiki/Iberia"
+        }
+      ],
+      "audio": {
+        "JP": "Thorns-006.ogg",
+        "CN": "Thorns-006-CN.ogg",
+        "EN": "Thorns-006-EN.ogg",
+        "KR": "Thorns-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Doctor, have you heard anything about the past history of the Iberian Correctional Army? If you've heard even anything remotely relevant, you should know that the inhabitants of that chunk of land are far crazier than their cold, plain gray buildings suggest.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-007.ogg",
+        "CN": "Thorns-007-CN.ogg",
+        "EN": "Thorns-007-EN.ogg",
+        "KR": "Thorns-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "The angle of attack, the vector of evasion, the posture of defense. Every action is calculated, and there are no wasteful movements. This is what they call the \"Destreza.\" Don't you think this is similar to your commanding style, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-008.ogg",
+        "CN": "Thorns-008-CN.ogg",
+        "EN": "Thorns-008-EN.ogg",
+        "KR": "Thorns-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "I need to unwind a bit more when I'm resting? Not thinking about anything and just bask in the sun or let my hair blow in the wind? ...Well, it might be nice to give it a try every now and then. Come up, over here. The breeze up here reminds me of my hometown...",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-009.ogg",
+        "CN": "Thorns-009-CN.ogg",
+        "EN": "Thorns-009-EN.ogg",
+        "KR": "Thorns-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Zzz... zzz... Huh? ...What happened? Did I fall asleep too?",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-010.ogg",
+        "CN": "Thorns-010-CN.ogg",
+        "EN": "Thorns-010-EN.ogg",
+        "KR": "Thorns-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "So you're the Doctor? I'll give a brief introduction then. Code name, Thorns. Starting today, I'll be taking my post– Huh? One trouser leg is rolled up? ...Don't worry about it, this happens a lot.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-011.ogg",
+        "CN": "Thorns-011-CN.ogg",
+        "EN": "Thorns-011-EN.ogg",
+        "KR": "Thorns-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Hmm... This information does have some merit.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-012.ogg",
+        "CN": "Thorns-012-CN.ogg",
+        "EN": "Thorns-012-EN.ogg",
+        "KR": "Thorns-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "A promotion? You should decide on things like that. Can I go now?",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-013.ogg",
+        "CN": "Thorns-013-CN.ogg",
+        "EN": "Thorns-013-EN.ogg",
+        "KR": "Thorns-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Quickly and efficiently seal the opponent's ability to act, and attain victory at the lowest cost – I think I fully understand your orders. In that case, I'll use this paralytic neurotoxin in tandem with my attacks. I take it that you have no issue with this?",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-014.ogg",
+        "CN": "Thorns-014-CN.ogg",
+        "EN": "Thorns-014-EN.ogg",
+        "KR": "Thorns-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Let me see how Rhodes Island fights.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-015.ogg",
+        "CN": "Thorns-015-CN.ogg",
+        "EN": "Thorns-015-EN.ogg",
+        "KR": "Thorns-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Team leader? It'd be best not to have any expectations. I'm not very good at leading.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-016.ogg",
+        "CN": "Thorns-016-CN.ogg",
+        "EN": "Thorns-016-EN.ogg",
+        "KR": "Thorns-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Let's make this quick. My time is valuable.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-017.ogg",
+        "CN": "Thorns-017-CN.ogg",
+        "EN": "Thorns-017-EN.ogg",
+        "KR": "Thorns-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Be careful. Don't get overconfident.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-018.ogg",
+        "CN": "Thorns-018-CN.ogg",
+        "EN": "Thorns-018-EN.ogg",
+        "KR": "Thorns-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Understood.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-019.ogg",
+        "CN": "Thorns-019-CN.ogg",
+        "EN": "Thorns-019-EN.ogg",
+        "KR": "Thorns-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Give me your orders.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-020.ogg",
+        "CN": "Thorns-020-CN.ogg",
+        "EN": "Thorns-020-EN.ogg",
+        "KR": "Thorns-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "This won't take long.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-021.ogg",
+        "CN": "Thorns-021-CN.ogg",
+        "EN": "Thorns-021-EN.ogg",
+        "KR": "Thorns-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Let's just incapacitate them and move on.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-022.ogg",
+        "CN": "Thorns-022-CN.ogg",
+        "EN": "Thorns-022-EN.ogg",
+        "KR": "Thorns-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Stop moving around. It'll spare all of us the effort.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-023.ogg",
+        "CN": "Thorns-023-CN.ogg",
+        "EN": "Thorns-023-EN.ogg",
+        "KR": "Thorns-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Your attacks are all within my calculations.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-024.ogg",
+        "CN": "Thorns-024-CN.ogg",
+        "EN": "Thorns-024-EN.ogg",
+        "KR": "Thorns-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Futile.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-025.ogg",
+        "CN": "Thorns-025-CN.ogg",
+        "EN": "Thorns-025-EN.ogg",
+        "KR": "Thorns-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Watch carefully, this is the Destreza of Iberia!",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-026.ogg",
+        "CN": "Thorns-026-CN.ogg",
+        "EN": "Thorns-026-EN.ogg",
+        "KR": "Thorns-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "A pristine outcome. Was this also a part of your calculations?",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-027.ogg",
+        "CN": "Thorns-027-CN.ogg",
+        "EN": "Thorns-027-EN.ogg",
+        "KR": "Thorns-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Mission complete. Very precise and efficient command, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-028.ogg",
+        "CN": "Thorns-028-CN.ogg",
+        "EN": "Thorns-028-EN.ogg",
+        "KR": "Thorns-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "There was an omission in your command, and my improper execution amplified this omission. We should both reflect upon this after we return.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-029.ogg",
+        "CN": "Thorns-029-CN.ogg",
+        "EN": "Thorns-029-EN.ogg",
+        "KR": "Thorns-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Considering the possible annihilation of our squad, there is no better option than to retreat immediately.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-030.ogg",
+        "CN": "Thorns-030-CN.ogg",
+        "EN": "Thorns-030-EN.ogg",
+        "KR": "Thorns-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "How are the protective measures here?",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-031.ogg",
+        "CN": "Thorns-031-CN.ogg",
+        "EN": "Thorns-031-EN.ogg",
+        "KR": "Thorns-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Shoot, the potion's going to spill.",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-032.ogg",
+        "CN": "Thorns-032-CN.ogg",
+        "EN": "Thorns-032-EN.ogg",
+        "KR": "Thorns-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "My hair? Gah... I just combed it, why's it messed up again?",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-033.ogg",
+        "CN": "Thorns-033-CN.ogg",
+        "EN": "Thorns-033-EN.ogg",
+        "KR": "Thorns-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "You seem tired. Should I help wake you up, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "Thorns-034.ogg",
+        "CN": "Thorns-034-CN.ogg",
+        "EN": "Thorns-034-EN.ogg",
+        "KR": "Thorns-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Thorns-035.ogg",
+        "CN": "Thorns-035-CN.ogg",
+        "EN": "Thorns-035-EN.ogg",
+        "KR": "Thorns-035-KR.ogg"
+      }
+    }
+  }
+}

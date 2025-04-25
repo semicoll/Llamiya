@@ -1,0 +1,437 @@
+{
+  "operator": "Ling",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Evocative so. Years and an age ago, the very palace rained and drizzled in the whisperers of consultants.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-001.ogg",
+        "CN": "Ling-001-CN.ogg",
+        "EN": "Ling-001-EN.ogg",
+        "KR": "Ling-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Yea, whenYanscholars speak ofSui, that is us, and It too. Facts hardly worth covering up; Nian's worries are not mine. After all, I am only me, and my death, no more than death is. The sole shames would be this wine and world, for at day's end I love them long.",
+      "links": [
+        {
+          "text": "Yan",
+          "href": "/wiki/Yan"
+        },
+        {
+          "text": "Sui",
+          "href": "/wiki/Sui"
+        }
+      ],
+      "audio": {
+        "JP": "Ling-002.ogg",
+        "CN": "Ling-002-CN.ogg",
+        "EN": "Ling-002-EN.ogg",
+        "KR": "Ling-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "I was of the mind I would finally meet someone past, or so an old friend. Never did I think this is how you now present yourself. From knowing not one is one, is dreaming so far removed? However,{nickname}. It is fine to be as yourself. Long have I contended with myself; myself I shall prefer to act.[1]",
+      "links": [
+        {
+          "text": "{nickname}",
+          "href": "/wiki/Doctor"
+        },
+        {
+          "text": "[1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {
+        "JP": "Ling-003.ogg",
+        "CN": "Ling-003-CN.ogg",
+        "EN": "Ling-003-EN.ogg",
+        "KR": "Ling-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Where the heart is as will, and its utterance is as verse. If wells your chest with depths manifold, wouldn't failing their writing be shame to meet yourself? Hm? My tail? Aha, a brush it also naturally is. But it is at times inconvenient, as an extremity would be. My body is an unfettered one; who says I can't use my tail?",
+      "links": [],
+      "audio": {
+        "JP": "Ling-004.ogg",
+        "CN": "Ling-004-CN.ogg",
+        "EN": "Ling-004-EN.ogg",
+        "KR": "Ling-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Poetry, speech, lyric, essay. Though they all differ as their own, they are common in places. A pity the people of now are, by and large unable to exercise patience. To listen to a song, to read a poem. I take no objection to it, but how must our present scholars suffer.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-005.ogg",
+        "CN": "Ling-005-CN.ogg",
+        "EN": "Ling-005-EN.ogg",
+        "KR": "Ling-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Nianis too impetuous,Dusktimid, yet to see the two as they are now, it seems they already know what they like, and want to do. So why probe at veracity or falsity or object or subject? To bicker and squabble every day, knowing emotion's gamut, is that not what a person is?",
+      "links": [
+        {
+          "text": "Nian",
+          "href": "/wiki/Nian"
+        },
+        {
+          "text": "Dusk",
+          "href": "/wiki/Dusk"
+        }
+      ],
+      "audio": {
+        "JP": "Ling-006.ogg",
+        "CN": "Ling-006-CN.ogg",
+        "EN": "Ling-006-EN.ogg",
+        "KR": "Ling-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "{nickname}, would you want for me to compose you a verse? Hm? Nay, I'm simply in the mood. I need not write it, nor record it. Ah, wait, if it were a song... that would be quite good too! But to dance a song, I fear I would need some preparation. Good! You sit there, and await me a short while.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-007.ogg",
+        "CN": "Ling-007-CN.ogg",
+        "EN": "Ling-007-EN.ogg",
+        "KR": "Ling-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "I am drunk? Hah... I have not yet seen the sky throw wide, moon rise, seas race, ice break, to wait true for all the world's sobriety would be but the withering of a bud, to want true for deep intoxication would be far too early still... {nickname}, now, why do you say I am drunk?",
+      "links": [],
+      "audio": {
+        "JP": "Ling-008.ogg",
+        "CN": "Ling-008-CN.ogg",
+        "EN": "Ling-008-EN.ogg",
+        "KR": "Ling-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Last night I dreamt of you. Nay! Perhaps it's you who dreamt of me. Oh, can you not recall? A shame; it delighted me so, yet I cannot share this revelry. Delighted how? Hah. That eight thousand years of springs, eight thousand of winters, all dreamt, were no more than a brief handful of autumns. That is all.[2]",
+      "links": [
+        {
+          "text": "[2]",
+          "href": "#cite_note-2"
+        }
+      ],
+      "audio": {
+        "JP": "Ling-009.ogg",
+        "CN": "Ling-009-CN.ogg",
+        "EN": "Ling-009-EN.ogg",
+        "KR": "Ling-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Clouds ranged as billows, distant-run roads withered. I, departed of the vistas, sailed a ferry in late autumn.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-010.ogg",
+        "CN": "Ling-010-CN.ogg",
+        "EN": "Ling-010-EN.ogg",
+        "KR": "Ling-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Ling, you can call me. Have my two troublemaking sisters vexed you any? Hm? You've seen me before? Ah... perhaps so, in a dream.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-011.ogg",
+        "CN": "Ling-011-CN.ogg",
+        "EN": "Ling-011-EN.ogg",
+        "KR": "Ling-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Though antithetical at a glance, your nature is quite similar.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-012.ogg",
+        "CN": "Ling-012-CN.ogg",
+        "EN": "Ling-012-EN.ogg",
+        "KR": "Ling-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Hm... \"General, I heed thy order,\" should I say? Hahah, do not take it seriously. I only suppose that if you were truly a field marshal, then I may not mind once again serving as a strategist.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-013.ogg",
+        "CN": "Ling-013-CN.ogg",
+        "EN": "Ling-013-EN.ogg",
+        "KR": "Ling-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Nian was not wrong. This farcical dream of a thousand autumns is only right to wake from.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-014.ogg",
+        "CN": "Ling-014-CN.ogg",
+        "EN": "Ling-014-EN.ogg",
+        "KR": "Ling-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "The river bends a thousand times, a city lone in desolation, vivid in the mind's eye.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-015.ogg",
+        "CN": "Ling-015-CN.ogg",
+        "EN": "Ling-015-EN.ogg",
+        "KR": "Ling-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "To scatter the fill of a brimming cup, to share the sip for a soothed sorrow.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-016.ogg",
+        "CN": "Ling-016-CN.ogg",
+        "EN": "Ling-016-EN.ogg",
+        "KR": "Ling-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Plotted schemes, waged wars, crossed arms, shed blood. An eternity, unaltered and unfailing in its challenge.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-017.ogg",
+        "CN": "Ling-017-CN.ogg",
+        "EN": "Ling-017-EN.ogg",
+        "KR": "Ling-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "To gaze the fire from afar, knowing not its heat.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-018.ogg",
+        "CN": "Ling-018-CN.ogg",
+        "EN": "Ling-018-EN.ogg",
+        "KR": "Ling-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Has it come to my turn?",
+      "links": [],
+      "audio": {
+        "JP": "Ling-019.ogg",
+        "CN": "Ling-019-CN.ogg",
+        "EN": "Ling-019-EN.ogg",
+        "KR": "Ling-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Truly evocative.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-020.ogg",
+        "CN": "Ling-020-CN.ogg",
+        "EN": "Ling-020-EN.ogg",
+        "KR": "Ling-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "And thus has autumn made reckoned her arrival.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-021.ogg",
+        "CN": "Ling-021-CN.ogg",
+        "EN": "Ling-021-EN.ogg",
+        "KR": "Ling-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "For the marching, a warsong. For the fallen, a lament.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-022.ogg",
+        "CN": "Ling-022-CN.ogg",
+        "EN": "Ling-022-EN.ogg",
+        "KR": "Ling-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "The split halberd sinks in the sand, great aspirations unrecompensed.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-023.ogg",
+        "CN": "Ling-023-CN.ogg",
+        "EN": "Ling-023-EN.ogg",
+        "KR": "Ling-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "One word to address all beneath the heaven, one scope to spare none upon the earth.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-024.ogg",
+        "CN": "Ling-024-CN.ogg",
+        "EN": "Ling-024-EN.ogg",
+        "KR": "Ling-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "When will the hate sunk beneath the battlefield disperse?[3]",
+      "links": [
+        {
+          "text": "[3]",
+          "href": "#cite_note-3"
+        }
+      ],
+      "audio": {
+        "JP": "Ling-025.ogg",
+        "CN": "Ling-025-CN.ogg",
+        "EN": "Ling-025-EN.ogg",
+        "KR": "Ling-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Speak as your heart wills, and be as your intoxication wishes.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-026.ogg",
+        "CN": "Ling-026-CN.ogg",
+        "EN": "Ling-026-EN.ogg",
+        "KR": "Ling-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Another song, sublime and majestic. {nickname}, perhaps you and I truly are as two entwined friends.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-027.ogg",
+        "CN": "Ling-027-CN.ogg",
+        "EN": "Ling-027-EN.ogg",
+        "KR": "Ling-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Duly satisfying, as a cup filled to the brim. We should remain level and humble, yet... we ought to sing your praises, yes. You did well.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-028.ogg",
+        "CN": "Ling-028-CN.ogg",
+        "EN": "Ling-028-EN.ogg",
+        "KR": "Ling-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Mm... things disappoint on occasion; there's no need to blame yourself too hard. Leave the rest to me.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-029.ogg",
+        "CN": "Ling-029-CN.ogg",
+        "EN": "Ling-029-EN.ogg",
+        "KR": "Ling-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Victory and defeat are commonplace in war. As we have freedom to maneuver, this is not a complete loss.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-030.ogg",
+        "CN": "Ling-030-CN.ogg",
+        "EN": "Ling-030-EN.ogg",
+        "KR": "Ling-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Rhodes Island's interior... I'm lost as to whether I should say it's reminiscent or curious.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Ling-031.ogg",
+        "CN": "Ling-031-CN.ogg",
+        "EN": "Ling-031-EN.ogg",
+        "KR": "Ling-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Hm? Do you need me?",
+      "links": [],
+      "audio": {
+        "JP": "Ling-032.ogg",
+        "CN": "Ling-032-CN.ogg",
+        "EN": "Ling-032-EN.ogg",
+        "KR": "Ling-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "What is it? Would you like a cup? You wouldn't? What a shame.",
+      "links": [],
+      "audio": {
+        "JP": "Ling-033.ogg",
+        "CN": "Ling-033-CN.ogg",
+        "EN": "Ling-033-EN.ogg",
+        "KR": "Ling-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Why, how are you, {nickname}?",
+      "links": [],
+      "audio": {
+        "JP": "Ling-034.ogg",
+        "CN": "Ling-034-CN.ogg",
+        "EN": "Ling-034-EN.ogg",
+        "KR": "Ling-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Ling-035.ogg",
+        "CN": "Ling-035-CN.ogg",
+        "EN": "Ling-035-EN.ogg",
+        "KR": "Ling-035-KR.ogg"
+      }
+    }
+  }
+}

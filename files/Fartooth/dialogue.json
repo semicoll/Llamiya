@@ -1,0 +1,437 @@
+{
+  "operator": "Fartooth",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "It's done. The battle plans, reports, and mission schedules have all been sorted... Eh... Is this not the right way? Sorry, I'm not used to this yet...",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-001.ogg",
+        "CN": "Fartooth-001-CN.ogg",
+        "EN": "Fartooth-001-EN.ogg",
+        "KR": "Fartooth-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "IwonaandAshlockcan make quite a ruckus together. I can't hear the wind when they do that. It's a pain.",
+      "links": [
+        {
+          "text": "Iwona",
+          "href": "/wiki/Wild_Mane"
+        },
+        {
+          "text": "Ashlock",
+          "href": "/wiki/Ashlock"
+        }
+      ],
+      "audio": {
+        "JP": "Fartooth-002.ogg",
+        "CN": "Fartooth-002-CN.ogg",
+        "EN": "Fartooth-002-EN.ogg",
+        "KR": "Fartooth-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Hm? Who's that in the training grounds...?The Radiant Knight?Doctor, is it okay if I go check it out up close?",
+      "links": [
+        {
+          "text": "The Radiant Knight",
+          "href": "/wiki/Nearl_the_Radiant_Knight"
+        },
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Fartooth-003.ogg",
+        "CN": "Fartooth-003-CN.ogg",
+        "EN": "Fartooth-003-EN.ogg",
+        "KR": "Fartooth-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "It's really close. When I sit here and look outside, I can see the crops in the distant ripening as the farmers harvest their fields. It's just like my hometown.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-004.ogg",
+        "CN": "Fartooth-004-CN.ogg",
+        "EN": "Fartooth-004-EN.ogg",
+        "KR": "Fartooth-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "It's actually not very hard to become a knight inKazimierzif you're healthy. All you have to do is sign up at the arena. But to become a real \"knight\" is difficult. Real difficult, even for those who are healthy.",
+      "links": [
+        {
+          "text": "Kazimierz",
+          "href": "/wiki/Kazimierz"
+        }
+      ],
+      "audio": {
+        "JP": "Fartooth-005.ogg",
+        "CN": "Fartooth-005-CN.ogg",
+        "EN": "Fartooth-005-EN.ogg",
+        "KR": "Fartooth-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "I agree withSona's ideas, and I'm willing to fight for them... Though, I guess I might just be afraid of losing the one place where I belong. Doctor, do you also seeRhodes Islandas a place you will protect no matter what it takes?",
+      "links": [
+        {
+          "text": "Sona",
+          "href": "/wiki/Flametail"
+        },
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Fartooth-006.ogg",
+        "CN": "Fartooth-006-CN.ogg",
+        "EN": "Fartooth-006-EN.ogg",
+        "KR": "Fartooth-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Thank you for treating us. Sona, Iwona, and Ashlock asked me to bring you these as thanks. And here's one that I picked. It's a small token of my appreciation.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-007.ogg",
+        "CN": "Fartooth-007-CN.ogg",
+        "EN": "Fartooth-007-EN.ogg",
+        "KR": "Fartooth-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "I used to dream of becoming a knight, but on the way tothe Grand Knight Territory, I got infected in an accident. I still remember how it felt. The numbness spread from my palm to my fingertips... That was the first time I couldn't hold my sword.",
+      "links": [
+        {
+          "text": "the Grand Knight Territory",
+          "href": "/wiki/Kawalerielki"
+        }
+      ],
+      "audio": {
+        "JP": "Fartooth-008.ogg",
+        "CN": "Fartooth-008-CN.ogg",
+        "EN": "Fartooth-008-EN.ogg",
+        "KR": "Fartooth-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Here's a grass whistle... Want to listen to me use it? I used to whistle with it whenever I had some free time back home. The wind back then is not like it is now. It was clear as crystal, and it wasn't dangerous at all... It was calming.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-009.ogg",
+        "CN": "Fartooth-009-CN.ogg",
+        "EN": "Fartooth-009-EN.ogg",
+        "KR": "Fartooth-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Finally awake? Here, the files are sorted... Should be right this time.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-010.ogg",
+        "CN": "Fartooth-010-CN.ogg",
+        "EN": "Fartooth-010-EN.ogg",
+        "KR": "Fartooth-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "\"Fartooth\" Justyna,Pinus SylvestrisKnightclub. You can call me Fartooth. I've heard about Rhodes Island and you in particular, Doctor.",
+      "links": [
+        {
+          "text": "Pinus Sylvestris",
+          "href": "/wiki/Pinus_Sylvestris"
+        }
+      ],
+      "audio": {
+        "JP": "Fartooth-011.ogg",
+        "CN": "Fartooth-011-CN.ogg",
+        "EN": "Fartooth-011-EN.ogg",
+        "KR": "Fartooth-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "They're going to lose. If they don't take a proper defense stance, they won't be able to block this one. You've got them.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-012.ogg",
+        "CN": "Fartooth-012-CN.ogg",
+        "EN": "Fartooth-012-EN.ogg",
+        "KR": "Fartooth-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "A promotion? Is that something like advancing to the next round?",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-013.ogg",
+        "CN": "Fartooth-013-CN.ogg",
+        "EN": "Fartooth-013-EN.ogg",
+        "KR": "Fartooth-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "There's not much that I want, and I don't have much either. That's why... as long as I'm still standing here, nobody can hope to take anything from me!",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-014.ogg",
+        "CN": "Fartooth-014-CN.ogg",
+        "EN": "Fartooth-014-EN.ogg",
+        "KR": "Fartooth-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "...I'll do as you say. You are my commander, and I'll follow your orders.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-015.ogg",
+        "CN": "Fartooth-015-CN.ogg",
+        "EN": "Fartooth-015-EN.ogg",
+        "KR": "Fartooth-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "A team battle? Understood.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-016.ogg",
+        "CN": "Fartooth-016-CN.ogg",
+        "EN": "Fartooth-016-EN.ogg",
+        "KR": "Fartooth-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Ready. Line up... Sortie!",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-017.ogg",
+        "CN": "Fartooth-017-CN.ogg",
+        "EN": "Fartooth-017-EN.ogg",
+        "KR": "Fartooth-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Wait, the winds have shifted... Everyone, stay alert!",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-018.ogg",
+        "CN": "Fartooth-018-CN.ogg",
+        "EN": "Fartooth-018-EN.ogg",
+        "KR": "Fartooth-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Yeah, I'm ready whenever.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-019.ogg",
+        "CN": "Fartooth-019-CN.ogg",
+        "EN": "Fartooth-019-EN.ogg",
+        "KR": "Fartooth-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "One-on-one, or one-on-many?",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-020.ogg",
+        "CN": "Fartooth-020-CN.ogg",
+        "EN": "Fartooth-020-EN.ogg",
+        "KR": "Fartooth-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "I hope we can win this match fair and square.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-021.ogg",
+        "CN": "Fartooth-021-CN.ogg",
+        "EN": "Fartooth-021-EN.ogg",
+        "KR": "Fartooth-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "I, \"Fartooth\" Justyna, will be your opponent.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-022.ogg",
+        "CN": "Fartooth-022-CN.ogg",
+        "EN": "Fartooth-022-EN.ogg",
+        "KR": "Fartooth-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "The winds are stirring. I can tell.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-023.ogg",
+        "CN": "Fartooth-023-CN.ogg",
+        "EN": "Fartooth-023-EN.ogg",
+        "KR": "Fartooth-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "I've locked onto you.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-024.ogg",
+        "CN": "Fartooth-024-CN.ogg",
+        "EN": "Fartooth-024-EN.ogg",
+        "KR": "Fartooth-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "There's no need to talk in battle.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-025.ogg",
+        "CN": "Fartooth-025-CN.ogg",
+        "EN": "Fartooth-025-EN.ogg",
+        "KR": "Fartooth-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Let's put an end to this... You can't beat me; accept your defeat.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-026.ogg",
+        "CN": "Fartooth-026-CN.ogg",
+        "EN": "Fartooth-026-EN.ogg",
+        "KR": "Fartooth-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "You've done well, Doctor. This is a glorious victory.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-027.ogg",
+        "CN": "Fartooth-027-CN.ogg",
+        "EN": "Fartooth-027-EN.ogg",
+        "KR": "Fartooth-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "I fended them off just as you instructed... I'm being too solemn? Really...?",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-028.ogg",
+        "CN": "Fartooth-028-CN.ogg",
+        "EN": "Fartooth-028-EN.ogg",
+        "KR": "Fartooth-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "I won't attack those who leave the arena.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-029.ogg",
+        "CN": "Fartooth-029-CN.ogg",
+        "EN": "Fartooth-029-EN.ogg",
+        "KR": "Fartooth-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Go on ahead...! I'll hold them here, Doctor! Lead the others away!",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-030.ogg",
+        "CN": "Fartooth-030-CN.ogg",
+        "EN": "Fartooth-030-EN.ogg",
+        "KR": "Fartooth-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Not bad. The airflow here feels refreshing... Thank you.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-031.ogg",
+        "CN": "Fartooth-031-CN.ogg",
+        "EN": "Fartooth-031-EN.ogg",
+        "KR": "Fartooth-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Hm? What is it? Want an autograph?",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-032.ogg",
+        "CN": "Fartooth-032-CN.ogg",
+        "EN": "Fartooth-032-EN.ogg",
+        "KR": "Fartooth-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor...? Yeah, I can tell it's you without listening to your footsteps. The winds around you aren't like the others.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-033.ogg",
+        "CN": "Fartooth-033-CN.ogg",
+        "EN": "Fartooth-033-EN.ogg",
+        "KR": "Fartooth-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Don't move... Your hair's sticking out. That's right. Stay still. I'll fix it for you.",
+      "links": [],
+      "audio": {
+        "JP": "Fartooth-034.ogg",
+        "CN": "Fartooth-034-CN.ogg",
+        "EN": "Fartooth-034-EN.ogg",
+        "KR": "Fartooth-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Fartooth-035.ogg",
+        "CN": "Fartooth-035-CN.ogg",
+        "EN": "Fartooth-035-EN.ogg",
+        "KR": "Fartooth-035-KR.ogg"
+      }
+    }
+  }
+}

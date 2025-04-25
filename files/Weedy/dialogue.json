@@ -1,0 +1,419 @@
+{
+  "operator": "Weedy",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Doctor, you've managed to keep your room clean. Not bad.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Weedy-001.ogg",
+        "CN": "Weedy-001-CN.ogg",
+        "EN": "Weedy-001-EN.ogg",
+        "KR": "Weedy-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Water is the core ingredient of life. I've talked to MissClosureabout improvingRhodes Island'swater purification system. I hope that my research can be of help... so I don't have to worry about the water being dirty anymore.",
+      "links": [
+        {
+          "text": "Closure",
+          "href": "/wiki/Closure"
+        },
+        {
+          "text": "Rhodes Island's",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Weedy-002.ogg",
+        "CN": "Weedy-002-CN.ogg",
+        "EN": "Weedy-002-EN.ogg",
+        "KR": "Weedy-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "This is Leaf, a Bionic Seadragon that I produced from a prototype design passed across my family. In addition to auxiliary combat functions, he helps out a lot in my daily life, such as pouring water, lifting heavy things, and so on.",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-003.ogg",
+        "CN": "Weedy-003-CN.ogg",
+        "EN": "Weedy-003-EN.ogg",
+        "KR": "Weedy-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Glaucusand I agreed that we'd conduct our automation engineering experiment at about this time. Doctor, if you're interested, want to come take a look?",
+      "links": [
+        {
+          "text": "Glaucus",
+          "href": "/wiki/Glaucus"
+        }
+      ],
+      "audio": {
+        "JP": "Weedy-004.ogg",
+        "CN": "Weedy-004-CN.ogg",
+        "EN": "Weedy-004-EN.ogg",
+        "KR": "Weedy-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "These reserve water cannons were originally made for industrial usage. In addition to shooting pressurized water, they can also release high-temperature steam. Please don't touch them haphazardly; they're not like Closure's little buggies.",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-005.ogg",
+        "CN": "Weedy-005-CN.ogg",
+        "EN": "Weedy-005-EN.ogg",
+        "KR": "Weedy-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "These high-level combat data materials are based upon my own summaries of the combat situation. Doctor, please read them carefully for the sake of future battles. After that, there are a few operation-related experiments I'd like to perfect that I will need your help on. I trust that you won't turn me down?",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-006.ogg",
+        "CN": "Weedy-006-CN.ogg",
+        "EN": "Weedy-006-EN.ogg",
+        "KR": "Weedy-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "I occasionally go toPerfumer'sConvalescence Garden to relax. The aroma there can really wash all your stress away, and it's a very effective way of relieving the fatigue from research. Doctor, how about we head there together and give it a try next time?",
+      "links": [
+        {
+          "text": "Perfumer's",
+          "href": "/wiki/Perfumer"
+        }
+      ],
+      "audio": {
+        "JP": "Weedy-007.ogg",
+        "CN": "Weedy-007-CN.ogg",
+        "EN": "Weedy-007-EN.ogg",
+        "KR": "Weedy-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "I definitely do not talk to my Bionic Seadragons when I'm alone! I only gave him a name to help distinguish him more easily!",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-008.ogg",
+        "CN": "Weedy-008-CN.ogg",
+        "EN": "Weedy-008-EN.ogg",
+        "KR": "Weedy-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Thanks to your compassion, I've recently become more accustomed to having you around, Doctor. And apart from Glaucus and some other research colleagues, I can't say that about many people.",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-009.ogg",
+        "CN": "Weedy-009-CN.ogg",
+        "EN": "Weedy-009-EN.ogg",
+        "KR": "Weedy-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Peace and quiet is best.",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-010.ogg",
+        "CN": "Weedy-010-CN.ogg",
+        "EN": "Weedy-010-EN.ogg",
+        "KR": "Weedy-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Hello, I'm Weedy from Rhodes Island's Engineering Department. I've heard of your name a long time ago, so I hope we'll have a productive relationship from now on. Ah, if you want to shake hands, please use your gloved right hand.",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-011.ogg",
+        "CN": "Weedy-011-CN.ogg",
+        "EN": "Weedy-011-EN.ogg",
+        "KR": "Weedy-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Hmm, I didn't expect these to be this helpful.",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-012.ogg",
+        "CN": "Weedy-012-CN.ogg",
+        "EN": "Weedy-012-EN.ogg",
+        "KR": "Weedy-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "After my promotion, can I get another upgrade to my personal room?",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-013.ogg",
+        "CN": "Weedy-013-CN.ogg",
+        "EN": "Weedy-013-EN.ogg",
+        "KR": "Weedy-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Thank you for acknowledging someone as frail as I am, Doctor. I'll continue to work hard for the sake of Rhodes Island.",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-014.ogg",
+        "CN": "Weedy-014-CN.ogg",
+        "EN": "Weedy-014-EN.ogg",
+        "KR": "Weedy-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Do I have to go?",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-015.ogg",
+        "CN": "Weedy-015-CN.ogg",
+        "EN": "Weedy-015-EN.ogg",
+        "KR": "Weedy-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Please listen to my instructions!",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-016.ogg",
+        "CN": "Weedy-016-CN.ogg",
+        "EN": "Weedy-016-EN.ogg",
+        "KR": "Weedy-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Attack!",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-017.ogg",
+        "CN": "Weedy-017-CN.ogg",
+        "EN": "Weedy-017-EN.ogg",
+        "KR": "Weedy-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Everything is as we planned. To battle!",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-018.ogg",
+        "CN": "Weedy-018-CN.ogg",
+        "EN": "Weedy-018-EN.ogg",
+        "KR": "Weedy-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "I'm right here.",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-019.ogg",
+        "CN": "Weedy-019-CN.ogg",
+        "EN": "Weedy-019-EN.ogg",
+        "KR": "Weedy-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "My equipment is ready.",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-020.ogg",
+        "CN": "Weedy-020-CN.ogg",
+        "EN": "Weedy-020-EN.ogg",
+        "KR": "Weedy-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Leave it to me!",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-021.ogg",
+        "CN": "Weedy-021-CN.ogg",
+        "EN": "Weedy-021-EN.ogg",
+        "KR": "Weedy-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Leaf, let's do our best!",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-022.ogg",
+        "CN": "Weedy-022-CN.ogg",
+        "EN": "Weedy-022-EN.ogg",
+        "KR": "Weedy-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Fire!",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-023.ogg",
+        "CN": "Weedy-023-CN.ogg",
+        "EN": "Weedy-023-EN.ogg",
+        "KR": "Weedy-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Lock down the enemy! Attack!",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-024.ogg",
+        "CN": "Weedy-024-CN.ogg",
+        "EN": "Weedy-024-EN.ogg",
+        "KR": "Weedy-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Out of my way!",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-025.ogg",
+        "CN": "Weedy-025-CN.ogg",
+        "EN": "Weedy-025-EN.ogg",
+        "KR": "Weedy-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Haah!",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-026.ogg",
+        "CN": "Weedy-026-CN.ogg",
+        "EN": "Weedy-026-EN.ogg",
+        "KR": "Weedy-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Everything's a piece of cake, as long as we employ the proper tactics.",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-027.ogg",
+        "CN": "Weedy-027-CN.ogg",
+        "EN": "Weedy-027-EN.ogg",
+        "KR": "Weedy-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Don't underestimate the importance of engineering!",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-028.ogg",
+        "CN": "Weedy-028-CN.ogg",
+        "EN": "Weedy-028-EN.ogg",
+        "KR": "Weedy-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "...After I head back and adjust the parameters of this device, this won't happen again.",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-029.ogg",
+        "CN": "Weedy-029-CN.ogg",
+        "EN": "Weedy-029-EN.ogg",
+        "KR": "Weedy-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Leaf, cover our escape!",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-030.ogg",
+        "CN": "Weedy-030-CN.ogg",
+        "EN": "Weedy-030-EN.ogg",
+        "KR": "Weedy-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Has this place been cleaned before?",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-031.ogg",
+        "CN": "Weedy-031-CN.ogg",
+        "EN": "Weedy-031-EN.ogg",
+        "KR": "Weedy-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "H-hey!",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-032.ogg",
+        "CN": "Weedy-032-CN.ogg",
+        "EN": "Weedy-032-EN.ogg",
+        "KR": "Weedy-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor, is there anything I can help you with?",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-033.ogg",
+        "CN": "Weedy-033-CN.ogg",
+        "EN": "Weedy-033-EN.ogg",
+        "KR": "Weedy-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "How do you do, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Weedy-034.ogg",
+        "CN": "Weedy-034-CN.ogg",
+        "EN": "Weedy-034-EN.ogg",
+        "KR": "Weedy-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Weedy-035.ogg",
+        "CN": "Weedy-035-CN.ogg",
+        "EN": "Weedy-035-EN.ogg",
+        "KR": "Weedy-035-KR.ogg"
+      }
+    }
+  }
+}

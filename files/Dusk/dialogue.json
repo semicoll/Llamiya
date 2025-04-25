@@ -1,0 +1,419 @@
+{
+  "operator": "Dusk",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Hm? Did I not tell explain that you were forbidden to enter without my express permission, after knocking? Oh? This is your office? You're working? Then have I not come out of my room to work as well? What is the meaning of \"your office\"? Tse-chi![note 1]I'm still sketching it out.",
+      "links": [
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {
+        "JP": "Dusk-001.ogg",
+        "CN": "Dusk-001-CN.ogg",
+        "EN": "Dusk-001-EN.ogg",
+        "KR": "Dusk-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "You want to see my painting? You may. For you, I could even give you the painting. But if you like it, I won't give it to you. You don't like it? Then you wouldn't want it anyway. This is who I am. Deal with it.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-002.ogg",
+        "CN": "Dusk-002-CN.ogg",
+        "EN": "Dusk-002-EN.ogg",
+        "KR": "Dusk-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "I'm trapped on this ship. If anyone asks, you tell them so, and you do not let them into my room. I'm taking up space? I'm refusing to perform my operator duties? Hello, I am Dusk, the great painter trapped in this room.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-003.ogg",
+        "CN": "Dusk-003-CN.ogg",
+        "EN": "Dusk-003-EN.ogg",
+        "KR": "Dusk-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "I'm not going out. Don't try to make me go out, I don't want to go out. I no longer care for the world outside. Do I dislike it? I like it fine. The mountains and rivers, the flowers and feathers, the pools and forests, the common folk, the elderly, I could paint forever, I could watch forever, and yet, I will not go. It does not hold my interest forever.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-004.ogg",
+        "CN": "Dusk-004-CN.ogg",
+        "EN": "Dusk-004-EN.ogg",
+        "KR": "Dusk-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "I loathe the word \"taste\". What gives these people the confidence to demand something good just as they open their mouths to lock the gates to others? It is unbecoming. If you are satisfied, you are satisfied. Should you enter, you must not bar the gate. Do you see the twin moons thinking only of themselves?",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-005.ogg",
+        "CN": "Dusk-005-CN.ogg",
+        "EN": "Dusk-005-EN.ogg",
+        "KR": "Dusk-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "An opportunity to watch me paint in earnest comes but once in a lifetime to one in ten thousand individuals. \"When the time comes, the strength of heaven and earth are one.\"Ch'i, bone, shape, color, method, pouring out as a vast river, fine like the shadow of mountain bamboo, such is my brush, and I cannot stop it.",
+      "links": [
+        {
+          "text": "Ch'i",
+          "href": "https://en.wikipedia.org/wiki/Qi"
+        }
+      ],
+      "audio": {
+        "JP": "Dusk-006.ogg",
+        "CN": "Dusk-006-CN.ogg",
+        "EN": "Dusk-006-EN.ogg",
+        "KR": "Dusk-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "I took the time to partake of some contemporary works. Films are not bad, they are like paintings. The good ones all have a unique strength of character, with form, and with decent meaning. Right, poetry and painting have a legacy. Do you have time to help me burnNian'smountain of garbage? She is denigrating the very concept of cinema. Please.",
+      "links": [
+        {
+          "text": "Nian's",
+          "href": "/wiki/Nian"
+        },
+        {
+          "text": "mountain of garbage",
+          "href": "/wiki/Ancient_Forge"
+        }
+      ],
+      "audio": {
+        "JP": "Dusk-007.ogg",
+        "CN": "Dusk-007-CN.ogg",
+        "EN": "Dusk-007-EN.ogg",
+        "KR": "Dusk-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Food? Oh, thank you. Hm, where does this drink come from? It's good. Quite good. But I feel like it's missing something. You want to know what I usually eat? Then close your eyes. Ah~ You feel nothing, yes? That's because if you don't look, the food in my paintings does not exist.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-008.ogg",
+        "CN": "Dusk-008-CN.ogg",
+        "EN": "Dusk-008-EN.ogg",
+        "KR": "Dusk-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Take a look at Nian's carefree expression. You know the truth, don't you? She cares quite a bit about our lives, and our deaths. As for me? I may not get along with the wretched scribbler, but neither of us care much. When people die, the paintings remain. When I die, my work remains.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-009.ogg",
+        "CN": "Dusk-009-CN.ogg",
+        "EN": "Dusk-009-EN.ogg",
+        "KR": "Dusk-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Dreams are like unto life, like into the scroll. One sleeps this sleep, will one sleep for millennia?",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-010.ogg",
+        "CN": "Dusk-010-CN.ogg",
+        "EN": "Dusk-010-EN.ogg",
+        "KR": "Dusk-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Oh?{nickname}? Another contract? Very well, please don't bother me again after I sign this one. Here... I should tell you here and now: I, Dusk, do not give out my paintings. Not to anyone. And I don't take commissions!",
+      "links": [
+        {
+          "text": "{nickname}",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Dusk-011.ogg",
+        "CN": "Dusk-011-CN.ogg",
+        "EN": "Dusk-011-EN.ogg",
+        "KR": "Dusk-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Hm? A swing of an axe becomes rivers of blood. Do you mean... you want me to paint this?",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-012.ogg",
+        "CN": "Dusk-012-CN.ogg",
+        "EN": "Dusk-012-EN.ogg",
+        "KR": "Dusk-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Why use a sword? There is a reason. \"With an inkstone sheath, one may learn the annals. With a brush sword, one may paint the celestial.\" Is it true? Naturally, I speak off the cuff.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-013.ogg",
+        "CN": "Dusk-013-CN.ogg",
+        "EN": "Dusk-013-EN.ogg",
+        "KR": "Dusk-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Ahh, to make it this far with me... I should paint you a scroll. But be careful! Do not get caught up within it. The world I paint is much more fascinating than this one. How many have been lost, since ancient times, how many have escaped?",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-014.ogg",
+        "CN": "Dusk-014-CN.ogg",
+        "EN": "Dusk-014-EN.ogg",
+        "KR": "Dusk-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Don't keep me too long.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-015.ogg",
+        "CN": "Dusk-015-CN.ogg",
+        "EN": "Dusk-015-EN.ogg",
+        "KR": "Dusk-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Captain? What does a captain do?",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-016.ogg",
+        "CN": "Dusk-016-CN.ogg",
+        "EN": "Dusk-016-EN.ogg",
+        "KR": "Dusk-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Let's get this over with.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-017.ogg",
+        "CN": "Dusk-017-CN.ogg",
+        "EN": "Dusk-017-EN.ogg",
+        "KR": "Dusk-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "I'm in a good mood today. I'll give you my \"Bones on the Sand\" then.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-018.ogg",
+        "CN": "Dusk-018-CN.ogg",
+        "EN": "Dusk-018-EN.ogg",
+        "KR": "Dusk-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Don't go too far.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-019.ogg",
+        "CN": "Dusk-019-CN.ogg",
+        "EN": "Dusk-019-EN.ogg",
+        "KR": "Dusk-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Better leave the fine brush at home.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-020.ogg",
+        "CN": "Dusk-020-CN.ogg",
+        "EN": "Dusk-020-EN.ogg",
+        "KR": "Dusk-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Would any of you like to be my paint?",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-021.ogg",
+        "CN": "Dusk-021-CN.ogg",
+        "EN": "Dusk-021-EN.ogg",
+        "KR": "Dusk-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "This battlefield would do well with a splash of ink.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-022.ogg",
+        "CN": "Dusk-022-CN.ogg",
+        "EN": "Dusk-022-EN.ogg",
+        "KR": "Dusk-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Too difficult to explain, let me paint it for you.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-023.ogg",
+        "CN": "Dusk-023-CN.ogg",
+        "EN": "Dusk-023-EN.ogg",
+        "KR": "Dusk-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "With the setting of the sun, the brush draws up the peaks!",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-024.ogg",
+        "CN": "Dusk-024-CN.ogg",
+        "EN": "Dusk-024-EN.ogg",
+        "KR": "Dusk-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Copy the infinite with the tangible, bring the intangible to life!",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-025.ogg",
+        "CN": "Dusk-025-CN.ogg",
+        "EN": "Dusk-025-EN.ogg",
+        "KR": "Dusk-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "I am rather attached to you. Most of the time.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-026.ogg",
+        "CN": "Dusk-026-CN.ogg",
+        "EN": "Dusk-026-EN.ogg",
+        "KR": "Dusk-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Once, painting and war were quite different. But with this power, battle is art.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-027.ogg",
+        "CN": "Dusk-027-CN.ogg",
+        "EN": "Dusk-027-EN.ogg",
+        "KR": "Dusk-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Not bad.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-028.ogg",
+        "CN": "Dusk-028-CN.ogg",
+        "EN": "Dusk-028-EN.ogg",
+        "KR": "Dusk-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Hm... a failed painting must be destroyed. It will bring shame.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-029.ogg",
+        "CN": "Dusk-029-CN.ogg",
+        "EN": "Dusk-029-EN.ogg",
+        "KR": "Dusk-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Slipped on a stroke? Start over.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-030.ogg",
+        "CN": "Dusk-030-CN.ogg",
+        "EN": "Dusk-030-EN.ogg",
+        "KR": "Dusk-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Do not bother preparing the room for me. I will handle it myself.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-031.ogg",
+        "CN": "Dusk-031-CN.ogg",
+        "EN": "Dusk-031-EN.ogg",
+        "KR": "Dusk-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "You'll spill my ink!",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-032.ogg",
+        "CN": "Dusk-032-CN.ogg",
+        "EN": "Dusk-032-EN.ogg",
+        "KR": "Dusk-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Hey, don't get paint everywhere.",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-033.ogg",
+        "CN": "Dusk-033-CN.ogg",
+        "EN": "Dusk-033-EN.ogg",
+        "KR": "Dusk-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "What was your name again? Oh, {nickname}?",
+      "links": [],
+      "audio": {
+        "JP": "Dusk-034.ogg",
+        "CN": "Dusk-034-CN.ogg",
+        "EN": "Dusk-034-EN.ogg",
+        "KR": "Dusk-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Dusk-035.ogg",
+        "CN": "Dusk-035-CN.ogg",
+        "EN": "Dusk-035-EN.ogg",
+        "KR": "Dusk-035-KR.ogg"
+      }
+    }
+  }
+}

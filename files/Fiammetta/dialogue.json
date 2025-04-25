@@ -1,0 +1,433 @@
+{
+  "operator": "Fiammetta",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Stay sharp. Focus, finish your work. If everyone could just get their own work done, it might as well not help at all, but it's not going to make anything worse either. Lecturing? Who am I to lecture you, I'm just... reminding myself.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Fiammetta-001.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Fiammetta-001-CN.ogg",
+        "EN": "https://arknights.fandom.com/wiki/File:Fiammetta-001-EN.ogg",
+        "KR": "Fiammetta-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Whatever it is you want, it can wait until I get my hands onMostima! It has to be that damn idiot who spiked my finballs with chili! Get to the side and make sure you stay there, this day's not done until I put a bolt in her—",
+      "links": [
+        {
+          "text": "Mostima",
+          "href": "/wiki/Mostima"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Fiammetta-002.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Fiammetta-002-CN.ogg",
+        "EN": "https://arknights.fandom.com/wiki/File:Fiammetta-002-EN.ogg",
+        "KR": "Fiammetta-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "I tried using guns before, but it didn't pan out, so I gave up. What, are you surprised? Guns aren't some huge mystery, but they need practice... and maybe you practice until you're smooth, or you blow yourself up in a burst.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Fiammetta-003.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Fiammetta-003-CN.ogg",
+        "EN": "https://arknights.fandom.com/wiki/File:Fiammetta-003-EN.ogg",
+        "KR": "Fiammetta-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "If it's deemed necessary, taking measures to block intel leakage is part of my work. ...Hey, stop staring at my back! Those idiots at the Notarial stuck those wing stickers there, they're not coming off! *cough* Anyway, don't count on me telling you anything. Keeping secrets is my job.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Fiammetta-004.ogg",
+        "CN": "https://arknights.fandom.com/wiki/File:Fiammetta-004-CN.ogg",
+        "EN": "https://arknights.fandom.com/wiki/File:Fiammetta-004-EN.ogg",
+        "KR": "Fiammetta-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Too much curiosity's never good. That goes forLemuen'ssister, and it goes for you too,Doctor. Am I worried about you? ...Hardly. I'm just tasked with making sure *someone* doesn't leak secrets or make trouble, and anything else is beyond my care.",
+      "links": [
+        {
+          "text": "Lemuen",
+          "href": "/wiki/Lemuen"
+        },
+        {
+          "text": "sister",
+          "href": "/wiki/Exusiai"
+        },
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Fiammetta-005.ogg",
+        "CN": "Fiammetta-005-CN.ogg",
+        "EN": "Fiammetta-005-EN.ogg",
+        "KR": "Fiammetta-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "I've been to plenty of nations before. It's not like nowhere moves me more thanLaterano, but I'm all too clear about what I have to do right now. I've got no intent of letting anybody harm this city of Laterano.  There's no more answers I need to seek from anyone.",
+      "links": [
+        {
+          "text": "Laterano",
+          "href": "/wiki/Laterano"
+        }
+      ],
+      "audio": {
+        "JP": "Fiammetta-006.ogg",
+        "CN": "Fiammetta-006-CN.ogg",
+        "EN": "Fiammetta-006-EN.ogg",
+        "KR": "Fiammetta-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "...Don't call me \"Suffering.\" And don't call me \"Chosen Overseer\" or \"Flaming Envoy\" either! That's it,no matter what that Mostima-on-low told you, I want you to forget all of it right now! Immediately! On the double!",
+      "links": [
+        {
+          "text": "no matter what that Mostima-on-low told you",
+          "href": "/wiki/CB-ST3"
+        }
+      ],
+      "audio": {
+        "JP": "Fiammetta-007.ogg",
+        "CN": "Fiammetta-007-CN.ogg",
+        "EN": "Fiammetta-007-EN.ogg",
+        "KR": "Fiammetta-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Thanks to a certain *someone*, I couldn't be more familiar with all the food streets around. I seriously don't know what's so good about this place. See the shooting gallery at the entrance? I could hit their targets from the roof of the skyscraper opposite. You want me to bring you along next time? ...I'll consider it.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-008.ogg",
+        "CN": "Fiammetta-008-CN.ogg",
+        "EN": "Fiammetta-008-EN.ogg",
+        "KR": "Fiammetta-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Can people really cut everything loose without looking back, even shatter the order that was there, all to chase ideals? That's a dedication that... I can comprehend, but can't identify with. I know you all have your own beliefs atRhodes Island, too. Here's hoping we don't come into direct conflict one day, Doctor.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Fiammetta-009.ogg",
+        "CN": "Fiammetta-009-CN.ogg",
+        "EN": "Fiammetta-009-EN.ogg",
+        "KR": "Fiammetta-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Beats me how you sleep while standing up... and you even look pretty normal. It's a cut above everyone back then who sneaked naps in class.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-010.ogg",
+        "CN": "Fiammetta-010-CN.ogg",
+        "EN": "Fiammetta-010-EN.ogg",
+        "KR": "Fiammetta-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "My duty's to monitor Mostima, so I'll be acting alongside her here, if you don't mind. You need a codename? ...Just call me Fiammetta. I've had enough of those codenames my bosses keep giving me.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-011.ogg",
+        "CN": "Fiammetta-011-CN.ogg",
+        "EN": "Fiammetta-011-EN.ogg",
+        "KR": "Fiammetta-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Keeping battle records is a pretty good habit.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-012.ogg",
+        "CN": "Fiammetta-012-CN.ogg",
+        "EN": "Fiammetta-012-EN.ogg",
+        "KR": "Fiammetta-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "A promotion? Let me get this out of the way–this is my chance to use my own name, and you *cannot* give me any more weird job titles.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-013.ogg",
+        "CN": "Fiammetta-013-CN.ogg",
+        "EN": "Fiammetta-013-EN.ogg",
+        "KR": "Fiammetta-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Laterano code says whoever breaks it, pays for it, but reasonable loss of property in missions can be expensed. You order my actions, thus compensation fees naturally land with you too... what? You can't be regretting it now.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-014.ogg",
+        "CN": "Fiammetta-014-CN.ogg",
+        "EN": "Fiammetta-014-EN.ogg",
+        "KR": "Fiammetta-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Less dawdling, come on.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-015.ogg",
+        "CN": "Fiammetta-015-CN.ogg",
+        "EN": "Fiammetta-015-EN.ogg",
+        "KR": "Fiammetta-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Fine. But I'm not waiting for anyone who falls behind.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-016.ogg",
+        "CN": "Fiammetta-016-CN.ogg",
+        "EN": "Fiammetta-016-EN.ogg",
+        "KR": "Fiammetta-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "We're heading up. It'll be faster by rooftop.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-017.ogg",
+        "CN": "Fiammetta-017-CN.ogg",
+        "EN": "Fiammetta-017-EN.ogg",
+        "KR": "Fiammetta-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Don't make too big of a show.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-018.ogg",
+        "CN": "Fiammetta-018-CN.ogg",
+        "EN": "Fiammetta-018-EN.ogg",
+        "KR": "Fiammetta-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Sights locked.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-019.ogg",
+        "CN": "Fiammetta-019-CN.ogg",
+        "EN": "Fiammetta-019-EN.ogg",
+        "KR": "Fiammetta-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Boring.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-020.ogg",
+        "CN": "Fiammetta-020-CN.ogg",
+        "EN": "Fiammetta-020-EN.ogg",
+        "KR": "Fiammetta-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "I only do what I need to.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-021.ogg",
+        "CN": "Fiammetta-021-CN.ogg",
+        "EN": "Fiammetta-021-EN.ogg",
+        "KR": "Fiammetta-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "What, you've got time to take in the sights?",
+      "links": [
+        {
+          "text": "What, you've got time to take in the sights?",
+          "href": "/wiki/Mostima/Dialogue#Deployed_2"
+        }
+      ],
+      "audio": {
+        "JP": "Fiammetta-022.ogg",
+        "CN": "Fiammetta-022-CN.ogg",
+        "EN": "Fiammetta-022-EN.ogg",
+        "KR": "Fiammetta-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Anyone in front of me who still feels like blinking?",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-023.ogg",
+        "CN": "Fiammetta-023-CN.ogg",
+        "EN": "Fiammetta-023-EN.ogg",
+        "KR": "Fiammetta-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Sorry, forgot to hold that back.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-024.ogg",
+        "CN": "Fiammetta-024-CN.ogg",
+        "EN": "Fiammetta-024-EN.ogg",
+        "KR": "Fiammetta-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "I don't like damage–unless it's necessary.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-025.ogg",
+        "CN": "Fiammetta-025-CN.ogg",
+        "EN": "Fiammetta-025-EN.ogg",
+        "KR": "Fiammetta-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "There's no fluking between success and failure.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-026.ogg",
+        "CN": "Fiammetta-026-CN.ogg",
+        "EN": "Fiammetta-026-EN.ogg",
+        "KR": "Fiammetta-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "You did a better job than I imagined. The feeling of fighting in a squad... it's been a long time.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-027.ogg",
+        "CN": "Fiammetta-027-CN.ogg",
+        "EN": "Fiammetta-027-EN.ogg",
+        "KR": "Fiammetta-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Mission complete. Look, this much is granted–don't make a fuss over nothing.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-028.ogg",
+        "CN": "Fiammetta-028-CN.ogg",
+        "EN": "Fiammetta-028-EN.ogg",
+        "KR": "Fiammetta-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "If you're fine, we're fine. If something happened to you while I was on the job, I know *someone* would be laughing at me.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-029.ogg",
+        "CN": "Fiammetta-029-CN.ogg",
+        "EN": "Fiammetta-029-EN.ogg",
+        "KR": "Fiammetta-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Sorry, I was careless this time. I'll remedy it somehow.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-030.ogg",
+        "CN": "Fiammetta-030-CN.ogg",
+        "EN": "Fiammetta-030-EN.ogg",
+        "KR": "Fiammetta-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Ventilation's fine, visibility's excellent. Good, that's conducive to getting my work done.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-031.ogg",
+        "CN": "Fiammetta-031-CN.ogg",
+        "EN": "Fiammetta-031-EN.ogg",
+        "KR": "Fiammetta-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Don't touch that. It'll explode.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-032.ogg",
+        "CN": "Fiammetta-032-CN.ogg",
+        "EN": "Fiammetta-032-EN.ogg",
+        "KR": "Fiammetta-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor... is that your job title? How normal. How nice.",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-033.ogg",
+        "CN": "Fiammetta-033-CN.ogg",
+        "EN": "Fiammetta-033-EN.ogg",
+        "KR": "Fiammetta-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Same old, then?",
+      "links": [],
+      "audio": {
+        "JP": "Fiammetta-034.ogg",
+        "CN": "Fiammetta-034-CN.ogg",
+        "EN": "Fiammetta-034-EN.ogg",
+        "KR": "Fiammetta-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Fiammetta-035.ogg",
+        "CN": "Fiammetta-035-CN.ogg",
+        "EN": "Fiammetta-035-EN.ogg",
+        "KR": "Fiammetta-035-KR.ogg"
+      }
+    }
+  }
+}

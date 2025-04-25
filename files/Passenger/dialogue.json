@@ -1,0 +1,416 @@
+{
+  "operator": "Passenger",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Elliot: What did you find in time, mysterious master of the black market?Passenger: The past, Elliot. I have always been seeking the past. Perhaps I will find a home in the patterns of the cacti and quicksand, but neither you nor I know the answer of fate.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-001.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-001-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-001-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Passenger: I detest everything there. I have no choice but to leave Sargon, even if obeying the coin meant acquiescing to fate.Elliot: But I am here, Sand Soldier. You can't escape what you are. Our destinies have already been written.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-002.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-002-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-002-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Passenger: Sargon leaves marks on you. To the employer, you are feeble as a fledging fowlbeast. I forgot how it feels to be put to the lash. Do you hate them?Elliot: No. I know their end. I know it from your eyes. Fortunately, you do not seem to regret it.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-003.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-003-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-003-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Elliot: Your expression gives no answer. Did you not put it all to the torch?Passenger: There is a plaza in the black market with a view of the sky. Do you remember what night reminds you of? I called it a cremation, but when the conspirators had their way and the flames raged, it was not the face of my teacher that that came to mind.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-004.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-004-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-004-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Passenger: Do you remember the first component of Thorne's Gift?Elliot: The shoddy Arts Unit that was obtained by burying conscience in the sand and deceiving a guard who lost his son? And... Thorne's Gift? What will a teacher give to an evil mastermind, Passenger?",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-005.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-005-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-005-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Elliot: Tell me. Has Oripathy changed our lives? Do you feel pain? How will the illness transform me? Have the schemers behind the scenes miscalculated?Passenger: You are trembling, poor Elliot. Never mind the cause. Now, all I do is marvel at its beauty in the mirror.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-006.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-006-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-006-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Passenger: Business is best in the spring. Festivals adorn the summer. Autumn is the season to seek fortune away from Ibut. Winter belongs to war. These are the seasons of Sargon, seasons that you will come to hate...Elliot: ...But the stars shine bright on summer nights in Ibut.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-007.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-007-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-007-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Elliot: Strange things, fabricated dreams are. What should I say to you,Doctorof the future? If I had met you earlier...Passenger: ...No. The Doctor does not exist at any point between you and I. The Doctor belongs to my time, and may act as the Doctor wills. I have high hopes for the Doctor.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-008.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-008-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-008-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Elliot: A Vouivre, and the \"Doctor\". Are you begging for their pity?Passenger: No, I simply want to learn about my future, or tell others about theirs. Eternal nothingness is worse than any illness... listen to me, Elliot. I feel a little tired.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-009.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-009-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-009-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Sleep, my Elliot. Sleep and dream together with me. In our dreams, you will become me, and I will still be you.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-010.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-010-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-010-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Your Operator, Passenger. I have been looking forward to the day I work with you, Doctor; we will together enjoy this journey.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-011.ogg",
+        "CN": "Passenger-011-CN.ogg",
+        "EN": "Passenger-011-EN.ogg",
+        "KR": "Passenger-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Elliot: I see conspiracies...Passenger: ...Yes, Elliot. The conflicts, the greed. They are everywhere.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-012.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-012-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-012-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Passenger: Oripathy has robbed me of my future. I hope that Rhodes Island can make use of what I have left.Elliot: No. Rhodes Island does not exist to indulge your desire for self-harm. It is not that they are too kind; it is that you are too harsh. This is Elliot Glover's conclusion.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-013.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-013-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-013-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Elliot: Will you see the Sargon of winter when you awaken? Will you sleep away in the eternal summer? Must I become you?Passenger: Prophecy is fate in disguise. Sleep, Elliot. You built me, and I complete you, until the day the prophecies no longer foretell.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-014.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-014-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-014-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Elliot: Why do you not seek more companions? It is inefficient.Passenger: You will understand. Many things will make you understand.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-015.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-015-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-015-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Elliot would have asked me: How does an empty soul lead others with sincerity?",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-016.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-016-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-016-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "I remember the feeling of carrying my injured teacher on my back. It was the feeling of war. But war is profitable.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-017.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-017-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-017-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "I fought for a single purpose. Let war be the past, then, if the purpose is lost.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-018.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-018-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-018-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "In place of training.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-019.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-019-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-019-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Do you remember the touch of quicksand?",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-020.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-020-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-020-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "My war machine will fulfill your wishes.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-021.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-021-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-021-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "\"Man\" is the ultimate weapon.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-022.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-022-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-022-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "I remember how this equipment was born.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-023.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-023-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-023-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "What is there to be gained by fighting in the name of my teacher?",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-024.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-024-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-024-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Sentimentality does not bring victory.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-025.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-025-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-025-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Vengeance ends.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-026.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-026-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-026-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Elliot: There is no snow in the winter of the black market. Will I still see snow?Passenger: Yes, but there will be nothing you recognize in that world of silvery white.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-027.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-027-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-027-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Elliot: Your machinations will catch up to everyone. Is this how you became the master of the black market?Passenger: Yes, you will too, Elliot. I know that well. You will not let anyone escape.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-028.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-028-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-028-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Passenger: Did you see how the chastened fled?Elliot: I saw them. I wonder if that was how thoseColumbianssaw me.",
+      "links": [
+        {
+          "text": "Columbians",
+          "href": "/wiki/Columbia"
+        }
+      ],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-029.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-029-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-029-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Passenger: The days to permit mistakes are gone, never to return. We are fighting an enemy too powerful for us.Elliot: Fate? No, ourselves.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-030.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-030-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-030-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Elliot: Do you find Rhodes Island comforting?Passenger: It's more the caffeine.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-031.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-031-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-031-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Do not disturb him.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-032.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-032-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-032-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Passenger: Treasure your memories, treasure a time when you still had emotions.Elliot: I understand; at least, I still do.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-033.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-033-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-033-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Elliot: I dreamt of a future. Everything became nothing as the seasons changed. No sweet dreams, no nightmares... only the darkness remained.Passenger: That is the answer of fate, Elliot. The darkness means nothing. It is Nothing itself.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-034.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-034-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-034-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-035.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-035-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-035-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-035-KR.ogg"
+      }
+    },
+    "acquisition": {
+      "id": "Acquisition",
+      "text": "Passenger: Have I flipped open the pages of destinies past?Elliot: No, it is but a dream, a dream that you seek to avoid. My future.",
+      "links": [],
+      "audio": {
+        "JP": "Passenger-Dream_in_a_Moment-011.ogg",
+        "CN": "Passenger-Dream_in_a_Moment-011-CN.ogg",
+        "EN": "Passenger-Dream_in_a_Moment-011-EN.ogg",
+        "KR": "Passenger-Dream_in_a_Moment-011-KR.ogg"
+      }
+    }
+  }
+}

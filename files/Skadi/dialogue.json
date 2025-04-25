@@ -1,0 +1,427 @@
+{
+  "operator": "Skadi",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I advise you to keep at least two meters away from me, for your own good. And of course you shouldn't speak to me either... I don't want you to be the next victim of what's after me.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-001.ogg",
+        "CN": "Skadi-001-CN.ogg",
+        "EN": "Skadi-001-EN.ogg",
+        "KR": "Skadi-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "You've read my file? Terrible, isn't it? If I'm allowed to stay by your side, the same misfortune will befall you, and that's trouble for me too.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-002.ogg",
+        "CN": "Skadi-002-CN.ogg",
+        "EN": "Skadi-002-EN.ogg",
+        "KR": "Skadi-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "My long hair looks good? Oh, well, thank you... Would you like to feel it? It should have a soft touch. I'm confident of that.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-003.ogg",
+        "CN": "Skadi-003-CN.ogg",
+        "EN": "Skadi-003-EN.ogg",
+        "KR": "Skadi-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Could that be...? The one over there, you guys call herSpecternow, right? Why is she dressed as a nun? Amnesia? That's a problem...Dr. {nickname}, you have to help her. She can't be allowed to forgether true function.",
+      "links": [
+        {
+          "text": "Specter",
+          "href": "/wiki/Specter"
+        },
+        {
+          "text": "Dr. {nickname}",
+          "href": "/wiki/Doctor"
+        },
+        {
+          "text": "her true function",
+          "href": "/wiki/Abyssal_Hunters"
+        }
+      ],
+      "audio": {
+        "JP": "Skadi-004.ogg",
+        "CN": "Skadi-004-CN.ogg",
+        "EN": "Skadi-004-EN.ogg",
+        "KR": "Skadi-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Ah, you just don't know when to give up, do you? I suppose I have no choice but to defend you with all my might.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-005.ogg",
+        "CN": "Skadi-005-CN.ogg",
+        "EN": "Skadi-005-EN.ogg",
+        "KR": "Skadi-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Down beneath the vast blue sea, below the white waves that lap endlessly at the earth, lies all that I once held dear. I fear that one day misfortune will once again take away someone important from me. That is why I fled. I don't want anyone I care about... to suffer on my account.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-006.ogg",
+        "CN": "Skadi-006-CN.ogg",
+        "EN": "Skadi-006-EN.ogg",
+        "KR": "Skadi-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Good, another easy day.No giant tentacles coiling up my teammates,no fanatics lurking in the shadows with their hands coated in blood...Yes, just a straight fight on the battlefield. An easy day for me.",
+      "links": [
+        {
+          "text": "No giant tentacles coiling up my teammates",
+          "href": "/wiki/Seaborn"
+        },
+        {
+          "text": "no fanatics lurking in the shadows with their hands coated in blood...",
+          "href": "/wiki/Church_of_the_Deep"
+        }
+      ],
+      "audio": {
+        "JP": "Skadi-007.ogg",
+        "CN": "Skadi-007-CN.ogg",
+        "EN": "Skadi-007-EN.ogg",
+        "KR": "Skadi-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "According to legend,my peoplehave fought against those calamities for aeons. Perhaps we kept them from making landfall and terrorizing you city folk as well... So, how about buying me a drink, as a thank you?",
+      "links": [
+        {
+          "text": "my people",
+          "href": "/wiki/Aegir_(race)"
+        }
+      ],
+      "audio": {
+        "JP": "Skadi-008.ogg",
+        "CN": "Skadi-008-CN.ogg",
+        "EN": "Skadi-008-EN.ogg",
+        "KR": "Skadi-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "When you finally made the long journey through the dark up to the water's surface, your eyes dazzled by the sparkling stars all over the sky, your cheeks soothed by the cradling waves, your tears seep into your mouth, they have the same salty taste of your home... Compared to all that, the bathtub atRhodes Islandis so tiny and puny. I'll have to show you my home someday.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Skadi-009.ogg",
+        "CN": "Skadi-009-CN.ogg",
+        "EN": "Skadi-009-EN.ogg",
+        "KR": "Skadi-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Dr. {nickname}, you fell asleep? Rest well then, and may you never see your dream eroded by sea waves.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-010.ogg",
+        "CN": "Skadi-010-CN.ogg",
+        "EN": "Skadi-010-EN.ogg",
+        "KR": "Skadi-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I am Skadi, a bounty hunter. Are you really hiring me? I cannot say what calamities I may bring with me.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-011.ogg",
+        "CN": "Skadi-011-CN.ogg",
+        "EN": "Skadi-011-EN.ogg",
+        "KR": "Skadi-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "So this is how you fight. Rush in with \"woosh,\" knock them down with a \"pow,\" and finish them with a \"thud.\" Very good. I'll keep it in mind.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-012.ogg",
+        "CN": "Skadi-012-CN.ogg",
+        "EN": "Skadi-012-EN.ogg",
+        "KR": "Skadi-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "So this is the promotion you Rhodes Island folks are always going on about? Not bad. Feels like I've become stronger... just by a bit, maybe.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-013.ogg",
+        "CN": "Skadi-013-CN.ogg",
+        "EN": "Skadi-013-EN.ogg",
+        "KR": "Skadi-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Your thirst for power really does trouble me... But if nothing can really stop you, then brace yourself, for the infinite darkness we will stand against together.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-014.ogg",
+        "CN": "Skadi-014-CN.ogg",
+        "EN": "Skadi-014-EN.ogg",
+        "KR": "Skadi-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "I am quite skilled at teamwork, but...",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-015.ogg",
+        "CN": "Skadi-015-CN.ogg",
+        "EN": "Skadi-015-EN.ogg",
+        "KR": "Skadi-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "You're placing everyone's life in my hands?",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-016.ogg",
+        "CN": "Skadi-016-CN.ogg",
+        "EN": "Skadi-016-EN.ogg",
+        "KR": "Skadi-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "It's hardly a sport when all the enemies are human.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-017.ogg",
+        "CN": "Skadi-017-CN.ogg",
+        "EN": "Skadi-017-EN.ogg",
+        "KR": "Skadi-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Compared to the calamities I fought against, you are barely a threat.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-018.ogg",
+        "CN": "Skadi-018-CN.ogg",
+        "EN": "Skadi-018-EN.ogg",
+        "KR": "Skadi-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "By your command.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-019.ogg",
+        "CN": "Skadi-019-CN.ogg",
+        "EN": "Skadi-019-EN.ogg",
+        "KR": "Skadi-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "I'm used to fighting alone.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-020.ogg",
+        "CN": "Skadi-020-CN.ogg",
+        "EN": "Skadi-020-EN.ogg",
+        "KR": "Skadi-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Let's share a dance.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-021.ogg",
+        "CN": "Skadi-021-CN.ogg",
+        "EN": "Skadi-021-EN.ogg",
+        "KR": "Skadi-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Better safe than sorry.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-022.ogg",
+        "CN": "Skadi-022-CN.ogg",
+        "EN": "Skadi-022-EN.ogg",
+        "KR": "Skadi-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Who knows what lurks within the kelp forest?",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-023.ogg",
+        "CN": "Skadi-023-CN.ogg",
+        "EN": "Skadi-023-EN.ogg",
+        "KR": "Skadi-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "This sword has a terrifying past, care to find out?",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-024.ogg",
+        "CN": "Skadi-024-CN.ogg",
+        "EN": "Skadi-024-EN.ogg",
+        "KR": "Skadi-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Sing me a song, my torturous nightmare.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-025.ogg",
+        "CN": "Skadi-025-CN.ogg",
+        "EN": "Skadi-025-EN.ogg",
+        "KR": "Skadi-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Don't blink, for you may miss the misery of your death.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-026.ogg",
+        "CN": "Skadi-026-CN.ogg",
+        "EN": "Skadi-026-EN.ogg",
+        "KR": "Skadi-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "We survived somehow.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-027.ogg",
+        "CN": "Skadi-027-CN.ogg",
+        "EN": "Skadi-027-EN.ogg",
+        "KR": "Skadi-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "The words and thoughts of our enemies mean nothing to me. All I care about is how to defeat them.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-028.ogg",
+        "CN": "Skadi-028-CN.ogg",
+        "EN": "Skadi-028-EN.ogg",
+        "KR": "Skadi-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Feeling a little rusty. Hope you won't mind having part of your share taken away.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-029.ogg",
+        "CN": "Skadi-029-CN.ogg",
+        "EN": "Skadi-029-EN.ogg",
+        "KR": "Skadi-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Such simple misfortunes are only the beginning.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-030.ogg",
+        "CN": "Skadi-030-CN.ogg",
+        "EN": "Skadi-030-EN.ogg",
+        "KR": "Skadi-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Put me in a room by myself please.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-031.ogg",
+        "CN": "Skadi-031-CN.ogg",
+        "EN": "Skadi-031-EN.ogg",
+        "KR": "Skadi-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Oops... My hat.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-032.ogg",
+        "CN": "Skadi-032-CN.ogg",
+        "EN": "Skadi-032-EN.ogg",
+        "KR": "Skadi-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Y-you should watch your distance... I really can't guarantee your safety this close.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-033.ogg",
+        "CN": "Skadi-033-CN.ogg",
+        "EN": "Skadi-033-EN.ogg",
+        "KR": "Skadi-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Never let down your guard, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Skadi-034.ogg",
+        "CN": "Skadi-034-CN.ogg",
+        "EN": "Skadi-034-EN.ogg",
+        "KR": "Skadi-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Skadi-035.ogg",
+        "CN": "Skadi-035-CN.ogg",
+        "EN": "Skadi-035-EN.ogg",
+        "KR": "Skadi-035-KR.ogg"
+      }
+    }
+  }
+}

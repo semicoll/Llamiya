@@ -1,0 +1,444 @@
+{
+  "operator": "Saga",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I shall come!Doctor, so long as I am here, thou mayst be at ease in thy work!",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saga-001.ogg",
+        "CN": "Saga-001-CN.ogg",
+        "EN": "Saga-001-EN.ogg",
+        "KR": "Saga-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "I grew from childhood in the monastery. Though I could recite the texts from heart, I never fully understood their inner meanings, and my old head priest and the other great masters gave explanations from which I could comprehend even less. Doctor, thou art of learned stature. Mayst thou be able to teach me?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saga-002.ogg",
+        "CN": "Saga-002-CN.ogg",
+        "EN": "Saga-002-EN.ogg",
+        "KR": "Saga-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Rhodes Islandtruly lacks none for novel machinery... hm? Doctor, underestimate me not. I may begin clueless, but I am no contrarian to the times. If I do not know how, then I need only learn. My personal music player even holds some songs of the good MissSorawithin it.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        },
+        {
+          "text": "Sora",
+          "href": "/wiki/Sora"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saga-003.ogg",
+        "CN": "Saga-003-CN.ogg",
+        "EN": "Saga-003-EN.ogg",
+        "KR": "Saga-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "So as to evadeCatastrophe, I once accompanied my old head priest and fellow monastery apprentices over mountain and valley. My head priest spoke that Catastrophes were the wrath of the gods. Yet, I have never witnessed one by my own eyes. I am somewhat curious.",
+      "links": [
+        {
+          "text": "Catastrophe",
+          "href": "/wiki/Catastrophe"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saga-004.ogg",
+        "CN": "Saga-004-CN.ogg",
+        "EN": "Saga-004-EN.ogg",
+        "KR": "Saga-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "I am not a true monk, merely raised by the monastery. At my departure, Saga was the name my old head priest gave to me. Its meaning is of high mountains and rugged roads. And only when I left the monastery, did I come to know how the world was no straightforward thing.",
+      "links": [],
+      "audio": {
+        "JP": "Saga-005.ogg",
+        "CN": "Saga-005-CN.ogg",
+        "EN": "Saga-005-EN.ogg",
+        "KR": "Saga-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "I swallow hardship, and fear not fatigue, yet there is still one thing I cannot assent to. My master spoke that all living beings are equal. TheInfectedare people all the same, people only fallen ill. Why can they not be permitted to live?",
+      "links": [
+        {
+          "text": "Infected",
+          "href": "/wiki/Infected"
+        }
+      ],
+      "audio": {
+        "JP": "Saga-006.ogg",
+        "CN": "Saga-006-CN.ogg",
+        "EN": "Saga-006-EN.ogg",
+        "KR": "Saga-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Ho-ho. I may have only erred upon a Rhodes Island recruitment spot at first, but whether the food or the beds, it is all of great quality, and the pay pales not. I truly have stumbled upon a wonderful place.",
+      "links": [],
+      "audio": {
+        "JP": "Saga-007.ogg",
+        "CN": "Saga-007-CN.ogg",
+        "EN": "Saga-007-EN.ogg",
+        "KR": "Saga-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "When I left the monastery, I had thought that entering society would involve no more than dealing with pests, ridding some despots. I had never dreamt it would be so treacherous as this. There are times I do not even know what I draw my blade for. Doctor... I do not understand.",
+      "links": [],
+      "audio": {
+        "JP": "Saga-008.ogg",
+        "CN": "Saga-008-CN.ogg",
+        "EN": "Saga-008-EN.ogg",
+        "KR": "Saga-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "I still puzzle over much in my heart, but I have understood at least that some answers I must seek myself, and some thoughts I must think through myself. Doctor, until I have sorted it all out, I wish to continue my training by thine side. Pray, allow me this!",
+      "links": [],
+      "audio": {
+        "JP": "Saga-009.ogg",
+        "CN": "Saga-009-CN.ogg",
+        "EN": "Saga-009-EN.ogg",
+        "KR": "Saga-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Doctor... ho, thou art quite skillful to fall asleep sitting. In that case, I shall meditate for a while.",
+      "links": [],
+      "audio": {
+        "JP": "Saga-010.ogg",
+        "CN": "Saga-010-CN.ogg",
+        "EN": "Saga-010-EN.ogg",
+        "KR": "Saga-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Thou art the Doctor? Hail and well... ah, ought not I be more serious at times like these? Ahem – my name is Saga. I am a wandering monk. Should there be any place thou mayst need me, refrain not in sending me!",
+      "links": [],
+      "audio": {
+        "JP": "Saga-011.ogg",
+        "CN": "Saga-011-CN.ogg",
+        "EN": "Saga-011-EN.ogg",
+        "KR": "Saga-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Ho-ho. To think such strategy does exist in the world. My horizons have broadened.",
+      "links": [],
+      "audio": {
+        "JP": "Saga-012.ogg",
+        "CN": "Saga-012-CN.ogg",
+        "EN": "Saga-012-EN.ogg",
+        "KR": "Saga-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "A raise? Splendid! I have been watering at the mouth to try the deluxe set at the cafeteria for quite some time, yet have been embarrassingly out of pocket... today, I am finally able to feast!",
+      "links": [],
+      "audio": {
+        "JP": "Saga-013.ogg",
+        "CN": "Saga-013-CN.ogg",
+        "EN": "Saga-013-EN.ogg",
+        "KR": "Saga-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Dear head priest. In my heart yet is wild disarray. The ways of this world I still cannot see through, nor cut down. Though I am fortunate to have met with great people, and with their guidance, there will come a day in our turbulent mortal world where I cut through to the heavens!",
+      "links": [],
+      "audio": {
+        "JP": "Saga-014.ogg",
+        "CN": "Saga-014-CN.ogg",
+        "EN": "Saga-014-EN.ogg",
+        "KR": "Saga-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "I shall come!",
+      "links": [],
+      "audio": {
+        "JP": "Saga-015.ogg",
+        "CN": "Saga-015-CN.ogg",
+        "EN": "Saga-015-EN.ogg",
+        "KR": "Saga-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Am I the captain? Not a problem!",
+      "links": [],
+      "audio": {
+        "JP": "Saga-016.ogg",
+        "CN": "Saga-016-CN.ogg",
+        "EN": "Saga-016-EN.ogg",
+        "KR": "Saga-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "I shall go!",
+      "links": [],
+      "audio": {
+        "JP": "Saga-017.ogg",
+        "CN": "Saga-017-CN.ogg",
+        "EN": "Saga-017-EN.ogg",
+        "KR": "Saga-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "My blade cuts only evil!",
+      "links": [],
+      "audio": {
+        "JP": "Saga-018.ogg",
+        "CN": "Saga-018-CN.ogg",
+        "EN": "Saga-018-EN.ogg",
+        "KR": "Saga-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Takuan-zuke... hah! I am right here!",
+      "links": [
+        {
+          "text": "Takuan-zuke",
+          "href": "https://en.wikipedia.org/wiki/Takuan"
+        }
+      ],
+      "audio": {
+        "JP": "Saga-019.ogg",
+        "CN": "Saga-019-CN.ogg",
+        "EN": "Saga-019-EN.ogg",
+        "KR": "Saga-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Leave this to me!",
+      "links": [],
+      "audio": {
+        "JP": "Saga-020.ogg",
+        "CN": "Saga-020-CN.ogg",
+        "EN": "Saga-020-EN.ogg",
+        "KR": "Saga-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "I am here!",
+      "links": [],
+      "audio": {
+        "JP": "Saga-021.ogg",
+        "CN": "Saga-021-CN.ogg",
+        "EN": "Saga-021-EN.ogg",
+        "KR": "Saga-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Who dares be rash!",
+      "links": [],
+      "audio": {
+        "JP": "Saga-022.ogg",
+        "CN": "Saga-022-CN.ogg",
+        "EN": "Saga-022-EN.ogg",
+        "KR": "Saga-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Severall desires!",
+      "links": [
+        {
+          "text": "all desires",
+          "href": "https://en.wikipedia.org/wiki/Ta%E1%B9%87h%C4%81"
+        }
+      ],
+      "audio": {
+        "JP": "Saga-023.ogg",
+        "CN": "Saga-023-CN.ogg",
+        "EN": "Saga-023-EN.ogg",
+        "KR": "Saga-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Cleansethe six senses!",
+      "links": [
+        {
+          "text": "the six senses",
+          "href": "https://en.wikipedia.org/wiki/%C4%80yatana"
+        }
+      ],
+      "audio": {
+        "JP": "Saga-024.ogg",
+        "CN": "Saga-024-CN.ogg",
+        "EN": "Saga-024-EN.ogg",
+        "KR": "Saga-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Natto gohan!",
+      "links": [
+        {
+          "text": "Natto gohan!",
+          "href": "https://en.wikipedia.org/wiki/Natt%C5%8D"
+        }
+      ],
+      "audio": {
+        "JP": "Saga-025.ogg",
+        "CN": "Saga-025-CN.ogg",
+        "EN": "Saga-025-EN.ogg",
+        "KR": "Saga-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Aburaage!",
+      "links": [
+        {
+          "text": "Aburaage!",
+          "href": "https://en.wikipedia.org/wiki/Abura-age"
+        }
+      ],
+      "audio": {
+        "JP": "Saga-026.ogg",
+        "CN": "Saga-026-CN.ogg",
+        "EN": "Saga-026-EN.ogg",
+        "KR": "Saga-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "'Twas truly an arduous trial. I have gained greatly for it.",
+      "links": [],
+      "audio": {
+        "JP": "Saga-027.ogg",
+        "CN": "Saga-027-CN.ogg",
+        "EN": "Saga-027-EN.ogg",
+        "KR": "Saga-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "As expected of the Doctor! Alone, I would surely have let quite a few through.",
+      "links": [],
+      "audio": {
+        "JP": "Saga-028.ogg",
+        "CN": "Saga-028-CN.ogg",
+        "EN": "Saga-028-EN.ogg",
+        "KR": "Saga-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "My head priest spoke that one must have a merciful heart, and I believe that this suffices, more or less.",
+      "links": [],
+      "audio": {
+        "JP": "Saga-029.ogg",
+        "CN": "Saga-029-CN.ogg",
+        "EN": "Saga-029-EN.ogg",
+        "KR": "Saga-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Doctor, go quickly! Leave the rear to me!",
+      "links": [],
+      "audio": {
+        "JP": "Saga-030.ogg",
+        "CN": "Saga-030-CN.ogg",
+        "EN": "Saga-030-EN.ogg",
+        "KR": "Saga-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "What is this scent?!",
+      "links": [],
+      "audio": {
+        "JP": "Saga-031.ogg",
+        "CN": "Saga-031-CN.ogg",
+        "EN": "Saga-031-EN.ogg",
+        "KR": "Saga-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "What-ho?!",
+      "links": [],
+      "audio": {
+        "JP": "Saga-032.ogg",
+        "CN": "Saga-032-CN.ogg",
+        "EN": "Saga-032-EN.ogg",
+        "KR": "Saga-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Call, and I shall surely come running.",
+      "links": [],
+      "audio": {
+        "JP": "Saga-033.ogg",
+        "CN": "Saga-033-CN.ogg",
+        "EN": "Saga-033-EN.ogg",
+        "KR": "Saga-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor, hast thou eaten? An unfilled stomach will surely leave thee powerless at work.",
+      "links": [],
+      "audio": {
+        "JP": "Saga-034.ogg",
+        "CN": "Saga-034-CN.ogg",
+        "EN": "Saga-034-EN.ogg",
+        "KR": "Saga-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Saga-035.ogg",
+        "CN": "Saga-035-CN.ogg",
+        "EN": "Saga-035-EN.ogg",
+        "KR": "Saga-035-KR.ogg"
+      }
+    }
+  }
+}

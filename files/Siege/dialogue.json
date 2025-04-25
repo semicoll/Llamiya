@@ -1,0 +1,425 @@
+{
+  "operator": "Siege",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "You're still not done assigning tasks? I'll wait a bit longer then.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-001.ogg",
+        "CN": "Siege-001-CN.ogg",
+        "EN": "Siege-001-EN.ogg",
+        "KR": "Siege-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Keep calm and carry on.",
+      "links": [
+        {
+          "text": "Keep calm and carry on.",
+          "href": "https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-002.ogg",
+        "CN": "Siege-002-CN.ogg",
+        "EN": "Siege-002-EN.ogg",
+        "KR": "Siege-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Our meals used to be pretty nice in the past... but the quality's gone downhill since we joinedIndra's group.",
+      "links": [
+        {
+          "text": "Indra",
+          "href": "/wiki/Indra"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-003.ogg",
+        "CN": "Siege-003-CN.ogg",
+        "EN": "Siege-003-EN.ogg",
+        "KR": "Siege-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "I had a dream... a dream where the sun rises, and in the distance beyond the horizon... there wasmy hometown. The place I'll probably never get to return to ever again.",
+      "links": [
+        {
+          "text": "my hometown",
+          "href": "/wiki/Londinium"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-004.ogg",
+        "CN": "Siege-004-CN.ogg",
+        "EN": "Siege-004-EN.ogg",
+        "KR": "Siege-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Before I knew it, I'd gotten accustomed to this drifter's life... It's a strange thing. In the past I never imagined this was how I'd end up.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-005.ogg",
+        "CN": "Siege-005-CN.ogg",
+        "EN": "Siege-005-EN.ogg",
+        "KR": "Siege-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Gawainand company? I wouldn't say they ran into me, more like they picked me up off the streets.",
+      "links": [
+        {
+          "text": "Gawain",
+          "href": "/wiki/Gawain"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-006.ogg",
+        "CN": "Siege-006-CN.ogg",
+        "EN": "Siege-006-EN.ogg",
+        "KR": "Siege-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "I used to stand side by side with Indra's team when we fought in the streets ofVictoria... Looking back, I suppose it's a fairly fond memory to me.",
+      "links": [
+        {
+          "text": "Victoria",
+          "href": "/wiki/Victoria"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-007.ogg",
+        "CN": "Siege-007-CN.ogg",
+        "EN": "Siege-007-EN.ogg",
+        "KR": "Siege-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Stay on your guard! I know you've done the best you can, but there may be unknown dangers beyond our abilities.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-008.ogg",
+        "CN": "Siege-008-CN.ogg",
+        "EN": "Siege-008-EN.ogg",
+        "KR": "Siege-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "If we're ever put in a tough situation... then I may well act on my own motives. And if it comes to that, Doctor, I hope you'll join me too in... no, never mind for now.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-009.ogg",
+        "CN": "Siege-009-CN.ogg",
+        "EN": "Siege-009-EN.ogg",
+        "KR": "Siege-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Oh, you fell asleep... I wonder if you ever dream of your hometown, too.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-010.ogg",
+        "CN": "Siege-010-CN.ogg",
+        "EN": "Siege-010-EN.ogg",
+        "KR": "Siege-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I've passed the strength test, right? So assign me some missions. Don't let this hammer get too bored. My codename? They call me the Siege. Curious name, but it's got a nice ring to it.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-011.ogg",
+        "CN": "Siege-011-CN.ogg",
+        "EN": "Siege-011-EN.ogg",
+        "KR": "Siege-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Feels pretty good.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-012.ogg",
+        "CN": "Siege-012-CN.ogg",
+        "EN": "Siege-012-EN.ogg",
+        "KR": "Siege-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "A promotion? Interesting...",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-013.ogg",
+        "CN": "Siege-013-CN.ogg",
+        "EN": "Siege-013-EN.ogg",
+        "KR": "Siege-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Another promotion? All right, thanks... Life is strange like that, you know? Once upon a time, I was the one assigning new ranks to people.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-014.ogg",
+        "CN": "Siege-014-CN.ogg",
+        "EN": "Siege-014-EN.ogg",
+        "KR": "Siege-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Tell me, is this battle inevitable?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-015.ogg",
+        "CN": "Siege-015-CN.ogg",
+        "EN": "Siege-015-EN.ogg",
+        "KR": "Siege-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "You'd better get used to my combat style.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-016.ogg",
+        "CN": "Siege-016-CN.ogg",
+        "EN": "Siege-016-EN.ogg",
+        "KR": "Siege-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "For want of a nail... the kingdom was lost.",
+      "links": [
+        {
+          "text": "For want of a nail... the kingdom was lost.",
+          "href": "https://en.wikipedia.org/wiki/For_Want_of_a_Nail"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-017.ogg",
+        "CN": "Siege-017-CN.ogg",
+        "EN": "Siege-017-EN.ogg",
+        "KR": "Siege-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Run while you can. Better to be a coward with a pulse than a martyr with a grave.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-018.ogg",
+        "CN": "Siege-018-CN.ogg",
+        "EN": "Siege-018-EN.ogg",
+        "KR": "Siege-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Yes?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-019.ogg",
+        "CN": "Siege-019-CN.ogg",
+        "EN": "Siege-019-EN.ogg",
+        "KR": "Siege-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Are you ready?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-020.ogg",
+        "CN": "Siege-020-CN.ogg",
+        "EN": "Siege-020-EN.ogg",
+        "KR": "Siege-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "What a pain.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-021.ogg",
+        "CN": "Siege-021-CN.ogg",
+        "EN": "Siege-021-EN.ogg",
+        "KR": "Siege-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "We'll take them out all at once.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-022.ogg",
+        "CN": "Siege-022-CN.ogg",
+        "EN": "Siege-022-EN.ogg",
+        "KR": "Siege-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "My weapon chooses its worthy wielder.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-023.ogg",
+        "CN": "Siege-023-CN.ogg",
+        "EN": "Siege-023-EN.ogg",
+        "KR": "Siege-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Get lost!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-024.ogg",
+        "CN": "Siege-024-CN.ogg",
+        "EN": "Siege-024-EN.ogg",
+        "KR": "Siege-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "A warrior must be ready to face death on the battlefield!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-025.ogg",
+        "CN": "Siege-025-CN.ogg",
+        "EN": "Siege-025-EN.ogg",
+        "KR": "Siege-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "My rule is the balance your lives hang in.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-026.ogg",
+        "CN": "Siege-026-CN.ogg",
+        "EN": "Siege-026-EN.ogg",
+        "KR": "Siege-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Can bluff, can't take one blow.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-027.ogg",
+        "CN": "Siege-027-CN.ogg",
+        "EN": "Siege-027-EN.ogg",
+        "KR": "Siege-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Those who refuse to surrender don't deserve mercy.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-028.ogg",
+        "CN": "Siege-028-CN.ogg",
+        "EN": "Siege-028-EN.ogg",
+        "KR": "Siege-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Are we done here?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-029.ogg",
+        "CN": "Siege-029-CN.ogg",
+        "EN": "Siege-029-EN.ogg",
+        "KR": "Siege-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "I'm... more tired than I thought. I apologize...",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-030.ogg",
+        "CN": "Siege-030-CN.ogg",
+        "EN": "Siege-030-EN.ogg",
+        "KR": "Siege-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Do you mind if I get my forty winks in here?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-031.ogg",
+        "CN": "Siege-031-CN.ogg",
+        "EN": "Siege-031-EN.ogg",
+        "KR": "Siege-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Tsk...",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-032.ogg",
+        "CN": "Siege-032-CN.ogg",
+        "EN": "Siege-032-EN.ogg",
+        "KR": "Siege-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "It's too noisy out there for my tastes... I think the silence of your office suits me more. Let me stay in here for a bit, will you?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-033.ogg",
+        "CN": "Siege-033-CN.ogg",
+        "EN": "Siege-033-EN.ogg",
+        "KR": "Siege-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Oh, it's you, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-034.ogg",
+        "CN": "Siege-034-CN.ogg",
+        "EN": "Siege-034-EN.ogg",
+        "KR": "Siege-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Siege-035.ogg",
+        "CN": "Siege-035-CN.ogg",
+        "EN": "Siege-035-EN.ogg",
+        "KR": "Siege-035-KR.ogg"
+      }
+    }
+  }
+}

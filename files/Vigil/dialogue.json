@@ -1,0 +1,522 @@
+{
+  "operator": "Vigil",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Organizing documents?Doctor, we have much more important things to do. Bene, I'll give you a hand, if you insist. But do remember, I expect you to come up with a plan that's worth my while. Donotdisappoint me.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-001.ogg",
+        "CN": "Vigil-001-CN.ogg",
+        "EN": "Vigil-001-EN.ogg",
+        "KR": "Vigil-001-KR.ogg",
+        "IT": "Vigil-001-IT.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "What do you want to know? Secrets of theSiracusanfamiglie? There's hardly anything worth mentioning there. The things we do are no different from the wolves fighting in the wilderness thousands of years ago. Only, time has taught us some new tricks. Heh, you see \"order\" could be the official name for \"tearing your prey to pieces.\"",
+      "links": [
+        {
+          "text": "Siracusan",
+          "href": "/wiki/Siracusa"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-002.ogg",
+        "CN": "Vigil-002-CN.ogg",
+        "EN": "Vigil-002-EN.ogg",
+        "KR": "Vigil-002-KR.ogg",
+        "IT": "Vigil-002-IT.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "For many years, I couldn't really understandmy father. He paid the ultimate price, only to betray almost everything in the end... But I still remember the question my father posed to me many years ago, when we were sitting together in a park: \"Siracusa, sara un posto migliore senza le famiglie?\"[note 1]",
+      "links": [
+        {
+          "text": "my father",
+          "href": "/wiki/Bernardo_Bellone"
+        },
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-003.ogg",
+        "CN": "Vigil-003-CN.ogg",
+        "EN": "Vigil-003-EN.ogg",
+        "KR": "Vigil-003-KR.ogg",
+        "IT": "Vigil-003-IT.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Judge Lavinianever realized what she was getting herself into. The game withSignora Siciliawon't be won through courage or resourcefulness alone... She's looking for me? To discuss my unbalanced diet...? Tell her I'm not here.",
+      "links": [
+        {
+          "text": "Judge Lavinia",
+          "href": "/wiki/Penance"
+        },
+        {
+          "text": "Signora Sicilia",
+          "href": "/wiki/Signora_Sicilia"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-004.ogg",
+        "CN": "Vigil-004-CN.ogg",
+        "EN": "Vigil-004-EN.ogg",
+        "KR": "Vigil-004-KR.ogg",
+        "IT": "Vigil-004-IT.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "The old ways make it impossible to find a new path. If the new Siracusa is built on violence, it will fall back into the same well. The destruction of a few individual famiglie is far, far from enough. We must kick the entire \"habit.\"",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-005.ogg",
+        "CN": "Vigil-005-CN.ogg",
+        "EN": "Vigil-005-EN.ogg",
+        "KR": "Vigil-005-KR.ogg",
+        "IT": "Vigil-005-IT.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "The disputes among the famiglie were petty and stupid. The dons clung on to whatever authority they had, thinking they were the masters of Siracusa. But I invite you, Doctor, to join me in shaping a new era.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-006.ogg",
+        "CN": "Vigil-006-CN.ogg",
+        "EN": "Vigil-006-EN.ogg",
+        "KR": "Vigil-006-KR.ogg",
+        "IT": "Vigil-006-IT.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "If you want to show respect to the Siracusans, then hire a proper Siracusan chef.The next time I see any \"innovative Siracusan cuisine\" out of your minions...Beh, let's just say somebody knows about your little office naps, and it'd be a shame if the beans got spilled on your beauty sleep.",
+      "links": [
+        {
+          "text": "The next time I see any \"innovative Siracusan cuisine\" out of your minions...",
+          "href": "/wiki/Wrath_of_Siracusans"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-007.ogg",
+        "CN": "Vigil-007-CN.ogg",
+        "EN": "Vigil-007-EN.ogg",
+        "KR": "Vigil-007-KR.ogg",
+        "IT": "Vigil-007-IT.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Something on your mind? If it calls for blackmail, bribery, or something worse... none of that would be much trouble for me. Underhanded business is pretty much all I inherited from my famiglia. As for how to use my knowledge, that's your call.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-008.ogg",
+        "CN": "Vigil-008-CN.ogg",
+        "EN": "Vigil-008-EN.ogg",
+        "KR": "Vigil-008-KR.ogg",
+        "IT": "Vigil-008-IT.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Zaaro, il Signore dei Lupi... the shadow lurking behind me and my father. Don't be fooled by his pretentious words. A wild beast's hunt won't slow the progress of humanity. If he appears before you one day, I will drive him away.",
+      "links": [
+        {
+          "text": "Zaaro, il Signore dei Lupi",
+          "href": "/wiki/Zaaro"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-009.ogg",
+        "CN": "Vigil-009-CN.ogg",
+        "EN": "Vigil-009-EN.ogg",
+        "KR": "Vigil-009-KR.ogg",
+        "IT": "Vigil-009-IT.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Hey. Is our \"cooperation\" just me watching you sleep?",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-010.ogg",
+        "CN": "Vigil-010-CN.ogg",
+        "EN": "Vigil-010-EN.ogg",
+        "KR": "Vigil-010-KR.ogg",
+        "IT": "Vigil-010-IT.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Buongiorno,[note 2]Doctor. I am Famiglia Bellone's... Lasci perdere.[note 3]My famiglia doesn't exist anymore, but that was the price we paid to buy change in Siracusa. As for what comes next... Operator Vigil is at your service, Doctor. I hope our partnership will be productive.",
+      "links": [
+        {
+          "text": "[note 2]",
+          "href": "#cite_note-2"
+        },
+        {
+          "text": "[note 3]",
+          "href": "#cite_note-3"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-011.ogg",
+        "CN": "Vigil-011-CN.ogg",
+        "EN": "Vigil-011-EN.ogg",
+        "KR": "Vigil-011-KR.ogg",
+        "IT": "Vigil-011-IT.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "I am no stranger to violence. As long as I'm on the scene, things should be a little more efficient.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-012.ogg",
+        "CN": "Vigil-012-CN.ogg",
+        "EN": "Vigil-012-EN.ogg",
+        "KR": "Vigil-012-KR.ogg",
+        "IT": "Vigil-012-IT.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "A promotion? There's no need to test me like that, Doctor. I've played this game too... winning people over with small rewards. But if you're just trying to show your faith in me... Va bene, grazie.[note 4]",
+      "links": [
+        {
+          "text": "[note 4]",
+          "href": "#cite_note-4"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-013.ogg",
+        "CN": "Vigil-013-CN.ogg",
+        "EN": "Vigil-013-EN.ogg",
+        "KR": "Vigil-013-KR.ogg",
+        "IT": "Vigil-013-IT.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Our partnership has been productive, Doctor. Amade manwould sell out anybody for his ambitions, but I can promise you one thing: you've bought my loyalty with yours.",
+      "links": [
+        {
+          "text": "made man",
+          "href": "https://en.wikipedia.org/wiki/Made_man"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-014.ogg",
+        "CN": "Vigil-014-CN.ogg",
+        "EN": "Vigil-014-EN.ogg",
+        "KR": "Vigil-014-KR.ogg",
+        "IT": "Vigil-014-IT.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Va bene.[note 5]Let's see if your plan is worthy of my work.",
+      "links": [
+        {
+          "text": "[note 5]",
+          "href": "#cite_note-5"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-015.ogg",
+        "CN": "Vigil-015-CN.ogg",
+        "EN": "Vigil-015-EN.ogg",
+        "KR": "Vigil-015-KR.ogg",
+        "IT": "Vigil-015-IT.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "The process is just as important as the end result. Don't go dying on me, ragazzi[note 6].",
+      "links": [
+        {
+          "text": "[note 6]",
+          "href": "#cite_note-6"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-016.ogg",
+        "CN": "Vigil-016-CN.ogg",
+        "EN": "Vigil-016-EN.ogg",
+        "KR": "Vigil-016-KR.ogg",
+        "IT": "Vigil-016-IT.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Remember, our purpose is not violence itself, but rather the victory it brings.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-017.ogg",
+        "CN": "Vigil-017-CN.ogg",
+        "EN": "Vigil-017-EN.ogg",
+        "KR": "Vigil-017-KR.ogg",
+        "IT": "Vigil-017-IT.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Chi morirà qui oggi?[note 7]",
+      "links": [
+        {
+          "text": "[note 7]",
+          "href": "#cite_note-7"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-018.ogg",
+        "CN": "Vigil-018-CN.ogg",
+        "EN": "Vigil-018-EN.ogg",
+        "KR": "Vigil-018-KR.ogg",
+        "IT": "Vigil-018-IT.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Ready to move.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-019.ogg",
+        "CN": "Vigil-019-CN.ogg",
+        "EN": "Vigil-019-EN.ogg",
+        "KR": "Vigil-019-KR.ogg",
+        "IT": "Vigil-019-IT.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "They'll be sleeping with the fins in no time.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-020.ogg",
+        "CN": "Vigil-020-CN.ogg",
+        "EN": "Vigil-020-EN.ogg",
+        "KR": "Vigil-020-KR.ogg",
+        "IT": "Vigil-020-IT.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Don't make this harder than it needs to be.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-021.ogg",
+        "CN": "Vigil-021-CN.ogg",
+        "EN": "Vigil-021-EN.ogg",
+        "KR": "Vigil-021-KR.ogg",
+        "IT": "Vigil-021-IT.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Anything outside the plan, I'll judge for myself.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-022.ogg",
+        "CN": "Vigil-022-CN.ogg",
+        "EN": "Vigil-022-EN.ogg",
+        "KR": "Vigil-022-KR.ogg",
+        "IT": "Vigil-022-IT.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Let's put an end to this show, pronto[note 8].",
+      "links": [
+        {
+          "text": "[note 8]",
+          "href": "#cite_note-8"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-023.ogg",
+        "CN": "Vigil-023-CN.ogg",
+        "EN": "Vigil-023-EN.ogg",
+        "KR": "Vigil-023-KR.ogg",
+        "IT": "Vigil-023-IT.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "And what purpose do you think your sacrifice will serve?",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-024.ogg",
+        "CN": "Vigil-024-CN.ogg",
+        "EN": "Vigil-024-EN.ogg",
+        "KR": "Vigil-024-KR.ogg",
+        "IT": "Vigil-024-IT.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "This hunt has dragged on for too long.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-025.ogg",
+        "CN": "Vigil-025-CN.ogg",
+        "EN": "Vigil-025-EN.ogg",
+        "KR": "Vigil-025-KR.ogg",
+        "IT": "Vigil-025-IT.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "A valiant struggle, but you won't get away.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-026.ogg",
+        "CN": "Vigil-026-CN.ogg",
+        "EN": "Vigil-026-EN.ogg",
+        "KR": "Vigil-026-KR.ogg",
+        "IT": "Vigil-026-IT.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "They have no idea who they're messing with. Bravo, Doctor. I was right to partner with you. I hope you'll find even more challenges for me in the next battle.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-027.ogg",
+        "CN": "Vigil-027-CN.ogg",
+        "EN": "Vigil-027-EN.ogg",
+        "KR": "Vigil-027-KR.ogg",
+        "IT": "Vigil-027-IT.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Are we done yet? What are you looking all smug for? These stronzi[note 9]have already wasted too much of our time.",
+      "links": [
+        {
+          "text": "[note 9]",
+          "href": "#cite_note-9"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-028.ogg",
+        "CN": "Vigil-028-CN.ogg",
+        "EN": "Vigil-028-EN.ogg",
+        "KR": "Vigil-028-KR.ogg",
+        "IT": "Vigil-028-IT.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "They're getting away. Do you need me to walk you through this? Ma dai![note 10]Whack them already.",
+      "links": [
+        {
+          "text": "[note 10]",
+          "href": "#cite_note-10"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-029.ogg",
+        "CN": "Vigil-029-CN.ogg",
+        "EN": "Vigil-029-EN.ogg",
+        "KR": "Vigil-029-KR.ogg",
+        "IT": "Vigil-029-IT.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "I'll take care of the evacuation. You get moving, fast. I hope this won't happen again, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-030.ogg",
+        "CN": "Vigil-030-CN.ogg",
+        "EN": "Vigil-030-EN.ogg",
+        "KR": "Vigil-030-KR.ogg",
+        "IT": "Vigil-030-IT.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Careful with the moisture-proofing. I hate the smell of rotting wood.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-031.ogg",
+        "CN": "Vigil-031-CN.ogg",
+        "EN": "Vigil-031-EN.ogg",
+        "KR": "Vigil-031-KR.ogg",
+        "IT": "Vigil-031-IT.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Are you having fun? Because I'm not.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-032.ogg",
+        "CN": "Vigil-032-CN.ogg",
+        "EN": "Vigil-032-EN.ogg",
+        "KR": "Vigil-032-KR.ogg",
+        "IT": "Vigil-032-IT.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Ah... Mi mancano le osterie di Siracusa.[note 11]Doctor, is the kitchen available right now? I can make something myself.",
+      "links": [
+        {
+          "text": "[note 11]",
+          "href": "#cite_note-11"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-033.ogg",
+        "CN": "Vigil-033-CN.ogg",
+        "EN": "Vigil-033-EN.ogg",
+        "KR": "Vigil-033-KR.ogg",
+        "IT": "Vigil-033-IT.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "None of these documents matter at all, Doctor. The only thing that matters is how you act.",
+      "links": [],
+      "audio": {
+        "JP": "Vigil-034.ogg",
+        "CN": "Vigil-034-CN.ogg",
+        "EN": "Vigil-034-EN.ogg",
+        "KR": "Vigil-034-KR.ogg",
+        "IT": "Vigil-034-IT.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Vigil-035.ogg",
+        "CN": "Vigil-035-CN.ogg",
+        "EN": "Vigil-035-EN.ogg",
+        "KR": "Vigil-035-KR.ogg",
+        "IT": "Vigil-035-IT.ogg"
+      }
+    }
+  }
+}

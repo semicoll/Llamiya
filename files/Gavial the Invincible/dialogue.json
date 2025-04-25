@@ -1,0 +1,432 @@
+{
+  "operator": "Gavial the Invincible",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Doctor, got any trouble for me to handle? What? Just haul these files for you?",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Gavial_the_Invincible-001.ogg",
+        "CN": "Gavial_the_Invincible-001-CN.ogg",
+        "EN": "Gavial_the_Invincible-001-EN.ogg",
+        "KR": "Gavial_the_Invincible-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Look, Doctor, real talk, this axe Zumama made for me turned out great, but I've still got the muscle memory for whacking with my staff. See, I keep it on me and everything. I'm here to save people, after all, not beat 'em up. Gotta work that out.",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-002.ogg",
+        "CN": "Gavial_the_Invincible-002-CN.ogg",
+        "EN": "Gavial_the_Invincible-002-EN.ogg",
+        "KR": "Gavial_the_Invincible-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Doctor, check it. Getting an extra weapon's kind a juggling act, so I found a solution. Trained my tail a little, and now, I can use it to hold my staff. Only downside is–I think my tail got thicker after all that exercise.",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-003.ogg",
+        "CN": "Gavial_the_Invincible-003-CN.ogg",
+        "EN": "Gavial_the_Invincible-003-EN.ogg",
+        "KR": "Gavial_the_Invincible-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "How's that, Doctor? Shoulders feel much better, right? I told you, controlling my strength's a piece of cake, it's just none of you wanna believe me. I've been practicing medicine for years now. It's about time you recognized it, don't you think?",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-004.ogg",
+        "CN": "Gavial_the_Invincible-004-CN.ogg",
+        "EN": "Gavial_the_Invincible-004-EN.ogg",
+        "KR": "Gavial_the_Invincible-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Oh, yeah, Doctor, it's been a while sinceyour last trip toAcahualla, right? You can go back with me, if you're free next time I go to check it out. I'm telling you, it's a party there now. Even I'm wondering what my home's gonna be like when I visit again.",
+      "links": [
+        {
+          "text": "your last trip to",
+          "href": "/wiki/Gavial_the_Great_Chief_Returns/Synopsis"
+        },
+        {
+          "text": "Acahualla",
+          "href": "/wiki/Acahualla"
+        }
+      ],
+      "audio": {
+        "JP": "Gavial_the_Invincible-005.ogg",
+        "CN": "Gavial_the_Invincible-005-CN.ogg",
+        "EN": "Gavial_the_Invincible-005-EN.ogg",
+        "KR": "Gavial_the_Invincible-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Doctor, you know there's times you can trust your intuition. You've got all theseOperatorswho trust you, see. Even with your eyes closed, your fists are still real strong–What? Compared to mine? Hmmm... I could suplex you before you even made it out of this office, so I think I'm the stronger one there, haha!",
+      "links": [
+        {
+          "text": "Operators",
+          "href": "/wiki/Operator"
+        }
+      ],
+      "audio": {
+        "JP": "Gavial_the_Invincible-006.ogg",
+        "CN": "Gavial_the_Invincible-006-CN.ogg",
+        "EN": "Gavial_the_Invincible-006-EN.ogg",
+        "KR": "Gavial_the_Invincible-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Zumamacan build machines,Tomimican manage people,Inamlooks like she makes a damned good lord ameer... Man, my friends rule! Heh, still, I've got my superior medical skills. Huh? What do you mean that's the one thing they'd argue?",
+      "links": [
+        {
+          "text": "Zumama",
+          "href": "/wiki/Eunectes"
+        },
+        {
+          "text": "Tomimi",
+          "href": "/wiki/Tomimi"
+        },
+        {
+          "text": "Inam",
+          "href": "/wiki/Inam"
+        }
+      ],
+      "audio": {
+        "JP": "Gavial_the_Invincible-007.ogg",
+        "CN": "Gavial_the_Invincible-007-CN.ogg",
+        "EN": "Gavial_the_Invincible-007-EN.ogg",
+        "KR": "Gavial_the_Invincible-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Y'know, Doctor, I never understood why you made everything so complicated all the time. Now, in a small sorta way, I get it. To put it in plaintalk, you're just finding ways to make your own fists stronger. So let me get real here, Doc. It's time you worked out with me.",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-008.ogg",
+        "CN": "Gavial_the_Invincible-008-CN.ogg",
+        "EN": "Gavial_the_Invincible-008-EN.ogg",
+        "KR": "Gavial_the_Invincible-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Zumama was right. All I gotta do is think about how to get stronger, how to get my fists out. So I've got an extremely serious question to ask you, Doctor... If I get Zumama to build us a two-seaterRaging Ironhide, do you wanna ride driver-side or passenger?",
+      "links": [
+        {
+          "text": "Raging Ironhide",
+          "href": "/wiki/Raging_Ironhide"
+        }
+      ],
+      "audio": {
+        "JP": "Gavial_the_Invincible-009.ogg",
+        "CN": "Gavial_the_Invincible-009-CN.ogg",
+        "EN": "Gavial_the_Invincible-009-EN.ogg",
+        "KR": "Gavial_the_Invincible-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Alright, gotta wake up the Doc in a minute. What's the play here...?",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-010.ogg",
+        "CN": "Gavial_the_Invincible-010-CN.ogg",
+        "EN": "Gavial_the_Invincible-010-EN.ogg",
+        "KR": "Gavial_the_Invincible-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Hold on, Doctor, I know what you wanna ask, and my files are still up in Medical. But, y'know, Dr. Kal'tsit's got a point. Doesn't reflect well on Medical to have a physician steamrolling around the front lines, so from now on, this is how I'm heading out.",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-011.ogg",
+        "CN": "Gavial_the_Invincible-011-CN.ogg",
+        "EN": "Gavial_the_Invincible-011-EN.ogg",
+        "KR": "Gavial_the_Invincible-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Yeah, pause it there. Wouldn't a quick axe chop do the job?",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-012.ogg",
+        "CN": "Gavial_the_Invincible-012-CN.ogg",
+        "EN": "Gavial_the_Invincible-012-EN.ogg",
+        "KR": "Gavial_the_Invincible-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "*sigh* Just doesn't give me the same kick I get being endorsed for my medical skills...",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-013.ogg",
+        "CN": "Gavial_the_Invincible-013-CN.ogg",
+        "EN": "Gavial_the_Invincible-013-EN.ogg",
+        "KR": "Gavial_the_Invincible-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Doctor, doesn't matter if I have my axe or my staff, I'm just hoping to accomplish a little something, make everyone else's lives that little bit happier. I've managed to do a bunch so far, and before my body gives out on me here, I've got plans to do a whole lot more.",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-014.ogg",
+        "CN": "Gavial_the_Invincible-014-CN.ogg",
+        "EN": "Gavial_the_Invincible-014-EN.ogg",
+        "KR": "Gavial_the_Invincible-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Leave the front to me. The rear's all yours!",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-015.ogg",
+        "CN": "Gavial_the_Invincible-015-CN.ogg",
+        "EN": "Gavial_the_Invincible-015-EN.ogg",
+        "KR": "Gavial_the_Invincible-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "You get to follow me, under one condition–you all stay alive and well. Got it?",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-016.ogg",
+        "CN": "Gavial_the_Invincible-016-CN.ogg",
+        "EN": "Gavial_the_Invincible-016-EN.ogg",
+        "KR": "Gavial_the_Invincible-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Heading out! Oh, yeah, speaking of which, I forgot to ask. What was our objective again?",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-017.ogg",
+        "CN": "Gavial_the_Invincible-017-CN.ogg",
+        "EN": "Gavial_the_Invincible-017-EN.ogg",
+        "KR": "Gavial_the_Invincible-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Alright, guys! Let's bring the noise!",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-018.ogg",
+        "CN": "Gavial_the_Invincible-018-CN.ogg",
+        "EN": "Gavial_the_Invincible-018-EN.ogg",
+        "KR": "Gavial_the_Invincible-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Doctor, leave the big guys to me!",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-019.ogg",
+        "CN": "Gavial_the_Invincible-019-CN.ogg",
+        "EN": "Gavial_the_Invincible-019-EN.ogg",
+        "KR": "Gavial_the_Invincible-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "I'll cover any holes in the front!",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-020.ogg",
+        "CN": "Gavial_the_Invincible-020-CN.ogg",
+        "EN": "Gavial_the_Invincible-020-EN.ogg",
+        "KR": "Gavial_the_Invincible-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Chill out, you've got me now!",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-021.ogg",
+        "CN": "Gavial_the_Invincible-021-CN.ogg",
+        "EN": "Gavial_the_Invincible-021-EN.ogg",
+        "KR": "Gavial_the_Invincible-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "The rest is up to you guys!",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-022.ogg",
+        "CN": "Gavial_the_Invincible-022-CN.ogg",
+        "EN": "Gavial_the_Invincible-022-EN.ogg",
+        "KR": "Gavial_the_Invincible-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Relax, it'll be over in an instant.",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-023.ogg",
+        "CN": "Gavial_the_Invincible-023-CN.ogg",
+        "EN": "Gavial_the_Invincible-023-EN.ogg",
+        "KR": "Gavial_the_Invincible-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Face me!",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-024.ogg",
+        "CN": "Gavial_the_Invincible-024-CN.ogg",
+        "EN": "Gavial_the_Invincible-024-EN.ogg",
+        "KR": "Gavial_the_Invincible-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Who's next?!",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-025.ogg",
+        "CN": "Gavial_the_Invincible-025-CN.ogg",
+        "EN": "Gavial_the_Invincible-025-EN.ogg",
+        "KR": "Gavial_the_Invincible-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Hell yeah!",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-026.ogg",
+        "CN": "Gavial_the_Invincible-026-CN.ogg",
+        "EN": "Gavial_the_Invincible-026-EN.ogg",
+        "KR": "Gavial_the_Invincible-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Uh... might be kind of weird to say at this point, Doctor, but completing a mission this hard on nothing but trust for others–that's pretty damn neat.",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-027.ogg",
+        "CN": "Gavial_the_Invincible-027-CN.ogg",
+        "EN": "Gavial_the_Invincible-027-EN.ogg",
+        "KR": "Gavial_the_Invincible-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Everybody good? Heh, we've got the next fight still waiting for us. Pump yourselves up! We're gonna crush this mission together!",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-028.ogg",
+        "CN": "Gavial_the_Invincible-028-CN.ogg",
+        "EN": "Gavial_the_Invincible-028-EN.ogg",
+        "KR": "Gavial_the_Invincible-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Don't panic. Doesn't matter if we're chasing 'em down watching for a counterattack, just leave it to me. I want anyone who needs it resting up!",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-029.ogg",
+        "CN": "Gavial_the_Invincible-029-CN.ogg",
+        "EN": "Gavial_the_Invincible-029-EN.ogg",
+        "KR": "Gavial_the_Invincible-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Doctor, hold on tight to my shoulders. Okay? Don't go blaming me if you fall off.",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-030.ogg",
+        "CN": "Gavial_the_Invincible-030-CN.ogg",
+        "EN": "Gavial_the_Invincible-030-EN.ogg",
+        "KR": "Gavial_the_Invincible-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "I guess I'll drop in at Medical before the mission.",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-031.ogg",
+        "CN": "Gavial_the_Invincible-031-CN.ogg",
+        "EN": "Gavial_the_Invincible-031-EN.ogg",
+        "KR": "Gavial_the_Invincible-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "What's the rush, Doc? Not like I'm gonna run away.",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-032.ogg",
+        "CN": "Gavial_the_Invincible-032-CN.ogg",
+        "EN": "Gavial_the_Invincible-032-EN.ogg",
+        "KR": "Gavial_the_Invincible-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "You look pretty free to me, Doctor. Just so happens I am too. Wanna take a walk?",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-033.ogg",
+        "CN": "Gavial_the_Invincible-033-CN.ogg",
+        "EN": "Gavial_the_Invincible-033-EN.ogg",
+        "KR": "Gavial_the_Invincible-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor! ...Oops, my bad. Didn't bruise you, did I?",
+      "links": [],
+      "audio": {
+        "JP": "Gavial_the_Invincible-034.ogg",
+        "CN": "Gavial_the_Invincible-034-CN.ogg",
+        "EN": "Gavial_the_Invincible-034-EN.ogg",
+        "KR": "Gavial_the_Invincible-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Gavial_the_Invincible-035.ogg",
+        "CN": "Gavial_the_Invincible-035-CN.ogg",
+        "EN": "Gavial_the_Invincible-035-EN.ogg",
+        "KR": "Gavial_the_Invincible-035-KR.ogg"
+      }
+    }
+  }
+}

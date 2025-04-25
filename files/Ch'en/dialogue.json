@@ -1,0 +1,435 @@
+{
+  "operator": "Ch'en",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I will be your bodyguard,Doctor.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-001.ogg",
+        "CN": "Ch%27en-001-CN.ogg",
+        "EN": "Ch%27en-001-EN.ogg",
+        "KR": "Ch%27en-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "I've always had my suspicions aboutRhodes Island. Still do.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-002.ogg",
+        "CN": "Ch%27en-002-CN.ogg",
+        "EN": "Ch%27en-002-EN.ogg",
+        "KR": "Ch%27en-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Why are you staring at me? Nothing better to do?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-003.ogg",
+        "CN": "Ch%27en-003-CN.ogg",
+        "EN": "Ch%27en-003-EN.ogg",
+        "KR": "Ch%27en-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Hmph.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-004.ogg",
+        "CN": "Ch%27en-004-CN.ogg",
+        "EN": "Ch%27en-004-EN.ogg",
+        "KR": "Ch%27en-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "I know every nook and cranny ofLungmen. The docks, the neon signs, the winding paths, I can see them all in my mind, clear as day. I'll never forget them.",
+      "links": [
+        {
+          "text": "Lungmen",
+          "href": "/wiki/Lungmen"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-005.ogg",
+        "CN": "Ch%27en-005-CN.ogg",
+        "EN": "Ch%27en-005-EN.ogg",
+        "KR": "Ch%27en-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Things around here have deteriorated lately. I'll be on guard, but I'll still need you to be careful.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-006.ogg",
+        "CN": "Ch%27en-006-CN.ogg",
+        "EN": "Ch%27en-006-EN.ogg",
+        "KR": "Ch%27en-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Maybe one daythat manwill take note of my efforts, but until then...",
+      "links": [
+        {
+          "text": "that man",
+          "href": "/wiki/Wei_Yenwu"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-007.ogg",
+        "CN": "Ch%27en-007-CN.ogg",
+        "EN": "Ch%27en-007-EN.ogg",
+        "KR": "Ch%27en-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Amiyatrusts you completely. When I see you two together, it makes me wonder, what if I had someone like that by my side...",
+      "links": [
+        {
+          "text": "Amiya",
+          "href": "/wiki/Amiya"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-008.ogg",
+        "CN": "Ch%27en-008-CN.ogg",
+        "EN": "Ch%27en-008-EN.ogg",
+        "KR": "Ch%27en-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "I've... I've never been able to rely much on anyone, not even...",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-009.ogg",
+        "CN": "Ch%27en-009-CN.ogg",
+        "EN": "Ch%27en-009-EN.ogg",
+        "KR": "Ch%27en-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Doctor? You fell asleep? Hmph. No nerves to keep you awake, then.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-010.ogg",
+        "CN": "Ch%27en-010-CN.ogg",
+        "EN": "Ch%27en-010-EN.ogg",
+        "KR": "Ch%27en-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Ch'en. Leader of theL.G.D.'s Special Inspection Unit. For my own reasons, I'll be joining you for a while. Seeing as we're already well acquainted from our prior work together, I'll ask you to take me to my workplace now.",
+      "links": [
+        {
+          "text": "L.G.D.",
+          "href": "/wiki/Lungmen_Guard_Department"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-011.ogg",
+        "CN": "Ch%27en-011-CN.ogg",
+        "EN": "Ch%27en-011-EN.ogg",
+        "KR": "Ch%27en-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "It's all in the service of more efficient operations.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-012.ogg",
+        "CN": "Ch%27en-012-CN.ogg",
+        "EN": "Ch%27en-012-EN.ogg",
+        "KR": "Ch%27en-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "A promotion? I've been through these things before.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-013.ogg",
+        "CN": "Ch%27en-013-CN.ogg",
+        "EN": "Ch%27en-013-EN.ogg",
+        "KR": "Ch%27en-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Roger. Just give me all the missions your usualOperatorscan't handle.",
+      "links": [
+        {
+          "text": "Operators",
+          "href": "/wiki/Operator"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-014.ogg",
+        "CN": "Ch%27en-014-CN.ogg",
+        "EN": "Ch%27en-014-EN.ogg",
+        "KR": "Ch%27en-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "No problem.[note 1]",
+      "links": [
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-015.ogg",
+        "CN": "Ch%27en-015-CN.ogg",
+        "EN": "Ch%27en-015-EN.ogg",
+        "KR": "Ch%27en-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Listen up! We'll be much more efficient if we work together.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-016.ogg",
+        "CN": "Ch%27en-016-CN.ogg",
+        "EN": "Ch%27en-016-EN.ogg",
+        "KR": "Ch%27en-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Everyone! Prepare for battle!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-017.ogg",
+        "CN": "Ch%27en-017-CN.ogg",
+        "EN": "Ch%27en-017-EN.ogg",
+        "KR": "Ch%27en-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Ready? Stick to the plan.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-018.ogg",
+        "CN": "Ch%27en-018-CN.ogg",
+        "EN": "Ch%27en-018-EN.ogg",
+        "KR": "Ch%27en-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "This is Ch'en.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-019.ogg",
+        "CN": "Ch%27en-019-CN.ogg",
+        "EN": "Ch%27en-019-EN.ogg",
+        "KR": "Ch%27en-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Ready to move.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-020.ogg",
+        "CN": "Ch%27en-020-CN.ogg",
+        "EN": "Ch%27en-020-EN.ogg",
+        "KR": "Ch%27en-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Moving out!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-021.ogg",
+        "CN": "Ch%27en-021-CN.ogg",
+        "EN": "Ch%27en-021-EN.ogg",
+        "KR": "Ch%27en-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Take them out fast.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-022.ogg",
+        "CN": "Ch%27en-022-CN.ogg",
+        "EN": "Ch%27en-022-EN.ogg",
+        "KR": "Ch%27en-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Slash!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-023.ogg",
+        "CN": "Ch%27en-023-CN.ogg",
+        "EN": "Ch%27en-023-EN.ogg",
+        "KR": "Ch%27en-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Flash!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-024.ogg",
+        "CN": "Ch%27en-024-CN.ogg",
+        "EN": "Ch%27en-024-EN.ogg",
+        "KR": "Ch%27en-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Drop your weapon!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-025.ogg",
+        "CN": "Ch%27en-025-CN.ogg",
+        "EN": "Ch%27en-025-EN.ogg",
+        "KR": "Ch%27en-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Don't force my hand!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-026.ogg",
+        "CN": "Ch%27en-026-CN.ogg",
+        "EN": "Ch%27en-026-EN.ogg",
+        "KR": "Ch%27en-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Your evil must be stopped. I will do so by any means necessary.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-027.ogg",
+        "CN": "Ch%27en-027-CN.ogg",
+        "EN": "Ch%27en-027-EN.ogg",
+        "KR": "Ch%27en-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Where did you find the courage to challenge me?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-028.ogg",
+        "CN": "Ch%27en-028-CN.ogg",
+        "EN": "Ch%27en-028-EN.ogg",
+        "KR": "Ch%27en-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "The wounded wait here for a medivac. The rest of you, stay on guard.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-029.ogg",
+        "CN": "Ch%27en-029-CN.ogg",
+        "EN": "Ch%27en-029-EN.ogg",
+        "KR": "Ch%27en-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Tactical retreat. Don't break formation!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-030.ogg",
+        "CN": "Ch%27en-030-CN.ogg",
+        "EN": "Ch%27en-030-EN.ogg",
+        "KR": "Ch%27en-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "So this is Rhodes Island's base? Bigger than I expected.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-031.ogg",
+        "CN": "Ch%27en-031-CN.ogg",
+        "EN": "Ch%27en-031-EN.ogg",
+        "KR": "Ch%27en-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Hey! What are you doing!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-032.ogg",
+        "CN": "Ch%27en-032-CN.ogg",
+        "EN": "Ch%27en-032-EN.ogg",
+        "KR": "Ch%27en-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor, you're in a good mood. Is it because that operation went well? Same here.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-033.ogg",
+        "CN": "Ch%27en-033-CN.ogg",
+        "EN": "Ch%27en-033-EN.ogg",
+        "KR": "Ch%27en-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Oh, it's you, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-034.ogg",
+        "CN": "Ch%27en-034-CN.ogg",
+        "EN": "Ch%27en-034-EN.ogg",
+        "KR": "Ch%27en-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ch%27en-035.ogg",
+        "CN": "Ch%27en-035-CN.ogg",
+        "EN": "Ch%27en-035-EN.ogg",
+        "KR": "Ch%27en-035-KR.ogg"
+      }
+    }
+  }
+}

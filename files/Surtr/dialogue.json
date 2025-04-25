@@ -1,0 +1,410 @@
+{
+  "operator": "Surtr",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "You've failed to complete the tasks within your purview, and are now asking me for help?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-001.ogg",
+        "CN": "Surtr-001-CN.ogg",
+        "EN": "Surtr-001-EN.ogg",
+        "KR": "Surtr-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Don't expect me to instruct others inOriginium Arts. I have no interest in wasting time with plebeians.",
+      "links": [
+        {
+          "text": "Originium Arts",
+          "href": "/wiki/Originium_Arts"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-002.ogg",
+        "CN": "Surtr-002-CN.ogg",
+        "EN": "Surtr-002-EN.ogg",
+        "KR": "Surtr-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "I'm not here because I have to, but because I want to.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-003.ogg",
+        "CN": "Surtr-003-CN.ogg",
+        "EN": "Surtr-003-EN.ogg",
+        "KR": "Surtr-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "The people I hate most are the ones who ask too many questions. I hope you are not one of them.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-004.ogg",
+        "CN": "Surtr-004-CN.ogg",
+        "EN": "Surtr-004-EN.ogg",
+        "KR": "Surtr-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "It appears that you have gained some understanding of my Arts by now. I do hope you are aware of the danger as well.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-005.ogg",
+        "CN": "Surtr-005-CN.ogg",
+        "EN": "Surtr-005-EN.ogg",
+        "KR": "Surtr-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Before I realized it, these Arts and this staff had already become my steadfast companions. I do not remember when I gained such power. Of course, I do not actually care.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-006.ogg",
+        "CN": "Surtr-006-CN.ogg",
+        "EN": "Surtr-006-EN.ogg",
+        "KR": "Surtr-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "I possess all kinds of memories. I don't know from whence did they came, nor do I know which truly belong to me. To discover the source of my memories, I have been traveling back and forth, from country to country, and now I have arrived atRhodes Island.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-007.ogg",
+        "CN": "Surtr-007-CN.ogg",
+        "EN": "Surtr-007-EN.ogg",
+        "KR": "Surtr-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "There is truly nothing better than an ice-cream to calm me down when I am absorbed in chaotic memories. I always relied on ice-cream, when I was alone.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-008.ogg",
+        "CN": "Surtr-008-CN.ogg",
+        "EN": "Surtr-008-EN.ogg",
+        "KR": "Surtr-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "These memories of Rhodes Island are completely different from those before. They have a sense of realism about them. For the first time, I'm able to feel that I am truly myself. All of this is thanks to you, and all of Rhodes Island. ...What? I am capable of giving thanks where it is deserved, all right?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-009.ogg",
+        "CN": "Surtr-009-CN.ogg",
+        "EN": "Surtr-009-EN.ogg",
+        "KR": "Surtr-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Tch... what a waste of time.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-010.ogg",
+        "CN": "Surtr-010-CN.ogg",
+        "EN": "Surtr-010-EN.ogg",
+        "KR": "Surtr-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I am Surtr. Are you theDoctorthey mentioned? I will be working at Rhodes Island, starting today. I hope that you will not bore me too much.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-011.ogg",
+        "CN": "Surtr-011-CN.ogg",
+        "EN": "Surtr-011-EN.ogg",
+        "KR": "Surtr-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "That's it?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-012.ogg",
+        "CN": "Surtr-012-CN.ogg",
+        "EN": "Surtr-012-EN.ogg",
+        "KR": "Surtr-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Have you started to value me after witnessing my power?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-013.ogg",
+        "CN": "Surtr-013-CN.ogg",
+        "EN": "Surtr-013-EN.ogg",
+        "KR": "Surtr-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "You value not my power, but me myself? Then I shall put in the appropriate level of effort to repay you.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-014.ogg",
+        "CN": "Surtr-014-CN.ogg",
+        "EN": "Surtr-014-EN.ogg",
+        "KR": "Surtr-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Am I needed now?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-015.ogg",
+        "CN": "Surtr-015-CN.ogg",
+        "EN": "Surtr-015-EN.ogg",
+        "KR": "Surtr-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I alone am enough.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-016.ogg",
+        "CN": "Surtr-016-CN.ogg",
+        "EN": "Surtr-016-EN.ogg",
+        "KR": "Surtr-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Let's go.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-017.ogg",
+        "CN": "Surtr-017-CN.ogg",
+        "EN": "Surtr-017-EN.ogg",
+        "KR": "Surtr-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Are they the ones to be eliminated?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-018.ogg",
+        "CN": "Surtr-018-CN.ogg",
+        "EN": "Surtr-018-EN.ogg",
+        "KR": "Surtr-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Do not order me around.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-019.ogg",
+        "CN": "Surtr-019-CN.ogg",
+        "EN": "Surtr-019-EN.ogg",
+        "KR": "Surtr-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Enough, I understand.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-020.ogg",
+        "CN": "Surtr-020-CN.ogg",
+        "EN": "Surtr-020-EN.ogg",
+        "KR": "Surtr-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Not a bad position.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-021.ogg",
+        "CN": "Surtr-021-CN.ogg",
+        "EN": "Surtr-021-EN.ogg",
+        "KR": "Surtr-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "I'm on it!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-022.ogg",
+        "CN": "Surtr-022-CN.ogg",
+        "EN": "Surtr-022-EN.ogg",
+        "KR": "Surtr-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Die!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-023.ogg",
+        "CN": "Surtr-023-CN.ogg",
+        "EN": "Surtr-023-EN.ogg",
+        "KR": "Surtr-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Don't even think about running!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-024.ogg",
+        "CN": "Surtr-024-CN.ogg",
+        "EN": "Surtr-024-EN.ogg",
+        "KR": "Surtr-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Laevatain!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-025.ogg",
+        "CN": "Surtr-025-CN.ogg",
+        "EN": "Surtr-025-EN.ogg",
+        "KR": "Surtr-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Foolish fools.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-026.ogg",
+        "CN": "Surtr-026-CN.ogg",
+        "EN": "Surtr-026-EN.ogg",
+        "KR": "Surtr-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Hmph. Piece of cake.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-027.ogg",
+        "CN": "Surtr-027-CN.ogg",
+        "EN": "Surtr-027-EN.ogg",
+        "KR": "Surtr-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Naturally.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-028.ogg",
+        "CN": "Surtr-028-CN.ogg",
+        "EN": "Surtr-028-EN.ogg",
+        "KR": "Surtr-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Can you not even do such a simple thing?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-029.ogg",
+        "CN": "Surtr-029-CN.ogg",
+        "EN": "Surtr-029-EN.ogg",
+        "KR": "Surtr-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "If you can do nothing to help, just retreat! I'll handle this.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-030.ogg",
+        "CN": "Surtr-030-CN.ogg",
+        "EN": "Surtr-030-EN.ogg",
+        "KR": "Surtr-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "An acceptably clean room, I suppose.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-031.ogg",
+        "CN": "Surtr-031-CN.ogg",
+        "EN": "Surtr-031-EN.ogg",
+        "KR": "Surtr-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "I know how to walk on my own.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-032.ogg",
+        "CN": "Surtr-032-CN.ogg",
+        "EN": "Surtr-032-EN.ogg",
+        "KR": "Surtr-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Silence.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-033.ogg",
+        "CN": "Surtr-033-CN.ogg",
+        "EN": "Surtr-033-EN.ogg",
+        "KR": "Surtr-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Oh, here you are.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-034.ogg",
+        "CN": "Surtr-034-CN.ogg",
+        "EN": "Surtr-034-EN.ogg",
+        "KR": "Surtr-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Surtr-035.ogg",
+        "CN": "Surtr-035-CN.ogg",
+        "EN": "Surtr-035-EN.ogg",
+        "KR": "Surtr-035-KR.ogg"
+      }
+    }
+  }
+}

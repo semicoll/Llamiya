@@ -1,0 +1,460 @@
+{
+  "operator": "Lin",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I can offer you protection, and even handle a little business for you. But you'd better prove it's worth my time.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-001.ogg",
+        "CN": "Lin-001-CN.ogg",
+        "EN": "Lin-001-EN.ogg",
+        "KR": "Lin-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Rhodes Island's work inLungmenwill remain confidential, but I know that your actions saved lives. I've spent a long time trying to gauge just how trustworthy Rhodes Island really is. As for my conclusion, I trust you had no trouble setting up your office in Lungmen?",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        },
+        {
+          "text": "Lungmen",
+          "href": "/wiki/Lungmen"
+        }
+      ],
+      "audio": {
+        "JP": "Lin-002.ogg",
+        "CN": "Lin-002-CN.ogg",
+        "EN": "Lin-002-EN.ogg",
+        "KR": "Lin-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "I'm sure you've been working with Mr.Lee. You can trust the information you get from him, but there are limits to what a private investigator can do. If you need something outside his purview, you come to me. Don't worry, my methods won't send any trouble Rhodes Island's way.",
+      "links": [
+        {
+          "text": "Lee",
+          "href": "/wiki/Lee"
+        }
+      ],
+      "audio": {
+        "JP": "Lin-003.ogg",
+        "CN": "Lin-003-CN.ogg",
+        "EN": "Lin-003-EN.ogg",
+        "KR": "Lin-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "I just sawSwirehere. It surprised me how she was working so hands-on. If we'd followed the dreams we had as kids, she would've become the head of Lungmen's Chamber of Commerce, and I might be a university lecturer right now. You never know...[note 1]Hm? No, I don't need to say hello. Given her status, it would be inappropriate for us to be seen in public.",
+      "links": [
+        {
+          "text": "Swire",
+          "href": "/wiki/Swire"
+        },
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {
+        "JP": "Lin-004.ogg",
+        "CN": "Lin-004-CN.ogg",
+        "EN": "Lin-004-EN.ogg",
+        "KR": "Lin-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "The coatmy fatheralways wears is a birthday present I gave him. I'm so used to the dignified airs he puts on, sometimes I even forget that... underneath the coat is an old man growing frailer by the day. Sooner or later, someone will have to stand up and take the weight off his shoulders.",
+      "links": [
+        {
+          "text": "my father",
+          "href": "/wiki/Rat_King"
+        }
+      ],
+      "audio": {
+        "JP": "Lin-005.ogg",
+        "CN": "Lin-005-CN.ogg",
+        "EN": "Lin-005-EN.ogg",
+        "KR": "Lin-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "To certain people, the slums are a problem that needs to be solved. To others, this is their home. The shift from \"Slums\" to \"Downtown\" could take generations to settle. I don't know how far I can carry it myself, but I'll do what I can.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-006.ogg",
+        "CN": "Lin-006-CN.ogg",
+        "EN": "Lin-006-EN.ogg",
+        "KR": "Lin-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "I've never seenCh'enonboard Rhodes Island. She has things to do, doesn't she? Hmph, hardly see any merit in recruiting operators like her. It's true that we don't get along very well. But I must admit, she is the one who showed me a different path.",
+      "links": [
+        {
+          "text": "Ch'en",
+          "href": "/wiki/Ch%27en"
+        }
+      ],
+      "audio": {
+        "JP": "Lin-007.ogg",
+        "CN": "Lin-007-CN.ogg",
+        "EN": "Lin-007-EN.ogg",
+        "KR": "Lin-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "I had nothing to do, so I trimmed the potted plant on your desk a little. No matter how busy life is, we can't forget our aesthetics. Why are you so surprised? The four arts, flower arrangement, tea ceremony... They were all part of my education. You would never have guessed? Whatever.[note 2]",
+      "links": [
+        {
+          "text": "[note 2]",
+          "href": "#cite_note-2"
+        }
+      ],
+      "audio": {
+        "JP": "Lin-008.ogg",
+        "CN": "Lin-008-CN.ogg",
+        "EN": "Lin-008-EN.ogg",
+        "KR": "Lin-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "The nightscape here is very different from my childhood memories. Lungmen may be advancing by the day, but it still has its unlit corners... How about we go for a drink together? You can't truly know a city until you've visited its streets during the wee hours.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-009.ogg",
+        "CN": "Lin-009-CN.ogg",
+        "EN": "Lin-009-EN.ogg",
+        "KR": "Lin-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "You can't let them see you exhausted, can you...?",
+      "links": [],
+      "audio": {
+        "JP": "Lin-010.ogg",
+        "CN": "Lin-010-CN.ogg",
+        "EN": "Lin-010-EN.ogg",
+        "KR": "Lin-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "You and I have probablycrossed paths before,Doctor, but we finally found time for a formal introduction. There'll be much more done on the problems theInfectedface in the Lungmen slums, now that we're working in direct communication.",
+      "links": [
+        {
+          "text": "crossed paths before",
+          "href": "/wiki/Episode_06"
+        },
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        },
+        {
+          "text": "Infected",
+          "href": "/wiki/Infected"
+        }
+      ],
+      "audio": {
+        "JP": "Lin-011.ogg",
+        "CN": "Lin-011-CN.ogg",
+        "EN": "Lin-011-EN.ogg",
+        "KR": "Lin-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "There are many ways to deal with trouble, and direct confrontation is usually my last choice.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-012.ogg",
+        "CN": "Lin-012-CN.ogg",
+        "EN": "Lin-012-EN.ogg",
+        "KR": "Lin-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "I sometimes attend ceremonies like these just to make things go smoother. I don't remember how many titles I have. But in the end, I always have to return to the shadows.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-013.ogg",
+        "CN": "Lin-013-CN.ogg",
+        "EN": "Lin-013-EN.ogg",
+        "KR": "Lin-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "I know what I'm doing, and that's all that matters. At the end of the day, not all honors need to be made public, and not all roads need to be trod together.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-014.ogg",
+        "CN": "Lin-014-CN.ogg",
+        "EN": "Lin-014-EN.ogg",
+        "KR": "Lin-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "You tell me your ends, just don't ask me my means.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-015.ogg",
+        "CN": "Lin-015-CN.ogg",
+        "EN": "Lin-015-EN.ogg",
+        "KR": "Lin-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "If any of you have any doubts about the target, this is your last chance to pull out.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-016.ogg",
+        "CN": "Lin-016-CN.ogg",
+        "EN": "Lin-016-EN.ogg",
+        "KR": "Lin-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "I hope I won't have to explain to you what we mean by \"necessary methods.\"",
+      "links": [],
+      "audio": {
+        "JP": "Lin-017.ogg",
+        "CN": "Lin-017-CN.ogg",
+        "EN": "Lin-017-EN.ogg",
+        "KR": "Lin-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "It's time to make an example. They'll see what happens when they break the rules.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-018.ogg",
+        "CN": "Lin-018-CN.ogg",
+        "EN": "Lin-018-EN.ogg",
+        "KR": "Lin-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Got it.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-019.ogg",
+        "CN": "Lin-019-CN.ogg",
+        "EN": "Lin-019-EN.ogg",
+        "KR": "Lin-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Say no more.[note 3]",
+      "links": [
+        {
+          "text": "[note 3]",
+          "href": "#cite_note-3"
+        }
+      ],
+      "audio": {
+        "JP": "Lin-020.ogg",
+        "CN": "Lin-020-CN.ogg",
+        "EN": "Lin-020-EN.ogg",
+        "KR": "Lin-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Watch the shadow behind you.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-021.ogg",
+        "CN": "Lin-021-CN.ogg",
+        "EN": "Lin-021-EN.ogg",
+        "KR": "Lin-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Let's put them six feet under.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-022.ogg",
+        "CN": "Lin-022-CN.ogg",
+        "EN": "Lin-022-EN.ogg",
+        "KR": "Lin-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "You didn't think. So this is what happens when you cross the line.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-023.ogg",
+        "CN": "Lin-023-CN.ogg",
+        "EN": "Lin-023-EN.ogg",
+        "KR": "Lin-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "You want to talk? Too late for that.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-024.ogg",
+        "CN": "Lin-024-CN.ogg",
+        "EN": "Lin-024-EN.ogg",
+        "KR": "Lin-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Give me a reason to let you go. Don't have one? What a pity.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-025.ogg",
+        "CN": "Lin-025-CN.ogg",
+        "EN": "Lin-025-EN.ogg",
+        "KR": "Lin-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Shatter into pieces.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-026.ogg",
+        "CN": "Lin-026-CN.ogg",
+        "EN": "Lin-026-EN.ogg",
+        "KR": "Lin-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "It better remain a secret forever.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-027.ogg",
+        "CN": "Lin-027-CN.ogg",
+        "EN": "Lin-027-EN.ogg",
+        "KR": "Lin-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Clean, decent. No one will ever find their remains.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-028.ogg",
+        "CN": "Lin-028-CN.ogg",
+        "EN": "Lin-028-EN.ogg",
+        "KR": "Lin-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "The situation is still salvageable. Leave the rest to me.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-029.ogg",
+        "CN": "Lin-029-CN.ogg",
+        "EN": "Lin-029-EN.ogg",
+        "KR": "Lin-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "There is always a way to correct a mistake. Don't let anger get the best of you.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-030.ogg",
+        "CN": "Lin-030-CN.ogg",
+        "EN": "Lin-030-EN.ogg",
+        "KR": "Lin-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "I don't need too much room here, but this place could use some decoration.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-031.ogg",
+        "CN": "Lin-031-CN.ogg",
+        "EN": "Lin-031-EN.ogg",
+        "KR": "Lin-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "You'll need an explanation for what you just did.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-032.ogg",
+        "CN": "Lin-032-CN.ogg",
+        "EN": "Lin-032-EN.ogg",
+        "KR": "Lin-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Boh loh yau,[note 4]fresh out of the oven, want one?",
+      "links": [
+        {
+          "text": "Boh loh yau",
+          "href": "https://en.wikipedia.org/wiki/Pineapple_bun"
+        },
+        {
+          "text": "[note 4]",
+          "href": "#cite_note-4"
+        }
+      ],
+      "audio": {
+        "JP": "Lin-033.ogg",
+        "CN": "Lin-033-CN.ogg",
+        "EN": "Lin-033-EN.ogg",
+        "KR": "Lin-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "I hope you didn't run into any trouble, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Lin-034.ogg",
+        "CN": "Lin-034-CN.ogg",
+        "EN": "Lin-034-EN.ogg",
+        "KR": "Lin-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Lin-035.ogg",
+        "CN": "Lin-035-CN.ogg",
+        "EN": "Lin-035-EN.ogg",
+        "KR": "Lin-035-KR.ogg"
+      }
+    }
+  }
+}

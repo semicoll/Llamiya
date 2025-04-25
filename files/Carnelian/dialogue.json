@@ -1,0 +1,424 @@
+{
+  "operator": "Carnelian",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "You pulled an all-nighter, and you're still not done? Sheesh, what should I do with you...? How much do you have left? I'll help. You should get some rest. Work on your time management next time.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-001.ogg",
+        "CN": "Carnelian-001-CN.ogg",
+        "EN": "Carnelian-001-EN.ogg",
+        "KR": "Carnelian-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "I can confirm we've received this shipment of medicine without issues. The quantities are right. As for the payment, could you please letKal'tsitknow I'll take care of that pain-in-the-neck mission for her.",
+      "links": [
+        {
+          "text": "Kal'tsit",
+          "href": "/wiki/Kal%27tsit"
+        }
+      ],
+      "audio": {
+        "JP": "Carnelian-002.ogg",
+        "CN": "Carnelian-002-CN.ogg",
+        "EN": "Carnelian-002-EN.ogg",
+        "KR": "Carnelian-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Count Hohenlohe, some call him the Hyacinth Count. The way I see it, he's quite a handful with that personality of his. I'm serving as attendant to thisLethainiannoble family because of some trouble. What trouble, you ask? Hm... Let's keep this a secret for the time being.",
+      "links": [
+        {
+          "text": "Lethainian",
+          "href": "/wiki/Leithanien"
+        }
+      ],
+      "audio": {
+        "JP": "Carnelian-003.ogg",
+        "CN": "Carnelian-003-CN.ogg",
+        "EN": "Carnelian-003-EN.ogg",
+        "KR": "Carnelian-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "That little squirt... Her codename here is uh...Beeswax? Looks like she tripped in the hallway this morning. Can she really cut it? She sure knows how to keep her sister worrying.",
+      "links": [
+        {
+          "text": "Beeswax",
+          "href": "/wiki/Beeswax"
+        }
+      ],
+      "audio": {
+        "JP": "Carnelian-004.ogg",
+        "CN": "Carnelian-004-CN.ogg",
+        "EN": "Carnelian-004-EN.ogg",
+        "KR": "Carnelian-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Rhodes Islandprovides what the count and I need. In return, I take care of Rhodes Island's troubles in Leithanien. This is what you call a win-win situation, isn't it? Come, shake my hand. This is the beginning of a beautiful friendship,Doctor.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        },
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Carnelian-005.ogg",
+        "CN": "Carnelian-005-CN.ogg",
+        "EN": "Carnelian-005-EN.ogg",
+        "KR": "Carnelian-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "The Leithaniens' research onArtshas far exceeded my expectations, and their architecture, music, and education... All are worthy of study. One day, I will bring all this back home. Yeah, and I might bring something else along, though.",
+      "links": [
+        {
+          "text": "Arts",
+          "href": "/wiki/Arts"
+        }
+      ],
+      "audio": {
+        "JP": "Carnelian-006.ogg",
+        "CN": "Carnelian-006-CN.ogg",
+        "EN": "Carnelian-006-EN.ogg",
+        "KR": "Carnelian-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "The longer we acclimate to an environment and the different people there, the harder it will get for us to free ourselves, and eventually we'll be made to fit its mold... Don't you agree, Doctor? Well, that's not going to get me tied down here. Not unless I allow it.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-007.ogg",
+        "CN": "Carnelian-007-CN.ogg",
+        "EN": "Carnelian-007-EN.ogg",
+        "KR": "Carnelian-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "I'm sure the nobles think of me as an odd thorn in their side. No matter. I don't mind. Though I'd rather keep all this trouble a secret from Beeswax. It's too dangerous... Well, now that I mention it, I can't quite stop worrying about you, either.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-008.ogg",
+        "CN": "Carnelian-008-CN.ogg",
+        "EN": "Carnelian-008-EN.ogg",
+        "KR": "Carnelian-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "If it's at all possible, I'd rather stay out of the nobles' bickering. Do you know how much I have to worry about each and every day with all the chaperone work and missions I have? Maybe I should talk the count into letting me hop over here full time. I'm counting on you to help me when the time comes, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-009.ogg",
+        "CN": "Carnelian-009-CN.ogg",
+        "EN": "Carnelian-009-EN.ogg",
+        "KR": "Carnelian-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "My little sister sometimes talks in her sleep. This one time, I even caught her talking bad about me. Heheh, Doctor, do you know what you said in your sleep the other day?",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-010.ogg",
+        "CN": "Carnelian-010-CN.ogg",
+        "EN": "Carnelian-010-EN.ogg",
+        "KR": "Carnelian-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Hello, you must be the Doctor? I'm Carnelian, attendant to Count Hohenlohe... Oh, I'm just a normal operator here at Rhodes Island. Watch what you say around my sister, okay?",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-011.ogg",
+        "CN": "Carnelian-011-CN.ogg",
+        "EN": "Carnelian-011-EN.ogg",
+        "KR": "Carnelian-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "I see. This is worth studying.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-012.ogg",
+        "CN": "Carnelian-012-CN.ogg",
+        "EN": "Carnelian-012-EN.ogg",
+        "KR": "Carnelian-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "There is no need, but I appreciate your sentiment. Thank you.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-013.ogg",
+        "CN": "Carnelian-013-CN.ogg",
+        "EN": "Carnelian-013-EN.ogg",
+        "KR": "Carnelian-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "You see, there's a huge number of people and things that I can't stop worrying about, and that number is growing by the day. It's been a while since I was able to do as I please, but since you're up for it... Well, let's put on a show.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-014.ogg",
+        "CN": "Carnelian-014-CN.ogg",
+        "EN": "Carnelian-014-EN.ogg",
+        "KR": "Carnelian-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "This is not part of our agreement, but fine. I'm happy to help.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-015.ogg",
+        "CN": "Carnelian-015-CN.ogg",
+        "EN": "Carnelian-015-EN.ogg",
+        "KR": "Carnelian-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Don't worry. I'll bring everyone back.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-016.ogg",
+        "CN": "Carnelian-016-CN.ogg",
+        "EN": "Carnelian-016-EN.ogg",
+        "KR": "Carnelian-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Follow the plan, everyone!",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-017.ogg",
+        "CN": "Carnelian-017-CN.ogg",
+        "EN": "Carnelian-017-EN.ogg",
+        "KR": "Carnelian-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Elegance and etiquette are the way of nobility. Not mine.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-018.ogg",
+        "CN": "Carnelian-018-CN.ogg",
+        "EN": "Carnelian-018-EN.ogg",
+        "KR": "Carnelian-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "As you wish.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-019.ogg",
+        "CN": "Carnelian-019-CN.ogg",
+        "EN": "Carnelian-019-EN.ogg",
+        "KR": "Carnelian-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Between a refined combat style or something more direct, which do you prefer?",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-020.ogg",
+        "CN": "Carnelian-020-CN.ogg",
+        "EN": "Carnelian-020-EN.ogg",
+        "KR": "Carnelian-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "It's been a long time since my blood boiled like this.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-021.ogg",
+        "CN": "Carnelian-021-CN.ogg",
+        "EN": "Carnelian-021-EN.ogg",
+        "KR": "Carnelian-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Greetings... Let's forgo the bothersome formalities and get this thing started.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-022.ogg",
+        "CN": "Carnelian-022-CN.ogg",
+        "EN": "Carnelian-022-EN.ogg",
+        "KR": "Carnelian-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Gnaw them to shreds and drink their blood!",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-023.ogg",
+        "CN": "Carnelian-023-CN.ogg",
+        "EN": "Carnelian-023-EN.ogg",
+        "KR": "Carnelian-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Run them down and beat them to a mash!",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-024.ogg",
+        "CN": "Carnelian-024-CN.ogg",
+        "EN": "Carnelian-024-EN.ogg",
+        "KR": "Carnelian-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Careful! Don't let me tear you to shreds so quickly!",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-025.ogg",
+        "CN": "Carnelian-025-CN.ogg",
+        "EN": "Carnelian-025-EN.ogg",
+        "KR": "Carnelian-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "My oh my, what a pitiful sight. Why are you covered in blood all over?",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-026.ogg",
+        "CN": "Carnelian-026-CN.ogg",
+        "EN": "Carnelian-026-EN.ogg",
+        "KR": "Carnelian-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Nothing to worry about then. That was easy enough for you.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-027.ogg",
+        "CN": "Carnelian-027-CN.ogg",
+        "EN": "Carnelian-027-EN.ogg",
+        "KR": "Carnelian-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Okay, that concludes the mission, and right on time, too... Are you hurt, Doctor?",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-028.ogg",
+        "CN": "Carnelian-028-CN.ogg",
+        "EN": "Carnelian-028-EN.ogg",
+        "KR": "Carnelian-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Calm down. Just leave the rest to me. They won't get away.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-029.ogg",
+        "CN": "Carnelian-029-CN.ogg",
+        "EN": "Carnelian-029-EN.ogg",
+        "KR": "Carnelian-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Fall back, now! Don't panic. As long as I'm still standing, no one will touch you!",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-030.ogg",
+        "CN": "Carnelian-030-CN.ogg",
+        "EN": "Carnelian-030-EN.ogg",
+        "KR": "Carnelian-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Just as I thought. I can relax better in a room without much decoration.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-031.ogg",
+        "CN": "Carnelian-031-CN.ogg",
+        "EN": "Carnelian-031-EN.ogg",
+        "KR": "Carnelian-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Oh... Watch out. My horns could get you.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-032.ogg",
+        "CN": "Carnelian-032-CN.ogg",
+        "EN": "Carnelian-032-EN.ogg",
+        "KR": "Carnelian-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "What's wrong? Are you tired? Get some rest. You've worked hard enough already.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-033.ogg",
+        "CN": "Carnelian-033-CN.ogg",
+        "EN": "Carnelian-033-EN.ogg",
+        "KR": "Carnelian-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "More work today? Don't spend the whole day sitting, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Carnelian-034.ogg",
+        "CN": "Carnelian-034-CN.ogg",
+        "EN": "Carnelian-034-EN.ogg",
+        "KR": "Carnelian-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Carnelian-035.ogg",
+        "CN": "Carnelian-035-CN.ogg",
+        "EN": "Carnelian-035-EN.ogg",
+        "KR": "Carnelian-035-KR.ogg"
+      }
+    }
+  }
+}

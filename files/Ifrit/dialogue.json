@@ -1,0 +1,415 @@
+{
+  "operator": "Ifrit",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Why is this office so damn cold?! Hey, I'mma burn it down, alright?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-001.ogg",
+        "CN": "Ifrit-001-CN.ogg",
+        "EN": "Ifrit-001-EN.ogg",
+        "KR": "Ifrit-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Huh? Is this book expensive? Heehee. Call me Mistress Ifrit and I'll give it back to you!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-002.ogg",
+        "CN": "Ifrit-002-CN.ogg",
+        "EN": "Ifrit-002-EN.ogg",
+        "KR": "Ifrit-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "What? You want me to read this book? What I hate most is... What? Did... didSilencesay so? Um... How... How is this word pronounced?",
+      "links": [
+        {
+          "text": "Silence",
+          "href": "/wiki/Silence"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-003.ogg",
+        "CN": "Ifrit-003-CN.ogg",
+        "EN": "Ifrit-003-EN.ogg",
+        "KR": "Ifrit-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "I hate it when people in white coats stare at me... Yeah, that means you! Jackass! Cut it out! Go stare at someone else!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-004.ogg",
+        "CN": "Ifrit-004-CN.ogg",
+        "EN": "Ifrit-004-EN.ogg",
+        "KR": "Ifrit-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Um... I know! I won't scare others with fire anymore!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-005.ogg",
+        "CN": "Ifrit-005-CN.ogg",
+        "EN": "Ifrit-005-EN.ogg",
+        "KR": "Ifrit-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Back down! You... Why are you getting so close to me? Are you going to put me on the lab table as well...?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-006.ogg",
+        "CN": "Ifrit-006-CN.ogg",
+        "EN": "Ifrit-006-EN.ogg",
+        "KR": "Ifrit-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Saria's here? Let me talk to- Silence said I can't? C'mon, what's the big deal? Bring me to her and just keep it off the record!",
+      "links": [
+        {
+          "text": "Saria",
+          "href": "/wiki/Saria"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-007.ogg",
+        "CN": "Ifrit-007-CN.ogg",
+        "EN": "Ifrit-007-EN.ogg",
+        "KR": "Ifrit-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "What's going on between Silence and Saria? I don't understand... Hey! You know how to get them to make up? Tell me... won't you?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-008.ogg",
+        "CN": "Ifrit-008-CN.ogg",
+        "EN": "Ifrit-008-EN.ogg",
+        "KR": "Ifrit-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "You can do whatever you like with me, but you better well be nice to Silence. When she wants something, you go get it for her! Do that, and I'll follow your orders from this day forward!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-009.ogg",
+        "CN": "Ifrit-009-CN.ogg",
+        "EN": "Ifrit-009-EN.ogg",
+        "KR": "Ifrit-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "You piece of...! Who said you could ignore me and take a goddamn nap?!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-010.ogg",
+        "CN": "Ifrit-010-CN.ogg",
+        "EN": "Ifrit-010-EN.ogg",
+        "KR": "Ifrit-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "You're in the presence of Ifrit! Silence told meRhodes Island's a nice place, but I absolutely hate white-coat scientists like you people... well, Silence is an exception...",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-011.ogg",
+        "CN": "Ifrit-011-CN.ogg",
+        "EN": "Ifrit-011-EN.ogg",
+        "KR": "Ifrit-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Enhancing? Hmm, you mean you can make my flames burn brighter?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-012.ogg",
+        "CN": "Ifrit-012-CN.ogg",
+        "EN": "Ifrit-012-EN.ogg",
+        "KR": "Ifrit-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "What's this? Promotion Manual for Rhodes IslandOperators? What the hell? Why are there so many rules after promotion? Screw this!",
+      "links": [
+        {
+          "text": "Operators",
+          "href": "/wiki/Operator"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-013.ogg",
+        "CN": "Ifrit-013-CN.ogg",
+        "EN": "Ifrit-013-EN.ogg",
+        "KR": "Ifrit-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Hee hee. That's right! I don't give a damn about those rules. All I know is that you need my help!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-014.ogg",
+        "CN": "Ifrit-014-CN.ogg",
+        "EN": "Ifrit-014-EN.ogg",
+        "KR": "Ifrit-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Yeah yeah, I know!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-015.ogg",
+        "CN": "Ifrit-015-CN.ogg",
+        "EN": "Ifrit-015-EN.ogg",
+        "KR": "Ifrit-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I'm the captain? So, just do like Silence would, right?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-016.ogg",
+        "CN": "Ifrit-016-CN.ogg",
+        "EN": "Ifrit-016-EN.ogg",
+        "KR": "Ifrit-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Hey! I'm the captain, which means I'M giving the orders here!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-017.ogg",
+        "CN": "Ifrit-017-CN.ogg",
+        "EN": "Ifrit-017-EN.ogg",
+        "KR": "Ifrit-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Yo, how about a fiery barbecue!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-018.ogg",
+        "CN": "Ifrit-018-CN.ogg",
+        "EN": "Ifrit-018-EN.ogg",
+        "KR": "Ifrit-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Hey!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-019.ogg",
+        "CN": "Ifrit-019-CN.ogg",
+        "EN": "Ifrit-019-EN.ogg",
+        "KR": "Ifrit-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Too slow!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-020.ogg",
+        "CN": "Ifrit-020-CN.ogg",
+        "EN": "Ifrit-020-EN.ogg",
+        "KR": "Ifrit-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Let the ground boil!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-021.ogg",
+        "CN": "Ifrit-021-CN.ogg",
+        "EN": "Ifrit-021-EN.ogg",
+        "KR": "Ifrit-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Hell loaded and ready to fire!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-022.ogg",
+        "CN": "Ifrit-022-CN.ogg",
+        "EN": "Ifrit-022-EN.ogg",
+        "KR": "Ifrit-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Does it hurt? I bet it does!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-023.ogg",
+        "CN": "Ifrit-023-CN.ogg",
+        "EN": "Ifrit-023-EN.ogg",
+        "KR": "Ifrit-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Haha! Keep screaming!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-024.ogg",
+        "CN": "Ifrit-024-CN.ogg",
+        "EN": "Ifrit-024-EN.ogg",
+        "KR": "Ifrit-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Nobody can hear you scream for help!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-025.ogg",
+        "CN": "Ifrit-025-CN.ogg",
+        "EN": "Ifrit-025-EN.ogg",
+        "KR": "Ifrit-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Line up!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-026.ogg",
+        "CN": "Ifrit-026-CN.ogg",
+        "EN": "Ifrit-026-EN.ogg",
+        "KR": "Ifrit-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "I need more! Much more! I am invincible!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-027.ogg",
+        "CN": "Ifrit-027-CN.ogg",
+        "EN": "Ifrit-027-EN.ogg",
+        "KR": "Ifrit-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "I'll gladly burn those walking bags of trash into ash. It's gonna be real warm!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-028.ogg",
+        "CN": "Ifrit-028-CN.ogg",
+        "EN": "Ifrit-028-EN.ogg",
+        "KR": "Ifrit-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Nothing but cinders left now. I could've done the job single-handedly!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-029.ogg",
+        "CN": "Ifrit-029-CN.ogg",
+        "EN": "Ifrit-029-EN.ogg",
+        "KR": "Ifrit-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Damn... You... It's you who made me look stupid!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-030.ogg",
+        "CN": "Ifrit-030-CN.ogg",
+        "EN": "Ifrit-030-EN.ogg",
+        "KR": "Ifrit-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "What the hell's this place?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-031.ogg",
+        "CN": "Ifrit-031-CN.ogg",
+        "EN": "Ifrit-031-EN.ogg",
+        "KR": "Ifrit-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "What are you doing!? Let go of me!",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-032.ogg",
+        "CN": "Ifrit-032-CN.ogg",
+        "EN": "Ifrit-032-EN.ogg",
+        "KR": "Ifrit-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Heheh, you're surprisingly nice. Wanna play a game?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-033.ogg",
+        "CN": "Ifrit-033-CN.ogg",
+        "EN": "Ifrit-033-EN.ogg",
+        "KR": "Ifrit-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Huh? You need something?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-034.ogg",
+        "CN": "Ifrit-034-CN.ogg",
+        "EN": "Ifrit-034-EN.ogg",
+        "KR": "Ifrit-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Ifrit-035.ogg",
+        "CN": "Ifrit-035-CN.ogg",
+        "EN": "Ifrit-035-EN.ogg",
+        "KR": "Ifrit-035-KR.ogg"
+      }
+    }
+  }
+}

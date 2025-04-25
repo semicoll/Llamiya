@@ -1,0 +1,441 @@
+{
+  "operator": "Hellagur",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Queching the flames of war demands prolonged suffering. To ignite them, however, it takes naught but a lapse of thought.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-001.ogg",
+        "CN": "Hellagur-001-CN.ogg",
+        "EN": "Hellagur-001-EN.ogg",
+        "KR": "Hellagur-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "The fall ofChernobogdealt a devastating blow toAzazel, our clinic. I must rebuild it for the children. As long as they can have a shelter to call home, any place will do. You don't need a reason to try for your family.",
+      "links": [
+        {
+          "text": "The fall of",
+          "href": "/wiki/Episode_01"
+        },
+        {
+          "text": "Chernobog",
+          "href": "/wiki/Chernobog"
+        },
+        {
+          "text": "Azazel",
+          "href": "/wiki/Azazel"
+        }
+      ],
+      "audio": {
+        "JP": "Hellagur-002.ogg",
+        "CN": "Hellagur-002-CN.ogg",
+        "EN": "Hellagur-002-EN.ogg",
+        "KR": "Hellagur-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Rhodes Islandis in a respectable position, but theInfectedofUrsusface prospects far worse than anyone could imagine. They must be ready to resort to violence in order to survive. At the end of the day, virtue and dignity hold meaning only for those who live to see the next dawn.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        },
+        {
+          "text": "Infected",
+          "href": "/wiki/Infected"
+        },
+        {
+          "text": "Ursus",
+          "href": "/wiki/Ursus_(country)"
+        }
+      ],
+      "audio": {
+        "JP": "Hellagur-003.ogg",
+        "CN": "Hellagur-003-CN.ogg",
+        "EN": "Hellagur-003-EN.ogg",
+        "KR": "Hellagur-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "\"All Ursus should take pride in their nation and their Emperor.\" I, too, fought for Ursus once, but I don't have the passion driving me anymore. Time has robbed me of too much.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-004.ogg",
+        "CN": "Hellagur-004-CN.ogg",
+        "EN": "Hellagur-004-EN.ogg",
+        "KR": "Hellagur-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Life in the military has taught me two things: First, have faith in your fellow soldiers; second, have faith in them, but do not trust them. This dilemma has always plagued our lands, and none can escape it.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-005.ogg",
+        "CN": "Hellagur-005-CN.ogg",
+        "EN": "Hellagur-005-EN.ogg",
+        "KR": "Hellagur-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Dr. {nickname}, a limitless future awaits you, just as it does for those children. Though I can neither let go of yesterday nor look forward to tomorrow, I shall fight for you till my last drop of blood, so you may be part of that future.",
+      "links": [
+        {
+          "text": "Dr. {nickname}",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Hellagur-006.ogg",
+        "CN": "Hellagur-006-CN.ogg",
+        "EN": "Hellagur-006-EN.ogg",
+        "KR": "Hellagur-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "I am fine with Ursus as my enemy. Once I swore my utmost loyalty to it, but that was returned with endless disillusionment and shame. For the children's sake, I will never falter, much less surrender.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-007.ogg",
+        "CN": "Hellagur-007-CN.ogg",
+        "EN": "Hellagur-007-EN.ogg",
+        "KR": "Hellagur-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Once there was a long battle. When I finally broke into the enemy headquarters, I was too late... All I could do for my dying friend was take his pocket watch and sword. The enemy lost their commander, whose death brought us a brief victory. That day, Ursus enjoyed her momentary triumph, but I knew my war was over. A war where I lost everything.[note 1]",
+      "links": [
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {
+        "JP": "Hellagur-008.ogg",
+        "CN": "Hellagur-008-CN.ogg",
+        "EN": "Hellagur-008-EN.ogg",
+        "KR": "Hellagur-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "The photograph inside my pocket watch? Hahahah, so you saw it... This is Neon from when she was little. Isn't she adorable? She's not so quiet anymore, but she loves herself now, and that's all that matters... Live free, Dr. {nickname}, that's my wish, even if it is trite.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-009.ogg",
+        "CN": "Hellagur-009-CN.ogg",
+        "EN": "Hellagur-009-EN.ogg",
+        "KR": "Hellagur-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Don't lose focus. You must be alert at all times on Rhodes Island.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-010.ogg",
+        "CN": "Hellagur-010-CN.ogg",
+        "EN": "Hellagur-010-EN.ogg",
+        "KR": "Hellagur-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Hellagur, an infected mercenary. I will work with Rhodes Island in order to rebuild my Azazel Clinic and protect my family. But be advised, I have no medical skills.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-011.ogg",
+        "CN": "Hellagur-011-CN.ogg",
+        "EN": "Hellagur-011-EN.ogg",
+        "KR": "Hellagur-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Battlefields may change, but not the cruelty.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-012.ogg",
+        "CN": "Hellagur-012-CN.ogg",
+        "EN": "Hellagur-012-EN.ogg",
+        "KR": "Hellagur-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "I'm used to it as a soldier, but I find it fascinating as an infected. Thank you for the ribbon, Dr. {nickname}.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-013.ogg",
+        "CN": "Hellagur-013-CN.ogg",
+        "EN": "Hellagur-013-EN.ogg",
+        "KR": "Hellagur-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "War will never truly be over, but I believe even this land will end eventually. Maybe you can end our suffering one day, Dr. {nickname}. Now, give me your order!",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-014.ogg",
+        "CN": "Hellagur-014-CN.ogg",
+        "EN": "Hellagur-014-EN.ogg",
+        "KR": "Hellagur-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Only butchers thirst for blood. We are merely paying the price of survival.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-015.ogg",
+        "CN": "Hellagur-015-CN.ogg",
+        "EN": "Hellagur-015-EN.ogg",
+        "KR": "Hellagur-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I'll have them following orders to Ursus Army[note 2]standards!",
+      "links": [
+        {
+          "text": "[note 2]",
+          "href": "#cite_note-2"
+        }
+      ],
+      "audio": {
+        "JP": "Hellagur-016.ogg",
+        "CN": "Hellagur-016-CN.ogg",
+        "EN": "Hellagur-016-EN.ogg",
+        "KR": "Hellagur-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "I don't mind losing my life, if that is enough to end this all.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-017.ogg",
+        "CN": "Hellagur-017-CN.ogg",
+        "EN": "Hellagur-017-EN.ogg",
+        "KR": "Hellagur-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "You have never seen a real war, pathetic runts.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-018.ogg",
+        "CN": "Hellagur-018-CN.ogg",
+        "EN": "Hellagur-018-EN.ogg",
+        "KR": "Hellagur-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "I was born to fight.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-019.ogg",
+        "CN": "Hellagur-019-CN.ogg",
+        "EN": "Hellagur-019-EN.ogg",
+        "KR": "Hellagur-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "A slip of the mind is the difference between life and death.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-020.ogg",
+        "CN": "Hellagur-020-CN.ogg",
+        "EN": "Hellagur-020-EN.ogg",
+        "KR": "Hellagur-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Killing is but the last resort.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-021.ogg",
+        "CN": "Hellagur-021-CN.ogg",
+        "EN": "Hellagur-021-EN.ogg",
+        "KR": "Hellagur-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "I've never truly left the battlefield, I know.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-022.ogg",
+        "CN": "Hellagur-022-CN.ogg",
+        "EN": "Hellagur-022-EN.ogg",
+        "KR": "Hellagur-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "A lash of blade, the flesh to flay.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-023.ogg",
+        "CN": "Hellagur-023-CN.ogg",
+        "EN": "Hellagur-023-EN.ogg",
+        "KR": "Hellagur-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "A thrust of whip, the sword to rip.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-024.ogg",
+        "CN": "Hellagur-024-CN.ogg",
+        "EN": "Hellagur-024-EN.ogg",
+        "KR": "Hellagur-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "A cleave of spear, the armor to tear!",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-025.ogg",
+        "CN": "Hellagur-025-CN.ogg",
+        "EN": "Hellagur-025-EN.ogg",
+        "KR": "Hellagur-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Decapitator[note 3]... Our sacrifices were not in vain.",
+      "links": [
+        {
+          "text": "[note 3]",
+          "href": "#cite_note-3"
+        }
+      ],
+      "audio": {
+        "JP": "Hellagur-026.ogg",
+        "CN": "Hellagur-026-CN.ogg",
+        "EN": "Hellagur-026-EN.ogg",
+        "KR": "Hellagur-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "You leave the fight behind, and pay for it with yet more fighting.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-027.ogg",
+        "CN": "Hellagur-027-CN.ogg",
+        "EN": "Hellagur-027-EN.ogg",
+        "KR": "Hellagur-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Avert your eyes, I'm about to end their misery.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-028.ogg",
+        "CN": "Hellagur-028-CN.ogg",
+        "EN": "Hellagur-028-EN.ogg",
+        "KR": "Hellagur-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Keep your guard up. One flaw is all the enemy needs to turn the tables.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-029.ogg",
+        "CN": "Hellagur-029-CN.ogg",
+        "EN": "Hellagur-029-EN.ogg",
+        "KR": "Hellagur-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "There is no shame in failure. At least you had the chance to learn from it.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-030.ogg",
+        "CN": "Hellagur-030-CN.ogg",
+        "EN": "Hellagur-030-EN.ogg",
+        "KR": "Hellagur-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "If only I can find shelter for the children.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-031.ogg",
+        "CN": "Hellagur-031-CN.ogg",
+        "EN": "Hellagur-031-EN.ogg",
+        "KR": "Hellagur-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Hmm?",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-032.ogg",
+        "CN": "Hellagur-032-CN.ogg",
+        "EN": "Hellagur-032-EN.ogg",
+        "KR": "Hellagur-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Would you like a candy? I still have some. But watch out for cavities.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-033.ogg",
+        "CN": "Hellagur-033-CN.ogg",
+        "EN": "Hellagur-033-EN.ogg",
+        "KR": "Hellagur-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "You look well, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Hellagur-034.ogg",
+        "CN": "Hellagur-034-CN.ogg",
+        "EN": "Hellagur-034-EN.ogg",
+        "KR": "Hellagur-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Hellagur-035.ogg",
+        "CN": "Hellagur-035-CN.ogg",
+        "EN": "Hellagur-035-EN.ogg",
+        "KR": "Hellagur-035-KR.ogg"
+      }
+    }
+  }
+}

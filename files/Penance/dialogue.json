@@ -1,0 +1,473 @@
+{
+  "operator": "Penance",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "It's been a long time since I've felt like there was any conviction or meaning in my work. Rather than sit through show trial after show trial, I prefer to wade through these thorny, complicated files.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-001.ogg",
+        "CN": "Penance-001-CN.ogg",
+        "EN": "Penance-001-EN.ogg",
+        "KR": "Penance-001-KR.ogg",
+        "IT": "Penance-001-IT.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "You don't have to tiptoe around me. I don't judge good or evil on any ironclad law. And with all the crimes staged in the name of order... Ah, pay no mind to this judge's grumble, a powerless judge waiting to be indicted for misconduct in office.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-002.ogg",
+        "CN": "Penance-002-CN.ogg",
+        "EN": "Penance-002-EN.ogg",
+        "KR": "Penance-002-KR.ogg",
+        "IT": "Penance-002-IT.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "The thorns on this codex? Yes, of course the spikes hurt, but I wish for the pain to remind me: No matter how weak the statutes inSiracusa, no matter how highly I think of my calling, perversion of justice and blasphemy against the law are crimes.",
+      "links": [
+        {
+          "text": "Siracusa",
+          "href": "/wiki/Siracusa"
+        }
+      ],
+      "audio": {
+        "JP": "Penance-003.ogg",
+        "CN": "Penance-003-CN.ogg",
+        "EN": "Penance-003-EN.ogg",
+        "KR": "Penance-003-KR.ogg",
+        "IT": "Penance-003-IT.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "They say \"the law is the basis of morality,\" but that's not a natural truth. It emerges from a consensus of the people. When the people come to see violence as order, the law is nothing but a fantasy to dream of. And I, as the keeper of that fantasy, am the most ridiculous of all.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-004.ogg",
+        "CN": "Penance-004-CN.ogg",
+        "EN": "Penance-004-EN.ogg",
+        "KR": "Penance-004-KR.ogg",
+        "IT": "Penance-004-IT.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "In Siracusa, being a city court judge is a dangerous job. Either you join \"them,\" or... you disappear. I thought I could strike a balance between the two, but there's no way to stay clean when you're surrounded by mud. In the end, I was just another accomplice.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-005.ogg",
+        "CN": "Penance-005-CN.ogg",
+        "EN": "Penance-005-EN.ogg",
+        "KR": "Penance-005-KR.ogg",
+        "IT": "Penance-005-IT.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Maybe Siracusa really is that hard to change. The gangs, the famiglie... They shared a womb with Siracusa and shaped it into the country it is today. But we can't take them for granted. We must believe that a different path exists.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-006.ogg",
+        "CN": "Penance-006-CN.ogg",
+        "EN": "Penance-006-EN.ogg",
+        "KR": "Penance-006-KR.ogg",
+        "IT": "Penance-006-IT.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Oh, mi dispiace,[note 1]I didn't see you there. If you're all done with work, how about joining me for a drink?... Why that look in your eyes? I'm not an alcoholic. But everyone needs some liquid assistance every now and then, whether for fatigue or for suffering. Ecco.[note 2]It's on the strong side, so sip slowly.",
+      "links": [
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        },
+        {
+          "text": "[note 2]",
+          "href": "#cite_note-2"
+        }
+      ],
+      "audio": {
+        "JP": "Penance-007.ogg",
+        "CN": "Penance-007-CN.ogg",
+        "EN": "Penance-007-EN.ogg",
+        "KR": "Penance-007-KR.ogg",
+        "IT": "Penance-007-IT.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "If you ever get a chance to visit Siracusa, please avoid the rainy season. However, if you really are that unfortunate... best thing you can do is find a little shop on the street and sit for a while. Maybe only after the rain can one enjoy the momentary illusion that the city is clean.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-008.ogg",
+        "CN": "Penance-008-CN.ogg",
+        "EN": "Penance-008-EN.ogg",
+        "KR": "Penance-008-KR.ogg",
+        "IT": "Penance-008-IT.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "In my many years as a judge, I've only handed down a few verdicts I could feel good about. I still remember the look on those two kids' faces when I broke up their little scuffle and told the aggressor to apologize. What, why are you laughing? Even the greatest justice must start from somewhere small.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-009.ogg",
+        "CN": "Penance-009-CN.ogg",
+        "EN": "Penance-009-EN.ogg",
+        "KR": "Penance-009-KR.ogg",
+        "IT": "Penance-009-IT.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "You're sleeping? There's nothing more valuable than these rare moments of peace. Conserviamo questi momenti.[note 3]",
+      "links": [
+        {
+          "text": "[note 3]",
+          "href": "#cite_note-3"
+        }
+      ],
+      "audio": {
+        "JP": "Penance-010.ogg",
+        "CN": "Penance-010-CN.ogg",
+        "EN": "Penance-010-EN.ogg",
+        "KR": "Penance-010-KR.ogg",
+        "IT": "Penance-010-IT.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I am Lavinia Falcone, formerly a judge of Siracusa. Today, I report to you as OperatorPenance. I hope that in working forRhodes Island, I can absolve myself of my past mistakes.",
+      "links": [
+        {
+          "text": "Penance",
+          "href": "/wiki/Penance"
+        },
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Penance-011.ogg",
+        "CN": "Penance-011-CN.ogg",
+        "EN": "Penance-011-EN.ogg",
+        "KR": "Penance-011-KR.ogg",
+        "IT": "Penance-011-IT.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "So much violence in the name of order...Doctor, I can only pray that your efforts are more than futile.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Penance-012.ogg",
+        "CN": "Penance-012-CN.ogg",
+        "EN": "Penance-012-EN.ogg",
+        "KR": "Penance-012-KR.ogg",
+        "IT": "Penance-012-IT.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "I am honored to earn your support. We can certainly work together and offer mutual assistance, but let me be frank – that doesn't mean you can influence my decisions. Sorry, no offense intended, but that's a lesson I learned the hard way.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-013.ogg",
+        "CN": "Penance-013-CN.ogg",
+        "EN": "Penance-013-EN.ogg",
+        "KR": "Penance-013-KR.ogg",
+        "IT": "Penance-013-IT.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Be it a famiglia, a society, or a country, people are often bound by mutual interest... I used to assume this was the way of the world, but Doctor, you showed me a different path. I hope we can share this mutual trust long into the future.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-014.ogg",
+        "CN": "Penance-014-CN.ogg",
+        "EN": "Penance-014-EN.ogg",
+        "KR": "Penance-014-KR.ogg",
+        "IT": "Penance-014-IT.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Sitting around in an office won't bring about justice. That's one thing I know for a fact.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-015.ogg",
+        "CN": "Penance-015-CN.ogg",
+        "EN": "Penance-015-EN.ogg",
+        "KR": "Penance-015-KR.ogg",
+        "IT": "Penance-015-IT.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Whether or not you are burdened by a criminal record is unimportant to me. All I ask is that in this coming battle, our goals might be aligned.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-016.ogg",
+        "CN": "Penance-016-CN.ogg",
+        "EN": "Penance-016-EN.ogg",
+        "KR": "Penance-016-KR.ogg",
+        "IT": "Penance-016-IT.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Contempt for the law is a crime. The words of my codex will prove their own worth.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-017.ogg",
+        "CN": "Penance-017-CN.ogg",
+        "EN": "Penance-017-EN.ogg",
+        "KR": "Penance-017-KR.ogg",
+        "IT": "Penance-017-IT.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "This time, I will hand down a fair verdict.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-018.ogg",
+        "CN": "Penance-018-CN.ogg",
+        "EN": "Penance-018-EN.ogg",
+        "KR": "Penance-018-KR.ogg",
+        "IT": "Penance-018-IT.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "No matter what I might encounter, I will not back down.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-019.ogg",
+        "CN": "Penance-019-CN.ogg",
+        "EN": "Penance-019-EN.ogg",
+        "KR": "Penance-019-KR.ogg",
+        "IT": "Penance-019-IT.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "What the law does not specify, I will reveal through practice.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-020.ogg",
+        "CN": "Penance-020-CN.ogg",
+        "EN": "Penance-020-EN.ogg",
+        "KR": "Penance-020-KR.ogg",
+        "IT": "Penance-020-IT.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "This gavel of justice is weighty. Spero che siate pronti.[note 4]",
+      "links": [
+        {
+          "text": "[note 4]",
+          "href": "#cite_note-4"
+        }
+      ],
+      "audio": {
+        "JP": "Penance-021.ogg",
+        "CN": "Penance-021-CN.ogg",
+        "EN": "Penance-021-EN.ogg",
+        "KR": "Penance-021-KR.ogg",
+        "IT": "Penance-021-IT.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "I am fighting for more than just the law. Also the justice and virtue that extend beyond it.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-022.ogg",
+        "CN": "Penance-022-CN.ogg",
+        "EN": "Penance-022-EN.ogg",
+        "KR": "Penance-022-KR.ogg",
+        "IT": "Penance-022-IT.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "The law is a means, not an end.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-023.ogg",
+        "CN": "Penance-023-CN.ogg",
+        "EN": "Penance-023-EN.ogg",
+        "KR": "Penance-023-KR.ogg",
+        "IT": "Penance-023-IT.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "There is no such thing as absolute justice, but I still invoke it!",
+      "links": [],
+      "audio": {
+        "JP": "Penance-024.ogg",
+        "CN": "Penance-024-CN.ogg",
+        "EN": "Penance-024-EN.ogg",
+        "KR": "Penance-024-KR.ogg",
+        "IT": "Penance-024-IT.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Can crimes be punished through methods outside of the law?",
+      "links": [],
+      "audio": {
+        "JP": "Penance-025.ogg",
+        "CN": "Penance-025-CN.ogg",
+        "EN": "Penance-025-EN.ogg",
+        "KR": "Penance-025-KR.ogg",
+        "IT": "Penance-025-IT.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Your crimes are irrefutable.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-026.ogg",
+        "CN": "Penance-026-CN.ogg",
+        "EN": "Penance-026-EN.ogg",
+        "KR": "Penance-026-KR.ogg",
+        "IT": "Penance-026-IT.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Even a crime-ridden swamp is not beyond salvation. Doctor, thank you for once again reminding me of this fact.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-027.ogg",
+        "CN": "Penance-027-CN.ogg",
+        "EN": "Penance-027-EN.ogg",
+        "KR": "Penance-027-KR.ogg",
+        "IT": "Penance-027-IT.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "A trial in all its vaunted glory will not bring about any substantive change. It matters more what we do after the trial. Doctor, I've seen what you've done, and find it praiseworthy.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-028.ogg",
+        "CN": "Penance-028-CN.ogg",
+        "EN": "Penance-028-EN.ogg",
+        "KR": "Penance-028-KR.ogg",
+        "IT": "Penance-028-IT.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Doctor, prepare a team to arrest the fugitives. There is no difference between a moment of mercy and a miscarriage of justice. They have not yet been read their verdict.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-029.ogg",
+        "CN": "Penance-029-CN.ogg",
+        "EN": "Penance-029-EN.ogg",
+        "KR": "Penance-029-KR.ogg",
+        "IT": "Penance-029-IT.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Naturally, they and the darkness behind them will occasionally prevail... But mark my words, even the most frustrating rainy season will pass in time. Until then, all we can do is persevere, and keep trying.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-030.ogg",
+        "CN": "Penance-030-CN.ogg",
+        "EN": "Penance-030-EN.ogg",
+        "KR": "Penance-030-KR.ogg",
+        "IT": "Penance-030-IT.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "This place is nothing like stagnant, old Siracusa. The breath of hope flows here.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-031.ogg",
+        "CN": "Penance-031-CN.ogg",
+        "EN": "Penance-031-EN.ogg",
+        "KR": "Penance-031-KR.ogg",
+        "IT": "Penance-031-IT.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Please show proper respect.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-032.ogg",
+        "CN": "Penance-032-CN.ogg",
+        "EN": "Penance-032-EN.ogg",
+        "KR": "Penance-032-KR.ogg",
+        "IT": "Penance-032-IT.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Are you here to discuss criminal procedure with me? No? Eccellente.[note 5]I hope you never need my knowledge in that regard.",
+      "links": [
+        {
+          "text": "[note 5]",
+          "href": "#cite_note-5"
+        }
+      ],
+      "audio": {
+        "JP": "Penance-033.ogg",
+        "CN": "Penance-033-CN.ogg",
+        "EN": "Penance-033-EN.ogg",
+        "KR": "Penance-033-KR.ogg",
+        "IT": "Penance-033-IT.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor, I've categorized these documents according to their importance. Let me remind you that some of your operations land in a legal gray zone. I'm not opposed to them, but you need to think things through. I'll offer my advice as well.",
+      "links": [],
+      "audio": {
+        "JP": "Penance-034.ogg",
+        "CN": "Penance-034-CN.ogg",
+        "EN": "Penance-034-EN.ogg",
+        "KR": "Penance-034-KR.ogg",
+        "IT": "Penance-034-IT.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Penance-035.ogg",
+        "CN": "Penance-035-CN.ogg",
+        "EN": "Penance-035-EN.ogg",
+        "KR": "Penance-035-KR.ogg",
+        "IT": "Penance-035-IT.ogg"
+      }
+    }
+  }
+}

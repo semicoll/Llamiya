@@ -1,0 +1,423 @@
+{
+  "operator": "Qiubai",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I may not be at your side all the time. But don't worry, when you need me, I will be there.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-001.ogg",
+        "CN": "Qiubai-001-CN.ogg",
+        "EN": "Qiubai-001-EN.ogg",
+        "KR": "Qiubai-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Logistics permits, equipment approvals, mission evaluations...Rhodes Islandhas too much red tape. While recklessness does tend to get you in trouble, being overcautious also gets on people's nerves. Let's keep it simple. If anything comes up, you tell me directly. I'll decide what to do from there.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Qiubai-002.ogg",
+        "CN": "Qiubai-002-CN.ogg",
+        "EN": "Qiubai-002-EN.ogg",
+        "KR": "Qiubai-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "I heardthe Grandmasteralso came to Rhodes Island? Don't worry, I won't pick a fight; but he must be curious if my skills have improved since I leftYumen... Come to think of it, after walking such a long road, he really should be taking it easy. And yet, he still pushes himself into a life of conflict. The same goes for you,Doctor.",
+      "links": [
+        {
+          "text": "the Grandmaster",
+          "href": "/wiki/Chongyue"
+        },
+        {
+          "text": "Yumen",
+          "href": "/wiki/Yumen"
+        },
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Qiubai-003.ogg",
+        "CN": "Qiubai-003-CN.ogg",
+        "EN": "Qiubai-003-EN.ogg",
+        "KR": "Qiubai-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "My dad hated the snow. Snow keeps the doors shut, ruining \"business\" for his river fort. That's why he gave me this name. \"Qiu\" for hatred, \"Bai\" for the white of snow. People always find something to blame for their misfortunes: snow, storms, calamities natural or manmade. As for me, I happened to be born on a snowy day, that's all there is to it.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-004.ogg",
+        "CN": "Qiubai-004-CN.ogg",
+        "EN": "Qiubai-004-EN.ogg",
+        "KR": "Qiubai-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "I've seen some die in vain, some turn to crime, and others drive their friends and loved ones to despair... Justice is rare upon this cruel land, and eking out a living is always difficult. But there is no excuse for evil. Never has been, never will be.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-005.ogg",
+        "CN": "Qiubai-005-CN.ogg",
+        "EN": "Qiubai-005-EN.ogg",
+        "KR": "Qiubai-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "The conflicts I can resolve with my sword are actually the simple ones. Unfortunately, most are as a great river surging forth, sweeping up all the sand and silt in its path until it turns into an unstoppable murky mess. I may encounter more places like that small mountain village. And I can't say for certain that I will do better next time. But good is good, and evil is evil. One may not confuse them, and I will find my own way to distinguish the two.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-006.ogg",
+        "CN": "Qiubai-006-CN.ogg",
+        "EN": "Qiubai-006-EN.ogg",
+        "KR": "Qiubai-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "You'd like me to demonstrate my swordsmanship to the operators? Doctor, it's not something you can learn by watching. I know a scribe who served as the Grandmaster's record keeper. He followed the Grandmaster for over a decade. After years of observation, he could nitpick nearly any kung fu style under Heaven. And yet, he is weak to this day. A stiff breeze could blow him over... Anyway, I do happen to have some spare time. So I'll show you all a few moves.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-007.ogg",
+        "CN": "Qiubai-007-CN.ogg",
+        "EN": "Qiubai-007-EN.ogg",
+        "KR": "Qiubai-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "The sharper the blade, the easier it is to break. The same goes for hatred in one's heart... It's easy to understand. But the hard part is, you must first face that which lies in your heart before you can really let it go. I have both hatred and gratitude toward the Grandmaster. The hatred, I paid back how I saw fit; the gratitude, I will hold as close. That is all.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-008.ogg",
+        "CN": "Qiubai-008-CN.ogg",
+        "EN": "Qiubai-008-EN.ogg",
+        "KR": "Qiubai-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "The tumult in Yumen is done, and there's no more reason for me to be there. And the home that I came from is nothing but a river now. In short, I've become the \"one without roots.\" But, being rootless is not all bad, as it's led me here to you and Rhodes Island. There will always be a place where my sword comes in handy.  The land under Heaven is vast, and my fate will mark the grave for me.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-009.ogg",
+        "CN": "Qiubai-009-CN.ogg",
+        "EN": "Qiubai-009-EN.ogg",
+        "KR": "Qiubai-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "A rare bit of fine weather, a rare bit of leisure.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-010.ogg",
+        "CN": "Qiubai-010-CN.ogg",
+        "EN": "Qiubai-010-EN.ogg",
+        "KR": "Qiubai-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Dr. {nickname}, I am Qiubai. I can't say for certain how long I will stay at Rhodes Island, but every meeting is a stroke of fortune. I trust we'll get along just fine.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-011.ogg",
+        "CN": "Qiubai-011-CN.ogg",
+        "EN": "Qiubai-011-EN.ogg",
+        "KR": "Qiubai-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "When I was in Yumen, the Grandmaster would also review recordings of my every battle. For us practitioners of kung fu, having someone to provide feedback is always a good thing.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-012.ogg",
+        "CN": "Qiubai-012-CN.ogg",
+        "EN": "Qiubai-012-EN.ogg",
+        "KR": "Qiubai-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Why wield a sword? To combat injustice.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-013.ogg",
+        "CN": "Qiubai-013-CN.ogg",
+        "EN": "Qiubai-013-EN.ogg",
+        "KR": "Qiubai-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "I've seen a certain type of fowlbeast in the Gobi to the north ofYan",
+      "links": [
+        {
+          "text": "Yan",
+          "href": "/wiki/Yan"
+        }
+      ],
+      "audio": {
+        "JP": "Qiubai-014.ogg",
+        "CN": "Qiubai-014-CN.ogg",
+        "EN": "Qiubai-014-EN.ogg",
+        "KR": "Qiubai-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "I just sharpened my sword.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-015.ogg",
+        "CN": "Qiubai-015-CN.ogg",
+        "EN": "Qiubai-015-EN.ogg",
+        "KR": "Qiubai-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Very well. Let's walk this path together.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-016.ogg",
+        "CN": "Qiubai-016-CN.ogg",
+        "EN": "Qiubai-016-EN.ogg",
+        "KR": "Qiubai-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Don't waste too much energy on the road.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-017.ogg",
+        "CN": "Qiubai-017-CN.ogg",
+        "EN": "Qiubai-017-EN.ogg",
+        "KR": "Qiubai-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Don't bother telling me your names.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-018.ogg",
+        "CN": "Qiubai-018-CN.ogg",
+        "EN": "Qiubai-018-EN.ogg",
+        "KR": "Qiubai-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Within sheath, the sword awaits.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-019.ogg",
+        "CN": "Qiubai-019-CN.ogg",
+        "EN": "Qiubai-019-EN.ogg",
+        "KR": "Qiubai-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Beyond substance, the spirit unchained.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-020.ogg",
+        "CN": "Qiubai-020-CN.ogg",
+        "EN": "Qiubai-020-EN.ogg",
+        "KR": "Qiubai-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "A true battlefield. This is the right place to settle things.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-021.ogg",
+        "CN": "Qiubai-021-CN.ogg",
+        "EN": "Qiubai-021-EN.ogg",
+        "KR": "Qiubai-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Dew falls heavy, grass bends low. Something's not right.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-022.ogg",
+        "CN": "Qiubai-022-CN.ogg",
+        "EN": "Qiubai-022-EN.ogg",
+        "KR": "Qiubai-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Your hostile intent is all too clear.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-023.ogg",
+        "CN": "Qiubai-023-CN.ogg",
+        "EN": "Qiubai-023-EN.ogg",
+        "KR": "Qiubai-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "No blade has mercy. Brace yourself!",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-024.ogg",
+        "CN": "Qiubai-024-CN.ogg",
+        "EN": "Qiubai-024-EN.ogg",
+        "KR": "Qiubai-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "And this is your excuse for evil?",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-025.ogg",
+        "CN": "Qiubai-025-CN.ogg",
+        "EN": "Qiubai-025-EN.ogg",
+        "KR": "Qiubai-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Don't repent to my sword.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-026.ogg",
+        "CN": "Qiubai-026-CN.ogg",
+        "EN": "Qiubai-026-EN.ogg",
+        "KR": "Qiubai-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Let's go, Doctor. Time to head back.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-027.ogg",
+        "CN": "Qiubai-027-CN.ogg",
+        "EN": "Qiubai-027-EN.ogg",
+        "KR": "Qiubai-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Even to the very end, I do not know why those people drew their blades... Perhaps, even they did not know themselves.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-028.ogg",
+        "CN": "Qiubai-028-CN.ogg",
+        "EN": "Qiubai-028-EN.ogg",
+        "KR": "Qiubai-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Let it be. No sword technique is perfect, just as no outcome is flawless. We shouldn't get too fixated on fighting.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-029.ogg",
+        "CN": "Qiubai-029-CN.ogg",
+        "EN": "Qiubai-029-EN.ogg",
+        "KR": "Qiubai-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Even a technique you have executed a thousand times can fail. Don't focus too much on winning and losing, Doctor, you did what you could.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-030.ogg",
+        "CN": "Qiubai-030-CN.ogg",
+        "EN": "Qiubai-030-EN.ogg",
+        "KR": "Qiubai-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Were you the one who decorated this room? No, nothing. I am ajianghuwanderer, and we are not picky.",
+      "links": [
+        {
+          "text": "jianghu",
+          "href": "https://en.wikipedia.org/wiki/Jianghu"
+        }
+      ],
+      "audio": {
+        "JP": "Qiubai-031.ogg",
+        "CN": "Qiubai-031-CN.ogg",
+        "EN": "Qiubai-031-EN.ogg",
+        "KR": "Qiubai-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "I'll write this off as a little joke. But, next time...",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-032.ogg",
+        "CN": "Qiubai-032-CN.ogg",
+        "EN": "Qiubai-032-EN.ogg",
+        "KR": "Qiubai-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor, why don't you come practice the blade with me?",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-033.ogg",
+        "CN": "Qiubai-033-CN.ogg",
+        "EN": "Qiubai-033-EN.ogg",
+        "KR": "Qiubai-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor, remember to practice your kung fu.",
+      "links": [],
+      "audio": {
+        "JP": "Qiubai-034.ogg",
+        "CN": "Qiubai-034-CN.ogg",
+        "EN": "Qiubai-034-EN.ogg",
+        "KR": "Qiubai-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Qiubai-035.ogg",
+        "CN": "Qiubai-035-CN.ogg",
+        "EN": "Qiubai-035-EN.ogg",
+        "KR": "Qiubai-035-KR.ogg"
+      }
+    }
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "operator": "SilverAsh",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "There are better ways to kill time. Care to try one?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-001.ogg",
+        "CN": "SilverAsh-001-CN.ogg",
+        "EN": "SilverAsh-001-EN.ogg",
+        "KR": "SilverAsh-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Stop looking so serious all the time. Can't you at least smile when I'm around...? Good. That's what I want to see... Nobody is better suited to solve your problems than me... Isn't that right?  that the terms are in your, andRhodes Island's favor.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-002.ogg",
+        "CN": "SilverAsh-002-CN.ogg",
+        "EN": "SilverAsh-002-EN.ogg",
+        "KR": "SilverAsh-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "That girl...Amiya, I believe her name was? She's no ordinary girl. If you don't put shackles on her wrists today,you will find yourself placing a crown upon her head tomorrow.",
+      "links": [
+        {
+          "text": "Amiya",
+          "href": "/wiki/Amiya"
+        },
+        {
+          "text": "you will find yourself placing a crown upon her head tomorrow.",
+          "href": "/wiki/7-18/Story#After_operation"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-003.ogg",
+        "CN": "SilverAsh-003-CN.ogg",
+        "EN": "SilverAsh-003-EN.ogg",
+        "KR": "SilverAsh-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "The stability of the alliance between Karlan and Rhodes Island depends solely on your state of mind, and mine. As such, we should at least try to get along, my friend.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-004.ogg",
+        "CN": "SilverAsh-004-CN.ogg",
+        "EN": "SilverAsh-004-EN.ogg",
+        "KR": "SilverAsh-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "I suppose... it's high time I signed this contract. Of course, I do know that the terms are in your, and Rhodes Island's favor.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-005.ogg",
+        "CN": "SilverAsh-005-CN.ogg",
+        "EN": "SilverAsh-005-EN.ogg",
+        "KR": "SilverAsh-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "I'm well aware this contract offers me nothing... What does that matter? I shall accept this unequal treaty nonetheless. The reason being that I, SilverAsh, recognize that you warrant it.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-006.ogg",
+        "CN": "SilverAsh-006-CN.ogg",
+        "EN": "SilverAsh-006-EN.ogg",
+        "KR": "SilverAsh-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "IsEnsiagiving you trouble? My apologies. It was originally my responsibility to foster and guide her, but it's unlikely I will be able to do so. So I must ask... could you do it in my stead, {player_name}?",
+      "links": [
+        {
+          "text": "Ensia",
+          "href": "/wiki/Cliffheart"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-007.ogg",
+        "CN": "SilverAsh-007-CN.ogg",
+        "EN": "SilverAsh-007-EN.ogg",
+        "KR": "SilverAsh-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Could you show me to Rhodes Island's deck? No, I'd just like to get a view of the area. Tenzin needs to spread his wings every once in a while as well. He must be longing to soar through the night sky.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-008.ogg",
+        "CN": "SilverAsh-008-CN.ogg",
+        "EN": "SilverAsh-008-EN.ogg",
+        "KR": "SilverAsh-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "If this continues, eventuallythere will come a day when you and I confront one another... I seem happy about that, you say? Hah, perhaps I am. You would be a worthy opponent, that's for certain. Let us make the most of our time left before that day comes.",
+      "links": [
+        {
+          "text": "there will come a day when you and I confront one another",
+          "href": "/wiki/Break_the_Ice"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-009.ogg",
+        "CN": "SilverAsh-009-CN.ogg",
+        "EN": "SilverAsh-009-EN.ogg",
+        "KR": "SilverAsh-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "\"When the aether darkens, 'tis an omen that snowfall draws dear...\"",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-010.ogg",
+        "CN": "SilverAsh-010-CN.ogg",
+        "EN": "SilverAsh-010-EN.ogg",
+        "KR": "SilverAsh-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I, SilverAsh, have joined your cause as a sworn ally. Whatever your plans may be, do not disappoint me.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-011.ogg",
+        "CN": "SilverAsh-011-CN.ogg",
+        "EN": "SilverAsh-011-EN.ogg",
+        "KR": "SilverAsh-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "For one to travel such an arduous path, they absolutely must have experience.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-012.ogg",
+        "CN": "SilverAsh-012-CN.ogg",
+        "EN": "SilverAsh-012-EN.ogg",
+        "KR": "SilverAsh-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Ostentatious titles are one thing, but the trust accompanying them is what I care about. You surely know that.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-013.ogg",
+        "CN": "SilverAsh-013-CN.ogg",
+        "EN": "SilverAsh-013-EN.ogg",
+        "KR": "SilverAsh-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "It takes a daring person to drag me into their war. That being so, I, SilverAsh, will show my prowess for all of Rhodes Island to see.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-014.ogg",
+        "CN": "SilverAsh-014-CN.ogg",
+        "EN": "SilverAsh-014-EN.ogg",
+        "KR": "SilverAsh-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "We all have our roles to play. Use my abilities as best you see fit.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-015.ogg",
+        "CN": "SilverAsh-015-CN.ogg",
+        "EN": "SilverAsh-015-EN.ogg",
+        "KR": "SilverAsh-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "You want me to act as your proxy? Very well. But you must pay me due tribute later.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-016.ogg",
+        "CN": "SilverAsh-016-CN.ogg",
+        "EN": "SilverAsh-016-EN.ogg",
+        "KR": "SilverAsh-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Compassion saves no one on the battlefield.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-017.ogg",
+        "CN": "SilverAsh-017-CN.ogg",
+        "EN": "SilverAsh-017-EN.ogg",
+        "KR": "SilverAsh-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Show me what you're made of. Amuse me, if you even can.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-018.ogg",
+        "CN": "SilverAsh-018-CN.ogg",
+        "EN": "SilverAsh-018-EN.ogg",
+        "KR": "SilverAsh-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "What are you planning?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-019.ogg",
+        "CN": "SilverAsh-019-CN.ogg",
+        "EN": "SilverAsh-019-EN.ogg",
+        "KR": "SilverAsh-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Made your mind?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-020.ogg",
+        "CN": "SilverAsh-020-CN.ogg",
+        "EN": "SilverAsh-020-EN.ogg",
+        "KR": "SilverAsh-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Acknowledged.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-021.ogg",
+        "CN": "SilverAsh-021-CN.ogg",
+        "EN": "SilverAsh-021-EN.ogg",
+        "KR": "SilverAsh-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Very well.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-022.ogg",
+        "CN": "SilverAsh-022-CN.ogg",
+        "EN": "SilverAsh-022-EN.ogg",
+        "KR": "SilverAsh-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "\"The fool flaunting his gallantry reaches none with his vanity...\"",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-023.ogg",
+        "CN": "SilverAsh-023-CN.ogg",
+        "EN": "SilverAsh-023-EN.ogg",
+        "KR": "SilverAsh-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "\"Fool, for what reason hast thou come?\"",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-024.ogg",
+        "CN": "SilverAsh-024-CN.ogg",
+        "EN": "SilverAsh-024-EN.ogg",
+        "KR": "SilverAsh-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "\"Art thou mine worthy enemy, or art thou naught but a jester?\"",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-025.ogg",
+        "CN": "SilverAsh-025-CN.ogg",
+        "EN": "SilverAsh-025-EN.ogg",
+        "KR": "SilverAsh-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "\"Thy pleas falleth upon deaf ears.\"",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-026.ogg",
+        "CN": "SilverAsh-026-CN.ogg",
+        "EN": "SilverAsh-026-EN.ogg",
+        "KR": "SilverAsh-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "The fiercer the battle, the more jubilant victory shall be.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-027.ogg",
+        "CN": "SilverAsh-027-CN.ogg",
+        "EN": "SilverAsh-027-EN.ogg",
+        "KR": "SilverAsh-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "A satisfying battle. It even brought palpitations to my heart.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-028.ogg",
+        "CN": "SilverAsh-028-CN.ogg",
+        "EN": "SilverAsh-028-EN.ogg",
+        "KR": "SilverAsh-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "We should strive for better.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-029.ogg",
+        "CN": "SilverAsh-029-CN.ogg",
+        "EN": "SilverAsh-029-EN.ogg",
+        "KR": "SilverAsh-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Retreat at once, while there still is time.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-030.ogg",
+        "CN": "SilverAsh-030-CN.ogg",
+        "EN": "SilverAsh-030-EN.ogg",
+        "KR": "SilverAsh-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "For a place to rest my feet, it is acceptable.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-031.ogg",
+        "CN": "SilverAsh-031-CN.ogg",
+        "EN": "SilverAsh-031-EN.ogg",
+        "KR": "SilverAsh-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Hmm?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-032.ogg",
+        "CN": "SilverAsh-032-CN.ogg",
+        "EN": "SilverAsh-032-EN.ogg",
+        "KR": "SilverAsh-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Let me rest for just a while. I'm more tired than I thought. My apologies.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-033.ogg",
+        "CN": "SilverAsh-033-CN.ogg",
+        "EN": "SilverAsh-033-EN.ogg",
+        "KR": "SilverAsh-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "You haven't changed one bit, my friend.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-034.ogg",
+        "CN": "SilverAsh-034-CN.ogg",
+        "EN": "SilverAsh-034-EN.ogg",
+        "KR": "SilverAsh-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:SilverAsh-035.ogg",
+        "CN": "SilverAsh-035-CN.ogg",
+        "EN": "SilverAsh-035-EN.ogg",
+        "KR": "SilverAsh-035-KR.ogg"
+      }
+    }
+  }
+}

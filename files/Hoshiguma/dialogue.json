@@ -1,0 +1,424 @@
+{
+  "operator": "Hoshiguma",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Ah, it is you, employer.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-001.ogg",
+        "CN": "Hoshiguma-001-CN.ogg",
+        "EN": "Hoshiguma-001-EN.ogg",
+        "KR": "Hoshiguma-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "I swear to keep you safe,Doctor. Please ease your mind.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Hoshiguma-002.ogg",
+        "CN": "Hoshiguma-002-CN.ogg",
+        "EN": "Hoshiguma-002-EN.ogg",
+        "KR": "Hoshiguma-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "No matter what happens, don't forget to use the emergency communication channel. I'll be right there if you call me.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-003.ogg",
+        "CN": "Hoshiguma-003-CN.ogg",
+        "EN": "Hoshiguma-003-EN.ogg",
+        "KR": "Hoshiguma-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "I sound cold when I talk, you mean? I'm working, after all. I'm much less serious during my off time.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-004.ogg",
+        "CN": "Hoshiguma-004-CN.ogg",
+        "EN": "Hoshiguma-004-EN.ogg",
+        "KR": "Hoshiguma-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "I seem... reserved? That is how I conduct myself at work, so you'll have to forgive me. During my free time, I am nothing like this, I assure you.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-005.ogg",
+        "CN": "Hoshiguma-005-CN.ogg",
+        "EN": "Hoshiguma-005-EN.ogg",
+        "KR": "Hoshiguma-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Rhodes Islanddoesn't only need combatOperators. It also needs experts in the fields of education, public relations, and more.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        },
+        {
+          "text": "Operators",
+          "href": "/wiki/Operator"
+        }
+      ],
+      "audio": {
+        "JP": "Hoshiguma-006.ogg",
+        "CN": "Hoshiguma-006-CN.ogg",
+        "EN": "Hoshiguma-006-EN.ogg",
+        "KR": "Hoshiguma-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "This shield has a name: Hannya. I brought it from my hometown. Its \"father\" and mine were old friends. Back in theGuard Department, my superiors would always mock my choice of weapon, but together we've proven to them that a shield can be a good weapon, and so can I.",
+      "links": [
+        {
+          "text": "Guard Department",
+          "href": "/wiki/Lungmen_Guard_Department"
+        }
+      ],
+      "audio": {
+        "JP": "Hoshiguma-007.ogg",
+        "CN": "Hoshiguma-007-CN.ogg",
+        "EN": "Hoshiguma-007-EN.ogg",
+        "KR": "Hoshiguma-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "My Hannya is stained with the blood of many aLungmengangster. I thought people would despise me for it, but in fact the ones who looked down upon me began treating me with much more respect after they saw my impressive kill record. Maybe they're simply intimidated by my size? What do you think?",
+      "links": [
+        {
+          "text": "Lungmen",
+          "href": "/wiki/Lungmen"
+        }
+      ],
+      "audio": {
+        "JP": "Hoshiguma-008.ogg",
+        "CN": "Hoshiguma-008-CN.ogg",
+        "EN": "Hoshiguma-008-EN.ogg",
+        "KR": "Hoshiguma-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Have one more glass? ...Oh, you've had enough? You don't have to worry about getting drunk, you know... I can carry you back to your room if you get drunk. What? That simply makes you even more worried, you say? Come on, did you have to say that?",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-009.ogg",
+        "CN": "Hoshiguma-009-CN.ogg",
+        "EN": "Hoshiguma-009-EN.ogg",
+        "KR": "Hoshiguma-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Hm? Heh. Nothing. Just guarding you, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-010.ogg",
+        "CN": "Hoshiguma-010-CN.ogg",
+        "EN": "Hoshiguma-010-EN.ogg",
+        "KR": "Hoshiguma-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Hoshiguma,DefenderOperator. I will be your shield, your blade, your fortress. Very glad to meet you, Doctor.",
+      "links": [
+        {
+          "text": "Defender",
+          "href": "/wiki/Defender"
+        }
+      ],
+      "audio": {
+        "JP": "Hoshiguma-011.ogg",
+        "CN": "Hoshiguma-011-CN.ogg",
+        "EN": "Hoshiguma-011-EN.ogg",
+        "KR": "Hoshiguma-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "It's all thanks to your leadership, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-012.ogg",
+        "CN": "Hoshiguma-012-CN.ogg",
+        "EN": "Hoshiguma-012-EN.ogg",
+        "KR": "Hoshiguma-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "I'm honored.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-013.ogg",
+        "CN": "Hoshiguma-013-CN.ogg",
+        "EN": "Hoshiguma-013-EN.ogg",
+        "KR": "Hoshiguma-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "No one can decide where I will go next, and no one can stop me once I make up my mind. And now–I've made up my mind to follow all your orders, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-014.ogg",
+        "CN": "Hoshiguma-014-CN.ogg",
+        "EN": "Hoshiguma-014-EN.ogg",
+        "KR": "Hoshiguma-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "I will protect everyone.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-015.ogg",
+        "CN": "Hoshiguma-015-CN.ogg",
+        "EN": "Hoshiguma-015-EN.ogg",
+        "KR": "Hoshiguma-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Protecting Rhodes Island is my responsibility too.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-016.ogg",
+        "CN": "Hoshiguma-016-CN.ogg",
+        "EN": "Hoshiguma-016-EN.ogg",
+        "KR": "Hoshiguma-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "I hope everyone could return safely.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-017.ogg",
+        "CN": "Hoshiguma-017-CN.ogg",
+        "EN": "Hoshiguma-017-EN.ogg",
+        "KR": "Hoshiguma-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "All who have a reason to fight must also be willing to die for their cause!",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-018.ogg",
+        "CN": "Hoshiguma-018-CN.ogg",
+        "EN": "Hoshiguma-018-EN.ogg",
+        "KR": "Hoshiguma-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Yes, Sir.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-019.ogg",
+        "CN": "Hoshiguma-019-CN.ogg",
+        "EN": "Hoshiguma-019-EN.ogg",
+        "KR": "Hoshiguma-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Yessir!",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-020.ogg",
+        "CN": "Hoshiguma-020-CN.ogg",
+        "EN": "Hoshiguma-020-EN.ogg",
+        "KR": "Hoshiguma-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "I will not take even one step backward.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-021.ogg",
+        "CN": "Hoshiguma-021-CN.ogg",
+        "EN": "Hoshiguma-021-EN.ogg",
+        "KR": "Hoshiguma-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "You cannot pass.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-022.ogg",
+        "CN": "Hoshiguma-022-CN.ogg",
+        "EN": "Hoshiguma-022-EN.ogg",
+        "KR": "Hoshiguma-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "My Hannya will crush you into smithereens.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-023.ogg",
+        "CN": "Hoshiguma-023-CN.ogg",
+        "EN": "Hoshiguma-023-EN.ogg",
+        "KR": "Hoshiguma-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Anyone who wants to hurt my friends must answer to this shield.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-024.ogg",
+        "CN": "Hoshiguma-024-CN.ogg",
+        "EN": "Hoshiguma-024-EN.ogg",
+        "KR": "Hoshiguma-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Seeing is believing.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-025.ogg",
+        "CN": "Hoshiguma-025-CN.ogg",
+        "EN": "Hoshiguma-025-EN.ogg",
+        "KR": "Hoshiguma-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Hannya, unleash the rage your father poured into you!",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-026.ogg",
+        "CN": "Hoshiguma-026-CN.ogg",
+        "EN": "Hoshiguma-026-EN.ogg",
+        "KR": "Hoshiguma-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "The harder the journey is, the more character it builds.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-027.ogg",
+        "CN": "Hoshiguma-027-CN.ogg",
+        "EN": "Hoshiguma-027-EN.ogg",
+        "KR": "Hoshiguma-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Hurting my friends in front of my very eyes... that's something I cannot condone!",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-028.ogg",
+        "CN": "Hoshiguma-028-CN.ogg",
+        "EN": "Hoshiguma-028-EN.ogg",
+        "KR": "Hoshiguma-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Are you hurt? I'm sorry, I have failed in my duties.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-029.ogg",
+        "CN": "Hoshiguma-029-CN.ogg",
+        "EN": "Hoshiguma-029-EN.ogg",
+        "KR": "Hoshiguma-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Retreat now! I'll take up the rear!",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-030.ogg",
+        "CN": "Hoshiguma-030-CN.ogg",
+        "EN": "Hoshiguma-030-EN.ogg",
+        "KR": "Hoshiguma-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "With my size... it's kind of hard to get through the door.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-031.ogg",
+        "CN": "Hoshiguma-031-CN.ogg",
+        "EN": "Hoshiguma-031-EN.ogg",
+        "KR": "Hoshiguma-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Here.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-032.ogg",
+        "CN": "Hoshiguma-032-CN.ogg",
+        "EN": "Hoshiguma-032-EN.ogg",
+        "KR": "Hoshiguma-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor, you could at least take a moment to relax while we're on a break.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-033.ogg",
+        "CN": "Hoshiguma-033-CN.ogg",
+        "EN": "Hoshiguma-033-EN.ogg",
+        "KR": "Hoshiguma-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Hey, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Hoshiguma-034.ogg",
+        "CN": "Hoshiguma-034-CN.ogg",
+        "EN": "Hoshiguma-034-EN.ogg",
+        "KR": "Hoshiguma-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Hoshiguma-035.ogg",
+        "CN": "Hoshiguma-035-CN.ogg",
+        "EN": "Hoshiguma-035-EN.ogg",
+        "KR": "Hoshiguma-035-KR.ogg"
+      }
+    }
+  }
+}

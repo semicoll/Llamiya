@@ -1,0 +1,438 @@
+{
+  "operator": "Angelina",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Dr. {nickname}, I made this really strong coffee with our new coffee machine. Wanna try? You can only have one cup a day, though. Don't want you up all night!",
+      "links": [
+        {
+          "text": "Dr. {nickname}",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Angelina-001.ogg",
+        "CN": "Angelina-001-CN.ogg",
+        "EN": "Angelina-001-EN.ogg",
+        "KR": "Angelina-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Being a transporter isn't easy. The sender and the receiver always have their own reasons for getting involved... and whatever you're delivering could have something crazy inside. If you only worry about getting your stuff there on time, you could end up dead",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-002.ogg",
+        "CN": "Angelina-002-CN.ogg",
+        "EN": "Angelina-002-EN.ogg",
+        "KR": "Angelina-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "My mother was from theFar East, so my name doesn't sound verySiracusan. A lot of people ask me if it's even my real name, so I decided to use Angelina as a codename too.",
+      "links": [
+        {
+          "text": "Far East",
+          "href": "/wiki/Far_East"
+        },
+        {
+          "text": "Siracusan",
+          "href": "/wiki/Siracusa"
+        }
+      ],
+      "audio": {
+        "JP": "Angelina-003.ogg",
+        "CN": "Angelina-003-CN.ogg",
+        "EN": "Angelina-003-EN.ogg",
+        "KR": "Angelina-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Good morning, Dr. {nickname}! Yeah, I'm off to send out some files. Dr.Kal'tsitsaid that my abilities could come in super useful on the battlefield... but I like bringing letters where they belong a lot more than I like fighting!",
+      "links": [
+        {
+          "text": "Kal'tsit",
+          "href": "/wiki/Kal%27tsit"
+        }
+      ],
+      "audio": {
+        "JP": "Angelina-004.ogg",
+        "CN": "Angelina-004-CN.ogg",
+        "EN": "Angelina-004-EN.ogg",
+        "KR": "Angelina-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "I actually don't know if I'm a good fit forRhodes Island... I mean, a lot of really heavy stuff happens here, I don't know if I can handle it.Croissantcomforts me all the time, but I don't know about myself sometimes. Am I really cut out for this?",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        },
+        {
+          "text": "Croissant",
+          "href": "/wiki/Croissant"
+        }
+      ],
+      "audio": {
+        "JP": "Angelina-005.ogg",
+        "CN": "Angelina-005-CN.ogg",
+        "EN": "Angelina-005-EN.ogg",
+        "KR": "Angelina-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "I don't feel lost anymore. It's not that I'm any more comfortable with you or Rhodes Island... it's just that, as a transporter, it's my job to jump the gaps between tall buildings, right? And as a Rhodes IslandOperator, I will bridge the gap between the Infected and Uninfected too!",
+      "links": [
+        {
+          "text": "Operator",
+          "href": "/wiki/Operator"
+        }
+      ],
+      "audio": {
+        "JP": "Angelina-006.ogg",
+        "CN": "Angelina-006-CN.ogg",
+        "EN": "Angelina-006-EN.ogg",
+        "KR": "Angelina-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Memories are precious things. I always remember that theInfected, just like us, look forward to a better tomorrow. I don't know anything about your past memories, Dr. {nickname}, but I promise to help you find them, if you lost them.",
+      "links": [
+        {
+          "text": "Infected",
+          "href": "/wiki/Infected"
+        }
+      ],
+      "audio": {
+        "JP": "Angelina-007.ogg",
+        "CN": "Angelina-007-CN.ogg",
+        "EN": "Angelina-007-EN.ogg",
+        "KR": "Angelina-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Dr. {nickname}, don't be shy, come closer! That's right! Three, two, one, sorridi![note 1]See? It's a photo sticker of you and me. The perfect souvenir, right? I guess it's also a symbol of... some of my feelings, haha.",
+      "links": [
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {
+        "JP": "Angelina-008.ogg",
+        "CN": "Angelina-008-CN.ogg",
+        "EN": "Angelina-008-EN.ogg",
+        "KR": "Angelina-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "The view from up on the deck is great. Especially for stargazing! See that lone star over there? People always say that one day, its companion star will appear, and then they'll embrace and dance together. Still... how long does it have to wait for the other one to show up? And how long do I have to wait... for the stars to grant my wish?",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-009.ogg",
+        "CN": "Angelina-009-CN.ogg",
+        "EN": "Angelina-009-EN.ogg",
+        "KR": "Angelina-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Hmm hmm! Mmm!♪ Turns out coral lipstick is best!",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-010.ogg",
+        "CN": "Angelina-010-CN.ogg",
+        "EN": "Angelina-010-EN.ogg",
+        "KR": "Angelina-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I'm Angelina Ajimu, a transporter from Siracusa. You can just call me Angelina. Can I call you Dr. {nickname}?",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-011.ogg",
+        "CN": "Angelina-011-CN.ogg",
+        "EN": "Angelina-011-EN.ogg",
+        "KR": "Angelina-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "The battlefield is an ugly place... but I'll try not to let you down.",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-012.ogg",
+        "CN": "Angelina-012-CN.ogg",
+        "EN": "Angelina-012-EN.ogg",
+        "KR": "Angelina-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Since you trust me this much, Dr. {nickname}, I have to work much, much harder than I usually do! Like, Siracusan transporters always say: \"the slow are just dust in the wind.\"",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-013.ogg",
+        "CN": "Angelina-013-CN.ogg",
+        "EN": "Angelina-013-EN.ogg",
+        "KR": "Angelina-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "I've made my decision. As long as you‘re still working to help the Infected, Dr. {nickname}, I'll follow you. You've come so far, done so much... now it's my turn to do something for you, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-014.ogg",
+        "CN": "Angelina-014-CN.ogg",
+        "EN": "Angelina-014-EN.ogg",
+        "KR": "Angelina-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "I'll give it all I've got, in work or in battle!",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-015.ogg",
+        "CN": "Angelina-015-CN.ogg",
+        "EN": "Angelina-015-EN.ogg",
+        "KR": "Angelina-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I might not be the best, but I'll still do what I can.",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-016.ogg",
+        "CN": "Angelina-016-CN.ogg",
+        "EN": "Angelina-016-EN.ogg",
+        "KR": "Angelina-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Everybody be careful!",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-017.ogg",
+        "CN": "Angelina-017-CN.ogg",
+        "EN": "Angelina-017-EN.ogg",
+        "KR": "Angelina-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Will this conflict ever end?",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-018.ogg",
+        "CN": "Angelina-018-CN.ogg",
+        "EN": "Angelina-018-EN.ogg",
+        "KR": "Angelina-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Okay!",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-019.ogg",
+        "CN": "Angelina-019-CN.ogg",
+        "EN": "Angelina-019-EN.ogg",
+        "KR": "Angelina-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Hm?",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-020.ogg",
+        "CN": "Angelina-020-CN.ogg",
+        "EN": "Angelina-020-EN.ogg",
+        "KR": "Angelina-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Quietly, nimbly...",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-021.ogg",
+        "CN": "Angelina-021-CN.ogg",
+        "EN": "Angelina-021-EN.ogg",
+        "KR": "Angelina-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Ehee~",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-022.ogg",
+        "CN": "Angelina-022-CN.ogg",
+        "EN": "Angelina-022-EN.ogg",
+        "KR": "Angelina-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "You got something weighing on you?",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-023.ogg",
+        "CN": "Angelina-023-CN.ogg",
+        "EN": "Angelina-023-EN.ogg",
+        "KR": "Angelina-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "We gotta get out of this.",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-024.ogg",
+        "CN": "Angelina-024-CN.ogg",
+        "EN": "Angelina-024-EN.ogg",
+        "KR": "Angelina-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "I'll show you what I can do.",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-025.ogg",
+        "CN": "Angelina-025-CN.ogg",
+        "EN": "Angelina-025-EN.ogg",
+        "KR": "Angelina-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Wanna see how it feels to float?",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-026.ogg",
+        "CN": "Angelina-026-CN.ogg",
+        "EN": "Angelina-026-EN.ogg",
+        "KR": "Angelina-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "What doesn't kill you makes you stronger, right?",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-027.ogg",
+        "CN": "Angelina-027-CN.ogg",
+        "EN": "Angelina-027-EN.ogg",
+        "KR": "Angelina-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "We all worked hard for this. Dr. {nickname}, you'll remember it too?",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-028.ogg",
+        "CN": "Angelina-028-CN.ogg",
+        "EN": "Angelina-028-EN.ogg",
+        "KR": "Angelina-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Well, even I lose a letter sometimes...",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-029.ogg",
+        "CN": "Angelina-029-CN.ogg",
+        "EN": "Angelina-029-EN.ogg",
+        "KR": "Angelina-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "The more difficult the situation is, the harder we have to try!",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-030.ogg",
+        "CN": "Angelina-030-CN.ogg",
+        "EN": "Angelina-030-EN.ogg",
+        "KR": "Angelina-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "This place is like home to me!",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-031.ogg",
+        "CN": "Angelina-031-CN.ogg",
+        "EN": "Angelina-031-EN.ogg",
+        "KR": "Angelina-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Woah!",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-032.ogg",
+        "CN": "Angelina-032-CN.ogg",
+        "EN": "Angelina-032-EN.ogg",
+        "KR": "Angelina-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "My hair looks nice? Of course! I've got a secret. Wanna know what it is?",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-033.ogg",
+        "CN": "Angelina-033-CN.ogg",
+        "EN": "Angelina-033-EN.ogg",
+        "KR": "Angelina-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Morning, Dr. {nickname}.",
+      "links": [],
+      "audio": {
+        "JP": "Angelina-034.ogg",
+        "CN": "Angelina-034-CN.ogg",
+        "EN": "Angelina-034-EN.ogg",
+        "KR": "Angelina-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Angelina-035.ogg",
+        "CN": "Angelina-035-CN.ogg",
+        "EN": "Angelina-035-EN.ogg",
+        "KR": "Angelina-035-KR.ogg"
+      }
+    }
+  }
+}

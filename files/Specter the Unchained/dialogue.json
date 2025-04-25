@@ -1,0 +1,415 @@
+{
+  "operator": "Specter the Unchained",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Doctor, if you want me to talk to you, then at leaaast give me some topics I can show interest in.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Specter_the_Unchained-001.ogg",
+        "CN": "Specter_the_Unchained-001-CN.ogg",
+        "EN": "Specter_the_Unchained-001-EN.ogg",
+        "KR": "Specter_the_Unchained-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Doctor, don't blame me for having no interest in your grand endeavors. To be honest, the reason I became anAbyssal Hunteris hardly as lofty as you imagine. Abyssal Hunters bear a grave mission, but me? I just think the life suits me more, that's all.",
+      "links": [
+        {
+          "text": "Abyssal Hunter",
+          "href": "/wiki/Abyssal_Hunter"
+        }
+      ],
+      "audio": {
+        "JP": "Specter_the_Unchained-002.ogg",
+        "CN": "Specter_the_Unchained-002-CN.ogg",
+        "EN": "Specter_the_Unchained-002-EN.ogg",
+        "KR": "Specter_the_Unchained-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "You want to know about my life inÆgir...? After so much time, my childhood memories are a bit of a blur. Maybe I'll remember a thing or two by telling you about it. Originally, I was meant to be a sculptor...",
+      "links": [
+        {
+          "text": "Ægir",
+          "href": "/wiki/Aegir_(country)"
+        }
+      ],
+      "audio": {
+        "JP": "Specter_the_Unchained-003.ogg",
+        "CN": "Specter_the_Unchained-003-CN.ogg",
+        "EN": "Specter_the_Unchained-003-EN.ogg",
+        "KR": "Specter_the_Unchained-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "My combat style shows no restraint compared to the past? Doctor, I think you might be misunderstanding me. If you call me mad, I'll take it as an insult. But if you call my combat style mad... I'll take that as a commendation.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-004.ogg",
+        "CN": "Specter_the_Unchained-004-CN.ogg",
+        "EN": "Specter_the_Unchained-004-EN.ogg",
+        "KR": "Specter_the_Unchained-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "Hark... to the boundless master of all creation, embraced by darkness, murmuring soliloquy... Let me take a stab, Doctor. Maybe you like the old me rather more than the present me? I'll be honest, I've got a soft spot for that me too. It's nice to be so pure, isn't it?",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-005.ogg",
+        "CN": "Specter_the_Unchained-005-CN.ogg",
+        "EN": "Specter_the_Unchained-005-EN.ogg",
+        "KR": "Specter_the_Unchained-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Doctor, you always worry so much. Do something for me, tear this sheet up, yes, just like that. Sometimes, things aren't so complicated. Survival is splitting everything in your way in two. It's just that simple.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-006.ogg",
+        "CN": "Specter_the_Unchained-006-CN.ogg",
+        "EN": "Specter_the_Unchained-006-EN.ogg",
+        "KR": "Specter_the_Unchained-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "*Sigh* Doctor, I'm dying to get you visiting our city. That's the only way you can understand how tender my comment is on the life quality ofRhodes Island. It's a shame your body'd be too delicate for it. All the more shame I don't even know whether our city still exists.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Specter_the_Unchained-007.ogg",
+        "CN": "Specter_the_Unchained-007-CN.ogg",
+        "EN": "Specter_the_Unchained-007-EN.ogg",
+        "KR": "Specter_the_Unchained-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Even if I've got a list of gripes about Rhodes Island, you people haven't abandoned the collection and preservation of art. I can retract all my criticisms just for that. Doctor, forget your job for a moment. This, is a work you shouldn't miss, not in a lifetime.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-008.ogg",
+        "CN": "Specter_the_Unchained-008-CN.ogg",
+        "EN": "Specter_the_Unchained-008-EN.ogg",
+        "KR": "Specter_the_Unchained-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "You want to hear me sing? Of course I can indulge you. But I'm so sorry, singing has a special significance to us that you just can't share, not being one of us. Doctor, Doctor, it vexes me that I have so many things I want to share with you. Just how could I convey them to you?",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-009.ogg",
+        "CN": "Specter_the_Unchained-009-CN.ogg",
+        "EN": "Specter_the_Unchained-009-EN.ogg",
+        "KR": "Specter_the_Unchained-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "May you too stay lucid in your dreams.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-010.ogg",
+        "CN": "Specter_the_Unchained-010-CN.ogg",
+        "EN": "Specter_the_Unchained-010-EN.ogg",
+        "KR": "Specter_the_Unchained-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I recognize you, and you recognize me. We don't need all those boring introductions. But you still don't know me, and I still don't know you. If I recall correctly, dry-landers use simple enough means to get to know each other, so let's get communicating.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-011.ogg",
+        "CN": "Specter_the_Unchained-011-CN.ogg",
+        "EN": "Specter_the_Unchained-011-EN.ogg",
+        "KR": "Specter_the_Unchained-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Are you trying to tell me... my combat style should be more \"fit-in?\"",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-012.ogg",
+        "CN": "Specter_the_Unchained-012-CN.ogg",
+        "EN": "Specter_the_Unchained-012-EN.ogg",
+        "KR": "Specter_the_Unchained-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "For politeness's sake, I accept your commendation. But, to us Abyssal Hunters, combat is the means we have to master to survive. We don't need applause or flowers for it.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-013.ogg",
+        "CN": "Specter_the_Unchained-013-CN.ogg",
+        "EN": "Specter_the_Unchained-013-EN.ogg",
+        "KR": "Specter_the_Unchained-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "You chose a dangerous way to learn of the Abyssal Hunters and our enemies, Doctor. With nothing but your delicate body, the tides will drown you. But at the same time, you can count your lucky stars, because I invite you to hide behind me.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-014.ogg",
+        "CN": "Specter_the_Unchained-014-CN.ogg",
+        "EN": "Specter_the_Unchained-014-EN.ogg",
+        "KR": "Specter_the_Unchained-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Shall the hunt begin?",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-015.ogg",
+        "CN": "Specter_the_Unchained-015-CN.ogg",
+        "EN": "Specter_the_Unchained-015-EN.ogg",
+        "KR": "Specter_the_Unchained-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Just let me think, whether you are here to help, or to trouble me like a whelp.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-016.ogg",
+        "CN": "Specter_the_Unchained-016-CN.ogg",
+        "EN": "Specter_the_Unchained-016-EN.ogg",
+        "KR": "Specter_the_Unchained-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "It's high tide.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-017.ogg",
+        "CN": "Specter_the_Unchained-017-CN.ogg",
+        "EN": "Specter_the_Unchained-017-EN.ogg",
+        "KR": "Specter_the_Unchained-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "The time for fun has now begun.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-018.ogg",
+        "CN": "Specter_the_Unchained-018-CN.ogg",
+        "EN": "Specter_the_Unchained-018-EN.ogg",
+        "KR": "Specter_the_Unchained-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "My patience is limited, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-019.ogg",
+        "CN": "Specter_the_Unchained-019-CN.ogg",
+        "EN": "Specter_the_Unchained-019-EN.ogg",
+        "KR": "Specter_the_Unchained-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Waiting is its own art, too.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-020.ogg",
+        "CN": "Specter_the_Unchained-020-CN.ogg",
+        "EN": "Specter_the_Unchained-020-EN.ogg",
+        "KR": "Specter_the_Unchained-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Every battle deserves to be enjoyed.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-021.ogg",
+        "CN": "Specter_the_Unchained-021-CN.ogg",
+        "EN": "Specter_the_Unchained-021-EN.ogg",
+        "KR": "Specter_the_Unchained-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "I'm in a... gorgeous mood right now!",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-022.ogg",
+        "CN": "Specter_the_Unchained-022-CN.ogg",
+        "EN": "Specter_the_Unchained-022-EN.ogg",
+        "KR": "Specter_the_Unchained-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Good morning.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-023.ogg",
+        "CN": "Specter_the_Unchained-023-CN.ogg",
+        "EN": "Specter_the_Unchained-023-EN.ogg",
+        "KR": "Specter_the_Unchained-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "Good night.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-024.ogg",
+        "CN": "Specter_the_Unchained-024-CN.ogg",
+        "EN": "Specter_the_Unchained-024-EN.ogg",
+        "KR": "Specter_the_Unchained-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "I'm not yet satisfied.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-025.ogg",
+        "CN": "Specter_the_Unchained-025-CN.ogg",
+        "EN": "Specter_the_Unchained-025-EN.ogg",
+        "KR": "Specter_the_Unchained-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Come, more, more!",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-026.ogg",
+        "CN": "Specter_the_Unchained-026-CN.ogg",
+        "EN": "Specter_the_Unchained-026-EN.ogg",
+        "KR": "Specter_the_Unchained-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "We might not define danger the same way, but I'm willing to respect the genuine joy of others.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-027.ogg",
+        "CN": "Specter_the_Unchained-027-CN.ogg",
+        "EN": "Specter_the_Unchained-027-EN.ogg",
+        "KR": "Specter_the_Unchained-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "Do we have a ballad of victory? Yes, but not now. We're still a long way from true victory, aren't we?",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-028.ogg",
+        "CN": "Specter_the_Unchained-028-CN.ogg",
+        "EN": "Specter_the_Unchained-028-EN.ogg",
+        "KR": "Specter_the_Unchained-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Incompletion has its own beauty. That's how you're comforting yourself, isn't it?",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-029.ogg",
+        "CN": "Specter_the_Unchained-029-CN.ogg",
+        "EN": "Specter_the_Unchained-029-EN.ogg",
+        "KR": "Specter_the_Unchained-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "I'm to blame too for placing my trust in you. But don't worry, I'll bear the responsibility together with you.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-030.ogg",
+        "CN": "Specter_the_Unchained-030-CN.ogg",
+        "EN": "Specter_the_Unchained-030-EN.ogg",
+        "KR": "Specter_the_Unchained-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "You want to hear my opinion of this landship? You'll be disappointed.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-031.ogg",
+        "CN": "Specter_the_Unchained-031-CN.ogg",
+        "EN": "Specter_the_Unchained-031-EN.ogg",
+        "KR": "Specter_the_Unchained-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Oh? I knew it was you.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-032.ogg",
+        "CN": "Specter_the_Unchained-032-CN.ogg",
+        "EN": "Specter_the_Unchained-032-EN.ogg",
+        "KR": "Specter_the_Unchained-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "You've got a strong hunger for knowledge, but it lacks direction at times, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-033.ogg",
+        "CN": "Specter_the_Unchained-033-CN.ogg",
+        "EN": "Specter_the_Unchained-033-EN.ogg",
+        "KR": "Specter_the_Unchained-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "I hope you have a meaningful day today, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Specter_the_Unchained-034.ogg",
+        "CN": "Specter_the_Unchained-034-CN.ogg",
+        "EN": "Specter_the_Unchained-034-EN.ogg",
+        "KR": "Specter_the_Unchained-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Specter_the_Unchained-035.ogg",
+        "CN": "Specter_the_Unchained-035-CN.ogg",
+        "EN": "Specter_the_Unchained-035-EN.ogg",
+        "KR": "Specter_the_Unchained-035-KR.ogg"
+      }
+    }
+  }
+}

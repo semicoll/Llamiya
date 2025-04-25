@@ -1,0 +1,423 @@
+{
+  "operator": "Rosmontis",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Umm,Doctor... I'm not very good at filing and writing reports. Do you think you can assign me to another position? Eh? I don't need to do anything. All I need to do is hang out here? Doctor... You're a weirdo.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Rosmontis-001.ogg",
+        "CN": "Rosmontis-001-CN.ogg",
+        "EN": "Rosmontis-001-EN.ogg",
+        "KR": "Rosmontis-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Everyone atRhodes Islandis my friend. The elite operators and my squad mates are my family. Ms.Kal'tsitdoesn't want me to treat them as family. I didn't get it at first, but I do now. They're like flowers in a vase. If you don't pay attention to them, they'll wither. But they're all I have.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        },
+        {
+          "text": "Kal'tsit",
+          "href": "/wiki/Kal%27tsit"
+        }
+      ],
+      "audio": {
+        "JP": "Rosmontis-002.ogg",
+        "CN": "Rosmontis-002-CN.ogg",
+        "EN": "Rosmontis-002-EN.ogg",
+        "KR": "Rosmontis-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "What am I reading? Oh, it's an entry from two days ago.Closurespilled her coffee that morning and stained a couple scrolls in the library. And she got cursed, I think. For every five words she says, she ends up spitting on someone's face. Scary, isn't it?",
+      "links": [
+        {
+          "text": "Closure",
+          "href": "/wiki/Closure"
+        }
+      ],
+      "audio": {
+        "JP": "Rosmontis-003.ogg",
+        "CN": "Rosmontis-003-CN.ogg",
+        "EN": "Rosmontis-003-EN.ogg",
+        "KR": "Rosmontis-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Painful things, sad things, and scary things all go away when you least expect them to. But it's not okay to forget them. I need to remember them, because those emotions are still there inside me. I don't want to end up crying without knowing why. Memories are a burden, and I have to carry my own burden.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-004.ogg",
+        "CN": "Rosmontis-004-CN.ogg",
+        "EN": "Rosmontis-004-EN.ogg",
+        "KR": "Rosmontis-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "I can't use a shield, I can't use a bow, I can't make guns glow, and I can't turn those iron rods into weapons very well. More importantly, the other elite operators are much warmer than me. This warmth is what helps them fight for everyone else and for what's right. I will do my best.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-005.ogg",
+        "CN": "Rosmontis-005-CN.ogg",
+        "EN": "Rosmontis-005-EN.ogg",
+        "KR": "Rosmontis-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "Ms. Kal'tsit has lost lots of family, right? I see it in her eyes. How does she keep it to herself and manage to live with it? Just thinking about how everyone will disappear eventually one after another is enough to make my heart ache. Like it's going to explode. Is it because she's a grown-up? Then I want to grow up soon.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-006.ogg",
+        "CN": "Rosmontis-006-CN.ogg",
+        "EN": "Rosmontis-006-EN.ogg",
+        "KR": "Rosmontis-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Doctor, could you tell me what this word means? I askedBlazeabout it, and she just kept giggling, andAmiyajust kept hitting her. Oh, it means kissing? I know what that is, then. Doctor, bend down a little, okay? Can I kiss you on the cheek? Thanks for always taking care of us. Meow.",
+      "links": [
+        {
+          "text": "Blaze",
+          "href": "/wiki/Blaze"
+        },
+        {
+          "text": "Amiya",
+          "href": "/wiki/Amiya"
+        }
+      ],
+      "audio": {
+        "JP": "Rosmontis-007.ogg",
+        "CN": "Rosmontis-007-CN.ogg",
+        "EN": "Rosmontis-007-EN.ogg",
+        "KR": "Rosmontis-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "I won't forget about those people. They created me and those monsters. They wanted to use us to do bad things. Before the world finally stops hurting us all... I'll punish these people. I will make it really, really hurt, so they never, ever forget.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-008.ogg",
+        "CN": "Rosmontis-008-CN.ogg",
+        "EN": "Rosmontis-008-EN.ogg",
+        "KR": "Rosmontis-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "3\tOh... You're the Doctor, right? I went over the records on the terminal just yesterday. Yep, I remember now, Doctor. You can give me orders. Let's go on a mission? Make sure to use my powers well.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-009.ogg",
+        "CN": "Rosmontis-009-CN.ogg",
+        "EN": "Rosmontis-009-EN.ogg",
+        "KR": "Rosmontis-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Hmm... the Doctor is taking a nap. Looks restless, too. Must be tired. If I give the Doctor a hug, it should feel a little better, right? Just relax and sleep well. I know how it feels... It hurts even in your dreams, right? I can tell.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-010.ogg",
+        "CN": "Rosmontis-010-CN.ogg",
+        "EN": "Rosmontis-010-EN.ogg",
+        "KR": "Rosmontis-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Hello, Doctor. I am Elite Operator Rosmontis. Ms. Kal'tsit has given her permission. You can give me and my team orders now. Use my power where it matters, Doctor. I also tend to forget about things pretty easily. Be sure to remind me if it looks like I might forget something.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-011.ogg",
+        "CN": "Rosmontis-011-CN.ogg",
+        "EN": "Rosmontis-011-EN.ogg",
+        "KR": "Rosmontis-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Yeah... I got that down now. I can use this in battle.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-012.ogg",
+        "CN": "Rosmontis-012-CN.ogg",
+        "EN": "Rosmontis-012-EN.ogg",
+        "KR": "Rosmontis-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "I asked Ms. Kal'tsit why I'm an elite operator. Lots of people talk behind my back. They say I'm not right for the job. Ms. Kal'tsit said that if I become an elite operator, I'll remember more, and I'll become a better person. Yep, I'm doing my best.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-013.ogg",
+        "CN": "Rosmontis-013-CN.ogg",
+        "EN": "Rosmontis-013-EN.ogg",
+        "KR": "Rosmontis-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "This world isn't going to get better so easily, but humans tend to get worse because of their surroundings. Doctor, we can't turn into bad people. If you do, I am sure you'll be really, really bad. I won't let you turn out like that.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-014.ogg",
+        "CN": "Rosmontis-014-CN.ogg",
+        "EN": "Rosmontis-014-EN.ogg",
+        "KR": "Rosmontis-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Time for a mission? Yeah, I know. I will protect all of Rhodes Island's operators. I promise.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-015.ogg",
+        "CN": "Rosmontis-015-CN.ogg",
+        "EN": "Rosmontis-015-EN.ogg",
+        "KR": "Rosmontis-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I am the leader? Don't worry. They may not be from my team, but I'll make sure their support doesn't go to waste.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-016.ogg",
+        "CN": "Rosmontis-016-CN.ogg",
+        "EN": "Rosmontis-016-EN.ogg",
+        "KR": "Rosmontis-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "Don't worry. I know how to control my Arts.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-017.ogg",
+        "CN": "Rosmontis-017-CN.ogg",
+        "EN": "Rosmontis-017-EN.ogg",
+        "KR": "Rosmontis-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "I don't want to see my family get hurt. I will destroy everything that could hurt my family.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-018.ogg",
+        "CN": "Rosmontis-018-CN.ogg",
+        "EN": "Rosmontis-018-EN.ogg",
+        "KR": "Rosmontis-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "I won't remember you.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-019.ogg",
+        "CN": "Rosmontis-019-CN.ogg",
+        "EN": "Rosmontis-019-EN.ogg",
+        "KR": "Rosmontis-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Give me your order. I will see it through.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-020.ogg",
+        "CN": "Rosmontis-020-CN.ogg",
+        "EN": "Rosmontis-020-EN.ogg",
+        "KR": "Rosmontis-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "It's starting.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-021.ogg",
+        "CN": "Rosmontis-021-CN.ogg",
+        "EN": "Rosmontis-021-EN.ogg",
+        "KR": "Rosmontis-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Stand back. If you don't want to see what's about to happen, don't look.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-022.ogg",
+        "CN": "Rosmontis-022-CN.ogg",
+        "EN": "Rosmontis-022-EN.ogg",
+        "KR": "Rosmontis-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "If it hurts, just cry out. It'll feel better.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-023.ogg",
+        "CN": "Rosmontis-023-CN.ogg",
+        "EN": "Rosmontis-023-EN.ogg",
+        "KR": "Rosmontis-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "If you surrender now, I won't hurt you.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-024.ogg",
+        "CN": "Rosmontis-024-CN.ogg",
+        "EN": "Rosmontis-024-EN.ogg",
+        "KR": "Rosmontis-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "You won't die... I'll make sure you don't die.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-025.ogg",
+        "CN": "Rosmontis-025-CN.ogg",
+        "EN": "Rosmontis-025-EN.ogg",
+        "KR": "Rosmontis-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "There are things that have to be done by someone. There are things that only I can do.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-026.ogg",
+        "CN": "Rosmontis-026-CN.ogg",
+        "EN": "Rosmontis-026-EN.ogg",
+        "KR": "Rosmontis-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "If there comes a day when I can't use these Arts again... Hmm. What will that day be like? I can't imagine.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-027.ogg",
+        "CN": "Rosmontis-027-CN.ogg",
+        "EN": "Rosmontis-027-EN.ogg",
+        "KR": "Rosmontis-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "That was very nice, Doctor. There, there. Thanks.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-028.ogg",
+        "CN": "Rosmontis-028-CN.ogg",
+        "EN": "Rosmontis-028-EN.ogg",
+        "KR": "Rosmontis-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "I will take care of the rest. It won't take long.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-029.ogg",
+        "CN": "Rosmontis-029-CN.ogg",
+        "EN": "Rosmontis-029-EN.ogg",
+        "KR": "Rosmontis-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "No... I won't retreat. I can't disappoint the others. I still have my sword... Even without my sword, I can still fight! I won't leave!",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-030.ogg",
+        "CN": "Rosmontis-030-CN.ogg",
+        "EN": "Rosmontis-030-EN.ogg",
+        "KR": "Rosmontis-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "P-Please don't lock me in a small room. They're scary... I... I don't really like those kinda rooms.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-031.ogg",
+        "CN": "Rosmontis-031-CN.ogg",
+        "EN": "Rosmontis-031-EN.ogg",
+        "KR": "Rosmontis-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "D-Don't touch me! ...You'll get hurt.",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-032.ogg",
+        "CN": "Rosmontis-032-CN.ogg",
+        "EN": "Rosmontis-032-EN.ogg",
+        "KR": "Rosmontis-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Um... I-I'll try to bear with it... and not break your hand...",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-033.ogg",
+        "CN": "Rosmontis-033-CN.ogg",
+        "EN": "Rosmontis-033-EN.ogg",
+        "KR": "Rosmontis-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Oh, you're the Doctor, right?",
+      "links": [],
+      "audio": {
+        "JP": "Rosmontis-034.ogg",
+        "CN": "Rosmontis-034-CN.ogg",
+        "EN": "Rosmontis-034-EN.ogg",
+        "KR": "Rosmontis-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Rosmontis-035.ogg",
+        "CN": "Rosmontis-035-CN.ogg",
+        "EN": "Rosmontis-035-EN.ogg",
+        "KR": "Rosmontis-035-KR.ogg"
+      }
+    }
+  }
+}

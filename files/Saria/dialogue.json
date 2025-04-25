@@ -1,0 +1,420 @@
+{
+  "operator": "Saria",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "I've checked your schedule. Isn't it time you took a break? If you'll excuse me.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-001.ogg",
+        "CN": "Saria-001-CN.ogg",
+        "EN": "Saria-001-EN.ogg",
+        "KR": "Saria-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Evolution is the law of nature. But Rhine Lab attempted to tamper with this law, even to take control of it. What a foolish endeavor...",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-002.ogg",
+        "CN": "Saria-002-CN.ogg",
+        "EN": "Saria-002-EN.ogg",
+        "KR": "Saria-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "As a researcher, have you ever participated in some experiments you probably shouldn't have? No? That's good.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-003.ogg",
+        "CN": "Saria-003-CN.ogg",
+        "EN": "Saria-003-EN.ogg",
+        "KR": "Saria-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "Don't you think it's too noisy inRhodes Island? Everyone should be quiet and focused during work. You should enforce discipline on your subordinates.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-004.ogg",
+        "CN": "Saria-004-CN.ogg",
+        "EN": "Saria-004-EN.ogg",
+        "KR": "Saria-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "My true power has nothing to do with first aid. However, I have slightly adjusted the operation of this power to accommodate it to your command.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-005.ogg",
+        "CN": "Saria-005-CN.ogg",
+        "EN": "Saria-005-EN.ogg",
+        "KR": "Saria-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "You think Calcification Arts only makes organisms weaker? You're wrong. I can condense calcium into a tough enamel. The enemies can try as they want, but no one can break my shield.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-006.ogg",
+        "CN": "Saria-006-CN.ogg",
+        "EN": "Saria-006-EN.ogg",
+        "KR": "Saria-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "You've seen me arguing withSilence? Yes, we do that a lot... Sorry for causing trouble for you and Rhodes Island.",
+      "links": [
+        {
+          "text": "Silence",
+          "href": "/wiki/Silence"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-007.ogg",
+        "CN": "Saria-007-CN.ogg",
+        "EN": "Saria-007-EN.ogg",
+        "KR": "Saria-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "Please tellIfriton my behalf, \"No matter what happens, I will protect you\"... Meet her? No, I'm not ready for that.",
+      "links": [
+        {
+          "text": "Ifrit",
+          "href": "/wiki/Ifrit"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-008.ogg",
+        "CN": "Saria-008-CN.ogg",
+        "EN": "Saria-008-EN.ogg",
+        "KR": "Saria-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Even in the most desperate of situations, one must stand fast to be a symbol of strength for the people they hold dear. That is where I draw my line and how I live my life. You'll do the same, won't you?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-009.ogg",
+        "CN": "Saria-009-CN.ogg",
+        "EN": "Saria-009-EN.ogg",
+        "KR": "Saria-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "I'll go back to my room if there's no further assignments.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-010.ogg",
+        "CN": "Saria-010-CN.ogg",
+        "EN": "Saria-010-EN.ogg",
+        "KR": "Saria-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I am Saria, formerly of the Rhine Lab Medical Research Institute Experiment Team. As for now... I need Rhodes Island's help to bring the astray back to the orthodox.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-011.ogg",
+        "CN": "Saria-011-CN.ogg",
+        "EN": "Saria-011-EN.ogg",
+        "KR": "Saria-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "What are you doing?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-012.ogg",
+        "CN": "Saria-012-CN.ogg",
+        "EN": "Saria-012-EN.ogg",
+        "KR": "Saria-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Good, you must continue motivating your subordinates with your ideas if you hope to maintain influence over them.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-013.ogg",
+        "CN": "Saria-013-CN.ogg",
+        "EN": "Saria-013-EN.ogg",
+        "KR": "Saria-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Promotion? I don't want any special treatment. But for Ifrit's sake, I do need your help to correct all those twisted laws and rules.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-014.ogg",
+        "CN": "Saria-014-CN.ogg",
+        "EN": "Saria-014-EN.ogg",
+        "KR": "Saria-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "I am within my rights to oversee and bring up my own opinion on your command.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-015.ogg",
+        "CN": "Saria-015-CN.ogg",
+        "EN": "Saria-015-EN.ogg",
+        "KR": "Saria-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "Send me the operation briefing, I will review it.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-016.ogg",
+        "CN": "Saria-016-CN.ogg",
+        "EN": "Saria-016-EN.ogg",
+        "KR": "Saria-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "AllOperatorsmust maintain strict disciplines.",
+      "links": [
+        {
+          "text": "Operators",
+          "href": "/wiki/Operator"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-017.ogg",
+        "CN": "Saria-017-CN.ogg",
+        "EN": "Saria-017-EN.ogg",
+        "KR": "Saria-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Are they the ones who caused such destruction and started all this conflict?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-018.ogg",
+        "CN": "Saria-018-CN.ogg",
+        "EN": "Saria-018-EN.ogg",
+        "KR": "Saria-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "It's my turn.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-019.ogg",
+        "CN": "Saria-019-CN.ogg",
+        "EN": "Saria-019-EN.ogg",
+        "KR": "Saria-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "Suppress them.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-020.ogg",
+        "CN": "Saria-020-CN.ogg",
+        "EN": "Saria-020-EN.ogg",
+        "KR": "Saria-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Forward.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-021.ogg",
+        "CN": "Saria-021-CN.ogg",
+        "EN": "Saria-021-EN.ogg",
+        "KR": "Saria-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Vermin.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-022.ogg",
+        "CN": "Saria-022-CN.ogg",
+        "EN": "Saria-022-EN.ogg",
+        "KR": "Saria-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Just who are you weaklings going to stop like that?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-023.ogg",
+        "CN": "Saria-023-CN.ogg",
+        "EN": "Saria-023-EN.ogg",
+        "KR": "Saria-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "This will be over soon.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-024.ogg",
+        "CN": "Saria-024-CN.ogg",
+        "EN": "Saria-024-EN.ogg",
+        "KR": "Saria-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Solidify.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-025.ogg",
+        "CN": "Saria-025-CN.ogg",
+        "EN": "Saria-025-EN.ogg",
+        "KR": "Saria-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Yielding is not an option.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-026.ogg",
+        "CN": "Saria-026-CN.ogg",
+        "EN": "Saria-026-EN.ogg",
+        "KR": "Saria-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Your tactics appear modern, yet the ideas behind them are primitive at their roots. Just who are you?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-027.ogg",
+        "CN": "Saria-027-CN.ogg",
+        "EN": "Saria-027-EN.ogg",
+        "KR": "Saria-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "All must return to the existing order. None shall disobey the rules.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-028.ogg",
+        "CN": "Saria-028-CN.ogg",
+        "EN": "Saria-028-EN.ogg",
+        "KR": "Saria-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "The routed enemies may be calling for reinforcement. We must not drop our guard before we find the last of them.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-029.ogg",
+        "CN": "Saria-029-CN.ogg",
+        "EN": "Saria-029-EN.ogg",
+        "KR": "Saria-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Where did I go wrong...?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-030.ogg",
+        "CN": "Saria-030-CN.ogg",
+        "EN": "Saria-030-EN.ogg",
+        "KR": "Saria-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "This room has interesting decor. I'd be more fond of a futuristic style, though.",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-031.ogg",
+        "CN": "Saria-031-CN.ogg",
+        "EN": "Saria-031-EN.ogg",
+        "KR": "Saria-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Hm? What?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-032.ogg",
+        "CN": "Saria-032-CN.ogg",
+        "EN": "Saria-032-EN.ogg",
+        "KR": "Saria-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor, you might do a bit of research into the past in your free time. You will find many a thing of great interest.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-033.ogg",
+        "CN": "Saria-033-CN.ogg",
+        "EN": "Saria-033-EN.ogg",
+        "KR": "Saria-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "Doctor, are you well?",
+      "links": [],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-034.ogg",
+        "CN": "Saria-034-CN.ogg",
+        "EN": "Saria-034-EN.ogg",
+        "KR": "Saria-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "https://arknights.fandom.com/wiki/File:Saria-035.ogg",
+        "CN": "Saria-035-CN.ogg",
+        "EN": "Saria-035-EN.ogg",
+        "KR": "Saria-035-KR.ogg"
+      }
+    }
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "operator": "Pozëmka",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "Hello,Doctor. I'll be acting as your assistant from here on. Please keep an appropriate distance from me; I'll be more at ease that way.",
+      "links": [
+        {
+          "text": "Doctor",
+          "href": "/wiki/Doctor"
+        }
+      ],
+      "audio": {
+        "JP": "Poz%C3%ABmka-001.ogg",
+        "CN": "Poz%C3%ABmka-001-CN.ogg",
+        "EN": "Poz%C3%ABmka-001-EN.ogg",
+        "KR": "Poz%C3%ABmka-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "I never made my requirements clear the first time I ordered a fountain pen fromZeruertza's artisans, and so I ended up with this crossbow. It plagues me to have had the peace-lovingDurinforge a weapon...OperatorMyrtle, you say? Generalissimo? A flight of childish fancy–er, call it her own self-styling.",
+      "links": [
+        {
+          "text": "Zeruertza",
+          "href": "/wiki/Zeruertza"
+        },
+        {
+          "text": "Durin",
+          "href": "/wiki/Durin_(race)"
+        },
+        {
+          "text": "Operator",
+          "href": "/wiki/Operator"
+        },
+        {
+          "text": "Myrtle",
+          "href": "/wiki/Myrtle"
+        }
+      ],
+      "audio": {
+        "JP": "Poz%C3%ABmka-002.ogg",
+        "CN": "Poz%C3%ABmka-002-CN.ogg",
+        "EN": "Poz%C3%ABmka-002-EN.ogg",
+        "KR": "Poz%C3%ABmka-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "If you'll permit my frankness, it's my beliefRhodes Islandshould build work and living environments more suited to the Durin operators. At least the cafeteria menu should be decided by vote–they're all satisfied? They can't be! I'll go and ask them, lest you–lest someone be tricking them.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Poz%C3%ABmka-003.ogg",
+        "CN": "Poz%C3%ABmka-003-CN.ogg",
+        "EN": "Poz%C3%ABmka-003-EN.ogg",
+        "KR": "Poz%C3%ABmka-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "You require me to draft some slogans along with lines? I'd be happy to. It was routine work of mine in Zeruertza–you'll just need to provide me a typewriter... Why do I not use a pen? My fountain pen is typically for more private things, more... not-so-Durin things.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-004.ogg",
+        "CN": "Poz%C3%ABmka-004-CN.ogg",
+        "EN": "Poz%C3%ABmka-004-EN.ogg",
+        "KR": "Poz%C3%ABmka-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "I was a steadfast teetotaler back inUrsus, but to my surprise, I could keep more drink down than most in Zeruertza. Truth be told, I didn't immediately understand why they loved their drink so, but I did eventually come to realize. We only drink in excess when hope is lost, and a forever stagnant, easy life can lose us hope as well as anything.",
+      "links": [
+        {
+          "text": "Ursus",
+          "href": "/wiki/Ursus_(country)"
+        }
+      ],
+      "audio": {
+        "JP": "Poz%C3%ABmka-005.ogg",
+        "CN": "Poz%C3%ABmka-005-CN.ogg",
+        "EN": "Poz%C3%ABmka-005-EN.ogg",
+        "KR": "Poz%C3%ABmka-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "I still hold that life in theDurincities far surpasses that of the surface, but I have to admit, the flowerets that vie to bloom in the ruins have more of a power than all the blossoms of Durin greenhouses... Hah. All these years, and yet I'm a surface-dweller through and through.",
+      "links": [
+        {
+          "text": "Durin",
+          "href": "/wiki/Durin_(country)"
+        }
+      ],
+      "audio": {
+        "JP": "Poz%C3%ABmka-006.ogg",
+        "CN": "Poz%C3%ABmka-006-CN.ogg",
+        "EN": "Poz%C3%ABmka-006-EN.ogg",
+        "KR": "Poz%C3%ABmka-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "Ursus desserts and wine? Let someone else have the pastries, please. \"Ursus-style\" is an exceptional stranger to me by now. That said, do leave the liquor here. Zeruertzans love their drink, and I'm no exception–wait, this isn't mead. Is this pure spirits? Oh, my head...",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-007.ogg",
+        "CN": "Poz%C3%ABmka-007-CN.ogg",
+        "EN": "Poz%C3%ABmka-007-EN.ogg",
+        "KR": "Poz%C3%ABmka-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "\"Noble?\" Correct, I was once a noble. Until a conspiracy wrested my family away, and left me with the sole luck of escaping underground to Zeruertza. There was no avaricious nobility in the city, nor any commoners who'd take avail for their own gain. Only kindhearted Durin... What more could I ask for?",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-008.ogg",
+        "CN": "Poz%C3%ABmka-008-CN.ogg",
+        "EN": "Poz%C3%ABmka-008-EN.ogg",
+        "KR": "Poz%C3%ABmka-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "Doctor, I'd like to talk with you of beauty and virtue, of those things I consider vanished from the surface. I've witnessed their existence aboard Rhodes Island, and you've told me that more of their sparks are alight upon this land still... I don't dare trust. I have to go and see it for myself.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-009.ogg",
+        "CN": "Poz%C3%ABmka-009-CN.ogg",
+        "EN": "Poz%C3%ABmka-009-EN.ogg",
+        "KR": "Poz%C3%ABmka-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "Doctor, are you asleep? No? Well, no matter. If you're planning to hold the same posture for a while, perhaps I might draw a fountain pen sketch of you.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-010.ogg",
+        "CN": "Poz%C3%ABmka-010-CN.ogg",
+        "EN": "Poz%C3%ABmka-010-EN.ogg",
+        "KR": "Poz%C3%ABmka-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "I believe you're the Doctor? It's nice to meet you. Please accept my gratitude; thank you for allowing me to lodge here, a refuge on the unseemly surface.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-011.ogg",
+        "CN": "Poz%C3%ABmka-011-CN.ogg",
+        "EN": "Poz%C3%ABmka-011-EN.ogg",
+        "KR": "Poz%C3%ABmka-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "I could never imagine. Do you show these violent, bloody tapes to the Durins as well?",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-012.ogg",
+        "CN": "Poz%C3%ABmka-012-CN.ogg",
+        "EN": "Poz%C3%ABmka-012-EN.ogg",
+        "KR": "Poz%C3%ABmka-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "Thank you for the gesture of confidence. I'll endure the urge to flee the award ceremony as best I can, so please, if you could wrap it up soon... There's no ceremony, it's just a normal presentation? O, гора с плеч.[note 1]",
+      "links": [
+        {
+          "text": "[note 1]",
+          "href": "#cite_note-1"
+        }
+      ],
+      "audio": {
+        "JP": "Poz%C3%ABmka-013.ogg",
+        "CN": "Poz%C3%ABmka-013-CN.ogg",
+        "EN": "Poz%C3%ABmka-013-EN.ogg",
+        "KR": "Poz%C3%ABmka-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "Another promotion, is it? Thank you. I'll accept this honor with my chest out in pride... Of course, we've no longer a need to end things as quickly as they began. Do not be afraid of those I should not fear–this is what life aboard Rhodes Island has taught me.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-014.ogg",
+        "CN": "Poz%C3%ABmka-014-CN.ogg",
+        "EN": "Poz%C3%ABmka-014-EN.ogg",
+        "KR": "Poz%C3%ABmka-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "To live on the surface inevitably means to raise a weapon at some point. So I'm well aware.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-015.ogg",
+        "CN": "Poz%C3%ABmka-015-CN.ogg",
+        "EN": "Poz%C3%ABmka-015-EN.ogg",
+        "KR": "Poz%C3%ABmka-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "For those of you who've spent not a second out of the fight, decades-old tactical thinking from Ursus must be far past its prime.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-016.ogg",
+        "CN": "Poz%C3%ABmka-016-CN.ogg",
+        "EN": "Poz%C3%ABmka-016-EN.ogg",
+        "KR": "Poz%C3%ABmka-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "May we all return safely.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-017.ogg",
+        "CN": "Poz%C3%ABmka-017-CN.ogg",
+        "EN": "Poz%C3%ABmka-017-EN.ogg",
+        "KR": "Poz%C3%ABmka-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Bраг...[note 2]A noun I hardly want to reunite with outside of writing. It's been so long.",
+      "links": [
+        {
+          "text": "[note 2]",
+          "href": "#cite_note-2"
+        }
+      ],
+      "audio": {
+        "JP": "Poz%C3%ABmka-018.ogg",
+        "CN": "Poz%C3%ABmka-018-CN.ogg",
+        "EN": "Poz%C3%ABmka-018-EN.ogg",
+        "KR": "Poz%C3%ABmka-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "Your orders, please.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-019.ogg",
+        "CN": "Poz%C3%ABmka-019-CN.ogg",
+        "EN": "Poz%C3%ABmka-019-EN.ogg",
+        "KR": "Poz%C3%ABmka-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "With pleasure.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-020.ogg",
+        "CN": "Poz%C3%ABmka-020-CN.ogg",
+        "EN": "Poz%C3%ABmka-020-EN.ogg",
+        "KR": "Poz%C3%ABmka-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "Visibility is fine. Fire-ready.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-021.ogg",
+        "CN": "Poz%C3%ABmka-021-CN.ogg",
+        "EN": "Poz%C3%ABmka-021-EN.ogg",
+        "KR": "Poz%C3%ABmka-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "I'll give our operators cover.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-022.ogg",
+        "CN": "Poz%C3%ABmka-022-CN.ogg",
+        "EN": "Poz%C3%ABmka-022-EN.ogg",
+        "KR": "Poz%C3%ABmka-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Upon the battlefield, the bolt is sharper than the nib.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-023.ogg",
+        "CN": "Poz%C3%ABmka-023-CN.ogg",
+        "EN": "Poz%C3%ABmka-023-EN.ogg",
+        "KR": "Poz%C3%ABmka-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "For a life of peace...!",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-024.ogg",
+        "CN": "Poz%C3%ABmka-024-CN.ogg",
+        "EN": "Poz%C3%ABmka-024-EN.ogg",
+        "KR": "Poz%C3%ABmka-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "Abandon resistance immediately! I won't hesitate to fire!",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-025.ogg",
+        "CN": "Poz%C3%ABmka-025-CN.ogg",
+        "EN": "Poz%C3%ABmka-025-EN.ogg",
+        "KR": "Poz%C3%ABmka-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Hff... haa... Fire!",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-026.ogg",
+        "CN": "Poz%C3%ABmka-026-CN.ogg",
+        "EN": "Poz%C3%ABmka-026-EN.ogg",
+        "KR": "Poz%C3%ABmka-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Surface civilization is no different to the ferocious vile beasts, but perhaps you can become one who loops its reins.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-027.ogg",
+        "CN": "Poz%C3%ABmka-027-CN.ogg",
+        "EN": "Poz%C3%ABmka-027-EN.ogg",
+        "KR": "Poz%C3%ABmka-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "The battle is over. It's time to return and write, and do something more meaningful than this.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-028.ogg",
+        "CN": "Poz%C3%ABmka-028-CN.ogg",
+        "EN": "Poz%C3%ABmka-028-EN.ogg",
+        "KR": "Poz%C3%ABmka-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "Apologies, Doctor. I'm still unaccustomed to the sensation of combat.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-029.ogg",
+        "CN": "Poz%C3%ABmka-029-CN.ogg",
+        "EN": "Poz%C3%ABmka-029-EN.ogg",
+        "KR": "Poz%C3%ABmka-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Doctor, evacuate everyone as fast as you can, I–I'll bring up the rear! Don't mind me, go!",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-030.ogg",
+        "CN": "Poz%C3%ABmka-030-CN.ogg",
+        "EN": "Poz%C3%ABmka-030-EN.ogg",
+        "KR": "Poz%C3%ABmka-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Zeruertza has molded me. I'm still a little unused to moving about these narrow spaces.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-031.ogg",
+        "CN": "Poz%C3%ABmka-031-CN.ogg",
+        "EN": "Poz%C3%ABmka-031-EN.ogg",
+        "KR": "Poz%C3%ABmka-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "Убери руки![note 3]...Apologies, that wasn't intentional.",
+      "links": [
+        {
+          "text": "[note 3]",
+          "href": "#cite_note-3"
+        }
+      ],
+      "audio": {
+        "JP": "Poz%C3%ABmka-032.ogg",
+        "CN": "Poz%C3%ABmka-032-CN.ogg",
+        "EN": "Poz%C3%ABmka-032-EN.ogg",
+        "KR": "Poz%C3%ABmka-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "Doctor, if you insist on chatting with me, what say we talk about your favorite books?",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-033.ogg",
+        "CN": "Poz%C3%ABmka-033-CN.ogg",
+        "EN": "Poz%C3%ABmka-033-EN.ogg",
+        "KR": "Poz%C3%ABmka-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "*yawn*... Good morning, Doctor. The book you recommended was very interesting. I finished reading it overnight.",
+      "links": [],
+      "audio": {
+        "JP": "Poz%C3%ABmka-034.ogg",
+        "CN": "Poz%C3%ABmka-034-CN.ogg",
+        "EN": "Poz%C3%ABmka-034-EN.ogg",
+        "KR": "Poz%C3%ABmka-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Poz%C3%ABmka-035.ogg",
+        "CN": "Poz%C3%ABmka-035-CN.ogg",
+        "EN": "Poz%C3%ABmka-035-EN.ogg",
+        "KR": "Poz%C3%ABmka-035-KR.ogg"
+      }
+    }
+  }
+}

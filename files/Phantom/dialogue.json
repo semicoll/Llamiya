@@ -1,0 +1,414 @@
+{
+  "operator": "Phantom",
+  "dialogue": {
+    "chosen_as_assistant": {
+      "id": "Chosen_as_assistant",
+      "text": "No need to look for me. I've always been here.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-001.ogg",
+        "CN": "Phantom-001-CN.ogg",
+        "EN": "Phantom-001-EN.ogg",
+        "KR": "Phantom-001-KR.ogg"
+      }
+    },
+    "talk_1": {
+      "id": "Talk_#1",
+      "text": "Those in the dark cannot show you the way, nor can they see where you point. Don't tarry here, it's time for you to leave...",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-002.ogg",
+        "CN": "Phantom-002-CN.ogg",
+        "EN": "Phantom-002-EN.ogg",
+        "KR": "Phantom-002-KR.ogg"
+      }
+    },
+    "talk_2": {
+      "id": "Talk_#2",
+      "text": "Under this mask, even I do not recognize myself.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-003.ogg",
+        "CN": "Phantom-003-CN.ogg",
+        "EN": "Phantom-003-EN.ogg",
+        "KR": "Phantom-003-KR.ogg"
+      }
+    },
+    "talk_3": {
+      "id": "Talk_#3",
+      "text": "This is Ms. Christine. I don't know where she came from, nor do I know when she will leave. If she likes you, she will approach you on her own... Yes, just as she's doing right now.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-004.ogg",
+        "CN": "Phantom-004-CN.ogg",
+        "EN": "Phantom-004-EN.ogg",
+        "KR": "Phantom-004-KR.ogg"
+      }
+    },
+    "talk_after_elite_1_[[promotion]]": {
+      "id": "Talk_after_Elite_1_[[promotion]]",
+      "text": "In the past, I was not lonely. I once had several friends, and we traveled all over asa theatre troupe. But whenOripathybroke out, everything drew to a close, and everything began...",
+      "links": [
+        {
+          "text": "a theatre troupe",
+          "href": "/wiki/Crimson_Troupe"
+        },
+        {
+          "text": "Oripathy",
+          "href": "/wiki/Oripathy"
+        }
+      ],
+      "audio": {
+        "JP": "Phantom-005.ogg",
+        "CN": "Phantom-005-CN.ogg",
+        "EN": "Phantom-005-EN.ogg",
+        "KR": "Phantom-005-KR.ogg"
+      }
+    },
+    "talk_after_elite_2_promotion": {
+      "id": "Talk_after_Elite_2_promotion",
+      "text": "This darkness is a refuge, a throne, and Paradise above all. The spirits of the dead have never left, and I've cursed the world from atop their bones... You see me as I am now. Do you still wish to hear my song? Do you still dare... to stand before me?",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-006.ogg",
+        "CN": "Phantom-006-CN.ogg",
+        "EN": "Phantom-006-EN.ogg",
+        "KR": "Phantom-006-KR.ogg"
+      }
+    },
+    "talk_after_[[trust]]_increase_1": {
+      "id": "Talk_after_[[Trust]]_increase_#1",
+      "text": "This device embedded above my throat presses against my neck, but it is exactly what I need. Like a mask does, it conceals my sins and my voice. You'd like to hear my real voice? No, you can't. It isn't something you ought to bear...",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-007.ogg",
+        "CN": "Phantom-007-CN.ogg",
+        "EN": "Phantom-007-EN.ogg",
+        "KR": "Phantom-007-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_2": {
+      "id": "Talk_after_Trust_increase_#2",
+      "text": "My song ended all of their lives. It came, that endless night, the song that would not stop, the quivering falsetto and organ fragments that expelled from a throat–it horrified them, suffocated them, but it was so... miraculous. Doctor, tell me. What in the world is it... that I do?",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-008.ogg",
+        "CN": "Phantom-008-CN.ogg",
+        "EN": "Phantom-008-EN.ogg",
+        "KR": "Phantom-008-KR.ogg"
+      }
+    },
+    "talk_after_trust_increase_3": {
+      "id": "Talk_after_Trust_increase_#3",
+      "text": "I can end many lives for you, but I first need you to confirm that I am awake. Something is trying to influence me. It doesn't want me to leave the stage. It wants my song to echo forever... and it wants me to kill you. Before I play the role of your assassin once more, I must discover the truth.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-009.ogg",
+        "CN": "Phantom-009-CN.ogg",
+        "EN": "Phantom-009-EN.ogg",
+        "KR": "Phantom-009-KR.ogg"
+      }
+    },
+    "idle": {
+      "id": "Idle",
+      "text": "The shadows have never left your side, even without the night. Do be careful of your untimely somnolence, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-010.ogg",
+        "CN": "Phantom-010-CN.ogg",
+        "EN": "Phantom-010-EN.ogg",
+        "KR": "Phantom-010-KR.ogg"
+      }
+    },
+    "introduction": {
+      "id": "Introduction",
+      "text": "Code name, Phantom. The Phantom Behind the Curtain,Gaspard de la Nuit.Tell me, who are your enemies, and where do they hide?",
+      "links": [
+        {
+          "text": "Gaspard de la Nuit",
+          "href": "https://en.wikipedia.org/wiki/Gaspard_de_la_nuit"
+        }
+      ],
+      "audio": {
+        "JP": "Phantom-011.ogg",
+        "CN": "Phantom-011-CN.ogg",
+        "EN": "Phantom-011-EN.ogg",
+        "KR": "Phantom-011-KR.ogg"
+      }
+    },
+    "given_[[battle_record]]s": {
+      "id": "Given_[[Battle_Record]]s",
+      "text": "Killing is not an end, but a means.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-012.ogg",
+        "CN": "Phantom-012-CN.ogg",
+        "EN": "Phantom-012-EN.ogg",
+        "KR": "Phantom-012-KR.ogg"
+      }
+    },
+    "elite_1_promotion": {
+      "id": "Elite_1_promotion",
+      "text": "As you wish. You are the one who setsRhodes Island's tune, and you require neither guide nor guardian... Yes, I know all too well, you are your own master.",
+      "links": [
+        {
+          "text": "Rhodes Island",
+          "href": "/wiki/Rhodes_Island"
+        }
+      ],
+      "audio": {
+        "JP": "Phantom-013.ogg",
+        "CN": "Phantom-013-CN.ogg",
+        "EN": "Phantom-013-EN.ogg",
+        "KR": "Phantom-013-KR.ogg"
+      }
+    },
+    "elite_2_promotion": {
+      "id": "Elite_2_promotion",
+      "text": "There is no looking back after this step, no turning back. What I am about to share with you is not as wonderful as you may believe... Come, come here, and allow me to show you what lies beneath the veil of night.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-014.ogg",
+        "CN": "Phantom-014-CN.ogg",
+        "EN": "Phantom-014-EN.ogg",
+        "KR": "Phantom-014-KR.ogg"
+      }
+    },
+    "added_to_squad": {
+      "id": "Added_to_squad",
+      "text": "Is it time for me to take the stage?",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-015.ogg",
+        "CN": "Phantom-015-CN.ogg",
+        "EN": "Phantom-015-EN.ogg",
+        "KR": "Phantom-015-KR.ogg"
+      }
+    },
+    "chosen_as_squad_leader": {
+      "id": "Chosen_as_squad_leader",
+      "text": "I am no stranger to giving guidance.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-016.ogg",
+        "CN": "Phantom-016-CN.ogg",
+        "EN": "Phantom-016-EN.ogg",
+        "KR": "Phantom-016-KR.ogg"
+      }
+    },
+    "[[operation]]_start": {
+      "id": "[[Operation]]_start",
+      "text": "I'll do as you say...",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-017.ogg",
+        "CN": "Phantom-017-CN.ogg",
+        "EN": "Phantom-017-EN.ogg",
+        "KR": "Phantom-017-KR.ogg"
+      }
+    },
+    "an_enemy_is_about_to_spawn": {
+      "id": "An_enemy_is_about_to_spawn",
+      "text": "Let us raise the curtains on this play.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-018.ogg",
+        "CN": "Phantom-018-CN.ogg",
+        "EN": "Phantom-018-EN.ogg",
+        "KR": "Phantom-018-KR.ogg"
+      }
+    },
+    "selected_1": {
+      "id": "Selected_#1",
+      "text": "I'm with you!",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-019.ogg",
+        "CN": "Phantom-019-CN.ogg",
+        "EN": "Phantom-019-EN.ogg",
+        "KR": "Phantom-019-KR.ogg"
+      }
+    },
+    "selected_2": {
+      "id": "Selected_#2",
+      "text": "So, let us sink into the night.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-020.ogg",
+        "CN": "Phantom-020-CN.ogg",
+        "EN": "Phantom-020-EN.ogg",
+        "KR": "Phantom-020-KR.ogg"
+      }
+    },
+    "deployed_1": {
+      "id": "Deployed_#1",
+      "text": "I come from the shadows.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-021.ogg",
+        "CN": "Phantom-021-CN.ogg",
+        "EN": "Phantom-021-EN.ogg",
+        "KR": "Phantom-021-KR.ogg"
+      }
+    },
+    "deployed_2": {
+      "id": "Deployed_#2",
+      "text": "Hear my voice. Hear my song.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-022.ogg",
+        "CN": "Phantom-022-CN.ogg",
+        "EN": "Phantom-022-EN.ogg",
+        "KR": "Phantom-022-KR.ogg"
+      }
+    },
+    "[[skill]]_activation_1": {
+      "id": "[[Skill]]_activation_#1",
+      "text": "Do you see your own face within the mirror?",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-023.ogg",
+        "CN": "Phantom-023-CN.ogg",
+        "EN": "Phantom-023-EN.ogg",
+        "KR": "Phantom-023-KR.ogg"
+      }
+    },
+    "skill_activation_2": {
+      "id": "Skill_activation_#2",
+      "text": "The actors are all puppets of the script.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-024.ogg",
+        "CN": "Phantom-024-CN.ogg",
+        "EN": "Phantom-024-EN.ogg",
+        "KR": "Phantom-024-KR.ogg"
+      }
+    },
+    "skill_activation_3": {
+      "id": "Skill_activation_#3",
+      "text": "The guilty... will be punished.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-025.ogg",
+        "CN": "Phantom-025-CN.ogg",
+        "EN": "Phantom-025-EN.ogg",
+        "KR": "Phantom-025-KR.ogg"
+      }
+    },
+    "skill_activation_4": {
+      "id": "Skill_activation_#4",
+      "text": "Yes, lift your voices! Sing for me! Sing for me!",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-026.ogg",
+        "CN": "Phantom-026-CN.ogg",
+        "EN": "Phantom-026-EN.ogg",
+        "KR": "Phantom-026-KR.ogg"
+      }
+    },
+    "operation_cleared_(4-star)": {
+      "id": "Operation_cleared_(4-star)",
+      "text": "Is this the victory your leadership has brought about...?",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-027.ogg",
+        "CN": "Phantom-027-CN.ogg",
+        "EN": "Phantom-027-EN.ogg",
+        "KR": "Phantom-027-KR.ogg"
+      }
+    },
+    "operation_cleared_(3-star)": {
+      "id": "Operation_cleared_(3-star)",
+      "text": "It is over. Victory is not sweet, as conflict always leaves an aftertaste.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-028.ogg",
+        "CN": "Phantom-028-CN.ogg",
+        "EN": "Phantom-028-EN.ogg",
+        "KR": "Phantom-028-KR.ogg"
+      }
+    },
+    "operation_cleared_(2-star)": {
+      "id": "Operation_cleared_(2-star)",
+      "text": "They escaped. Fortunate for them... and perhaps for me as well.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-029.ogg",
+        "CN": "Phantom-029-CN.ogg",
+        "EN": "Phantom-029-EN.ogg",
+        "KR": "Phantom-029-KR.ogg"
+      }
+    },
+    "operation_failed": {
+      "id": "Operation_failed",
+      "text": "Fall back... You've already lost your way.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-030.ogg",
+        "CN": "Phantom-030-CN.ogg",
+        "EN": "Phantom-030-EN.ogg",
+        "KR": "Phantom-030-KR.ogg"
+      }
+    },
+    "assigned_to_[[riic]]": {
+      "id": "Assigned_to_[[RIIC]]",
+      "text": "Hm? Behind this mirror, there seems...",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-031.ogg",
+        "CN": "Phantom-031-CN.ogg",
+        "EN": "Phantom-031-EN.ogg",
+        "KR": "Phantom-031-KR.ogg"
+      }
+    },
+    "tap": {
+      "id": "Tap",
+      "text": "What is it?",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-032.ogg",
+        "CN": "Phantom-032-CN.ogg",
+        "EN": "Phantom-032-EN.ogg",
+        "KR": "Phantom-032-KR.ogg"
+      }
+    },
+    "trust_tap": {
+      "id": "Trust_tap",
+      "text": "The sound of these footsteps... It's you, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-033.ogg",
+        "CN": "Phantom-033-CN.ogg",
+        "EN": "Phantom-033-EN.ogg",
+        "KR": "Phantom-033-KR.ogg"
+      }
+    },
+    "greetings": {
+      "id": "Greetings",
+      "text": "The shadow behind you looks heavier than it was yesterday, Doctor.",
+      "links": [],
+      "audio": {
+        "JP": "Phantom-034.ogg",
+        "CN": "Phantom-034-CN.ogg",
+        "EN": "Phantom-034-EN.ogg",
+        "KR": "Phantom-034-KR.ogg"
+      }
+    },
+    "title": {
+      "id": "Title",
+      "text": "Arknights.",
+      "links": [
+        {
+          "text": "Arknights",
+          "href": "/wiki/Arknights"
+        }
+      ],
+      "audio": {
+        "JP": "Phantom-035.ogg",
+        "CN": "Phantom-035-CN.ogg",
+        "EN": "Phantom-035-EN.ogg",
+        "KR": "Phantom-035-KR.ogg"
+      }
+    }
+  }
+}
