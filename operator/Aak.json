@@ -1,0 +1,95 @@
+{
+    "range": {
+        "Base": [
+            [
+                "□",
+                "□",
+                "□",
+                "□",
+                "□"
+            ],
+            [
+                "□",
+                "□",
+                "□",
+                "□",
+                "□"
+            ],
+            [
+                "□",
+                "□",
+                "□",
+                "□",
+                "□"
+            ],
+            [
+                "□",
+                "□",
+                "□"
+            ]
+        ],
+        "Elite 1": [
+            [
+                "□",
+                "□",
+                "□",
+                "□",
+                "□"
+            ],
+            [
+                "□",
+                "□",
+                "□",
+                "□",
+                "□"
+            ],
+            [
+                "□",
+                "□",
+                "□",
+                "□",
+                "□"
+            ],
+            [
+                "□",
+                "□",
+                "□"
+            ]
+        ],
+        "Elite 2": [
+            [
+                "□",
+                "□",
+                "□",
+                "□",
+                "□"
+            ],
+            [
+                "□",
+                "□",
+                "□",
+                "□",
+                "□"
+            ],
+            [
+                "□",
+                "□",
+                "□",
+                "□",
+                "□"
+            ],
+            [
+                "□",
+                "□",
+                "□"
+            ]
+        ]
+    },
+    "info": {
+        "images": {
+            "Base": "https://static.wikia.nocookie.net/mrfz/images/7/74/Aak_Elite_2.png/revision/latest/scale-to-width-down/268?cb=20200201060155",
+            "Elite 2": "https://static.wikia.nocookie.net/mrfz/images/2/23/Aak_Skin_1.png/revision/latest/scale-to-width-down/268?cb=20210406101538",
+            "Doctor of Faces": "https://static.wikia.nocookie.net/mrfz/images/f/fa/Aak_Skin_2.png/revision/latest/scale-to-width-down/268?cb=20211125003035"
+        }
+    }
+}

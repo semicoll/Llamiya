@@ -652,13 +652,225 @@ def extract_talents_with_selenium(driver, operator_name):
     
     return talents_data
 
-def process_operator(driver, operator_name):
+def extract_operator_info_with_selenium(driver, operator_name):
+    """Extract basic operator information from the sidebar"""
+    info_data = {}
+    try:
+        print(f"Extracting basic info for {operator_name}...")
+
+        base_url = "https://arknights.fandom.com/wiki/"
+        url = f"{base_url}{operator_name.replace(' ', '_')}"
+        driver.get(url)
+        driver.implicitly_wait(5)
+
+        # Get the sidebar element (portable-infobox)
+        sidebar = driver.find_element(By.XPATH, '//*[@id="mw-content-text"]/div[1]/aside')
+        
+        # Get operator image URLs
+        images = {}
+        try:
+            image_tabs = sidebar.find_elements(By.XPATH, './/ul[@class="wds-tabs"]/li')
+            image_contents = sidebar.find_elements(By.XPATH, './/div[@class="wds-tab__content"]')
+            
+            for i in range(min(len(image_tabs), len(image_contents))):
+                tab_name = image_tabs[i].text.strip()
+                if not tab_name:
+                    continue
+                    
+                try:
+                    img_element = image_contents[i].find_element(By.XPATH, './/img')
+                    img_url = img_element.get_attribute('src')
+                    images[tab_name] = img_url
+                except:
+                    pass
+        except Exception as e:
+            print(f"Error extracting images: {e}")
+        
+        if images:
+            info_data["images"] = images
+        
+        # Get basic information sections
+        info_sections = {
+            "Basic Information": {},
+            "Other Names": {},
+            "Character Voices": {},
+            "Physical Examination": {}
+        }
+        
+        for section_name in info_sections:
+            try:
+                # Look for section headers
+                section_elements = sidebar.find_elements(By.XPATH, f'.//h2[contains(text(), "{section_name}")]')
+                if not section_elements:
+                    continue
+                    
+                section = section_elements[0].find_element(By.XPATH, './parent::section')
+                
+                # Get all data items in the section
+                data_items = section.find_elements(By.XPATH, './/div[contains(@class, "pi-item pi-data")]')
+                
+                for item in data_items:
+                    try:
+                        label = item.find_element(By.XPATH, './/h3').text.strip()
+                        value = item.find_element(By.XPATH, './/div[@class="pi-data-value"]').text.strip()
+                        info_sections[section_name][label] = value
+                    except:
+                        pass
+            except Exception as e:
+                print(f"Error extracting section {section_name}: {e}")
+        
+        # Add all non-empty sections to the info data
+        for section_name, section_data in info_sections.items():
+            if section_data:
+                section_key = section_name.lower().replace(' ', '_')
+                info_data[section_key] = section_data
+        
+        # Extract related characters
+        try:
+            related_chars = []
+            related_sections = sidebar.find_elements(By.XPATH, './/section[.//caption[contains(text(), "Related Characters")]]')
+            
+            if related_sections:
+                related_links = related_sections[0].find_elements(By.XPATH, './/a[contains(@href, "/wiki/")]')
+                for link in related_links:
+                    char_name = link.get_attribute("href").split("/wiki/")[-1].replace("_", " ")
+                    if char_name and char_name != operator_name and char_name not in related_chars:
+                        related_chars.append(char_name)
+            
+            if related_chars:
+                info_data["related_characters"] = related_chars
+        except Exception as e:
+            print(f"Error extracting related characters: {e}")
+            
+        # Get file number and other direct info items
+        try:
+            direct_fields = [
+                ("file_no", "File no."),
+                ("illustrator", "Illustrator"),
+                ("internal_name", "Internal name")
+            ]
+            
+            for field_key, field_label in direct_fields:
+                try:
+                    elements = sidebar.find_elements(By.XPATH, f'.//h3[contains(text(), "{field_label}")]')
+                    if elements:
+                        parent = elements[0].find_element(By.XPATH, './parent::div')
+                        value = parent.find_element(By.XPATH, './/div[@class="pi-data-value"]').text.strip()
+                        info_data[field_key] = value
+                except:
+                    pass
+        except Exception as e:
+            print(f"Error extracting direct fields: {e}")
+            
+        # Save the data
+        output_dir = "operator"
+        os.makedirs(output_dir, exist_ok=True)
+        file_path = os.path.join(output_dir, f"{operator_name}.json")
+        
+        if os.path.exists(file_path):
+            with open(file_path, "r", encoding="utf-8") as json_file:
+                operator_data = json.load(json_file)
+        else:
+            operator_data = {}
+        
+        operator_data["info"] = info_data
+        
+        with open(file_path, "w", encoding="utf-8") as json_file:
+            json.dump(operator_data, json_file, ensure_ascii=False, indent=4)
+        
+        print(f"Basic info for {operator_name} saved to {file_path}")
+    
+    except Exception as e:
+        print(f"Error extracting operator info: {e}")
+    
+    return info_data
+
+def cleanup_operator_files(operator_name=None):
+    """
+    Remove existing operator JSON files before processing.
+    If operator_name is provided, only that file is removed.
+    Otherwise, all files in the operator directory are removed.
+    """
+    output_dir = "operator"
+    try:
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir, exist_ok=True)
+            print(f"Created fresh operator directory at {output_dir}")
+            return True
+            
+        if operator_name:
+            file_path = os.path.join(output_dir, f"{operator_name}.json")
+            if os.path.exists(file_path):
+                os.remove(file_path)
+                print(f"Removed existing data file for {operator_name}")
+        else:
+            file_count = 0
+            for filename in os.listdir(output_dir):
+                if filename.endswith(".json"):
+                    file_path = os.path.join(output_dir, filename)
+                    os.remove(file_path)
+                    file_count += 1
+            if file_count > 0:
+                print(f"Cleaned up {file_count} operator files from {output_dir} directory")
+            else:
+                print(f"No operator files found to clean up in {output_dir} directory")
+        return True
+    except Exception as e:
+        print(f"Error cleaning up operator files: {e}")
+        return False
+
+def is_driver_alive(driver):
+    """Check if the WebDriver is still responsive"""
+    try:
+        driver.current_url  # This will throw an exception if driver is not responsive
+        return True
+    except:
+        return False
+
+def create_driver():
+    """Create and return a new WebDriver instance"""
+    try:
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--window-size=1920x1080")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+            
+        driver_path = ChromeDriverManager().install()
+        print(f"Driver installed at: {driver_path}")
+        os.chmod(driver_path, 0o755)
+        driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options)
+        return driver
+    except Exception as e:
+        print(f"Error initializing WebDriver: {e}")
+        return None
+
+# Update the process_operator function to include cleanup
+def process_operator(driver, operator_name, clean_before_run=True):
     """Process a single operator with all extraction functions"""
     print(f"\nProcessing operator: {operator_name}")
+    
+    # Clean up existing files if requested
+    if clean_before_run:
+        cleanup_operator_files(operator_name)
+    
+    # Check if driver is alive, recreate if needed
+    if not is_driver_alive(driver):
+        print("WebDriver connection lost. Recreating...")
+        try:
+            driver.quit()  # Try to clean up
+        except:
+            pass
+        driver = create_driver()
+        if not driver:
+            print("Failed to recreate WebDriver. Aborting operator processing.")
+            return driver, False
     
     try:
         # Extract data using the central driver
         operator_info(driver, operator_name)
+        extract_operator_info_with_selenium(driver, operator_name)
         extract_and_write_stats_with_selenium(driver, operator_name)
         extract_potential_with_selenium(driver, operator_name)
         extract_promotion_with_selenium(driver, operator_name)
@@ -667,105 +879,17 @@ def process_operator(driver, operator_name):
         extract_talents_with_selenium(driver, operator_name)
         
         print(f"Completed processing {operator_name}")
-        return True
+        return driver, True
     except Exception as e:
         print(f"Error processing {operator_name}: {e}")
-        return False
-
-# Main execution code
-if __name__ == "__main__":
-    try:
-        chrome_check = subprocess.run(['which', 'google-chrome'], capture_output=True, text=True)
-        if not chrome_check.stdout:
-            print("Chrome not found. Installing Chrome dependencies for WSL...")
-            subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "pip", "webdriver-manager", "selenium"])
-            print("You may need to install Chrome in WSL with: sudo apt update && sudo apt install -y wget unzip fonts-liberation libasound2 libatk-bridge2.0-0 libatk1.0-0 libatspi2.0-0 libcairo2 libcups2 libcurl3-gnutls libdrm2 libgbm1 libgtk-3-0 libnspr4 libnss3 libpango-1.0-0 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 xdg-utils && wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo dpkg -i google-chrome-stable_current_amd64.deb && sudo apt-get -f install")
-        else:
-            print("Chrome found.")
-    except Exception as e:
-        print(f"Error checking Chrome installation: {e}")
-
-    os.environ['WDM_LOG_LEVEL'] = '0'
-    os.environ['WDM_PROGRESS_BAR'] = '0'
-
-    chrome_options = Options()
-    chrome_options.add_argument("--headless")
-    chrome_options.add_argument("--disable-gpu")
-    chrome_options.add_argument("--window-size=1920x1080")
-    chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("--disable-dev-shm-usage")
-
-    try:
-        chrome_version_cmd = subprocess.run(['google-chrome', '--version'], capture_output=True, text=True)
-        chrome_version = chrome_version_cmd.stdout.strip()
-        print(f"Detected Chrome version: {chrome_version}")
-    except:
-        print("Could not detect Chrome version. Make sure Chrome is installed.")
-
-    # Initialize the central WebDriver
-    driver = None
-    try:
-        driver_path = ChromeDriverManager().install()
-        print(f"Driver installed at: {driver_path}")
         
-        os.chmod(driver_path, 0o755)
+        # Check if driver is still alive
+        if not is_driver_alive(driver):
+            print("WebDriver connection lost during processing. Recreating for next operation.")
+            try:
+                driver.quit()
+            except:
+                pass
+            driver = create_driver()
         
-        driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options)
-        
-        # Scrape the list of 6-star operators
-        url = "https://arknights.fandom.com/wiki/Operator/6-star"
-        driver.get(url)
-        time.sleep(3)
-        
-        operator_elements = driver.find_elements(By.XPATH, '/html/body/div[4]/div[4]/div[2]/main/div[3]/div/div[1]/div/div/table/tbody/tr/td[2]/a')
-        
-        operator_names = [element.text for element in operator_elements if element.text]
-        
-        print("6-Star Operators:")
-        for name in operator_names:
-            print(name)
-            
-        print(f"\nTotal 6-star operators found: {len(operator_names)}")
-        
-        # Give the user choices for processing
-        print("\nChoose an option:")
-        print("1. Process a specific operator (by name)")
-        print("2. Process all operators")
-        print("3. Process only the first operator (for testing)")
-        
-        choice = input("Enter your choice (1-3): ").strip()
-        
-        if choice == '1':
-            # Process specific operator
-            specific_name = input("Enter the operator name: ").strip()
-            if specific_name in operator_names:
-                process_operator(driver, specific_name)
-            else:
-                print(f"Operator '{specific_name}' not found in the list of 6-star operators.")
-                similar_names = [name for name in operator_names if specific_name.lower() in name.lower()]
-                if similar_names:
-                    print("Did you mean one of these?")
-                    for name in similar_names:
-                        print(f"- {name}")
-                    confirmation = input(f"Process {similar_names[0]}? (y/n): ").strip().lower()
-                    if confirmation == 'y':
-                        process_operator(driver, similar_names[0])
-        elif choice == '2':
-            # Process all operators
-            for operator_name in operator_names:
-                try:
-                    process_operator(driver, operator_name)
-                except Exception as e:
-                    print(f"Error processing {operator_name}: {e}")
-                    continue
-        else:
-            # Default: process first operator (for testing)
-            test_operator = operator_names[0]
-            process_operator(driver, test_operator)
-    
-    except Exception as e:
-        print(f"Error initializing WebDriver: {e}")
-        print("If you're using WSL, you may need to install Chrome in the WSL environment")
-    finally:
-        if driver:
-            driver.quit()
+        return driver, False
