@@ -5,6 +5,13 @@ import os
 import sys
 import re
 from pathlib import Path
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+import time
+import subprocess
 
 def scrape_operator_overview(operator_name):
     """
@@ -126,11 +133,97 @@ def save_to_json(data, operator_name):
 
 def get_operator_list():
     """
-    Gets a list of operators from the Arknights fandom wiki
+    Gets a list of operators from the Arknights fandom wiki using Selenium
     
     Returns:
         list: A list of operator names
     """
+    print("Setting up Chrome for web scraping...")
+    
+    # Ensure Chrome is installed
+    try:
+        chrome_check = subprocess.run(['which', 'google-chrome'], capture_output=True, text=True)
+        if not chrome_check.stdout:
+            print("Chrome not found. You may need to install Chrome in WSL.")
+            print("Run: sudo apt update && sudo apt install -y wget unzip fonts-liberation libasound2 libatk-bridge2.0-0 libatk1.0-0 libatspi2.0-0 libcairo2 libcups2 libcurl3-gnutls libdrm2 libgbm1 libgtk-3-0 libnspr4 libnss3 libpango-1.0-0 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 xdg-utils && wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo dpkg -i google-chrome-stable_current_amd64.deb && sudo apt-get -f install")
+            # Fall back to the original method
+            return get_operator_list_fallback()
+    except Exception as e:
+        print(f"Error checking Chrome installation: {e}")
+        return get_operator_list_fallback()
+
+    # Set up Chrome options
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--window-size=1920x1080")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+
+    # Suppress webdriver-manager logs
+    os.environ['WDM_LOG_LEVEL'] = '0'
+    os.environ['WDM_PROGRESS_BAR'] = '0'
+
+    operator_names = []
+    
+    try:
+        # Initialize the WebDriver
+        driver_path = ChromeDriverManager().install()
+        print(f"Driver installed at: {driver_path}")
+        
+        # Make sure the driver is executable
+        os.chmod(driver_path, 0o755)
+        
+        driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options)
+        
+        # Scrape 6-star operators
+        url = "https://arknights.fandom.com/wiki/Operator/6-star"
+        print(f"Scraping 6-star operator names from {url}...")
+        
+        driver.get(url)
+        time.sleep(3)  # Wait for page to load
+        
+        operator_elements = driver.find_elements(By.XPATH, 
+                                                '/html/body/div[4]/div[4]/div[2]/main/div[3]/div/div[1]/div/div/table/tbody/tr/td[2]/a')
+        
+        # Extract names and add to the list
+        six_star_operators = [element.text for element in operator_elements if element.text]
+        operator_names.extend(six_star_operators)
+        
+        # Also scrape 5-star operators
+        # url = "https://arknights.fandom.com/wiki/Operator/5-star"
+        # print(f"Scraping 5-star operator names from {url}...")
+        
+        # driver.get(url)
+        # time.sleep(3)
+        
+        # operator_elements = driver.find_elements(By.XPATH, 
+        #                                         '/html/body/div[4]/div[4]/div[2]/main/div[3]/div/div[1]/div/div/table/tbody/tr/td[2]/a')
+        
+        # five_star_operators = [element.text for element in operator_elements if element.text]
+        # operator_names.extend(five_star_operators)
+        
+        print(f"Found {len(operator_names)} operators in total.")
+        
+    except Exception as e:
+        print(f"Error during web scraping: {e}")
+        print("Falling back to alternative method...")
+        return get_operator_list_fallback()
+    finally:
+        # Close the browser
+        if 'driver' in locals():
+            driver.quit()
+    
+    return sorted(operator_names)
+
+def get_operator_list_fallback():
+    """
+    Fallback method to get operator list using BeautifulSoup when Selenium is not available
+    
+    Returns:
+        list: A list of operator names
+    """
+    print("Using fallback method to get operator list...")
     url = "https://arknights.fandom.com/wiki/Operator_List"
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
