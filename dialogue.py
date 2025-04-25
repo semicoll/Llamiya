@@ -125,71 +125,112 @@ def scrape_six_star_operators(wiki_url="https://arknights.fandom.com/wiki/Operat
         list: List of 6-star operator names
     """
     try:
+        print(f"Fetching 6-star operators from {wiki_url}...")
         response = requests.get(wiki_url)
         response.raise_for_status()
         
         soup = BeautifulSoup(response.content, 'html.parser')
         six_star_operators = []
         
-        # Use the specific XPath selector to find operator names
-        # XPath: //*[@id="mw-content-text"]/div[1]/div/div/table/tbody/tr[1]/td[2]/a
-        # Converting XPath to CSS selector format
-        op_links = soup.select('#mw-content-text > div:nth-child(1) > div > div > table > tbody > tr > td:nth-child(2) > a')
+        # Try multiple selector strategies to find operator names
         
-        if op_links:
+        # Strategy 1: Find table rows with operator information
+        op_rows = soup.select('.article-table tbody tr')
+        for row in op_rows:
+            # Skip header rows
+            if row.select_one('th'):
+                continue
+                
+            # Try to find the name cell (typically second column)
+            name_cell = row.select_one('td:nth-child(2)')
+            if name_cell:
+                name_link = name_cell.select_one('a')
+                if name_link:
+                    operator_name = name_link.get_text(strip=True)
+                    if operator_name and operator_name not in six_star_operators:
+                        six_star_operators.append(operator_name)
+        
+        # Strategy 2: Direct link selector (broader approach)
+        if not six_star_operators:
+            print("Trying alternate selection method...")
+            op_links = soup.select('.article-table a')
             for link in op_links:
+                # Skip links that aren't operator names
+                if link.find_parent('th') or 'File:' in link.get('href', ''):
+                    continue
+                    
                 operator_name = link.get_text(strip=True)
-                if operator_name:
+                if operator_name and operator_name not in six_star_operators:
                     six_star_operators.append(operator_name)
         
-        # Fallback: If the specific selector didn't work, we'll use the previous methods
+        # Strategy 3: Use the mw-content direct selector
         if not six_star_operators:
-            # Method 1: Check for gallery items (common format for operator listings)
-            gallery_items = soup.select('.gallery-item') or soup.select('.article-table td a')
-            
-            if gallery_items:
-                for item in gallery_items:
-                    # Extract operator name from link
-                    name_link = item.select_one('a') or item
-                    if name_link and name_link.has_attr('title'):
-                        operator_name = name_link['title'].strip()
-                        if operator_name and not operator_name.startswith("File:"):
+            print("Trying mw-content selector method...")
+            content_div = soup.select_one('#mw-content-text')
+            if content_div:
+                all_links = content_div.select('a')
+                for link in all_links:
+                    # Check if this looks like an operator link
+                    href = link.get('href', '')
+                    if '/wiki/' in href and not href.endswith('/Dialogue') and not 'File:' in href:
+                        operator_name = link.get_text(strip=True)
+                        if (operator_name and 
+                            operator_name not in six_star_operators and 
+                            not operator_name.startswith('File:') and
+                            len(operator_name) > 1):  # Avoid single characters
                             six_star_operators.append(operator_name)
+        
+        # Strategy 4: Look for gallery items (common for operator listings)
+        if not six_star_operators:
+            print("Trying gallery item selector method...")
+            gallery_items = soup.select('.gallery-item')
+            for item in gallery_items:
+                name_link = item.select_one('a')
+                if name_link and name_link.has_attr('title'):
+                    operator_name = name_link['title'].strip()
+                    if operator_name and not operator_name.startswith("File:"):
+                        six_star_operators.append(operator_name)
+        
+        # If we found operators, filter out non-operator entries
+        if six_star_operators:
+            # Common non-operator entries to filter out
+            filtered_operators = []
+            blacklist = ['Class', 'Operator', 'Category', 'Help', 'Community', 'Main_Page', 
+                         'File:', 'Template:', 'Special:', 'User:', 'Talk:']
             
-            # Method 2: Fallback to checking tables if gallery approach didn't work
-            if not six_star_operators:
-                operator_tables = soup.select('table.wikitable, table.article-table')
-                
-                for table in operator_tables:
-                    for row in table.select('tr'):
-                        # Skip header rows
-                        if row.select_one('th') and not row.select('td'):
-                            continue
-                        
-                        # Look for operator name in the cell with a link
-                        for cell in row.select('td'):
-                            name_link = cell.select_one('a')
-                            if name_link and name_link.has_attr('title'):
-                                operator_name = name_link['title'].strip()
-                                if operator_name and not operator_name.startswith("File:"):
-                                    six_star_operators.append(operator_name)
+            for op in six_star_operators:
+                # Skip entries that are likely not operators
+                if any(term in op for term in blacklist) or len(op) <= 1:
+                    continue
+                filtered_operators.append(op)
+            
+            six_star_operators = filtered_operators
         
-        # Remove duplicates while preserving order
-        seen = set()
-        six_star_operators = [op for op in six_star_operators if not (op in seen or seen.add(op))]
-        
+        # Show debug info
+        if not six_star_operators:
+            print("No operators found. Debug information:")
+            print(f"Page title: {soup.title.string if soup.title else 'No title'}")
+            print(f"Tables found: {len(soup.select('table'))}")
+            print(f"Links found: {len(soup.select('a'))}")
+        else:
+            print(f"Found {len(six_star_operators)} operators.")
+            
         return six_star_operators
     except Exception as e:
         print(f"Error scraping 6-star operators: {e}")
+        # Include a traceback for better debugging
+        import traceback
+        traceback.print_exc()
         return []
 
-def get_operator_dialogue(operator_name, wiki_base_url="https://arknights.fandom.com/wiki"):
+def get_operator_dialogue(operator_name, wiki_base_url="https://arknights.fandom.com/wiki", save_to_file=False):
     """
     Get dialogue data for a specific operator from the wiki.
     
     Args:
         operator_name (str): Name of the operator
         wiki_base_url (str): Base URL of the Arknights wiki
+        save_to_file (bool): Whether to save the data to a file
         
     Returns:
         dict: Dialogue data for the operator
@@ -203,17 +244,46 @@ def get_operator_dialogue(operator_name, wiki_base_url="https://arknights.fandom
         
         # Extract dialogue table from the HTML
         dialogue_data = parse_dialogue_table(response.content)
-        return format_dialogue_json(dialogue_data, operator_name)
+        result = format_dialogue_json(dialogue_data, operator_name)
+        
+        # Save to file if requested
+        if save_to_file:
+            save_operator_dialogue(result, operator_name)
+            
+        return result
     except Exception as e:
         print(f"Error getting dialogue for {operator_name}: {e}")
         return {"operator": operator_name, "dialogue": {}, "error": str(e)}
 
-def bulk_scrape_operator_dialogues(rarity="6-star"):
+def save_operator_dialogue(dialogue_data, operator_name):
+    """
+    Save dialogue data to a structured file path.
+    
+    Args:
+        dialogue_data (dict): The dialogue data to save
+        operator_name (str): Name of the operator
+        
+    Returns:
+        str: Path where the file was saved
+    """
+    # Create directory structure with preserved capitalization
+    op_dir = f"files/{operator_name}"
+    os.makedirs(op_dir, exist_ok=True)
+    
+    # Save dialogue data
+    file_path = f"{op_dir}/dialogue.json"
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(dialogue_data, f, indent=2, ensure_ascii=False)
+    
+    return file_path
+
+def bulk_scrape_operator_dialogues(rarity="6-star", save_to_files=True):
     """
     Scrape dialogue for all operators of a specific rarity.
     
     Args:
         rarity (str): Rarity to scrape, defaults to "6-star"
+        save_to_files (bool): Whether to save the data to files
         
     Returns:
         dict: Dictionary with operator names as keys and their dialogue data as values
@@ -226,7 +296,13 @@ def bulk_scrape_operator_dialogues(rarity="6-star"):
     result = {}
     for op_name in operators:
         print(f"Scraping dialogue for {op_name}...")
-        result[op_name] = get_operator_dialogue(op_name)
+        dialogue_data = get_operator_dialogue(op_name)
+        
+        if save_to_files and dialogue_data.get('dialogue'):
+            file_path = save_operator_dialogue(dialogue_data, op_name)
+            print(f"Saved to {file_path}")
+            
+        result[op_name] = dialogue_data
     
     return result
 
@@ -243,7 +319,11 @@ def process_operator(operator_name, overwrite=False, display_preview=True):
         bool: True if successful, False otherwise
     """
     try:
-        output_file = f"{operator_name.lower().replace(' ', '_')}_dialogue.json"
+        # Create directory structure with preserved capitalization
+        op_dir = f"files/{operator_name}"
+        os.makedirs(op_dir, exist_ok=True)
+        
+        output_file = f"{op_dir}/dialogue.json"
         
         # Check if file already exists
         if not overwrite and os.path.exists(output_file):
