@@ -1,0 +1,36 @@
+{
+  "name": "Muelsyse",
+  "trivia_items": [
+    {
+      "text": "Her name derives from the muses (Μοῦσαι; Moûsai) in Greek mythology."
+    },
+    {
+      "text": "Muelsyse's water \"magic\" suggests that she might be inspired by the naiads."
+    },
+    {
+      "text": "Muelsyse is the only member of Tactician Vanguard branch class whose summon isn't an animal."
+    },
+    {
+      "text": "Muelsyse is the only named currently active Rhine Lab director who only uses one name. Her race and place of birth were censored in the trailer for Dorothy's Vision as the only one."
+    },
+    {
+      "text": "Out of all the non-CNY/Festival limited 6★ Operators that debuted after Rosmontis's release, Muelsyse is the first instance of a unique character after a long time, as opposed to using Alternate Operators."
+    },
+    {
+      "text": "There is a in-game bug of which multiple operators can be deployed on the same tile if they are deployed on Muelsyse's summon and Muelsyse is retreated before her summon transforms by her Talent 1. This is possibly due to the game's defects on executing multiple actions within the same single frame.  Some suggested that this won't get fixed because it relates to the fundamental codes of the game.",
+      "sub_items": [
+        "This trick allow operators to be deployed without consuming DP (excluding DP used to deploy Muelsyse) and deployment slots. It also allows ranged operators to be deployed on ground tiles. Operators deployed using this trick will refund as normal when retreat, and return an additional deployment slot (such that it is possible to have deployment slots beyond the limit).",
+        "When tapping on this tile, only the first operator deployed responds. The second operator will respond upon tapping if the first operator is retreated, and so on.",
+        "However, Auto Deploy cannot execute this because all actions consumes at least 1 frame by default in the game's logic."
+      ]
+    },
+    {
+      "text": "Even though Muelsyse and Vigil have the same rarity and belong to the same archetype, Muelsyse can be deployed for less DP than Vigil.",
+      "sub_items": [
+        "Vigil is an operator whose potentials are obtainable by way of the event instead of the gacha, lowering his basic DP Cost at Elite 2 of 17 by 3, causing it to be 14 (one lower than Muelsyse). However, Muelsyse herself has a second talent that, if she is the first Rhine Lab operator deployed, can potentially lower her own DP Cost at Elite 2, of 15 by 3 (or 4, if her own potentials are fulfilled - which also lowers her DP Cost to 13) as well, causing it to be 12 (or 9), thus lower than Vigil's own DP Cost.",
+        "This also causes an Elite 2 Muelsyse with fulfilled potentials to be the cheapest Tactician Vanguard."
+      ]
+    }
+  ],
+  "url": "https://arknights.fandom.com/wiki/Muelsyse/Trivia"
+}

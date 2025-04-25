@@ -1,0 +1,56 @@
+{
+  "name": "Goldenglow",
+  "trivia_items": [
+    {
+      "text": "Goldenglow is one of the six Operators teased at the end of the CN server's 1st anniversary livestream. The other five are Thorns, Archetto, Mountain, Saga, and Surtr."
+    },
+    {
+      "text": "Of the aforementioned group, Goldenglow is the final Operator to be released and the only one who was not released before the 2nd anniversary of Arknights.",
+      "sub_items": [
+        "The long delay between her reveal and release, especially as more other Operators were added to the game over time while she was put aside, has led to a meme among the Arknights community that Goldenglow was forgotten by Hypergryph. In the CN community, they would even depict her going up to space and being left forgotten.",
+        "The delay can be hypothesized to be the result of the 2020 summer event rerun controversy. It is possible that HG planned to release the above six Operators in event reruns — or at the very least, Goldenglow — which roused anger among players. This forced HG to reschedule their release and design new events around such banners, thus affecting Goldenglow's."
+      ]
+    },
+    {
+      "text": "Goldenglow is based on the Scottish Fold. Two manifestations of said cats are present in her Elite 2 artwork.",
+      "sub_items": [
+        "Her name, Susie, is derived from the first Scottish Fold.",
+        "It is worth noting that Scottish Folds are infamous for possessing genetic disorders that affect their bone development, notably the cause of their \"folded\" ears, and the fact that they are specifically bred for such a trait, which is a practice under ethical fire. This is possibly paralleled by Goldenglow's electric Arts that she has little control over, which leads to her constantly shocking herself. Fittingly, in her Elite 2 artwork, Goldenglow's facial expression implies that she is suffering.",
+        "Warning signs saying \"STOP\" and \"KEEP OUT\" can be seen in Goldenglow's Elite 2 artwork. The CN community believes that this is a hidden message to raise public awareness of the consequences of breeding Scottish Folds.",
+        "Even her codename likely derives from Golden Glow, an Australian veterinary pharmaceutical company that once produced the medicine to ease Scottish Folds' bone diseases, specifically glucosamine sulfate."
+      ]
+    },
+    {
+      "text": "As her callsign was unknown prior to her announcement and she looked like a Perro, Goldenglow was given the nicknames \"Pink Doggo\" or \"Pink Korone\" by the EN community. After Goldenglow is confirmed to be a Feline, some gave her the nickname \"Pink Catto\" instead.",
+      "sub_items": [
+        "On the other hand, the CN community nicknamed her \"Pink Haired (CN: 粉毛)\" instead, which refers to her pink hairstyle, since some also speculated that she might be based on a pig.",
+        "Goldenglow's illustrator, Namie, stated that she was \"delighted\" watching the treatment given by the Arknights to Goldenglow from when she was teased up to when being officially announced, and was amused by the misconception that she was a Perro without knowing that she was actually a Feline.",
+        "Gilang Andrian aka. alchemaniac (who illustrated Skadi (the Corrupting Heart)) is among those who still follow this misconception. The interaction between these two illustrators has become an interested topic in the community. Later, when the Corrupting Heart is revealed to be one of the boss enemies encountered in Mizuki & Caerula Arbor, Gilang blamed Namie for that."
+      ]
+    },
+    {
+      "text": "Due to her global attack range (as far as her skill is concerned), her feline looks, and isolated nature, she is often compared and is said to be a nod to the Cattail plant in Plants vs. Zombies, whose attack has global range as well."
+    },
+    {
+      "text": "Namie considers Goldenglow as her \"daughter\" and Mizuki's \"sister\" (as he is also illustrated by Namie).",
+      "sub_items": [
+        "While Namie calls Goldenglow Mizuki's \"younger sister,\" in reality, she should be the \"older sister\" and Mizuki the \"younger brother\" because the former was teased back in 2020 and she should be released during this period until her ultimate delay caused by the summer controversy."
+      ]
+    },
+    {
+      "text": "Bai Deng/Akari.D, Goldenglow's Chinese CV, pulled her on the Spark Blossom banner with ease. This is in contrast with Namie, who literally \"whaled\" for her."
+    },
+    {
+      "text": "Goldenglow's data had been added to the Global server since the Invitation to Wine update, causing her to be available as a Temporary Recruitment Operator in Integrated Strategies. However, her Archive files and dialogues were not included (and thus she is silent if one do managed to recruit her)."
+    },
+    {
+      "text": "Although Goldenglow's Beacons' Wrath talent denotes that her drones have a 10% chance to explode on attack while active, this is actually an average of the psuedo-random distribution used to determine the exact probability.",
+      "sub_items": [
+        "The default probability for a drone to explode on attack is 1.5%, which increases by an additional 1.5% for every attack that drone performed without exploding, up to 60% after 40 attacks.",
+        "If the drone attacked 40 times and still did not explode, the explosion chance will be raised to 100% (ie. guaranteed) on the 41st attack.",
+        "After a drone explodes, its explosion probability will be reset to the default. The entire mechanic is similar to the Headhunting pity system."
+      ]
+    }
+  ],
+  "url": "https://arknights.fandom.com/wiki/Goldenglow/Trivia"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Swire the Elegant Wit",
+  "trivia_items": [
+    {
+      "text": "Swire the Elegant Wit's skill's names are derived from Chinese idioms and phrases:",
+      "sub_items": [
+        "The second skill 见面礼 (Pinyin: jiànmiànlǐ) means a gift given to someone who you met for the first time.",
+        "The third skill 千金一掷 (Pinyin: qiānjīnyīzhì) is an idiom translated as \"To throw thousand pieces of gold\". It means to spend your fortune lavishly without any concern."
+      ]
+    },
+    {
+      "text": "Until So Long, Adele, Swire the Elegant Wit is the one and only operator who can modify local game files. She changes her SP to Ammo to meet the effect of her Talent 1.",
+      "sub_items": [
+        "This caused a bug in her SP requirement  (e.g., her 2nd skill having SP requirement of 4, even though it is a passive skill) after using her skills in battles. (This issue was possibly considered \"critical\" by the developers and had an emergency repair just on the next day it was spotted.)"
+      ]
+    }
+  ],
+  "url": "https://arknights.fandom.com/wiki/Swire the Elegant Wit/Trivia"
+}
